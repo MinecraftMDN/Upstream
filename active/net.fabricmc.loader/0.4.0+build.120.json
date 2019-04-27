@@ -1,0 +1,90 @@
+{
+  "libraries": [
+    {
+      "id": "net.fabricmc:tiny-mappings-parser:0.1.1.8",
+      "url": "https://maven.fabricmc.net/",
+      "side": "common",
+      "hashes": {}
+    },
+    {
+      "id": "net.fabricmc:sponge-mixin:0.7.11.17",
+      "url": "https://maven.fabricmc.net/",
+      "side": "common",
+      "hashes": {}
+    },
+    {
+      "id": "net.fabricmc:tiny-remapper:0.1.0.29",
+      "url": "https://maven.fabricmc.net/",
+      "side": "common",
+      "hashes": {}
+    },
+    {
+      "id": "net.fabricmc:fabric-loader-sat4j:2.3.5.4",
+      "url": "https://maven.fabricmc.net/",
+      "side": "common",
+      "hashes": {}
+    },
+    {
+      "id": "com.google.jimfs:jimfs:1.1",
+      "url": "https://maven.fabricmc.net/",
+      "side": "common",
+      "hashes": {}
+    },
+    {
+      "id": "org.ow2.asm:asm:7.1",
+      "url": "https://maven.fabricmc.net/",
+      "side": "common",
+      "hashes": {}
+    },
+    {
+      "id": "org.ow2.asm:asm-analysis:7.1",
+      "url": "https://maven.fabricmc.net/",
+      "side": "common",
+      "hashes": {}
+    },
+    {
+      "id": "org.ow2.asm:asm-commons:7.1",
+      "url": "https://maven.fabricmc.net/",
+      "side": "common",
+      "hashes": {}
+    },
+    {
+      "id": "org.ow2.asm:asm-tree:7.1",
+      "url": "https://maven.fabricmc.net/",
+      "side": "common",
+      "hashes": {}
+    },
+    {
+      "id": "org.ow2.asm:asm-util:7.1",
+      "url": "https://maven.fabricmc.net/",
+      "side": "common",
+      "hashes": {}
+    }
+  ],
+  "mainClass": {
+    "client": "net.fabricmc.loader.launch.knot.KnotClient",
+    "server": "net.fabricmc.loader.launch.knot.KnotServer"
+  },
+  "tweakers": {},
+  "specVersion": 0,
+  "id": "0.4.0+build.120",
+  "changelog": "",
+  "side": "universal",
+  "relationships": [
+    {
+      "type": "required",
+      "id": "yarn",
+      "version": "*"
+    }
+  ],
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://maven.fabricmc.net/net/fabricmc/fabric-loader/0.4.0+build.120/fabric-loader-0.4.0+build.120.jar"
+    }
+  ],
+  "hashes": {
+    "sha1": "8e7ac5e4bce0bc2f6f2e7457683c625fb0fa4b64",
+    "md5": "04ecbad83486181782ed0cef4aba054b"
+  }
+}

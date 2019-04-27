@@ -1,0 +1,17 @@
+{
+  "specVersion": 0,
+  "id": "0.1.2.63",
+  "changelog": "",
+  "side": "universal",
+  "relationships": [],
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://maven.fabricmc.net/net/fabricmc/fabric/0.1.2.63/fabric-0.1.2.63.jar"
+    }
+  ],
+  "hashes": {
+    "sha1": "a812e98a1ed89d8c2ab6fa53e54807273a7e4146",
+    "md5": "9f520a5919ed16e1585d89bb402b80c1"
+  }
+}

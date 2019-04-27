@@ -1,0 +1,28 @@
+{
+  "formatVersion": 0,
+  "id": "18w49a.17",
+  "releaseType": "beta",
+  "changelog": "",
+  "side": "universal",
+  "relationships": [
+    {
+      "type": "required",
+      "id": "minecraft",
+      "version": "18w49a"
+    }
+  ],
+  "artifacts": [
+    {
+      "type": "maven",
+      "id": "net.fabricmc:yarn:18w49a.17"
+    },
+    {
+      "type": "direct",
+      "id": "https://maven.fabricmc.net/net/fabricmc/yarn/18w49a.17/yarn-18w49a.17.jar"
+    }
+  ],
+  "hashes": {},
+  "size": 0,
+  "filename": "",
+  "releaseTime": ""
+}

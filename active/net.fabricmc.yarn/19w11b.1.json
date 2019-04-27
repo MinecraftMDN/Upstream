@@ -1,0 +1,28 @@
+{
+  "formatVersion": 0,
+  "id": "19w11b.1",
+  "releaseType": "beta",
+  "changelog": "",
+  "side": "universal",
+  "relationships": [
+    {
+      "type": "required",
+      "id": "minecraft",
+      "version": "19w11b"
+    }
+  ],
+  "artifacts": [
+    {
+      "type": "maven",
+      "id": "net.fabricmc:yarn:19w11b.1"
+    },
+    {
+      "type": "direct",
+      "id": "https://maven.fabricmc.net/net/fabricmc/yarn/19w11b.1/yarn-19w11b.1.jar"
+    }
+  ],
+  "hashes": {},
+  "size": 0,
+  "filename": "",
+  "releaseTime": ""
+}

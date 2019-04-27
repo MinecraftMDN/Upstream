@@ -1,0 +1,25 @@
+{
+  "specVersion": 0,
+  "id": "2.0.0",
+  "changelog": "",
+  "side": "universal",
+  "relationships": [
+    {
+      "type": "required",
+      "id": "appliedenergistics2",
+      "version": "rv6-stable-6"
+    },
+    {
+      "type": "required",
+      "id": "thaumcraft",
+      "version": "6.1.BETA26"
+    }
+  ],
+  "artifacts": [],
+  "hashes": {
+    "sha1": "BC16A8929AEB7A04E89614531A548CCB49CA1028",
+    "sha256": "2914EC6B3392A30AC709F5D60F13C9AC23CECA352DEDE25BEFD5BB7352E6494E",
+    "sha512": "B7B49FD0D5081F79586AF48CA72D89F3D93A00410F8ECE6C4F317AAAC46D4BB87D89B959F200622ABC9FC99956E3B360EE7C1CE50A876074C2FC2081FDD84C68",
+    "md5": "84622cc7b3082fabe8dfc64696bb1bdf"
+  }
+}

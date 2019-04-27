@@ -1,0 +1,28 @@
+{
+  "formatVersion": 0,
+  "id": "19w02a.26",
+  "releaseType": "beta",
+  "changelog": "",
+  "side": "universal",
+  "relationships": [
+    {
+      "type": "required",
+      "id": "minecraft",
+      "version": "19w02a"
+    }
+  ],
+  "artifacts": [
+    {
+      "type": "maven",
+      "id": "net.fabricmc:yarn:19w02a.26"
+    },
+    {
+      "type": "direct",
+      "id": "https://maven.fabricmc.net/net/fabricmc/yarn/19w02a.26/yarn-19w02a.26.jar"
+    }
+  ],
+  "hashes": {},
+  "size": 0,
+  "filename": "",
+  "releaseTime": ""
+}

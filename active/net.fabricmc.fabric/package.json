@@ -1,0 +1,34 @@
+{
+    "formatVersion": 0,
+    "id": "net.fabricmc.fabric",
+    "name": "Fabric API",
+    "description": "Essential hooks and patches for modding with Fabric.",
+    "license": "Apache-2.0",
+    "authors": [
+        "asiekierka",
+        "modmuss50"
+    ],
+    "projectLinks": [
+        {
+            "type": "discord",
+            "url": "https://discord.gg/v6v4pMv"
+        },
+        {
+            "type": "github",
+            "url": "https://github.com/FabricMC/fabric"
+        },
+        {
+            "type": "issues",
+            "url": "https://github.com/FabricMC/fabric/issues"
+        }
+    ],
+    "@detectors": [
+        {
+            "type": "maven",
+            "data": {
+                "url": "https://maven.fabricmc.net/",
+                "id": "net.fabricmc:fabric"
+            }
+        }
+    ]
+}

@@ -1,0 +1,86 @@
+{
+  "libraries": [
+    {
+      "id": "net.minecraft:launchwrapper:1.12",
+      "url": "",
+      "side": "common",
+      "hashes": {}
+    },
+    {
+      "id": "net.fabricmc:sponge-mixin:0.7.11.3",
+      "url": "https://maven.modmuss50.me/",
+      "side": "common",
+      "hashes": {}
+    },
+    {
+      "id": "net.fabricmc:tiny-remapper:0.1.0.20",
+      "url": "https://maven.modmuss50.me/",
+      "side": "common",
+      "hashes": {}
+    },
+    {
+      "id": "org.ow2.asm:asm:7.0",
+      "url": "http://repo.maven.apache.org/maven2/",
+      "side": "common",
+      "hashes": {}
+    },
+    {
+      "id": "org.ow2.asm:asm-commons:7.0",
+      "url": "http://repo.maven.apache.org/maven2/",
+      "side": "common",
+      "hashes": {}
+    },
+    {
+      "id": "org.ow2.asm:asm-tree:7.0",
+      "url": "http://repo.maven.apache.org/maven2/",
+      "side": "common",
+      "hashes": {}
+    },
+    {
+      "id": "org.ow2.asm:asm-util:7.0",
+      "url": "http://repo.maven.apache.org/maven2/",
+      "side": "common",
+      "hashes": {}
+    },
+    {
+      "id": "com.github.zafarkhaja:java-semver:0.9.0",
+      "url": "http://repo.maven.apache.org/maven2/",
+      "side": "common",
+      "hashes": {}
+    }
+  ],
+  "mainClass": {
+    "server": "net.minecraft.launchwrapper.Launch",
+    "client": "net.minecraft.launchwrapper.Launch"
+  },
+  "tweakers": {
+    "client": [
+      "net.fabricmc.loader.launch.FabricClientTweaker"
+    ],
+    "common": [],
+    "server": [
+      "net.fabricmc.loader.launch.FabricServerTweaker"
+    ]
+  },
+  "specVersion": 0,
+  "id": "0.1.0.52",
+  "changelog": "",
+  "side": "universal",
+  "relationships": [
+    {
+      "type": "required",
+      "id": "yarn",
+      "version": "*"
+    }
+  ],
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://maven.fabricmc.net/net/fabricmc/fabric-loader/0.1.0.52/fabric-loader-0.1.0.52.jar"
+    }
+  ],
+  "hashes": {
+    "sha1": "59b651e08a7e8870c50f1e25e193b3efd1572c95",
+    "md5": "527214cc0351ddaa6bfe8bbff5f22d75"
+  }
+}

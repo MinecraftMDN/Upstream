@@ -1,0 +1,28 @@
+{
+  "formatVersion": 0,
+  "id": "1.14 Pre-Release 1+build.8",
+  "releaseType": "beta",
+  "changelog": "",
+  "side": "universal",
+  "relationships": [
+    {
+      "type": "required",
+      "id": "minecraft",
+      "version": "1.14 Pre-Release 1"
+    }
+  ],
+  "artifacts": [
+    {
+      "type": "maven",
+      "id": "net.fabricmc:yarn:1.14 Pre-Release 1+build.8"
+    },
+    {
+      "type": "direct",
+      "id": "https://maven.fabricmc.net/net/fabricmc/yarn/1.14 Pre-Release 1+build.8/yarn-1.14 Pre-Release 1+build.8.jar"
+    }
+  ],
+  "hashes": {},
+  "size": 0,
+  "filename": "",
+  "releaseTime": ""
+}
