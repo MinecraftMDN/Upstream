@@ -1,0 +1,21 @@
+{
+  "formatVersion": 0,
+  "id": "0.2.7+build.122",
+  "releaseType": "release",
+  "changelog": "",
+  "side": "universal",
+  "relationships": [],
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://maven.fabricmc.net/net/fabricmc/fabric/0.2.7+build.122/fabric-0.2.7+build.122.jar"
+    }
+  ],
+  "hashes": {
+    "sha1": "aa87f62220585d904aa781408bdd9d2208e9884b",
+    "md5": "394826a23ba9513b74c348457016a988"
+  },
+  "size": 251577,
+  "filename": "",
+  "releaseTime": "2019-04-10T16:59:12Z"
+}

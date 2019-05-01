@@ -1,0 +1,21 @@
+{
+  "formatVersion": 0,
+  "id": "0.2.7+build.123",
+  "releaseType": "release",
+  "changelog": "",
+  "side": "universal",
+  "relationships": [],
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://maven.fabricmc.net/net/fabricmc/fabric/0.2.7+build.123/fabric-0.2.7+build.123.jar"
+    }
+  ],
+  "hashes": {
+    "sha1": "903a3e9c9d72cab3fe50933acffd3a4d9af51a3a",
+    "md5": "27a5f0e7b3eb5003cf8d289f12f06fe1"
+  },
+  "size": 251709,
+  "filename": "",
+  "releaseTime": "2019-04-16T16:11:38Z"
+}

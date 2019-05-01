@@ -1,63 +1,7 @@
 {
-  "libraries": [
-    {
-      "id": "net.minecraft:launchwrapper:1.12",
-      "url": "",
-      "side": "common",
-      "hashes": {}
-    },
-    {
-      "id": "net.fabricmc:sponge-mixin:0.7.11.3",
-      "url": "https://maven.modmuss50.me/",
-      "side": "common",
-      "hashes": {}
-    },
-    {
-      "id": "net.fabricmc:tiny-remapper:0.1.0.20",
-      "url": "https://maven.modmuss50.me/",
-      "side": "common",
-      "hashes": {}
-    },
-    {
-      "id": "org.ow2.asm:asm:7.0",
-      "url": "http://repo.maven.apache.org/maven2/",
-      "side": "common",
-      "hashes": {}
-    },
-    {
-      "id": "org.ow2.asm:asm-commons:7.0",
-      "url": "http://repo.maven.apache.org/maven2/",
-      "side": "common",
-      "hashes": {}
-    },
-    {
-      "id": "org.ow2.asm:asm-tree:7.0",
-      "url": "http://repo.maven.apache.org/maven2/",
-      "side": "common",
-      "hashes": {}
-    },
-    {
-      "id": "org.ow2.asm:asm-util:7.0",
-      "url": "http://repo.maven.apache.org/maven2/",
-      "side": "common",
-      "hashes": {}
-    }
-  ],
-  "mainClass": {
-    "server": "net.minecraft.launchwrapper.Launch",
-    "client": "net.minecraft.launchwrapper.Launch"
-  },
-  "tweakers": {
-    "client": [
-      "net.fabricmc.loader.launch.FabricClientTweaker"
-    ],
-    "common": [],
-    "server": [
-      "net.fabricmc.loader.launch.FabricServerTweaker"
-    ]
-  },
-  "specVersion": 0,
+  "formatVersion": 0,
   "id": "0.2.0.64",
+  "releaseType": "beta",
   "changelog": "",
   "side": "universal",
   "relationships": [
@@ -69,6 +13,10 @@
   ],
   "artifacts": [
     {
+      "type": "maven",
+      "id": "net.fabricmc:fabric-loader:0.2.0.64"
+    },
+    {
       "type": "direct",
       "id": "https://maven.fabricmc.net/net/fabricmc/fabric-loader/0.2.0.64/fabric-loader-0.2.0.64.jar"
     }
@@ -76,5 +24,8 @@
   "hashes": {
     "sha1": "e2ed3cc5405d2040daf4108e1007d9f21a429d4e",
     "md5": "eab1c3b559582d6050bbf1faeecf3967"
-  }
+  },
+  "size": 70127,
+  "filename": "",
+  "releaseTime": "2018-12-12T08:46:48Z"
 }

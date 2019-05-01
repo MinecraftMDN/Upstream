@@ -1,55 +1,7 @@
 {
-  "libraries": [
-    {
-      "id": "net.fabricmc:sponge-mixin:0.7.11.13",
-      "url": "https://maven.fabricmc.net/",
-      "side": "common",
-      "hashes": {}
-    },
-    {
-      "id": "net.fabricmc:tiny-remapper:0.1.0.22",
-      "url": "https://maven.fabricmc.net/",
-      "side": "common",
-      "hashes": {}
-    },
-    {
-      "id": "org.ow2.asm:asm:7.0",
-      "url": "https://maven.fabricmc.net/",
-      "side": "common",
-      "hashes": {}
-    },
-    {
-      "id": "org.ow2.asm:asm-analysis:7.0",
-      "url": "https://maven.fabricmc.net/",
-      "side": "common",
-      "hashes": {}
-    },
-    {
-      "id": "org.ow2.asm:asm-commons:7.0",
-      "url": "https://maven.fabricmc.net/",
-      "side": "common",
-      "hashes": {}
-    },
-    {
-      "id": "org.ow2.asm:asm-tree:7.0",
-      "url": "https://maven.fabricmc.net/",
-      "side": "common",
-      "hashes": {}
-    },
-    {
-      "id": "org.ow2.asm:asm-util:7.0",
-      "url": "https://maven.fabricmc.net/",
-      "side": "common",
-      "hashes": {}
-    }
-  ],
-  "mainClass": {
-    "client": "net.fabricmc.loader.launch.knot.KnotClient",
-    "server": "net.fabricmc.loader.launch.knot.KnotServer"
-  },
-  "tweakers": {},
-  "specVersion": 0,
+  "formatVersion": 0,
   "id": "0.3.1.80",
+  "releaseType": "beta",
   "changelog": "",
   "side": "universal",
   "relationships": [
@@ -61,6 +13,10 @@
   ],
   "artifacts": [
     {
+      "type": "maven",
+      "id": "net.fabricmc:fabric-loader:0.3.1.80"
+    },
+    {
       "type": "direct",
       "id": "https://maven.fabricmc.net/net/fabricmc/fabric-loader/0.3.1.80/fabric-loader-0.3.1.80.jar"
     }
@@ -68,5 +24,8 @@
   "hashes": {
     "sha1": "0aeafe76e39339b8dd38495c9f15b3dfa16db39b",
     "md5": "977547fae026ed6bce6f1dd850a9d8a0"
-  }
+  },
+  "size": 112369,
+  "filename": "",
+  "releaseTime": "2018-12-28T19:48:30Z"
 }

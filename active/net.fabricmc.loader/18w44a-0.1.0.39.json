@@ -62,8 +62,9 @@
       "net.fabricmc.loader.launch.FabricServerTweaker"
     ]
   },
-  "specVersion": 0,
+  "formatVersion": 0,
   "id": "18w44a-0.1.0.39",
+  "releaseType": "release",
   "changelog": "",
   "side": "universal",
   "relationships": [
@@ -82,5 +83,8 @@
   "hashes": {
     "sha1": "b1074374c8b60af358701765f39197bba023e262",
     "md5": "0dd090b65f6d3c17854f25833bbc9987"
-  }
+  },
+  "size": 0,
+  "filename": "",
+  "releaseTime": ""
 }

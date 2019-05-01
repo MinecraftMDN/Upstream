@@ -1,61 +1,7 @@
 {
-  "libraries": [
-    {
-      "id": "net.fabricmc:sponge-mixin:0.7.11.16",
-      "url": "https://maven.fabricmc.net/",
-      "side": "common",
-      "hashes": {}
-    },
-    {
-      "id": "net.fabricmc:tiny-mappings-parser:0.1.0.6",
-      "url": "https://maven.fabricmc.net/",
-      "side": "common",
-      "hashes": {}
-    },
-    {
-      "id": "net.fabricmc:tiny-remapper:0.1.0.23",
-      "url": "https://maven.fabricmc.net/",
-      "side": "common",
-      "hashes": {}
-    },
-    {
-      "id": "org.ow2.asm:asm:7.0",
-      "url": "https://maven.fabricmc.net/",
-      "side": "common",
-      "hashes": {}
-    },
-    {
-      "id": "org.ow2.asm:asm-analysis:7.0",
-      "url": "https://maven.fabricmc.net/",
-      "side": "common",
-      "hashes": {}
-    },
-    {
-      "id": "org.ow2.asm:asm-commons:7.0",
-      "url": "https://maven.fabricmc.net/",
-      "side": "common",
-      "hashes": {}
-    },
-    {
-      "id": "org.ow2.asm:asm-tree:7.0",
-      "url": "https://maven.fabricmc.net/",
-      "side": "common",
-      "hashes": {}
-    },
-    {
-      "id": "org.ow2.asm:asm-util:7.0",
-      "url": "https://maven.fabricmc.net/",
-      "side": "common",
-      "hashes": {}
-    }
-  ],
-  "mainClass": {
-    "client": "net.fabricmc.loader.launch.knot.KnotClient",
-    "server": "net.fabricmc.loader.launch.knot.KnotServer"
-  },
-  "tweakers": {},
-  "specVersion": 0,
+  "formatVersion": 0,
   "id": "0.3.7.108",
+  "releaseType": "beta",
   "changelog": "",
   "side": "universal",
   "relationships": [
@@ -67,6 +13,10 @@
   ],
   "artifacts": [
     {
+      "type": "maven",
+      "id": "net.fabricmc:fabric-loader:0.3.7.108"
+    },
+    {
       "type": "direct",
       "id": "https://maven.fabricmc.net/net/fabricmc/fabric-loader/0.3.7.108/fabric-loader-0.3.7.108.jar"
     }
@@ -74,5 +24,8 @@
   "hashes": {
     "sha1": "017c5175e471ba609d1480a32d51606b088c0674",
     "md5": "ee414b6d917095114c1a7a98e120ab1f"
-  }
+  },
+  "size": 120948,
+  "filename": "",
+  "releaseTime": "2019-02-20T22:16:24Z"
 }

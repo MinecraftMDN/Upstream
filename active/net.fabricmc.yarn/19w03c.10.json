@@ -21,8 +21,11 @@
       "id": "https://maven.fabricmc.net/net/fabricmc/yarn/19w03c.10/yarn-19w03c.10.jar"
     }
   ],
-  "hashes": {},
-  "size": 0,
+  "hashes": {
+    "sha1": "5ffedb5677667c947a74f50363e1614da47ef940",
+    "md5": "1168d1819b0646a59a0cbe9823129bef"
+  },
+  "size": 436279,
   "filename": "",
-  "releaseTime": ""
+  "releaseTime": "2019-01-24T16:09:05Z"
 }

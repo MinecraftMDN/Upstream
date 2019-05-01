@@ -1,0 +1,31 @@
+{
+  "formatVersion": 0,
+  "id": "0.4.2+build.131",
+  "releaseType": "beta",
+  "changelog": "",
+  "side": "universal",
+  "relationships": [
+    {
+      "type": "required",
+      "id": "yarn",
+      "version": "*"
+    }
+  ],
+  "artifacts": [
+    {
+      "type": "maven",
+      "id": "net.fabricmc:fabric-loader:0.4.2+build.131"
+    },
+    {
+      "type": "direct",
+      "id": "https://maven.fabricmc.net/net/fabricmc/fabric-loader/0.4.2+build.131/fabric-loader-0.4.2+build.131.jar"
+    }
+  ],
+  "hashes": {
+    "sha1": "e91ec212921b61675861ad5a3bd31997e935fa8d",
+    "md5": "6bd4cf670b85e70886ef57242d4e049b"
+  },
+  "size": 212602,
+  "filename": "",
+  "releaseTime": "2019-04-21T11:38:43Z"
+}

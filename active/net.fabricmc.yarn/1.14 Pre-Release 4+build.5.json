@@ -21,8 +21,11 @@
       "id": "https://maven.fabricmc.net/net/fabricmc/yarn/1.14 Pre-Release 4+build.5/yarn-1.14 Pre-Release 4+build.5.jar"
     }
   ],
-  "hashes": {},
-  "size": 0,
+  "hashes": {
+    "sha1": "5184d9349145ff8b968f9a51ecd93edddae0f0cd",
+    "md5": "a42e72f13827b6fae32447c9bb603509"
+  },
+  "size": 499846,
   "filename": "",
-  "releaseTime": ""
+  "releaseTime": "2019-04-18T20:52:04Z"
 }

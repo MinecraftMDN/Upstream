@@ -26,6 +26,14 @@
     "@detectors": [
         {
             "type": "fabricmeta"
+        },
+        {
+            "type": "maven",
+            "data": {
+                "url": "https://maven.fabricmc.net/",
+                "id": "net.fabricmc:fabric-loader",
+                "ignoredData": "releaseType,changelog,side,relationships,filename"
+            }
         }
     ]
 }

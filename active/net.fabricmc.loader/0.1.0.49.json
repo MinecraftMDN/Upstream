@@ -1,69 +1,7 @@
 {
-  "libraries": [
-    {
-      "id": "net.minecraft:launchwrapper:1.12",
-      "url": "",
-      "side": "common",
-      "hashes": {}
-    },
-    {
-      "id": "net.fabricmc:sponge-mixin:0.7.11.3",
-      "url": "https://maven.modmuss50.me/",
-      "side": "common",
-      "hashes": {}
-    },
-    {
-      "id": "net.fabricmc:tiny-remapper:0.1.0.16",
-      "url": "https://maven.modmuss50.me/",
-      "side": "common",
-      "hashes": {}
-    },
-    {
-      "id": "org.ow2.asm:asm:7.0",
-      "url": "http://repo.maven.apache.org/maven2/",
-      "side": "common",
-      "hashes": {}
-    },
-    {
-      "id": "org.ow2.asm:asm-commons:7.0",
-      "url": "http://repo.maven.apache.org/maven2/",
-      "side": "common",
-      "hashes": {}
-    },
-    {
-      "id": "org.ow2.asm:asm-tree:7.0",
-      "url": "http://repo.maven.apache.org/maven2/",
-      "side": "common",
-      "hashes": {}
-    },
-    {
-      "id": "org.ow2.asm:asm-util:7.0",
-      "url": "http://repo.maven.apache.org/maven2/",
-      "side": "common",
-      "hashes": {}
-    },
-    {
-      "id": "com.github.zafarkhaja:java-semver:0.9.0",
-      "url": "http://repo.maven.apache.org/maven2/",
-      "side": "common",
-      "hashes": {}
-    }
-  ],
-  "mainClass": {
-    "server": "net.minecraft.launchwrapper.Launch",
-    "client": "net.minecraft.launchwrapper.Launch"
-  },
-  "tweakers": {
-    "client": [
-      "net.fabricmc.loader.launch.FabricClientTweaker"
-    ],
-    "common": [],
-    "server": [
-      "net.fabricmc.loader.launch.FabricServerTweaker"
-    ]
-  },
-  "specVersion": 0,
+  "formatVersion": 0,
   "id": "0.1.0.49",
+  "releaseType": "beta",
   "changelog": "",
   "side": "universal",
   "relationships": [
@@ -75,6 +13,10 @@
   ],
   "artifacts": [
     {
+      "type": "maven",
+      "id": "net.fabricmc:fabric-loader:0.1.0.49"
+    },
+    {
       "type": "direct",
       "id": "https://maven.fabricmc.net/net/fabricmc/fabric-loader/0.1.0.49/fabric-loader-0.1.0.49.jar"
     }
@@ -82,5 +24,8 @@
   "hashes": {
     "sha1": "eb366926c55655a1664293e36691575decf3fe76",
     "md5": "eeb2636246fda901053eea7855b4221f"
-  }
+  },
+  "size": 55230,
+  "filename": "",
+  "releaseTime": "2018-11-30T21:31:42Z"
 }

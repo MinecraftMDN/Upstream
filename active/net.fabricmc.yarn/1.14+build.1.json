@@ -21,8 +21,11 @@
       "id": "https://maven.fabricmc.net/net/fabricmc/yarn/1.14+build.1/yarn-1.14+build.1.jar"
     }
   ],
-  "hashes": {},
-  "size": 0,
+  "hashes": {
+    "sha1": "9dfeb58b998dd608d2f3aa8aa8333ef893cb2ea7",
+    "md5": "92fa644d3209e294e94eb8a645ad1574"
+  },
+  "size": 500888,
   "filename": "",
-  "releaseTime": ""
+  "releaseTime": "2019-04-23T15:35:14Z"
 }

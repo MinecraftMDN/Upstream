@@ -21,8 +21,11 @@
       "id": "https://maven.fabricmc.net/net/fabricmc/yarn/18w50a.2/yarn-18w50a.2.jar"
     }
   ],
-  "hashes": {},
-  "size": 0,
+  "hashes": {
+    "sha1": "9746e7a2abf9f3f57d39c0cd9108467bc48abf86",
+    "md5": "909d288d556a777a1c843bdc8d35562d"
+  },
+  "size": 419183,
   "filename": "",
-  "releaseTime": ""
+  "releaseTime": "2018-12-12T17:23:26Z"
 }

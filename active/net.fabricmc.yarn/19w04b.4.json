@@ -21,8 +21,11 @@
       "id": "https://maven.fabricmc.net/net/fabricmc/yarn/19w04b.4/yarn-19w04b.4.jar"
     }
   ],
-  "hashes": {},
-  "size": 0,
+  "hashes": {
+    "sha1": "e067d8db8ffa36d795c52b5ba4bc57bf54ee7850",
+    "md5": "601b7b60cf95dfe2ac249ba8ff9c2a7d"
+  },
+  "size": 439814,
   "filename": "",
-  "releaseTime": ""
+  "releaseTime": "2019-01-30T10:54:39Z"
 }

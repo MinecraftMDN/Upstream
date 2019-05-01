@@ -21,8 +21,11 @@
       "id": "https://maven.fabricmc.net/net/fabricmc/yarn/3D Shareware v1.34.2/yarn-3D Shareware v1.34.2.jar"
     }
   ],
-  "hashes": {},
-  "size": 0,
+  "hashes": {
+    "sha1": "411630c54cbec359476b602b429b199e97b9b081",
+    "md5": "55731b99b3d88d96f42db7fd893f8253"
+  },
+  "size": 493070,
   "filename": "",
-  "releaseTime": ""
+  "releaseTime": "2019-04-01T14:24:48Z"
 }

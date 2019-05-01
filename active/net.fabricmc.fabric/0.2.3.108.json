@@ -1,6 +1,7 @@
 {
-  "specVersion": 0,
+  "formatVersion": 0,
   "id": "0.2.3.108",
+  "releaseType": "release",
   "changelog": "",
   "side": "universal",
   "relationships": [],
@@ -13,5 +14,8 @@
   "hashes": {
     "sha1": "0c7f3c30c9c59a404979cdbb1fd2189f9d5351cb",
     "md5": "e6e205398dc29e203b07c0ffcda614d4"
-  }
+  },
+  "size": 251200,
+  "filename": "",
+  "releaseTime": "2019-03-01T17:51:10Z"
 }

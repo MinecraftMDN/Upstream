@@ -21,8 +21,11 @@
       "id": "https://maven.fabricmc.net/net/fabricmc/yarn/19w05a.3/yarn-19w05a.3.jar"
     }
   ],
-  "hashes": {},
-  "size": 0,
+  "hashes": {
+    "sha1": "3d95848f177ba98c4ebb90e931de4ef994eed44e",
+    "md5": "e353cdf513dab61a721f711902af38c8"
+  },
+  "size": 441265,
   "filename": "",
-  "releaseTime": ""
+  "releaseTime": "2019-01-30T17:50:46Z"
 }

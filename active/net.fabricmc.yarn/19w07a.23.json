@@ -21,8 +21,11 @@
       "id": "https://maven.fabricmc.net/net/fabricmc/yarn/19w07a.23/yarn-19w07a.23.jar"
     }
   ],
-  "hashes": {},
-  "size": 0,
+  "hashes": {
+    "sha1": "e93f7a6901f90fa690c50a6affb8abcec1941e84",
+    "md5": "204cbdd31904a5cf50e0bf54e5970272"
+  },
+  "size": 449784,
   "filename": "",
-  "releaseTime": ""
+  "releaseTime": "2019-02-20T15:35:31Z"
 }

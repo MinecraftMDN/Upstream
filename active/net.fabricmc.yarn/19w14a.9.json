@@ -21,8 +21,11 @@
       "id": "https://maven.fabricmc.net/net/fabricmc/yarn/19w14a.9/yarn-19w14a.9.jar"
     }
   ],
-  "hashes": {},
-  "size": 0,
+  "hashes": {
+    "sha1": "33c35af9a96b3ce8f7a122f558d19f0bec43fa8f",
+    "md5": "586b29c74d6ee33d2bf4e51c752017ec"
+  },
+  "size": 493798,
   "filename": "",
-  "releaseTime": ""
+  "releaseTime": "2019-04-05T16:00:35Z"
 }
