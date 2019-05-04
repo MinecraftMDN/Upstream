@@ -1,0 +1,28 @@
+{
+  "formatVersion": 0,
+  "id": "rv1-beta-24",
+  "releaseType": "release",
+  "changelog": "",
+  "side": "universal",
+  "relationships": [
+    {
+      "type": "required",
+      "id": "minecraft",
+      "version": "1.7.10"
+    }
+  ],
+  "artifacts": [
+    {
+      "type": "curseforge",
+      "id": "2213858"
+    },
+    {
+      "type": "direct",
+      "id": "https://files.forgecdn.net/files/2213/858/appliedenergistics2-rv1-beta-24.jar"
+    }
+  ],
+  "hashes": {},
+  "size": 0,
+  "filename": "",
+  "releaseTime": ""
+}

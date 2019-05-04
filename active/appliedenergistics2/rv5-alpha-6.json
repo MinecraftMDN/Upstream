@@ -1,0 +1,31 @@
+{
+  "formatVersion": 0,
+  "id": "rv5-alpha-6",
+  "releaseType": "release",
+  "changelog": "",
+  "side": "universal",
+  "relationships": [
+    {
+      "type": "required",
+      "id": "minecraft",
+      "version": [
+        "1.12",
+        "1.12.1"
+      ]
+    }
+  ],
+  "artifacts": [
+    {
+      "type": "curseforge",
+      "id": "2486364"
+    },
+    {
+      "type": "direct",
+      "id": "https://files.forgecdn.net/files/2486/364/appliedenergistics2-rv5-alpha-6.jar"
+    }
+  ],
+  "hashes": {},
+  "size": 0,
+  "filename": "",
+  "releaseTime": ""
+}

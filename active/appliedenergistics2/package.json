@@ -1,0 +1,46 @@
+{
+    "formatVersion": 0,
+    "id": "appliedenergistics2",
+    "name": "Applied Energistics 2",
+    "description": "A Mod about Matter, Energy and using them to conquer the world..",
+    "license": [
+        "MIT",
+        "LGPL-3.0-or-later",
+        "CC-BY-NC-SA-3.0",
+        "CC0-1.0"
+    ],
+    "authors": [
+        "AlgorithmX2"
+    ],
+    "projectLinks": [
+        {
+            "type": "discord",
+            "url": "https://discord.gg/GygKjjm"
+        },
+        {
+            "type": "curseforge",
+            "url": "https://minecraft.curseforge.com/projects/applied-energistics-2"
+        },
+        {
+            "type": "github",
+            "url": "https://github.com/AppliedEnergistics/Applied-Energistics-2"
+        },
+        {
+            "type": "issues",
+            "url": "https://github.com/AppliedEnergistics/Applied-Energistics-2/issues"
+        },
+        {
+            "type": "website",
+            "url": "http://ae2.ae-mod.info"
+        }
+    ],
+    "@detectors": [
+        {
+            "type": "curseforge",
+            "data": {
+                "id": "223794",
+                "regex": "(?:rv\\d+)-(?:stable|beta|alpha)-\\d+"
+            }
+        }
+    ]
+}

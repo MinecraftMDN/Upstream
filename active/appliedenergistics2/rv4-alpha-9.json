@@ -1,0 +1,28 @@
+{
+  "formatVersion": 0,
+  "id": "rv4-alpha-9",
+  "releaseType": "release",
+  "changelog": "",
+  "side": "universal",
+  "relationships": [
+    {
+      "type": "required",
+      "id": "minecraft",
+      "version": "1.10.2"
+    }
+  ],
+  "artifacts": [
+    {
+      "type": "curseforge",
+      "id": "2356184"
+    },
+    {
+      "type": "direct",
+      "id": "https://files.forgecdn.net/files/2356/184/appliedenergistics2-rv4-alpha-9.jar"
+    }
+  ],
+  "hashes": {},
+  "size": 0,
+  "filename": "",
+  "releaseTime": ""
+}

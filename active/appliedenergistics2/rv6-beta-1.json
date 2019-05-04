@@ -1,0 +1,28 @@
+{
+  "formatVersion": 0,
+  "id": "rv6-beta-1",
+  "releaseType": "release",
+  "changelog": "",
+  "side": "universal",
+  "relationships": [
+    {
+      "type": "required",
+      "id": "minecraft",
+      "version": "1.12.2"
+    }
+  ],
+  "artifacts": [
+    {
+      "type": "curseforge",
+      "id": "2619850"
+    },
+    {
+      "type": "direct",
+      "id": "https://files.forgecdn.net/files/2619/850/appliedenergistics2-rv6-beta-1.jar"
+    }
+  ],
+  "hashes": {},
+  "size": 0,
+  "filename": "",
+  "releaseTime": ""
+}

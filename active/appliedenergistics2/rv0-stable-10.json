@@ -1,0 +1,28 @@
+{
+  "formatVersion": 0,
+  "id": "rv0-stable-10",
+  "releaseType": "release",
+  "changelog": "",
+  "side": "universal",
+  "relationships": [
+    {
+      "type": "required",
+      "id": "minecraft",
+      "version": "1.7.10"
+    }
+  ],
+  "artifacts": [
+    {
+      "type": "curseforge",
+      "id": "2212867"
+    },
+    {
+      "type": "direct",
+      "id": "https://files.forgecdn.net/files/2212/867/appliedenergistics2-rv0-stable-10.jar"
+    }
+  ],
+  "hashes": {},
+  "size": 0,
+  "filename": "",
+  "releaseTime": ""
+}

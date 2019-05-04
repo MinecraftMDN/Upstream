@@ -1,0 +1,28 @@
+{
+  "formatVersion": 0,
+  "id": "rv2-alpha-13",
+  "releaseType": "release",
+  "changelog": "",
+  "side": "universal",
+  "relationships": [
+    {
+      "type": "required",
+      "id": "minecraft",
+      "version": "1.7.10"
+    }
+  ],
+  "artifacts": [
+    {
+      "type": "curseforge",
+      "id": "2216837"
+    },
+    {
+      "type": "direct",
+      "id": "https://files.forgecdn.net/files/2216/837/appliedenergistics2-rv2-alpha-13.jar"
+    }
+  ],
+  "hashes": {},
+  "size": 0,
+  "filename": "",
+  "releaseTime": ""
+}
