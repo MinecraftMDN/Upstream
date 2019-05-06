@@ -1,0 +1,20 @@
+{
+  "formatVersion": 0,
+  "id": "1.12.2-1.0.0",
+  "releaseType": "",
+  "changelog": "",
+  "side": "universal",
+  "relationships": [],
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://files.forgecdn.net/files/2563/73/tombmanygraves2api-1.12.2-1.0.0.jar"
+    }
+  ],
+  "hashes": {
+    "sha256": "939dac94a134d69b1f12122311dfa0c045721a3d325674b53e6e84e5c7c0e457"
+  },
+  "size": 0,
+  "filename": "",
+  "releaseTime": ""
+}

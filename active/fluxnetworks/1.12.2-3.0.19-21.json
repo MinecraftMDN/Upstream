@@ -1,0 +1,20 @@
+{
+  "formatVersion": 0,
+  "id": "1.12.2-3.0.19-21",
+  "releaseType": "",
+  "changelog": "",
+  "side": "universal",
+  "relationships": [],
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://files.forgecdn.net/files/2645/165/fluxnetworks-1.12.2-3.0.19-21.jar"
+    }
+  ],
+  "hashes": {
+    "sha256": "31a474a81bda495871265e82505a5e867ca3593ed14c6c98576e6d7893724bc3"
+  },
+  "size": 0,
+  "filename": "",
+  "releaseTime": ""
+}

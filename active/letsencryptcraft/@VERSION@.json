@@ -1,0 +1,19 @@
+{
+  "formatVersion": 0,
+  "id": "@VERSION@",
+  "releaseType": "",
+  "changelog": "",
+  "relationships": [],
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://files.forgecdn.net/files/2668/704/letsencryptcraft-1.10.2-1.2.0.jar"
+    }
+  ],
+  "hashes": {
+    "sha256": "f214af0ce75145279e7d935d294cff7bc61b265b17cddeb4ceae38d043690a2c"
+  },
+  "size": 0,
+  "filename": "",
+  "releaseTime": ""
+}

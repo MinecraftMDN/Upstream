@@ -1,0 +1,13 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "lteleporters",
+  "name": "Simple Teleporters",
+  "description": "A simple mod for teleportation!",
+  "icon": "https://media.forgecdn.net/avatars/149/47/636586720124364136.png",
+  "licenses": [],
+  "authors": [
+    "Lemonszz"
+  ],
+  "projectLinks": []
+}

@@ -1,0 +1,13 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "artisanworktables",
+  "name": "Artisan Worktables",
+  "description": "Crafting tables with a tool slot.",
+  "icon": "https://media.forgecdn.net/avatars/135/621/636501635168660414.png",
+  "licenses": [],
+  "authors": [
+    "codetaylor"
+  ],
+  "projectLinks": []
+}

@@ -1,0 +1,13 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "resourceloader",
+  "name": "Resource Loader",
+  "description": "Allows mod pack creators / users to add their own custom textures to minecrafts resources without making a resource pack.",
+  "icon": "https://media.forgecdn.net/avatars/13/53/635550355486266410.png",
+  "licenses": [],
+  "authors": [
+    "lumien"
+  ],
+  "projectLinks": []
+}

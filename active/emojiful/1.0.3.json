@@ -1,0 +1,20 @@
+{
+  "formatVersion": 0,
+  "id": "1.0.3",
+  "releaseType": "",
+  "changelog": "",
+  "side": "client",
+  "relationships": [],
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://files.forgecdn.net/files/2621/211/emojiful-1.0.3.jar"
+    }
+  ],
+  "hashes": {
+    "sha256": "f8233a57d6c096512a125edbc112e5ef80cc20d4ef2ff6650b7e73bb796d594e"
+  },
+  "size": 0,
+  "filename": "",
+  "releaseTime": ""
+}

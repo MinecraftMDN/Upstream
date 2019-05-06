@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "dimensionalcontrol",
+  "name": "Dimensional Control",
+  "description": "A mod for dimension configuration",
+  "icon": "https://media.forgecdn.net/avatars/16/509/635646366555739137.png",
+  "licenses": [],
+  "authors": [
+    "Blargerist"
+  ],
+  "projectLinks": [
+    {
+      "type": "website",
+      "url": "http://bloodnbonesgaming.com/"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "enderiobase",
+  "name": "Ender IO Base",
+  "description": "Basic materials and items for all EnderIO modules.",
+  "icon": "https://media.forgecdn.net/avatars/159/664/636660483148256956.png",
+  "licenses": [],
+  "authors": [
+    "CrazyPants",
+    "tterrag",
+    "HenryLoenwind",
+    "MatthiasM",
+    "CyanideX",
+    "EpicSquid"
+  ],
+  "projectLinks": [
+    {
+      "type": "website",
+      "url": "http://enderio.com"
+    }
+  ]
+}

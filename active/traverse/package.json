@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "traverse",
+  "name": "Traverse",
+  "description": "Improving the world with fancy new biomes since 2017.",
+  "icon": "https://media.forgecdn.net/avatars/169/442/636715177878550529.png",
+  "licenses": [],
+  "authors": [
+    "Prospector"
+  ],
+  "projectLinks": [
+    {
+      "type": "source",
+      "url": "https://github.com/TraverseTeam/Traverse"
+    }
+  ]
+}

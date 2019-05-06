@@ -1,0 +1,20 @@
+{
+  "formatVersion": 0,
+  "id": "1.0.3.12",
+  "releaseType": "",
+  "changelog": "",
+  "side": "universal",
+  "relationships": [],
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://files.forgecdn.net/files/2699/980/ItemFilters-1.0.3.12.jar"
+    }
+  ],
+  "hashes": {
+    "sha256": "c0a32e575ee7bcaebd2c485afd9109859de4b80fdc94d7991ca6718390bd56ac"
+  },
+  "size": 0,
+  "filename": "",
+  "releaseTime": ""
+}

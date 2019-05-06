@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "terracore",
+  "name": "TerraCore",
+  "description": "Library for Terrails\u0027 mods",
+  "icon": "https://media.forgecdn.net/avatars/136/225/636505996811663588.png",
+  "licenses": [],
+  "authors": [
+    "Terrails"
+  ],
+  "projectLinks": [
+    {
+      "type": "curseforge",
+      "url": "https://minecraft.curseforge.com/projects/terracore"
+    }
+  ]
+}

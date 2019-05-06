@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "whoops",
+  "name": "Whoops",
+  "description": "Whoops-a-Daisy! Don\u0027t misclick that Pure Daisy.",
+  "icon": "https://media.forgecdn.net/avatars/190/536/636856361831156241.png",
+  "licenses": [],
+  "authors": [
+    "Noobanidus"
+  ],
+  "projectLinks": [
+    {
+      "type": "source",
+      "url": "http://github.com/noobanidus/whoops"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "enderiopowertools",
+  "name": "Ender IO Powertools",
+  "description": "Capacitor Bank and Power Monitor.",
+  "icon": "https://media.forgecdn.net/avatars/159/669/636660503314436396.png",
+  "licenses": [],
+  "authors": [
+    "CrazyPants",
+    "tterrag",
+    "HenryLoenwind",
+    "MatthiasM",
+    "CyanideX",
+    "EpicSquid"
+  ],
+  "projectLinks": [
+    {
+      "type": "website",
+      "url": "http://enderio.com"
+    }
+  ]
+}

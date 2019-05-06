@@ -1,0 +1,20 @@
+{
+  "formatVersion": 0,
+  "id": "1.12-1.5.2",
+  "releaseType": "",
+  "changelog": "",
+  "side": "universal",
+  "relationships": [],
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://files.forgecdn.net/files/2518/667/Baubles-1.12-1.5.2.jar"
+    }
+  ],
+  "hashes": {
+    "sha256": "b32010b2f2778aa1188585e7ead91ad46d4cb2c715f9c778a61848ba7fe51f8d"
+  },
+  "size": 0,
+  "filename": "",
+  "releaseTime": ""
+}

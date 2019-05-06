@@ -1,0 +1,16 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "minecraftmultipartcbe",
+  "name": "Minecraft Multipart Plugin",
+  "description": "Provides multipart versions of some vanilla blocks like torches and buttons.",
+  "icon": "https://media.forgecdn.net/avatars/87/292/636214401677517276.png",
+  "licenses": [],
+  "authors": [],
+  "projectLinks": [
+    {
+      "type": "source",
+      "url": "https://github.com/Chicken-Bones/ForgeMultipart"
+    }
+  ]
+}

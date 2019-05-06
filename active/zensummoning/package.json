@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "zensummoning",
+  "name": "Zen Summoning",
+  "description": "Allows pack makers to set up custom summoning scenarios",
+  "icon": "https://media.forgecdn.net/avatars/183/677/636816679164439285.png",
+  "licenses": [],
+  "authors": [
+    "TeamDman"
+  ],
+  "projectLinks": [
+    {
+      "type": "source",
+      "url": "https://github.com/TeamDman/ZenSummoning"
+    }
+  ]
+}

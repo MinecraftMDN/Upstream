@@ -1,0 +1,20 @@
+{
+  "formatVersion": 0,
+  "id": "1.12.2-3.0.2",
+  "releaseType": "",
+  "changelog": "",
+  "side": "universal",
+  "relationships": [],
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://files.forgecdn.net/files/2512/726/simpleteleporters-1.12.2-3.0.2.jar"
+    }
+  ],
+  "hashes": {
+    "sha256": "7c04c51e213d5598f4440bbea25fa26ac7f8f185463d7033bf56f05d935223f1"
+  },
+  "size": 0,
+  "filename": "",
+  "releaseTime": ""
+}

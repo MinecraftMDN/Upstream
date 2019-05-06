@@ -1,0 +1,20 @@
+{
+  "formatVersion": 0,
+  "id": "2.0.12",
+  "releaseType": "",
+  "changelog": "",
+  "side": "universal",
+  "relationships": [],
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://files.forgecdn.net/files/2696/513/SuperFactoryManager-1.12.2-2.0.12.jar"
+    }
+  ],
+  "hashes": {
+    "sha256": "df803c551669d2c1be7ae5a3daf25ebabdf13a533b9e8e4534732286e5b072e5"
+  },
+  "size": 0,
+  "filename": "",
+  "releaseTime": ""
+}

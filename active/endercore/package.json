@@ -1,0 +1,20 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "endercore",
+  "name": "EnderCore",
+  "description": "Library mod used by EnderIO, EnderZoo, and others",
+  "icon": "https://media.forgecdn.net/avatars/20/10/635705133000275418.jpeg",
+  "licenses": [],
+  "authors": [
+    "tterrag",
+    "CrazyPants",
+    "HenryLoenwind"
+  ],
+  "projectLinks": [
+    {
+      "type": "website",
+      "url": "http://enderio.com"
+    }
+  ]
+}

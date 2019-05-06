@@ -1,0 +1,20 @@
+{
+  "formatVersion": 0,
+  "id": "1.12.2-4.2.1-4e33621",
+  "releaseType": "",
+  "changelog": "",
+  "side": "universal",
+  "relationships": [],
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://files.forgecdn.net/files/2698/237/Soulus-1.12.2-4.2.1-4e33621.jar"
+    }
+  ],
+  "hashes": {
+    "sha256": "157762e38e93b80bf2be610a46a6a2341deae424ab32d5a73ae286308b21750a"
+  },
+  "size": 0,
+  "filename": "",
+  "releaseTime": ""
+}

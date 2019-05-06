@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "zentriggers",
+  "name": "Zen Triggers",
+  "description": "Adds methods to execute commands when certain events happen",
+  "icon": "https://media.forgecdn.net/avatars/184/211/636820114585323686.png",
+  "licenses": [],
+  "authors": [
+    "TeamDman"
+  ],
+  "projectLinks": [
+    {
+      "type": "source",
+      "url": "https://github.com/TeamDman/ZenTriggers"
+    }
+  ]
+}

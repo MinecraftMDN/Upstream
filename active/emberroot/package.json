@@ -1,0 +1,20 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "emberroot",
+  "name": "EmberRoot Zoo",
+  "description": "Includes many monsters and creatures, with a detailed config system.  Includes Open Source code and textures from Embers and Roots (Elucent) and from Ender Zoo (CrazyPants)",
+  "icon": "https://media.forgecdn.net/avatars/108/641/636373962527245927.png",
+  "licenses": [],
+  "authors": [
+    "Lothrazar",
+    "Elucent",
+    "CrazyPants"
+  ],
+  "projectLinks": [
+    {
+      "type": "curseforge",
+      "url": "https://minecraft.curseforge.com/projects/emberroot-zoo"
+    }
+  ]
+}

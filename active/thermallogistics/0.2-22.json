@@ -1,0 +1,20 @@
+{
+  "formatVersion": 0,
+  "id": "0.2-22",
+  "releaseType": "",
+  "changelog": "",
+  "side": "universal",
+  "relationships": [],
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://files.forgecdn.net/files/2701/978/thermallogistics-0.2-22.jar"
+    }
+  ],
+  "hashes": {
+    "sha256": "2e462e24ec3d83a724623852fd6c6358f4bbbd062efe126cf3ff72ccdd12a636"
+  },
+  "size": 0,
+  "filename": "",
+  "releaseTime": ""
+}

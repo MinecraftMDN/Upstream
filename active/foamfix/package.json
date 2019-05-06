@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "foamfix",
+  "name": "FoamFix",
+  "description": "Questionable \"performance improvements\" that are not in Forge for probably very good reasons.",
+  "icon": "https://media.forgecdn.net/avatars/123/622/636415911008136405.png",
+  "licenses": [],
+  "authors": [
+    "asiekierka"
+  ],
+  "projectLinks": [
+    {
+      "type": "website",
+      "url": "http://asie.pl/Projects/Minecraft/Mods/FoamFix"
+    }
+  ]
+}

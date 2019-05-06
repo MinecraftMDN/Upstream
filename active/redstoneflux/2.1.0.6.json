@@ -1,0 +1,20 @@
+{
+  "formatVersion": 0,
+  "id": "2.1.0.6",
+  "releaseType": "",
+  "changelog": "",
+  "side": "universal",
+  "relationships": [],
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://files.forgecdn.net/files/2623/90/RedstoneFlux-1.12-2.1.0.6-universal.jar"
+    }
+  ],
+  "hashes": {
+    "sha256": "7d8063471243e161f624abe4ba311d490bd7719aedbcfcf84e555358e19c3e89"
+  },
+  "size": 0,
+  "filename": "",
+  "releaseTime": ""
+}

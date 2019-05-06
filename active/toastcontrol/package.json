@@ -1,0 +1,11 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "toastcontrol",
+  "name": "Toast Control",
+  "description": "Control what toasts are enabled, because some of them are useless.",
+  "icon": "https://media.forgecdn.net/avatars/105/330/636352185216944005.png",
+  "licenses": [],
+  "authors": [],
+  "projectLinks": []
+}

@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "brandonscore",
+  "name": "Brandon\u0027s Core",
+  "description": "Brandon\u0027s Core is a library mod used by most of my mods. It is no longer a core mod as the name would suggest but it does still contain a lot of the core code used by my mods including but not limited to base classes for various tiles, blocks and items, A powerful modular gui system and a lot of other miscellaneous utilities.",
+  "icon": "https://media.forgecdn.net/avatars/19/329/635693356033460215.png",
+  "licenses": [],
+  "authors": [
+    "brandon3055"
+  ],
+  "projectLinks": [
+    {
+      "type": "curseforge",
+      "url": "http://minecraft.curseforge.com/projects/brandons-core"
+    }
+  ]
+}

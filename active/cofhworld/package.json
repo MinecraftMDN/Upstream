@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "cofhworld",
+  "name": "CoFH World",
+  "description": "Provides advanced and highly customizable world generation capabilities.",
+  "icon": "https://media.forgecdn.net/avatars/104/743/636348016483205863.png",
+  "licenses": [],
+  "authors": [
+    "Team CoFH"
+  ],
+  "projectLinks": [
+    {
+      "type": "website",
+      "url": "http://www.teamcofh.com"
+    }
+  ]
+}

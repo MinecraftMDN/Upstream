@@ -1,0 +1,14 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "superfactorymanager",
+  "name": "Super Factory Manager",
+  "description": "Super Factory Manager is a mod which allows you to set up systems that moves and manages items between inventories and machines",
+  "icon": "https://media.forgecdn.net/avatars/178/246/636776783181016893.png",
+  "licenses": [],
+  "authors": [
+    "Vswe",
+    "TeamDman"
+  ],
+  "projectLinks": []
+}

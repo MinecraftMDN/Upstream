@@ -1,0 +1,17 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "ftbquests",
+  "name": "FTB Quests",
+  "icon": "https://media.forgecdn.net/avatars/144/576/636556883574670783.png",
+  "licenses": [],
+  "authors": [
+    "LatvianModder"
+  ],
+  "projectLinks": [
+    {
+      "type": "curseforge",
+      "url": "http://minecraft.curseforge.com/projects/ftb-quests"
+    }
+  ]
+}

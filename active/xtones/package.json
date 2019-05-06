@@ -1,0 +1,20 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "xtones",
+  "name": "Xtones",
+  "description": "Xtones adds modern/futuristic/fantasy style decorative building blocks.",
+  "icon": "https://media.forgecdn.net/avatars/85/764/636204523468034489.png",
+  "licenses": [],
+  "authors": [
+    "TehNut",
+    "Dhvagra",
+    "InsomniaKitten"
+  ],
+  "projectLinks": [
+    {
+      "type": "website",
+      "url": "http://tehnut.info/"
+    }
+  ]
+}

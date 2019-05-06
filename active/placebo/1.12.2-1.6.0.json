@@ -1,0 +1,20 @@
+{
+  "formatVersion": 0,
+  "id": "1.12.2-1.6.0",
+  "releaseType": "",
+  "changelog": "",
+  "side": "universal",
+  "relationships": [],
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://files.forgecdn.net/files/2694/382/Placebo-1.12.2-1.6.0.jar"
+    }
+  ],
+  "hashes": {
+    "sha256": "c2110db8b8abec23d9e2e9c4a89be010f6fe1150d52595397179c8804d942ee3"
+  },
+  "size": 0,
+  "filename": "",
+  "releaseTime": ""
+}

@@ -1,0 +1,20 @@
+{
+  "formatVersion": 0,
+  "id": "1.1.2",
+  "releaseType": "",
+  "changelog": "",
+  "side": "universal",
+  "relationships": [],
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://files.forgecdn.net/files/2599/318/funky-locomotion-1.12.2-1.1.2.jar"
+    }
+  ],
+  "hashes": {
+    "sha256": "40222110b466678da4bba79b86750ad09374e70844097339ad47fea712043b2f"
+  },
+  "size": 0,
+  "filename": "",
+  "releaseTime": ""
+}

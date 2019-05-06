@@ -1,0 +1,20 @@
+{
+  "formatVersion": 0,
+  "id": "1.12-2.1.8-63",
+  "releaseType": "",
+  "changelog": "",
+  "side": "universal",
+  "relationships": [],
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://files.forgecdn.net/files/2645/992/Guide-API-1.12-2.1.8-63.jar"
+    }
+  ],
+  "hashes": {
+    "sha256": "e201712ef8fadc6c4b6380939751e92fe32cad2ba2dcb717e1acb3b07e0c2125"
+  },
+  "size": 0,
+  "filename": "",
+  "releaseTime": ""
+}

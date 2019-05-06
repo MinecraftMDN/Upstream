@@ -1,0 +1,20 @@
+{
+  "formatVersion": 0,
+  "id": "4.15.0.278",
+  "releaseType": "",
+  "changelog": "",
+  "side": "universal",
+  "relationships": [],
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://files.forgecdn.net/files/2702/121/jei_1.12.2-4.15.0.278.jar"
+    }
+  ],
+  "hashes": {
+    "sha256": "58b8a635b3d92f396710e50640f208e895743285a2d0c2d4c343e762d7aca9dd"
+  },
+  "size": 0,
+  "filename": "",
+  "releaseTime": ""
+}

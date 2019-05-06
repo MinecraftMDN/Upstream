@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "redstonearsenal",
+  "name": "Redstone Arsenal",
+  "description": "Behold the Redstone (Flux) Revolution - provides Flux-Infused Tools and Armor!",
+  "icon": "https://media.forgecdn.net/avatars/5/264/635351429324826696.png",
+  "licenses": [],
+  "authors": [
+    "Team CoFH"
+  ],
+  "projectLinks": [
+    {
+      "type": "website",
+      "url": "http://www.teamcofh.com"
+    }
+  ]
+}

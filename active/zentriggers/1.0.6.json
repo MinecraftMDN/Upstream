@@ -1,0 +1,20 @@
+{
+  "formatVersion": 0,
+  "id": "1.0.6",
+  "releaseType": "",
+  "changelog": "",
+  "side": "universal",
+  "relationships": [],
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://files.forgecdn.net/files/2686/371/Zen Triggers-1.12-1.0.6.jar"
+    }
+  ],
+  "hashes": {
+    "sha256": "31e270f91a51a6d5cd4c42c56596b600af577febdf7326b7ca9169a5fab52bf3"
+  },
+  "size": 0,
+  "filename": "",
+  "releaseTime": ""
+}

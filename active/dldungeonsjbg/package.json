@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "dldungeonsjbg",
+  "name": "Doomlike Dungeons",
+  "description": "Procedurally generates multiroom dungeons resembling Doom levels into the world.",
+  "icon": "https://media.forgecdn.net/avatars/5/79/635351428539028751.png",
+  "licenses": [],
+  "authors": [
+    "Jared Blackburn (JaredBGreat)"
+  ],
+  "projectLinks": [
+    {
+      "type": "website",
+      "url": "http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1293843-doomlike-dungeons"
+    }
+  ]
+}

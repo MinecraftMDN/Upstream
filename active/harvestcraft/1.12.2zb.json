@@ -1,0 +1,20 @@
+{
+  "formatVersion": 0,
+  "id": "1.12.2zb",
+  "releaseType": "",
+  "changelog": "",
+  "side": "universal",
+  "relationships": [],
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://files.forgecdn.net/files/2696/248/Pam\u0027s HarvestCraft 1.12.2zc The 7mm Kidney Stone Update.jar"
+    }
+  ],
+  "hashes": {
+    "sha256": "66022e2a6e9bf7e83dfd5a142b2dd64196882cc9618e884075ce029d82c9a04d"
+  },
+  "size": 0,
+  "filename": "",
+  "releaseTime": ""
+}

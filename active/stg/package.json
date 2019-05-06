@@ -1,0 +1,13 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "stg",
+  "name": "SwingThroughGrass",
+  "description": "Don\u0027t let the grass be between you and your prey!",
+  "icon": "https://media.forgecdn.net/avatars/94/141/636268033318837550.png",
+  "licenses": [],
+  "authors": [
+    "Exidex"
+  ],
+  "projectLinks": []
+}

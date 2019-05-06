@@ -1,0 +1,19 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "llibrary",
+  "name": "LLibrary",
+  "description": "The lightweight Minecraft modding library",
+  "icon": "https://media.forgecdn.net/avatars/36/938/635945231023485157.png",
+  "licenses": [],
+  "authors": [
+    "iLexiconn",
+    "gegy1000"
+  ],
+  "projectLinks": [
+    {
+      "type": "source",
+      "url": "https://github.com/iLexiconn/LLibrary"
+    }
+  ]
+}

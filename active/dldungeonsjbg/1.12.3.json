@@ -1,0 +1,20 @@
+{
+  "formatVersion": 0,
+  "id": "1.12.3",
+  "releaseType": "",
+  "changelog": "",
+  "side": "universal",
+  "relationships": [],
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://files.forgecdn.net/files/2669/724/DoomlikeDungeons-1.12.3-MC1.12.2.jar"
+    }
+  ],
+  "hashes": {
+    "sha256": "95c79bce0a36bd1b14c196e5ee6ab86d2d91c94c75983e4af01d12f5cb14d049"
+  },
+  "size": 0,
+  "filename": "",
+  "releaseTime": ""
+}

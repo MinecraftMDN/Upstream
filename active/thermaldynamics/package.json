@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "thermaldynamics",
+  "name": "Thermal Dynamics",
+  "description": "Thermal gets Dynamic! Adds ducts - blocks for transporting Items, Fluids, Redstone Flux, and even Players!",
+  "icon": "https://media.forgecdn.net/avatars/14/24/635583020784370905.png",
+  "licenses": [],
+  "authors": [
+    "Team CoFH"
+  ],
+  "projectLinks": [
+    {
+      "type": "website",
+      "url": "http://www.teamcofh.com"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "formatVersion": 0,
+  "id": "2.1.44",
+  "releaseType": "",
+  "changelog": "",
+  "side": "universal",
+  "relationships": [],
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://files.forgecdn.net/files/2699/293/p455w0rdslib-1.12.2-2.1.44.jar"
+    }
+  ],
+  "hashes": {
+    "sha256": "8716529d425c1994cbad7c27a0cd9329140185c2857182c05e58bae77c0df327"
+  },
+  "size": 0,
+  "filename": "",
+  "releaseTime": ""
+}

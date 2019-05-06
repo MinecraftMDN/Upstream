@@ -1,0 +1,20 @@
+{
+  "formatVersion": 0,
+  "id": "1.12.2-1.0.1",
+  "releaseType": "",
+  "changelog": "",
+  "side": "universal",
+  "relationships": [],
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://files.forgecdn.net/files/2604/192/Floralchemy-1.12.2-1.0.1.jar"
+    }
+  ],
+  "hashes": {
+    "sha256": "70f26d20fa4a452954fac14cc76abf1babe1865385113efc94636200ee6bb73c"
+  },
+  "size": 0,
+  "filename": "",
+  "releaseTime": ""
+}

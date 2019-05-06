@@ -1,0 +1,13 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "hardcoredarkness",
+  "name": "Hardcore Darkness",
+  "description": "Removes the minimum light that\u0027s always present in minecraft.",
+  "icon": "https://media.forgecdn.net/avatars/12/533/635531178640671748.png",
+  "licenses": [],
+  "authors": [
+    "lumien"
+  ],
+  "projectLinks": []
+}

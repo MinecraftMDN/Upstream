@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "ichunutil",
+  "name": "iChunUtil",
+  "description": "Shared library mod required by several of iChun\u0027s Mods.",
+  "icon": "https://media.forgecdn.net/avatars/19/167/635690971311763313.png",
+  "licenses": [],
+  "authors": [
+    "iChun"
+  ],
+  "projectLinks": [
+    {
+      "type": "website",
+      "url": "http://ichun.me/mods/ichunutil/"
+    }
+  ]
+}

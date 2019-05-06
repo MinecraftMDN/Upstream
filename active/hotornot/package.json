@@ -1,0 +1,13 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "hotornot",
+  "name": "HotOrNot",
+  "description": "Is this hot?",
+  "icon": "https://media.forgecdn.net/avatars/152/782/636613936490276739.png",
+  "licenses": [],
+  "authors": [
+    "Buuz135"
+  ],
+  "projectLinks": []
+}

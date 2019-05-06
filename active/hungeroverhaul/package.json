@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "hungeroverhaul",
+  "name": "Hunger Overhaul",
+  "description": "Hunger mechanics overhauled",
+  "icon": "https://media.forgecdn.net/avatars/10/893/635470330077756031.png",
+  "licenses": [],
+  "authors": [
+    "iguana_man",
+    "Parker8283",
+    "progwml6",
+    "squeek502",
+    "alexbegt"
+  ],
+  "projectLinks": [
+    {
+      "type": "website",
+      "url": "http://www.minecraftforum.net/topic/1813158-"
+    }
+  ]
+}

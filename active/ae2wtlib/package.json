@@ -1,0 +1,13 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "ae2wtlib",
+  "name": "AE2 Wireless Terminals (AE2WTLib)",
+  "description": "A Library which provides basic functions to create AE2 Wireless Terminals with infinite range capabilities",
+  "icon": "https://media.forgecdn.net/avatars/172/927/636740055512539953.png",
+  "licenses": [],
+  "authors": [
+    "TheRealp455w0rd"
+  ],
+  "projectLinks": []
+}

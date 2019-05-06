@@ -1,0 +1,20 @@
+{
+  "formatVersion": 0,
+  "id": "1.0-19",
+  "releaseType": "",
+  "changelog": "",
+  "side": "universal",
+  "relationships": [],
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://files.forgecdn.net/files/2704/883/Patchouli-1.0-19.jar"
+    }
+  ],
+  "hashes": {
+    "sha256": "cdf2187c19e36667685aa5b2c027e7b4b4c98b9b7003cf75665614cc88e68a27"
+  },
+  "size": 0,
+  "filename": "",
+  "releaseTime": ""
+}

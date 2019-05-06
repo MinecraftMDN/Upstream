@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "reauth",
+  "name": "ReAuth",
+  "description": "A Mod to renew your Session",
+  "icon": "https://media.forgecdn.net/avatars/32/290/635878453742212050.png",
+  "licenses": [],
+  "authors": [
+    "TechnicianLP"
+  ],
+  "projectLinks": [
+    {
+      "type": "curseforge",
+      "url": "http://minecraft.curseforge.com/projects/reauth"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "formatVersion": 0,
+  "id": "2.0.17",
+  "releaseType": "",
+  "changelog": "",
+  "side": "universal",
+  "relationships": [],
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://files.forgecdn.net/files/2632/938/TinkerStages-1.12.2-2.0.17.jar"
+    }
+  ],
+  "hashes": {
+    "sha256": "b97159c976c67e64a0bf58de6776f956d122e4d1307f2618fea812465cc28700"
+  },
+  "size": 0,
+  "filename": "",
+  "releaseTime": ""
+}

@@ -1,0 +1,20 @@
+{
+  "formatVersion": 0,
+  "id": "MC1.12.2-0.3.3.22",
+  "releaseType": "",
+  "changelog": "",
+  "side": "client",
+  "relationships": [],
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://files.forgecdn.net/files/2642/375/CTM-MC1.12.2-0.3.3.22.jar"
+    }
+  ],
+  "hashes": {
+    "sha256": "9b2882c33509c746bb0770d608944078cb94a75ede8e68c87a9e8e673a5db2e4"
+  },
+  "size": 0,
+  "filename": "",
+  "releaseTime": ""
+}

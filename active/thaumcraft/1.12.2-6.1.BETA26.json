@@ -1,0 +1,20 @@
+{
+  "formatVersion": 0,
+  "id": "1.12.2-6.1.BETA26",
+  "releaseType": "",
+  "changelog": "",
+  "side": "universal",
+  "relationships": [],
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://files.forgecdn.net/files/2629/23/Thaumcraft-1.12.2-6.1.BETA26.jar"
+    }
+  ],
+  "hashes": {
+    "sha256": "9425f8643581b27ff8845b087c8bc6fc10425a32942f1a3f0e265ce6b38f7b5f"
+  },
+  "size": 0,
+  "filename": "",
+  "releaseTime": ""
+}

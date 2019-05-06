@@ -1,0 +1,20 @@
+{
+  "formatVersion": 0,
+  "id": "1.12.2-2.5.0",
+  "releaseType": "",
+  "changelog": "",
+  "side": "universal",
+  "relationships": [],
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://files.forgecdn.net/files/2697/299/deepmoblearning-1.12.2-2.5.0-universal.jar"
+    }
+  ],
+  "hashes": {
+    "sha256": "5002118eaa1c02b20ec1e7f89f5bbdeed04bc38f9713a38efc775d74b7c04a04"
+  },
+  "size": 0,
+  "filename": "",
+  "releaseTime": ""
+}

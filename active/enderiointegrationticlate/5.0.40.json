@@ -1,0 +1,20 @@
+{
+  "formatVersion": 0,
+  "id": "5.0.40",
+  "releaseType": "",
+  "changelog": "",
+  "side": "universal",
+  "relationships": [],
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://files.forgecdn.net/files/2666/518/EnderIO-integration-tic-1.12.2-5.0.40.jar"
+    }
+  ],
+  "hashes": {
+    "sha256": "2835d6f3054c17520ba41d5ec80b144316ad46c015c2e59a6ae218d502c6e28f"
+  },
+  "size": 0,
+  "filename": "",
+  "releaseTime": ""
+}

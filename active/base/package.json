@@ -1,0 +1,21 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "base",
+  "name": "B.A.S.E",
+  "description": "Library Mod for the Team Acronym Coders",
+  "icon": "https://media.forgecdn.net/avatars/51/152/636100528197204661.png",
+  "licenses": [],
+  "authors": [
+    "SkySom",
+    "Lanse505",
+    "Jared",
+    "EwyBoy"
+  ],
+  "projectLinks": [
+    {
+      "type": "curseforge",
+      "url": "http://minecraft.curseforge.com/projects/b-a-s-e"
+    }
+  ]
+}

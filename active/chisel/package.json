@@ -1,0 +1,20 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "chisel",
+  "name": "Chisel",
+  "description": "Adds in tons of fancy blocks for decoration, crafted using the Chisel.",
+  "icon": "https://media.forgecdn.net/avatars/24/517/635758617021943603.png",
+  "licenses": [],
+  "authors": [
+    "tterrag",
+    "Drullkus",
+    "minecreatr"
+  ],
+  "projectLinks": [
+    {
+      "type": "curseforge",
+      "url": "https://minecraft.curseforge.com/projects/chisel"
+    }
+  ]
+}

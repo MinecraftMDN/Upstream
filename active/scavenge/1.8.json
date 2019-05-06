@@ -1,0 +1,20 @@
+{
+  "formatVersion": 0,
+  "id": "1.8",
+  "releaseType": "",
+  "changelog": "",
+  "side": "universal",
+  "relationships": [],
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://files.forgecdn.net/files/2598/21/Scavenge V1.12-1.8.3.2.jar"
+    }
+  ],
+  "hashes": {
+    "sha256": "f7f7d07e6dd3d723c27e7150caac671b75dfcedefb6a9b8ad44ed84a6b32967e"
+  },
+  "size": 0,
+  "filename": "",
+  "releaseTime": ""
+}

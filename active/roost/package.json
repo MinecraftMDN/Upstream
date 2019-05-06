@@ -1,0 +1,13 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "roost",
+  "name": "Roost",
+  "description": "A place for chickens to rest",
+  "icon": "https://media.forgecdn.net/avatars/191/429/636859767919592221.png",
+  "licenses": [],
+  "authors": [
+    "Tim Wood"
+  ],
+  "projectLinks": []
+}

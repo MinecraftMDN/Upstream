@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "thermalinnovation",
+  "name": "Thermal Innovation",
+  "description": "Thermal Technology marches on. Adds Thermal-style tools and equipment!",
+  "icon": "https://media.forgecdn.net/avatars/149/185/636587412825274837.png",
+  "licenses": [],
+  "authors": [
+    "Team CoFH"
+  ],
+  "projectLinks": [
+    {
+      "type": "website",
+      "url": "http://www.teamcofh.com"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "dmonsters",
+  "name": "Deadly Monsters",
+  "description": "New unique monsters, terrible and dangerous creatures. Use the new fortification blocks to defend yourself against them.",
+  "icon": "https://media.forgecdn.net/avatars/64/680/636155070641448487.png",
+  "licenses": [],
+  "authors": [
+    "radek"
+  ],
+  "projectLinks": [
+    {
+      "type": "website",
+      "url": "https://deadlymonsters.miraheze.org"
+    }
+  ]
+}

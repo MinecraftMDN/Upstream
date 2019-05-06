@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "tinkerstages",
+  "name": "Tinker Stages",
+  "description": "Allows custom progression for tinkers construct.",
+  "icon": "https://media.forgecdn.net/avatars/112/487/636391806012472846.png",
+  "licenses": [],
+  "authors": [
+    "Darkhax"
+  ],
+  "projectLinks": [
+    {
+      "type": "curseforge",
+      "url": "https://minecraft.curseforge.com/projects/tinkerstages"
+    }
+  ]
+}

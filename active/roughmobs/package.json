@@ -1,0 +1,13 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "roughmobs",
+  "name": "Rough Mobs 2",
+  "description": "Makes hostile creatures significantly more hostile",
+  "icon": "https://media.forgecdn.net/avatars/157/136/636643466434020611.png",
+  "licenses": [],
+  "authors": [
+    "Lellson"
+  ],
+  "projectLinks": []
+}

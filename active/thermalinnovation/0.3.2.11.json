@@ -1,0 +1,20 @@
+{
+  "formatVersion": 0,
+  "id": "0.3.2.11",
+  "releaseType": "",
+  "changelog": "",
+  "side": "universal",
+  "relationships": [],
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://files.forgecdn.net/files/2669/259/ThermalInnovation-1.12.2-0.3.2.11-universal.jar"
+    }
+  ],
+  "hashes": {
+    "sha256": "ed0a5f70513cb5c31eb84914a7b16f909b9ece1e7436b921e0a32ce8437ab227"
+  },
+  "size": 0,
+  "filename": "",
+  "releaseTime": ""
+}

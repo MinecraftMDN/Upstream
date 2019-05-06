@@ -1,0 +1,20 @@
+{
+  "formatVersion": 0,
+  "id": "1.12.2-v4a",
+  "releaseType": "",
+  "changelog": "",
+  "side": "universal",
+  "relationships": [],
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://files.forgecdn.net/files/2697/672/CosmeticArmorReworked-1.12.2-v4a.jar"
+    }
+  ],
+  "hashes": {
+    "sha256": "fa0f1f8ea15313b58488b29dcc2869487227cf514b2a9e78ff8412fbd1c1ca07"
+  },
+  "size": 0,
+  "filename": "",
+  "releaseTime": ""
+}

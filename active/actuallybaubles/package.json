@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "actuallybaubles",
+  "name": "Actually Baubles",
+  "description": "Baubles capability for some Actually Additions gadgets!",
+  "icon": "https://media.forgecdn.net/avatars/147/192/636575169522401760.png",
+  "licenses": [],
+  "authors": [
+    "Jacky1356400"
+  ],
+  "projectLinks": [
+    {
+      "type": "source",
+      "url": "https://github.com/Jacky1356400/ActuallyBaubles"
+    }
+  ]
+}

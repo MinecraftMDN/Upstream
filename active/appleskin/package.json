@@ -1,0 +1,13 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "appleskin",
+  "name": "AppleSkin",
+  "description": "Adds various food-related HUD improvements",
+  "icon": "https://media.forgecdn.net/avatars/47/527/636066936394500688.png",
+  "licenses": [],
+  "authors": [
+    "squeek"
+  ],
+  "projectLinks": []
+}

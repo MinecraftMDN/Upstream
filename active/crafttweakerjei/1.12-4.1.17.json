@@ -1,0 +1,20 @@
+{
+  "formatVersion": 0,
+  "id": "1.12-4.1.17",
+  "releaseType": "",
+  "changelog": "",
+  "side": "client",
+  "relationships": [],
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://files.forgecdn.net/files/2693/533/CraftTweaker2-1.12-4.1.17.jar"
+    }
+  ],
+  "hashes": {
+    "sha256": "7c78565c4578a1ff73c6f4b97394fc7bc3dd16d4b37bab96827aacd094fd49a8"
+  },
+  "size": 0,
+  "filename": "",
+  "releaseTime": ""
+}

@@ -1,0 +1,13 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "wct",
+  "name": "Wireless Crafting Terminal 2",
+  "description": "Adds a wireless version of the AE2 crafting terminal",
+  "icon": "https://media.forgecdn.net/avatars/39/21/635976041051393318.png",
+  "licenses": [],
+  "authors": [
+    "TheRealp455w0rd"
+  ],
+  "projectLinks": []
+}

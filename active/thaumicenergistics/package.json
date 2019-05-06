@@ -1,38 +1,19 @@
 {
-    "formatVersion": 0,
-    "id": "thaumicenergistics",
-    "name": "Thaumic Energistics",
-    "description": "Because the digital age could use some magic!",
-    "license": "MIT",
-    "authors": [
-        "Nividica",
-        "BrockWS"
-    ],
-    "projectLinks": [
-        {
-            "type": "discord",
-            "url": "https://discord.gg/BreEZat"
-        },
-        {
-            "type": "curseforge",
-            "url": "https://minecraft.curseforge.com/projects/thaumic-energistics"
-        },
-        {
-            "type": "github",
-            "url": "https://github.com/Nividica/ThaumicEnergistics"
-        },
-        {
-            "type": "issues",
-            "url": "https://github.com/Nividica/ThaumicEnergistics/issues"
-        }
-    ],
-    "@detectors": [
-        {
-            "type": "curseforge",
-            "data": {
-                "id": "223666",
-                "regex": "(?:\\d+\\.){2,3}\\d+(?:-RV\\d+)?"
-            }
-        }
-    ]
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "thaumicenergistics",
+  "name": "Thaumic Energistics",
+  "description": "The digital age could use some magic",
+  "icon": "https://media.forgecdn.net/avatars/18/121/635674360665172055.png",
+  "licenses": [],
+  "authors": [
+    "Nividica",
+    "BrockWS"
+  ],
+  "projectLinks": [
+    {
+      "type": "curseforge",
+      "url": "http://minecraft.curseforge.com/projects/thaumic-energistics"
+    }
+  ]
 }

@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "scannable",
+  "name": "Scannable",
+  "description": "Scan the area for points of interest.",
+  "icon": "https://media.forgecdn.net/avatars/97/777/636294300831790651.png",
+  "licenses": [],
+  "authors": [
+    "Sangar"
+  ],
+  "projectLinks": [
+    {
+      "type": "source",
+      "url": "https://github.com/MightyPirates/Scannable"
+    }
+  ]
+}

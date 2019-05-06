@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "autoreglib",
+  "name": "AutoRegLib",
+  "description": "Automatically item, block, and model registration for mods.",
+  "icon": "https://media.forgecdn.net/avatars/49/546/636079312327917356.png",
+  "licenses": [],
+  "authors": [
+    "Vazkii"
+  ],
+  "projectLinks": [
+    {
+      "type": "website",
+      "url": "http://www.vazkii.us"
+    }
+  ]
+}

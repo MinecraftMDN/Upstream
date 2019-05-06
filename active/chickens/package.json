@@ -1,0 +1,21 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "chickens",
+  "name": "Chickens",
+  "description": "Chickens... lots of chickens.",
+  "icon": "https://media.forgecdn.net/avatars/34/649/635913082040765328.png",
+  "licenses": [],
+  "authors": [
+    "SetyCz",
+    "Wyvi",
+    "GenDeathrow",
+    "LordCazsius"
+  ],
+  "projectLinks": [
+    {
+      "type": "curseforge",
+      "url": "http://minecraft.curseforge.com/projects/chickens"
+    }
+  ]
+}

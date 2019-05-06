@@ -1,0 +1,16 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "tinkersextras",
+  "name": "TinkersExtras",
+  "description": "A TinkersConstuct Addon.",
+  "icon": "https://media.forgecdn.net/avatars/137/218/636513615515731748.png",
+  "licenses": [],
+  "authors": [],
+  "projectLinks": [
+    {
+      "type": "curseforge",
+      "url": "https://minecraft.curseforge.com/projects/tinkersextras"
+    }
+  ]
+}

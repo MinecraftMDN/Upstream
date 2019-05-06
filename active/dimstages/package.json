@@ -1,0 +1,13 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "dimstages",
+  "name": "Dimension Stages",
+  "description": "Restricts access to dimensions based on stages",
+  "icon": "https://media.forgecdn.net/avatars/101/718/636324883919963872.png",
+  "licenses": [],
+  "authors": [
+    "Darkhax"
+  ],
+  "projectLinks": []
+}

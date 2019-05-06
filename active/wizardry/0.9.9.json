@@ -1,0 +1,20 @@
+{
+  "formatVersion": 0,
+  "id": "0.9.9",
+  "releaseType": "",
+  "changelog": "",
+  "side": "universal",
+  "relationships": [],
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://files.forgecdn.net/files/2656/202/wizardry-0.9.9.jar"
+    }
+  ],
+  "hashes": {
+    "sha256": "b10e2f3975250e5b09705f244327b94983013f48789a0a335d99b6c239c829a9"
+  },
+  "size": 0,
+  "filename": "",
+  "releaseTime": ""
+}

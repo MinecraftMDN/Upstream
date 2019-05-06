@@ -1,0 +1,20 @@
+{
+  "formatVersion": 0,
+  "id": "0.4.1-19",
+  "releaseType": "",
+  "changelog": "",
+  "side": "universal",
+  "relationships": [],
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://files.forgecdn.net/files/2641/781/zenstages-0.4.1-19.jar"
+    }
+  ],
+  "hashes": {
+    "sha256": "2d778f8f17ec34b5868653db521e6a497021ead9f1e62179008691dd5cb4babe"
+  },
+  "size": 0,
+  "filename": "",
+  "releaseTime": ""
+}

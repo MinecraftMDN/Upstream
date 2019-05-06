@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "cofhcore",
+  "name": "CoFH Core",
+  "description": "Required for all CoFH Mods. Also provides some customization options for Minecraft.",
+  "icon": "https://media.forgecdn.net/avatars/14/190/635588122347757413.png",
+  "licenses": [],
+  "authors": [
+    "Team CoFH"
+  ],
+  "projectLinks": [
+    {
+      "type": "website",
+      "url": "http://www.teamcofh.com"
+    }
+  ]
+}

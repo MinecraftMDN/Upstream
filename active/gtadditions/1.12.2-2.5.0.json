@@ -1,0 +1,20 @@
+{
+  "formatVersion": 0,
+  "id": "1.12.2-2.5.0",
+  "releaseType": "",
+  "changelog": "",
+  "side": "universal",
+  "relationships": [],
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://files.forgecdn.net/files/2697/722/Shadows_of_Greg-1.12.2-2.5.0.jar"
+    }
+  ],
+  "hashes": {
+    "sha256": "4418fb66a7333d906c75df1f33d88ad4ea7db1f3ee18588478af0613b7d65a4f"
+  },
+  "size": 0,
+  "filename": "",
+  "releaseTime": ""
+}

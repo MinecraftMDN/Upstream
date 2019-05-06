@@ -1,0 +1,20 @@
+{
+  "formatVersion": 0,
+  "id": "1.12-1.0.8-11",
+  "releaseType": "",
+  "changelog": "",
+  "side": "universal",
+  "relationships": [],
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://files.forgecdn.net/files/2531/411/Xtones-1.12-1.0.8-11.jar"
+    }
+  ],
+  "hashes": {
+    "sha256": "92041ff393ae061f9f16c8a59635241d1586491fc2557c47838225d097f58822"
+  },
+  "size": 0,
+  "filename": "",
+  "releaseTime": ""
+}

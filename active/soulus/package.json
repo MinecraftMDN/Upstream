@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "soulus",
+  "name": "Soulus",
+  "description": "You must sift through the ashes of the dead to restore life to the world.",
+  "icon": "https://media.forgecdn.net/avatars/134/213/636490270751222620.png",
+  "licenses": [],
+  "authors": [
+    "Yuudaari"
+  ],
+  "projectLinks": [
+    {
+      "type": "website",
+      "url": "https://soulus.info"
+    }
+  ]
+}

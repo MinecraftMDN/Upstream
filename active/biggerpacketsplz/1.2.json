@@ -1,0 +1,19 @@
+{
+  "formatVersion": 0,
+  "id": "1.2",
+  "releaseType": "",
+  "changelog": "",
+  "relationships": [],
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://files.forgecdn.net/files/2655/843/biggerpacketsplz-since1.8-1.2.jar"
+    }
+  ],
+  "hashes": {
+    "sha256": "05c2753afc048357bdbaad082694f1d7b9fd7dd545a03d88ffc1317a92b7b1f7"
+  },
+  "size": 0,
+  "filename": "",
+  "releaseTime": ""
+}

@@ -1,0 +1,19 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "crafttweakerjei",
+  "name": "CraftTweaker2",
+  "description": "Customize your minecraft experience!",
+  "icon": "https://media.forgecdn.net/avatars/142/108/636546700830987709.png",
+  "licenses": [],
+  "authors": [
+    "StanHebben",
+    "Jaredlll08"
+  ],
+  "projectLinks": [
+    {
+      "type": "website",
+      "url": "http://minetweaker3.powerofbytes.com"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "discord",
+  "name": "Discord",
+  "description": "Sends Minecraft messages to Discord, and vice versa.",
+  "icon": "https://media.forgecdn.net/avatars/195/25/636876249022110500.jpeg",
+  "licenses": [],
+  "authors": [
+    "TeamDman"
+  ],
+  "projectLinks": []
+}

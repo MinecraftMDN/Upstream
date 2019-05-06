@@ -1,0 +1,24 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "wizardry",
+  "name": "Wizardry",
+  "description": "Delve into the creation of magical spells and wizardry",
+  "icon": "https://media.forgecdn.net/avatars/122/233/636411393558114396.png",
+  "licenses": [],
+  "authors": [
+    "Demoniaque",
+    "thecodewarrior",
+    "yrsegal",
+    "pau101",
+    "murapix",
+    "Mechwarrior99",
+    "InsomniaKitten"
+  ],
+  "projectLinks": [
+    {
+      "type": "curseforge",
+      "url": "https://minecraft.curseforge.com/projects/wizardry-mod"
+    }
+  ]
+}

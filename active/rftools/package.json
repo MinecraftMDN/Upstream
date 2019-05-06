@@ -1,0 +1,13 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "rftools",
+  "name": "RFTools",
+  "description": "RedFlux tools",
+  "icon": "https://media.forgecdn.net/avatars/22/510/635743559787349935.png",
+  "licenses": [],
+  "authors": [
+    "McJty"
+  ],
+  "projectLinks": []
+}

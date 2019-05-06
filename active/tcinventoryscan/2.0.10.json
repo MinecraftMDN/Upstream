@@ -1,0 +1,20 @@
+{
+  "formatVersion": 0,
+  "id": "2.0.10",
+  "releaseType": "",
+  "changelog": "",
+  "side": "universal",
+  "relationships": [],
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://files.forgecdn.net/files/2559/89/ThaumicInventoryScanning_1.12.2-2.0.10.jar"
+    }
+  ],
+  "hashes": {
+    "sha256": "2fa7286fe1ce1e95eb1ccf958cf6e07fca8beddc3d7de7986d390523c75f247c"
+  },
+  "size": 0,
+  "filename": "",
+  "releaseTime": ""
+}

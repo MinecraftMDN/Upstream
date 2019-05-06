@@ -1,0 +1,19 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "astralsorcery",
+  "name": "Astral Sorcery",
+  "description": "Magic mod that draws power from stars and their constellations",
+  "icon": "https://media.forgecdn.net/avatars/88/266/636222656989756330.png",
+  "licenses": [],
+  "authors": [
+    "HellFirePvP",
+    "wiiv"
+  ],
+  "projectLinks": [
+    {
+      "type": "curseforge",
+      "url": "https://minecraft.curseforge.com/projects/astral-sorcery"
+    }
+  ]
+}

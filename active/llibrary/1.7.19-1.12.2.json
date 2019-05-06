@@ -1,0 +1,20 @@
+{
+  "formatVersion": 0,
+  "id": "1.7.19-1.12.2",
+  "releaseType": "",
+  "changelog": "",
+  "side": "universal",
+  "relationships": [],
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://files.forgecdn.net/files/2704/186/llibrary-1.7.19-1.12.2.jar"
+    }
+  ],
+  "hashes": {
+    "sha256": "a374b2cede8fab4585d55e4b11c726f19fd78c03eaf17994e7a501bd47ebeb30"
+  },
+  "size": 0,
+  "filename": "",
+  "releaseTime": ""
+}

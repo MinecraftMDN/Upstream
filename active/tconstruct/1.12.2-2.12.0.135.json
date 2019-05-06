@@ -1,0 +1,20 @@
+{
+  "formatVersion": 0,
+  "id": "1.12.2-2.12.0.135",
+  "releaseType": "",
+  "changelog": "",
+  "side": "universal",
+  "relationships": [],
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://files.forgecdn.net/files/2693/496/TConstruct-1.12.2-2.12.0.135.jar"
+    }
+  ],
+  "hashes": {
+    "sha256": "3412caef8eb999eb80a91606e97d4ebd06650f0b88ec25d8d0e8c6e3058a7008"
+  },
+  "size": 0,
+  "filename": "",
+  "releaseTime": ""
+}

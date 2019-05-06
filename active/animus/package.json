@@ -1,0 +1,19 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "animus",
+  "name": "Animus",
+  "description": "A Blood Magic addon.",
+  "icon": "https://media.forgecdn.net/avatars/152/964/636615207940434955.png",
+  "licenses": [],
+  "authors": [
+    "TeamDman",
+    "Saereth"
+  ],
+  "projectLinks": [
+    {
+      "type": "source",
+      "url": "https://github.com/TeamDman/Animus"
+    }
+  ]
+}

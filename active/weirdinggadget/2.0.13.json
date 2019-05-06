@@ -1,0 +1,20 @@
+{
+  "formatVersion": 0,
+  "id": "2.0.13",
+  "releaseType": "",
+  "changelog": "",
+  "side": "universal",
+  "relationships": [],
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://files.forgecdn.net/files/2660/489/weirdinggadget-1.12.2-2.0.13-universal.jar"
+    }
+  ],
+  "hashes": {
+    "sha256": "2fca8c35b074c5cf25bf97ab126d98436e5a75eb587fc0acdd0bb00bff7f1e04"
+  },
+  "size": 0,
+  "filename": "",
+  "releaseTime": ""
+}

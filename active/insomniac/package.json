@@ -1,0 +1,13 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "insomniac",
+  "name": "Insomniac",
+  "description": "Disables sleeping, but still sets your spawnpoint.",
+  "icon": "https://media.forgecdn.net/avatars/102/920/636334122189722964.png",
+  "licenses": [],
+  "authors": [
+    "Tage"
+  ],
+  "projectLinks": []
+}

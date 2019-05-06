@@ -1,0 +1,20 @@
+{
+  "formatVersion": 0,
+  "id": "0.6.0",
+  "releaseType": "",
+  "changelog": "",
+  "side": "universal",
+  "relationships": [],
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://files.forgecdn.net/files/2616/164/simplylight-0.6.0.jar"
+    }
+  ],
+  "hashes": {
+    "sha256": "c33c8c0db1fe6f1cb8f55796751241758dd44a4273834d364a54814e25b79115"
+  },
+  "size": 0,
+  "filename": "",
+  "releaseTime": ""
+}

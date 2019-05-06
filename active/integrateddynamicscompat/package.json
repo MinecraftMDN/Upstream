@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "integrateddynamicscompat",
+  "name": "Integrated Dynamics",
+  "description": "Take full and automated control of your appliances.",
+  "icon": "https://media.forgecdn.net/avatars/49/396/636077266568975656.png",
+  "licenses": [],
+  "authors": [
+    "rubensworks (aka kroeserr)"
+  ],
+  "projectLinks": [
+    {
+      "type": "curseforge",
+      "url": "https://minecraft.curseforge.com/projects/integrated-dynamics"
+    }
+  ]
+}

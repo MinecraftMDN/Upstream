@@ -1,0 +1,20 @@
+{
+  "formatVersion": 0,
+  "id": "5.4.1.97",
+  "releaseType": "",
+  "changelog": "",
+  "side": "universal",
+  "relationships": [],
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://files.forgecdn.net/files/2703/290/FTBLib-5.4.1.97.jar"
+    }
+  ],
+  "hashes": {
+    "sha256": "94b98ac28239cb93b6982fb875eba83491e22c7edffe99958e137dbc306084fe"
+  },
+  "size": 0,
+  "filename": "",
+  "releaseTime": ""
+}

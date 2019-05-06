@@ -1,0 +1,19 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "gregtech",
+  "name": "GregTech Community Edition",
+  "description": "Finally, the awesome technology of GregTech-Intergalactical can be used in 1.12!",
+  "icon": "https://media.forgecdn.net/avatars/152/395/636611236782166651.png",
+  "licenses": [],
+  "authors": [
+    "Archengius",
+    "Exidex"
+  ],
+  "projectLinks": [
+    {
+      "type": "curseforge",
+      "url": "https://minecraft.curseforge.com/projects/gregtechce"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "extrautils2",
+  "name": "Extra Utilities 2",
+  "description": "A bunch of useful things.",
+  "icon": "https://media.forgecdn.net/avatars/12/80/635515125983340028.png",
+  "licenses": [],
+  "authors": [
+    "RWTema"
+  ],
+  "projectLinks": []
+}

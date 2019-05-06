@@ -1,0 +1,20 @@
+{
+  "formatVersion": 0,
+  "id": "1.7.0.387",
+  "releaseType": "",
+  "changelog": "",
+  "side": "universal",
+  "relationships": [],
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://files.forgecdn.net/files/2697/605/gregtech-1.12.2-1.7.0.387.jar"
+    }
+  ],
+  "hashes": {
+    "sha256": "8fca1d3210bf400d20fcc7067bc7368d7f59c4472c6d70435320ef33a238a94c"
+  },
+  "size": 0,
+  "filename": "",
+  "releaseTime": ""
+}

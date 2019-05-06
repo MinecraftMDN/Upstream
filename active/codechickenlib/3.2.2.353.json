@@ -1,0 +1,20 @@
+{
+  "formatVersion": 0,
+  "id": "3.2.2.353",
+  "releaseType": "",
+  "changelog": "",
+  "side": "universal",
+  "relationships": [],
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://files.forgecdn.net/files/2618/630/CodeChickenLib-1.12.2-3.2.2.353-universal.jar"
+    }
+  ],
+  "hashes": {
+    "sha256": "8be8d7f643447683fbc4c4a83df11a366e736b36f0bc6afc50b30bac20c60bf6"
+  },
+  "size": 0,
+  "filename": "",
+  "releaseTime": ""
+}

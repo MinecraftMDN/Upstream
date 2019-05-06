@@ -1,0 +1,20 @@
+{
+  "formatVersion": 0,
+  "id": "1.12.2-v1b",
+  "releaseType": "",
+  "changelog": "",
+  "side": "client",
+  "relationships": [],
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://files.forgecdn.net/files/2695/961/CleanView-1.12.2-v1b.jar"
+    }
+  ],
+  "hashes": {
+    "sha256": "9b7a7dd0cc9b223ea4e9144503eeed5a19ba8ebd500dd754e8a76d1781a2bf90"
+  },
+  "size": 0,
+  "filename": "",
+  "releaseTime": ""
+}

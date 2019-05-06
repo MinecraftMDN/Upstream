@@ -1,0 +1,20 @@
+{
+  "formatVersion": 0,
+  "id": "1.0.1",
+  "releaseType": "",
+  "changelog": "",
+  "side": "universal",
+  "relationships": [],
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://files.forgecdn.net/files/2674/335/whoops-1.0.1.jar"
+    }
+  ],
+  "hashes": {
+    "sha256": "4c05873a89904e2c3b396cf062c660a44d1d4d3d43f6d2d68821c7a8224a212c"
+  },
+  "size": 0,
+  "filename": "",
+  "releaseTime": ""
+}

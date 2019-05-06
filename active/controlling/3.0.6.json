@@ -1,0 +1,20 @@
+{
+  "formatVersion": 0,
+  "id": "3.0.6",
+  "releaseType": "",
+  "changelog": "",
+  "side": "client",
+  "relationships": [],
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://files.forgecdn.net/files/2522/248/Controlling-3.0.6.jar"
+    }
+  ],
+  "hashes": {
+    "sha256": "08321d66f887d5290bdea5fa61f51d7e2f1517dcf28f81388ff188f76dee72e6"
+  },
+  "size": 0,
+  "filename": "",
+  "releaseTime": ""
+}

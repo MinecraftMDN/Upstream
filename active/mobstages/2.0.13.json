@@ -1,0 +1,20 @@
+{
+  "formatVersion": 0,
+  "id": "2.0.13",
+  "releaseType": "",
+  "changelog": "",
+  "side": "universal",
+  "relationships": [],
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://files.forgecdn.net/files/2644/34/MobStages-1.12.2-2.0.13.jar"
+    }
+  ],
+  "hashes": {
+    "sha256": "25983aec2442255ea1562d4fa32b65d5084de2b30dcf557f0991e03606d7b35b"
+  },
+  "size": 0,
+  "filename": "",
+  "releaseTime": ""
+}

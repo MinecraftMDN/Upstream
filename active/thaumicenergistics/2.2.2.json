@@ -1,0 +1,20 @@
+{
+  "formatVersion": 0,
+  "id": "2.2.2",
+  "releaseType": "",
+  "changelog": "",
+  "side": "universal",
+  "relationships": [],
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://files.forgecdn.net/files/2705/585/thaumicenergistics-2.2.2.jar"
+    }
+  ],
+  "hashes": {
+    "sha256": "ffb46068e38c9c16edca4a865a43e7746d0b29702a5c409befa79e9211bf4c85"
+  },
+  "size": 0,
+  "filename": "",
+  "releaseTime": ""
+}

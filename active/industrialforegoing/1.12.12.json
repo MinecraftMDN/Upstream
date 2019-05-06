@@ -1,0 +1,20 @@
+{
+  "formatVersion": 0,
+  "id": "1.12.12",
+  "releaseType": "",
+  "changelog": "",
+  "side": "universal",
+  "relationships": [],
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://files.forgecdn.net/files/2699/878/industrialforegoing-1.12.2-1.12.12-236.jar"
+    }
+  ],
+  "hashes": {
+    "sha256": "8c9669ac515ee61b3f1a2d4e7ac2cb9f5d43d58ce5f064798b21f10c87470131"
+  },
+  "size": 0,
+  "filename": "",
+  "releaseTime": ""
+}

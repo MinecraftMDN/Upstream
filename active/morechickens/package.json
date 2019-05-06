@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "morechickens",
+  "name": "More Chickens",
+  "description": "Adds Tinkers Construct and Draconic Evolution chickens for Chickens Mod",
+  "icon": "https://media.forgecdn.net/avatars/52/129/636111333541087638.jpeg",
+  "licenses": [],
+  "authors": [
+    "GenDeathrow"
+  ],
+  "projectLinks": [
+    {
+      "type": "curseforge",
+      "url": "https://minecraft.curseforge.com/projects/more-chickens"
+    }
+  ]
+}

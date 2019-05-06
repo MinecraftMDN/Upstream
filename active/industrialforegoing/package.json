@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "industrialforegoing",
+  "name": "Industrial Foregoing",
+  "description": "A small reinvention of Minefactory Reloaded.",
+  "icon": "https://media.forgecdn.net/avatars/156/655/636640433174784536.png",
+  "licenses": [],
+  "authors": [
+    "Buuz135"
+  ],
+  "projectLinks": [
+    {
+      "type": "curseforge",
+      "url": "https://minecraft.curseforge.com/projects/industrial-foregoing"
+    }
+  ]
+}

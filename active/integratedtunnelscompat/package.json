@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "integratedtunnelscompat",
+  "name": "Integrated Tunnels",
+  "description": "Transfer other stuff over Integrated Dynamics networks",
+  "icon": "https://media.forgecdn.net/avatars/52/401/636114555761053412.png",
+  "licenses": [],
+  "authors": [
+    "rubensworks (aka kroeserr)"
+  ],
+  "projectLinks": [
+    {
+      "type": "source",
+      "url": "https://github.com/CyclopsMC/IntegratedTunnels"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "formatVersion": 0,
+  "id": "1.12.2-9.7.2.373",
+  "releaseType": "",
+  "changelog": "",
+  "side": "universal",
+  "relationships": [],
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://files.forgecdn.net/files/2701/541/Mekanism-1.12.2-9.7.2.373.jar"
+    }
+  ],
+  "hashes": {
+    "sha256": "46f9b6b2f7c803a3cacb2aab4099dbb07848c6d85c9aeed8f5755e905c54533b"
+  },
+  "size": 0,
+  "filename": "",
+  "releaseTime": ""
+}

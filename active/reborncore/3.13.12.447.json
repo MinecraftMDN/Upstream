@@ -1,0 +1,20 @@
+{
+  "formatVersion": 0,
+  "id": "3.13.12.447",
+  "releaseType": "",
+  "changelog": "",
+  "side": "universal",
+  "relationships": [],
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://files.forgecdn.net/files/2697/453/RebornCore-1.12.2-3.13.12.447-universal.jar"
+    }
+  ],
+  "hashes": {
+    "sha256": "e96212e6ee70d43fa3c093c67252f3143c25bd30064e1b6ab889853ff9d04899"
+  },
+  "size": 0,
+  "filename": "",
+  "releaseTime": ""
+}

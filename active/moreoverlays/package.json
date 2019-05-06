@@ -1,0 +1,13 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "moreoverlays",
+  "name": "MoreOverlays",
+  "description": "Adds some overlays from NEI (Mob spawns, Chunk Bounds, Item Search)",
+  "icon": "https://media.forgecdn.net/avatars/37/247/635949309418908820.png",
+  "licenses": [],
+  "authors": [
+    "feldim2425"
+  ],
+  "projectLinks": []
+}

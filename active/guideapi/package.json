@@ -1,0 +1,14 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "guideapi",
+  "name": "Guide-API",
+  "description": "Simple mod guide creation.",
+  "icon": "https://media.forgecdn.net/avatars/20/468/635712257569813390.png",
+  "licenses": [],
+  "authors": [
+    "Tombenpotter",
+    "TehNut"
+  ],
+  "projectLinks": []
+}

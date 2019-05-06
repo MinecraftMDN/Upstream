@@ -1,0 +1,19 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "weirdinggadget",
+  "name": "The Weirding Gadget",
+  "description": "No idea what this does, but stuff happens when I\u0027m not here.",
+  "icon": "https://media.forgecdn.net/avatars/87/885/636219293075290488.jpeg",
+  "licenses": [],
+  "authors": [
+    "AtomicBlom",
+    "Rorax"
+  ],
+  "projectLinks": [
+    {
+      "type": "source",
+      "url": "http://github.com/AtomicBlom/WeirdingGadget"
+    }
+  ]
+}

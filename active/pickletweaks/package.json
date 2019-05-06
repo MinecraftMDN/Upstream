@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "pickletweaks",
+  "name": "Pickle Tweaks",
+  "description": "Adds a whole bunch of awesome blocks, items, features, and tweaks!",
+  "icon": "https://media.forgecdn.net/avatars/169/336/636714570726304997.png",
+  "licenses": [],
+  "authors": [
+    "BlakeBr0"
+  ],
+  "projectLinks": [
+    {
+      "type": "curseforge",
+      "url": "https://minecraft.curseforge.com/projects/pickle-tweaks"
+    }
+  ]
+}

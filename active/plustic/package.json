@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "plustic",
+  "name": "PlusTiC",
+  "description": "Add new tools to and integrate various mods with Tinker\u0027s Construct",
+  "icon": "https://media.forgecdn.net/avatars/88/473/636224262762040113.png",
+  "licenses": [],
+  "authors": [
+    "Landmaster (phuong0429)"
+  ],
+  "projectLinks": [
+    {
+      "type": "curseforge",
+      "url": "https://minecraft.curseforge.com/projects/plustic"
+    }
+  ]
+}

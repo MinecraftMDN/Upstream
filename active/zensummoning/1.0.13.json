@@ -1,0 +1,20 @@
+{
+  "formatVersion": 0,
+  "id": "1.0.13",
+  "releaseType": "",
+  "changelog": "",
+  "side": "universal",
+  "relationships": [],
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://files.forgecdn.net/files/2706/217/Zen Summoning-1.12-1.0.13.jar"
+    }
+  ],
+  "hashes": {
+    "sha256": "2466b6650d2a92d42294d454113b74d35553fd5428a78771c2134e9d38bc1459"
+  },
+  "size": 0,
+  "filename": "",
+  "releaseTime": ""
+}

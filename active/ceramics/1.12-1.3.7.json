@@ -1,0 +1,20 @@
+{
+  "formatVersion": 0,
+  "id": "1.12-1.3.7",
+  "releaseType": "",
+  "changelog": "",
+  "side": "universal",
+  "relationships": [],
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://files.forgecdn.net/files/2698/94/Ceramics-1.12-1.3.7.jar"
+    }
+  ],
+  "hashes": {
+    "sha256": "a8fb9f36d8efd5f8d21ed8d84cb8dfacefc3d92f06f4f459b0a618b830c8ee2b"
+  },
+  "size": 0,
+  "filename": "",
+  "releaseTime": ""
+}

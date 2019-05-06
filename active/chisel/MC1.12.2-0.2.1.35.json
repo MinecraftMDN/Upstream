@@ -1,0 +1,20 @@
+{
+  "formatVersion": 0,
+  "id": "MC1.12.2-0.2.1.35",
+  "releaseType": "",
+  "changelog": "",
+  "side": "universal",
+  "relationships": [],
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://files.forgecdn.net/files/2619/468/Chisel-MC1.12.2-0.2.1.35.jar"
+    }
+  ],
+  "hashes": {
+    "sha256": "fb99eff1e1389d88054b1d28245e802becb815388c5bb1946fbbdb60a34c297d"
+  },
+  "size": 0,
+  "filename": "",
+  "releaseTime": ""
+}

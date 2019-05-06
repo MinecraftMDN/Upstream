@@ -1,0 +1,20 @@
+{
+  "formatVersion": 0,
+  "id": "1.7",
+  "releaseType": "",
+  "changelog": "",
+  "side": "universal",
+  "relationships": [],
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://files.forgecdn.net/files/2522/268/Deadly Monsters 1.71.jar"
+    }
+  ],
+  "hashes": {
+    "sha256": "b408368ce1391b47855a9d65fd47dca22c6d5b4a291462d98a2f544aa581c9ce"
+  },
+  "size": 0,
+  "filename": "",
+  "releaseTime": ""
+}

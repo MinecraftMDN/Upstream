@@ -1,0 +1,20 @@
+{
+  "formatVersion": 0,
+  "id": "1.5.3",
+  "releaseType": "",
+  "changelog": "",
+  "side": "client",
+  "relationships": [],
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://files.forgecdn.net/files/2477/566/ResourceLoader-MC1.12.1-1.5.3.jar"
+    }
+  ],
+  "hashes": {
+    "sha256": "5c5ee114dccab5caca1772e3487eca04e161c494baca4d53c8fddf5cf8722e56"
+  },
+  "size": 0,
+  "filename": "",
+  "releaseTime": ""
+}

@@ -1,0 +1,20 @@
+{
+  "formatVersion": 0,
+  "id": "5.0.40",
+  "releaseType": "",
+  "changelog": "",
+  "side": "universal",
+  "relationships": [],
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://files.forgecdn.net/files/2666/512/EnderIO-machines-1.12.2-5.0.40.jar"
+    }
+  ],
+  "hashes": {
+    "sha256": "327847d1b1b7008357134b4cd5d3e53c28144770364101d91d3c56dc41d8163c"
+  },
+  "size": 0,
+  "filename": "",
+  "releaseTime": ""
+}

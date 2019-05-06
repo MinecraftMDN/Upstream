@@ -1,0 +1,20 @@
+{
+  "formatVersion": 0,
+  "id": "1.12.2-7.0.59.842",
+  "releaseType": "",
+  "changelog": "",
+  "side": "universal",
+  "relationships": [],
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://files.forgecdn.net/files/2670/493/ironchest-1.12.2-7.0.59.842.jar"
+    }
+  ],
+  "hashes": {
+    "sha256": "211f849542fa168904562892d0e6f83c612adfaf31d5e3981fe56ebbc54c2bb1"
+  },
+  "size": 0,
+  "filename": "",
+  "releaseTime": ""
+}

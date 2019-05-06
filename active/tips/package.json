@@ -1,0 +1,13 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "tips",
+  "name": "Tips",
+  "description": "Adds information tips to loading screens.",
+  "icon": "https://media.forgecdn.net/avatars/177/637/636772498871598940.png",
+  "licenses": [],
+  "authors": [
+    "Darkhax"
+  ],
+  "projectLinks": []
+}

@@ -1,0 +1,20 @@
+{
+  "formatVersion": 0,
+  "id": "1.12.2-1.4.0",
+  "releaseType": "",
+  "changelog": "",
+  "side": "universal",
+  "relationships": [],
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://files.forgecdn.net/files/2681/867/Hit With Axe-1.12.2-1.4.0.jar"
+    }
+  ],
+  "hashes": {
+    "sha256": "b2c9d471989cda0abc3429ca51862a1618dcdb57e8e226df69b5f2a7f6170fbb"
+  },
+  "size": 0,
+  "filename": "",
+  "releaseTime": ""
+}

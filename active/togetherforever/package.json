@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "togetherforever",
+  "name": "TogetherForever",
+  "description": "A Team API that allows you to sync a bunch of stuff between players",
+  "icon": "https://media.forgecdn.net/avatars/138/632/636522999390235364.png",
+  "licenses": [],
+  "authors": [
+    "Buuz135"
+  ],
+  "projectLinks": [
+    {
+      "type": "website",
+      "url": "https://www.youtube.com/watch?v\u003dyPYZpwSpKmA"
+    }
+  ]
+}

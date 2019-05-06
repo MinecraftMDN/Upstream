@@ -1,0 +1,20 @@
+{
+  "formatVersion": 0,
+  "id": "1.12.2-1.20.2",
+  "releaseType": "",
+  "changelog": "",
+  "side": "universal",
+  "relationships": [],
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://files.forgecdn.net/files/2694/490/artisanworktables-1.12.2-1.20.2.jar"
+    }
+  ],
+  "hashes": {
+    "sha256": "0e9bca8a133d598968b1391391c403ddde8973b5d6698a980a1101c65a22d26d"
+  },
+  "size": 0,
+  "filename": "",
+  "releaseTime": ""
+}

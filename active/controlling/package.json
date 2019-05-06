@@ -1,0 +1,13 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "controlling",
+  "name": "Controlling",
+  "description": "Gives people more Control of the key binding screen.",
+  "icon": "https://media.forgecdn.net/avatars/49/603/636079972364045115.png",
+  "licenses": [],
+  "authors": [
+    "Jaredlll08"
+  ],
+  "projectLinks": []
+}

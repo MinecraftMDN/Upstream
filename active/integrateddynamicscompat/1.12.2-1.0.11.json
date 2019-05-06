@@ -1,0 +1,20 @@
+{
+  "formatVersion": 0,
+  "id": "1.12.2-1.0.11",
+  "releaseType": "",
+  "changelog": "",
+  "side": "universal",
+  "relationships": [],
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://files.forgecdn.net/files/2693/691/IntegratedDynamics-1.12.2-1.0.11.jar"
+    }
+  ],
+  "hashes": {
+    "sha256": "5f90a4f5badb12f63d6eec22b9d55d2a3fcd8e05037d634ebca83ce888304bcf"
+  },
+  "size": 0,
+  "filename": "",
+  "releaseTime": ""
+}

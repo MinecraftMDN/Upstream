@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "enderutilities",
+  "name": "Ender Utilities",
+  "description": "Some random, hopefully fun, and possibly even useful utilities (Modjam 4)",
+  "icon": "https://media.forgecdn.net/avatars/99/846/636310656636977645.jpeg",
+  "licenses": [],
+  "authors": [
+    "masa"
+  ],
+  "projectLinks": [
+    {
+      "type": "curseforge",
+      "url": "http://minecraft.curseforge.com/projects/ender-utilities"
+    }
+  ]
+}

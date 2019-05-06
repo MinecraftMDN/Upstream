@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "betteradvancements",
+  "name": "Better Advancements",
+  "description": "An improvement to the Advancementscreen",
+  "icon": "https://media.forgecdn.net/avatars/106/654/636360849723336023.png",
+  "licenses": [],
+  "authors": [
+    "way2muchnoise"
+  ],
+  "projectLinks": [
+    {
+      "type": "source",
+      "url": "https://github.com/way2muchnoise/BetterAdvancements"
+    }
+  ]
+}

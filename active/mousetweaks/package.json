@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "mousetweaks",
+  "name": "Mouse Tweaks",
+  "description": "A mod that enhances the inventory management by adding various additional functions to the usual mouse buttons.",
+  "icon": "https://media.forgecdn.net/avatars/5/810/635351434144199284.png",
+  "licenses": [],
+  "authors": [
+    "YaLTeR"
+  ],
+  "projectLinks": [
+    {
+      "type": "website",
+      "url": "http://www.minecraftforum.net/topic/1518185-"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "zenstages",
+  "name": "ZenStages",
+  "description": "Advanced CraftTweaker Classes to allow making Staged Modpacks that much easier.",
+  "icon": "https://media.forgecdn.net/avatars/158/227/636651083588153985.png",
+  "licenses": [],
+  "authors": [
+    "artdude543"
+  ],
+  "projectLinks": []
+}

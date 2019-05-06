@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "forgelin",
+  "name": "Shadowfacts\u0027 Forgelin",
+  "description": "Kotlin helper library for Forge.",
+  "icon": "https://media.forgecdn.net/avatars/46/962/636060966562741227.png",
+  "licenses": [],
+  "authors": [
+    "shadowfacts"
+  ],
+  "projectLinks": [
+    {
+      "type": "source",
+      "url": "https://github.com/shadowfacts/Forgelin"
+    }
+  ]
+}

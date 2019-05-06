@@ -1,0 +1,20 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "ctm",
+  "name": "CTM",
+  "description": "Allows resource packs to add connected textures, emissive rendering, and much more.",
+  "icon": "https://media.forgecdn.net/avatars/102/452/636330854499701192.png",
+  "licenses": [],
+  "authors": [
+    "tterrag",
+    "Drullkus",
+    "minecreatr"
+  ],
+  "projectLinks": [
+    {
+      "type": "curseforge",
+      "url": "https://minecraft.curseforge.com/projects/ctm"
+    }
+  ]
+}

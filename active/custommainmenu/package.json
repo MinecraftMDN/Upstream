@@ -1,0 +1,13 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "custommainmenu",
+  "name": "Custom Main Menu",
+  "description": "Allows you to edit the mainmenu using json",
+  "icon": "https://media.forgecdn.net/avatars/13/18/635549180463548679.png",
+  "licenses": [],
+  "authors": [
+    "lumien"
+  ],
+  "projectLinks": []
+}

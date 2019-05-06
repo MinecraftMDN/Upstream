@@ -1,0 +1,15 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "minetogetherserver",
+  "name": "MineTogether",
+  "description": "Mod which allows you to purchase a server in game, view server stats, and invite friends to servers or see public servers!",
+  "icon": "https://media.forgecdn.net/avatars/133/412/636483517549420543.jpeg",
+  "licenses": [],
+  "authors": [
+    "Ellpeck",
+    "Cloudhunter",
+    "K4Unl"
+  ],
+  "projectLinks": []
+}

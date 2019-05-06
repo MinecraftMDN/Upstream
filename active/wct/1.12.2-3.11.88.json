@@ -1,0 +1,20 @@
+{
+  "formatVersion": 0,
+  "id": "1.12.2-3.11.88",
+  "releaseType": "",
+  "changelog": "",
+  "side": "universal",
+  "relationships": [],
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://files.forgecdn.net/files/2654/188/WirelessCraftingTerminal-1.12.2-3.11.88.jar"
+    }
+  ],
+  "hashes": {
+    "sha256": "d1eb1c0d3bdac51b2d0c59182a81dd8eb5f5cc21e5ab679e2ce48d2e58250789"
+  },
+  "size": 0,
+  "filename": "",
+  "releaseTime": ""
+}

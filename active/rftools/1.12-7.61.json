@@ -1,0 +1,20 @@
+{
+  "formatVersion": 0,
+  "id": "1.12-7.61",
+  "releaseType": "",
+  "changelog": "",
+  "side": "universal",
+  "relationships": [],
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://files.forgecdn.net/files/2672/513/rftools-1.12-7.61.jar"
+    }
+  ],
+  "hashes": {
+    "sha256": "202d2dcfad094cb238e954a1e1bf097d720e1c909558b908f304b79796c90ab7"
+  },
+  "size": 0,
+  "filename": "",
+  "releaseTime": ""
+}

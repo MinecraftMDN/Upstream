@@ -1,0 +1,20 @@
+{
+  "formatVersion": 0,
+  "id": "1.12.2-1.14.0",
+  "releaseType": "",
+  "changelog": "",
+  "side": "universal",
+  "relationships": [],
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://files.forgecdn.net/files/2687/727/dropt-1.12.2-1.14.0.jar"
+    }
+  ],
+  "hashes": {
+    "sha256": "4602e8514a61d8554696b988a27d2deb5f504bc8efd67d6fe3d8e2274cb91190"
+  },
+  "size": 0,
+  "filename": "",
+  "releaseTime": ""
+}

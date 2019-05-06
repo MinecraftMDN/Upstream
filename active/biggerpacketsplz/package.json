@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "biggerpacketsplz",
+  "name": "Bigger Packets, please !",
+  "description": "Enable reception of compressed packets bigger than 2097152 bytes.",
+  "icon": "https://media.forgecdn.net/avatars/182/886/636811148388782812.png",
+  "licenses": [],
+  "authors": [
+    "ElNounch"
+  ],
+  "projectLinks": [
+    {
+      "type": "website",
+      "url": "http://mods.mc.elnounch.net/biggerpacketsplz"
+    }
+  ]
+}

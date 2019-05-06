@@ -1,0 +1,13 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "tombmanygraves",
+  "name": "Tomb Many Graves",
+  "description": "A grave mod for the adventurer on the go!",
+  "icon": "https://media.forgecdn.net/avatars/91/881/636250873008737909.png",
+  "licenses": [],
+  "authors": [
+    "M4thG33k, Tiffit"
+  ],
+  "projectLinks": []
+}

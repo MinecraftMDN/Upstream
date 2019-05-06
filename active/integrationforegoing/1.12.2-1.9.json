@@ -1,0 +1,20 @@
+{
+  "formatVersion": 0,
+  "id": "1.12.2-1.9",
+  "releaseType": "",
+  "changelog": "",
+  "side": "universal",
+  "relationships": [],
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://files.forgecdn.net/files/2676/458/IntegrationForegoing-1.12.2-1.9.jar"
+    }
+  ],
+  "hashes": {
+    "sha256": "3aad65ad19c389c3baaae17950ecab808a11c1169f9506122b9a7149e85f7401"
+  },
+  "size": 0,
+  "filename": "",
+  "releaseTime": ""
+}

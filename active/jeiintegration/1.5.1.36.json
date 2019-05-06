@@ -1,0 +1,20 @@
+{
+  "formatVersion": 0,
+  "id": "1.5.1.36",
+  "releaseType": "",
+  "changelog": "",
+  "side": "client",
+  "relationships": [],
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://files.forgecdn.net/files/2491/927/jeiintegration_1.12.2-1.5.1.36.jar"
+    }
+  ],
+  "hashes": {
+    "sha256": "6d5b71ec4a89f86c0265f0057dccb95167a86badd74e68a784e80c99d16b6463"
+  },
+  "size": 0,
+  "filename": "",
+  "releaseTime": ""
+}

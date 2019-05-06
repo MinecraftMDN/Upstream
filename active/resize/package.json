@@ -1,0 +1,13 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "resize",
+  "name": "Resizing Potion",
+  "description": "It adds 2 potions to resize the player.",
+  "icon": "https://media.forgecdn.net/avatars/179/930/636789726431761824.png",
+  "licenses": [],
+  "authors": [
+    "Camellias_"
+  ],
+  "projectLinks": []
+}

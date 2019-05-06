@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "cosmeticarmorreworked",
+  "name": "CosmeticArmorReworked",
+  "description": "This mod allows you to wear two sets of armor, one for display, one for function. You can also hide armor for your skin. For PVP, you can stop the mod from functioning on your client side.",
+  "icon": "https://media.forgecdn.net/avatars/27/600/635812915333870435.png",
+  "licenses": [],
+  "authors": [
+    "zlainsama"
+  ],
+  "projectLinks": [
+    {
+      "type": "source",
+      "url": "https://github.com/zlainsama/cosmeticarmorreworked"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "ceu",
+  "name": "CEU",
+  "description": "simple converter for GTCE EU/FE",
+  "icon": "https://media.forgecdn.net/avatars/169/584/636715935178174791.png",
+  "licenses": [],
+  "authors": [
+    "Tictim"
+  ],
+  "projectLinks": []
+}

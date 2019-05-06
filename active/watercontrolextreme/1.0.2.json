@@ -1,0 +1,20 @@
+{
+  "formatVersion": 0,
+  "id": "1.0.2",
+  "releaseType": "",
+  "changelog": "",
+  "side": "universal",
+  "relationships": [],
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://files.forgecdn.net/files/2555/574/WaterControlExtreme-1.0.2.jar"
+    }
+  ],
+  "hashes": {
+    "sha256": "fc6477d869b8a9a36aeeb4f303414ab6fe46d9f5dfcf23236a091872a6673df7"
+  },
+  "size": 0,
+  "filename": "",
+  "releaseTime": ""
+}

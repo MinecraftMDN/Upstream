@@ -1,0 +1,13 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "simple_trophies",
+  "name": "Simple Trophies",
+  "description": "It adds trophies!",
+  "icon": "https://media.forgecdn.net/avatars/198/367/636899543697125454.png",
+  "licenses": [],
+  "authors": [
+    "quaternary"
+  ],
+  "projectLinks": []
+}

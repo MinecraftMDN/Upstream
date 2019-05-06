@@ -1,0 +1,20 @@
+{
+  "formatVersion": 0,
+  "id": "1.12.2-7.3.0",
+  "releaseType": "",
+  "changelog": "",
+  "side": "universal",
+  "relationships": [],
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://files.forgecdn.net/files/2682/825/MightyEnderChicken-1.12.2-7.3.0.jar"
+    }
+  ],
+  "hashes": {
+    "sha256": "79fbec636adf078e087778c78be592b9d64e8042aa66c9efbac125c838576150"
+  },
+  "size": 0,
+  "filename": "",
+  "releaseTime": ""
+}

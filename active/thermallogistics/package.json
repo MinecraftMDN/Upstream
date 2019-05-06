@@ -1,0 +1,14 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "thermallogistics",
+  "name": "Thermal Logistics",
+  "description": "Logistics Pipes, but servos.",
+  "icon": "https://media.forgecdn.net/avatars/189/181/636849056184187041.png",
+  "licenses": [],
+  "authors": [
+    "Astavie",
+    "Thaumatarge"
+  ],
+  "projectLinks": []
+}

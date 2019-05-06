@@ -1,0 +1,20 @@
+{
+  "formatVersion": 0,
+  "id": "4.6.2.25",
+  "releaseType": "",
+  "changelog": "",
+  "side": "universal",
+  "relationships": [],
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://files.forgecdn.net/files/2669/253/CoFHCore-1.12.2-4.6.2.25-universal.jar"
+    }
+  ],
+  "hashes": {
+    "sha256": "05844d025f1da5c093b8fd3fb8ad24ee0c13fc57e0cba03c6476f1bb71e9a114"
+  },
+  "size": 0,
+  "filename": "",
+  "releaseTime": ""
+}

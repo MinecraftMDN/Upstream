@@ -1,0 +1,13 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "rusticthaumaturgy",
+  "name": "Rustic Thaumaturgy",
+  "description": "A mod that adds some Thaumcraft compatability to Rustic.",
+  "icon": "https://media.forgecdn.net/avatars/169/49/636712849873258614.png",
+  "licenses": [],
+  "authors": [
+    "Voxel-Friend"
+  ],
+  "projectLinks": []
+}

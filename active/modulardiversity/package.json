@@ -1,0 +1,15 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "modulardiversity",
+  "name": "Modular Diversity",
+  "description": "An addon for Modular Machinery",
+  "icon": "https://media.forgecdn.net/avatars/127/989/636443620978138933.png",
+  "licenses": [],
+  "authors": [
+    "BordListian",
+    "DJJBanx",
+    "superfluke"
+  ],
+  "projectLinks": []
+}

@@ -1,0 +1,13 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "diethopper",
+  "name": "Diet Hopper",
+  "description": "Slims down the bounding box of hoppers to allow you to select objects behind it.",
+  "icon": "https://media.forgecdn.net/avatars/123/87/636414183009669862.png",
+  "licenses": [],
+  "authors": [
+    "RWTema"
+  ],
+  "projectLinks": []
+}

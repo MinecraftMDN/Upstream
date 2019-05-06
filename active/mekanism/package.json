@@ -1,0 +1,17 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "mekanism",
+  "name": "Mekanism",
+  "description": "Tools and Machines",
+  "icon": "https://media.forgecdn.net/avatars/100/443/636315325343772572.jpeg",
+  "licenses": [],
+  "authors": [
+    "aidancbrady",
+    "thommy101",
+    "thiakil",
+    "pupnewfster",
+    "dizzyd"
+  ],
+  "projectLinks": []
+}

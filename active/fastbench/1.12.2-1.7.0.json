@@ -1,0 +1,20 @@
+{
+  "formatVersion": 0,
+  "id": "1.12.2-1.7.0",
+  "releaseType": "",
+  "changelog": "",
+  "side": "universal",
+  "relationships": [],
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://files.forgecdn.net/files/2702/816/FastWorkbench-1.12.2-1.7.0.jar"
+    }
+  ],
+  "hashes": {
+    "sha256": "f81cd25435251bf414d8c6ab3c8e309f7111e8fe3d912b7c504ae8b0e03e0aeb"
+  },
+  "size": 0,
+  "filename": "",
+  "releaseTime": ""
+}

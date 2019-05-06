@@ -1,0 +1,20 @@
+{
+  "formatVersion": 0,
+  "id": "4.4a",
+  "releaseType": "",
+  "changelog": "",
+  "side": "universal",
+  "relationships": [],
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://files.forgecdn.net/files/2702/97/Rustic Thaumaturgy-4.4a.jar"
+    }
+  ],
+  "hashes": {
+    "sha256": "28aa5dc41a9d242108daae70d7e4bbf70a910e80b7ea3f1516e3b290354ad7ba"
+  },
+  "size": 0,
+  "filename": "",
+  "releaseTime": ""
+}

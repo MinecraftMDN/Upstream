@@ -1,0 +1,20 @@
+{
+  "formatVersion": 0,
+  "id": "1.12.2-1.2.3",
+  "releaseType": "",
+  "changelog": "",
+  "side": "universal",
+  "relationships": [],
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://files.forgecdn.net/files/2682/612/baubley-heart-canisters-1.12.2-1.2.3.jar"
+    }
+  ],
+  "hashes": {
+    "sha256": "b2e129185202de96c29d6a3d05666f9aa162404c91d20957a2cf71f8f575abab"
+  },
+  "size": 0,
+  "filename": "",
+  "releaseTime": ""
+}

@@ -1,0 +1,20 @@
+{
+  "formatVersion": 0,
+  "id": "1.12-3.1.1",
+  "releaseType": "",
+  "changelog": "",
+  "side": "universal",
+  "relationships": [],
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://files.forgecdn.net/files/2660/396/mcjtylib-1.12-3.1.1.jar"
+    }
+  ],
+  "hashes": {
+    "sha256": "cc721f3f8dc056674fa985fa08d609defdc1a7de9c76cdd77763e7746e4cb995"
+  },
+  "size": 0,
+  "filename": "",
+  "releaseTime": ""
+}

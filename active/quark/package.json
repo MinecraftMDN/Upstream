@@ -1,0 +1,19 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "quark",
+  "name": "Quark",
+  "description": "Small things.",
+  "icon": "https://media.forgecdn.net/avatars/36/643/635941051938350675.png",
+  "licenses": [],
+  "authors": [
+    "Vazkii",
+    "wiiv"
+  ],
+  "projectLinks": [
+    {
+      "type": "website",
+      "url": "http://www.vazkii.us"
+    }
+  ]
+}

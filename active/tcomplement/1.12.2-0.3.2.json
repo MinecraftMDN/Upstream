@@ -1,0 +1,20 @@
+{
+  "formatVersion": 0,
+  "id": "1.12.2-0.3.2",
+  "releaseType": "",
+  "changelog": "",
+  "side": "universal",
+  "relationships": [],
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://files.forgecdn.net/files/2694/525/TinkersComplement-1.12.2-0.3.2.jar"
+    }
+  ],
+  "hashes": {
+    "sha256": "90fa979093a35b8aa3062943446d15e7e9493dad64f72fee4d5a31b55dca68d3"
+  },
+  "size": 0,
+  "filename": "",
+  "releaseTime": ""
+}

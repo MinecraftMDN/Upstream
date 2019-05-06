@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "harvestcraft",
+  "name": "Pam\u0027s HarvestCraft",
+  "description": "Expanding minecraft\u0027s food system.",
+  "icon": "https://media.forgecdn.net/avatars/8/22/635395662875748995.png",
+  "licenses": [],
+  "authors": [
+    "Pamela Collins"
+  ],
+  "projectLinks": [
+    {
+      "type": "curseforge",
+      "url": "http://minecraft.curseforge.com/members/MatrexsVigil/projects"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "formatVersion": 0,
+  "id": "1.8.2",
+  "releaseType": "",
+  "changelog": "",
+  "side": "universal",
+  "relationships": [],
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://files.forgecdn.net/files/2640/952/Forgelin-1.8.2.jar"
+    }
+  ],
+  "hashes": {
+    "sha256": "4192515f03b7c7132cca8adfcb9dc6bc0c3d50714582f2c5290d673485b8737d"
+  },
+  "size": 0,
+  "filename": "",
+  "releaseTime": ""
+}

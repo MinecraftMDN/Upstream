@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "waterstrainer",
+  "name": "Water Strainer",
+  "description": "Adds water strainers to filter water for common resources.",
+  "icon": "https://media.forgecdn.net/avatars/44/253/636029866620168433.png",
+  "licenses": [],
+  "authors": [
+    "Ruuubi"
+  ],
+  "projectLinks": [
+    {
+      "type": "curseforge",
+      "url": "http://minecraft.curseforge.com/projects/water-strainer"
+    }
+  ]
+}

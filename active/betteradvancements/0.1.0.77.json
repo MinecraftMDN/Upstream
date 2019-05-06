@@ -1,0 +1,20 @@
+{
+  "formatVersion": 0,
+  "id": "0.1.0.77",
+  "releaseType": "",
+  "changelog": "",
+  "side": "client",
+  "relationships": [],
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://files.forgecdn.net/files/2685/984/BetterAdvancements-1.12.2-0.1.0.77.jar"
+    }
+  ],
+  "hashes": {
+    "sha256": "c70cda15d9c76cc79423399c1002977d6dfcc229128b33b87f25d5b4238bea34"
+  },
+  "size": 0,
+  "filename": "",
+  "releaseTime": ""
+}

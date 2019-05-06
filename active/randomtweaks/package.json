@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "randomtweaks",
+  "name": "RandomTweaks",
+  "description": "A bunch of miscellaneous tweaks for Minecraft.",
+  "icon": "https://media.forgecdn.net/avatars/86/874/636211726646572646.png",
+  "licenses": [],
+  "authors": [
+    "TheRandomLabs"
+  ],
+  "projectLinks": [
+    {
+      "type": "curseforge",
+      "url": "https://minecraft.curseforge.com/projects/randomtweaks"
+    }
+  ]
+}

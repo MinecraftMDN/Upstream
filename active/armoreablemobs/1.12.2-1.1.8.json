@@ -1,0 +1,20 @@
+{
+  "formatVersion": 0,
+  "id": "1.12.2-1.1.8",
+  "releaseType": "",
+  "changelog": "",
+  "side": "universal",
+  "relationships": [],
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://files.forgecdn.net/files/2696/448/armoreablemobs-1.12.2-1.1.8.jar"
+    }
+  ],
+  "hashes": {
+    "sha256": "3e1125ebc1cf5cb659e8548552460dfbbb85c866d8df13f0f780d3a1f4adb1f1"
+  },
+  "size": 0,
+  "filename": "",
+  "releaseTime": ""
+}

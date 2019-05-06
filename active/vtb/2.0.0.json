@@ -1,0 +1,19 @@
+{
+  "formatVersion": 0,
+  "id": "2.0.0",
+  "releaseType": "",
+  "changelog": "",
+  "relationships": [],
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://files.forgecdn.net/files/2571/285/VillagerTradingBan-2.0.0.6-universal.jar"
+    }
+  ],
+  "hashes": {
+    "sha256": "d77b969c85e2705ccade9ac16c7a9d1bd5fbe3745b5f6c96b1e8c3c401b9f513"
+  },
+  "size": 0,
+  "filename": "",
+  "releaseTime": ""
+}

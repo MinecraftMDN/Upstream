@@ -1,0 +1,20 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "mantle",
+  "name": "Mantle",
+  "description": "Shared code for Slime Knights mods and others.",
+  "icon": "https://media.forgecdn.net/avatars/5/796/635351433944342580.png",
+  "licenses": [],
+  "authors": [
+    "boni",
+    "progWML6",
+    "Alexbegt"
+  ],
+  "projectLinks": [
+    {
+      "type": "source",
+      "url": "https://github.com/SlimeKnights/Mantle"
+    }
+  ]
+}

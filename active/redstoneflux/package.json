@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "redstoneflux",
+  "name": "Redstone Flux",
+  "description": "The Redstone Flux API - the cornerstone of Energy Transfer in modded Minecraft since 1.6.4.",
+  "icon": "https://media.forgecdn.net/avatars/105/500/636353215194575027.png",
+  "licenses": [],
+  "authors": [
+    "Team CoFH"
+  ],
+  "projectLinks": [
+    {
+      "type": "website",
+      "url": "http://www.teamcofh.com"
+    }
+  ]
+}

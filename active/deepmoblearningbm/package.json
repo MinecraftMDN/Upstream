@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "deepmoblearningbm",
+  "name": "Deep Mob Learning - Blood Magic Addon",
+  "description": "Need blood? We got ya fam.",
+  "icon": "https://media.forgecdn.net/avatars/160/614/636666750686247023.png",
+  "licenses": [],
+  "authors": [
+    "xt9 (IterationFunk)"
+  ],
+  "projectLinks": [
+    {
+      "type": "curseforge",
+      "url": "https://minecraft.curseforge.com/projects/deep-mob-learning"
+    }
+  ]
+}

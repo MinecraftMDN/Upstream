@@ -1,0 +1,20 @@
+{
+  "formatVersion": 0,
+  "id": "1.12.2-4.9.1",
+  "releaseType": "",
+  "changelog": "",
+  "side": "universal",
+  "relationships": [],
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://files.forgecdn.net/files/2652/853/ContentTweaker-1.12.2-4.9.1.jar"
+    }
+  ],
+  "hashes": {
+    "sha256": "f8b1919ac7f4e191d2c81ccba28d0a01fc5523b8aa905e0df7230e0ff8293e5a"
+  },
+  "size": 0,
+  "filename": "",
+  "releaseTime": ""
+}

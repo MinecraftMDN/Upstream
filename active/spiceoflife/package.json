@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "spiceoflife",
+  "name": "The Spice of Life",
+  "description": "Encourages dietary variety through diminishing returns.",
+  "icon": "https://media.forgecdn.net/avatars/6/739/635367511211652368.png",
+  "licenses": [],
+  "authors": [
+    "squeek"
+  ],
+  "projectLinks": [
+    {
+      "type": "website",
+      "url": "http://www.minecraftforum.net/topic/2688857-"
+    }
+  ]
+}

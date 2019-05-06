@@ -1,0 +1,21 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "openblocks",
+  "name": "OpenBlocks",
+  "description": "All the things you never thought you will ever need",
+  "icon": "https://media.forgecdn.net/avatars/15/500/635627202701062350.png",
+  "licenses": [],
+  "authors": [
+    "Mikee",
+    "NeverCast",
+    "boq",
+    "Lyqyd"
+  ],
+  "projectLinks": [
+    {
+      "type": "website",
+      "url": "http://openmods.info/"
+    }
+  ]
+}

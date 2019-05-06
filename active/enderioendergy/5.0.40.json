@@ -1,0 +1,20 @@
+{
+  "formatVersion": 0,
+  "id": "5.0.40",
+  "releaseType": "",
+  "changelog": "",
+  "side": "universal",
+  "relationships": [],
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://files.forgecdn.net/files/2666/520/EnderIO-endergy-1.12.2-5.0.40.jar"
+    }
+  ],
+  "hashes": {
+    "sha256": "318423da4ffa3f721fbb4035abe9d415f071834588b44ae113f8770c9c82dd0a"
+  },
+  "size": 0,
+  "filename": "",
+  "releaseTime": ""
+}

@@ -1,0 +1,13 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "tcinventoryscan",
+  "name": "Thaumcrafft Inventory Scanning",
+  "description": "Allows hovering over items in inventories while holding a Thaumometer to scan them.",
+  "icon": "https://media.forgecdn.net/avatars/28/714/635832636215628067.png",
+  "licenses": [],
+  "authors": [
+    "BlayTheNinth"
+  ],
+  "projectLinks": []
+}

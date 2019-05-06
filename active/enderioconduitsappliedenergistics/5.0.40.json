@@ -1,0 +1,20 @@
+{
+  "formatVersion": 0,
+  "id": "5.0.40",
+  "releaseType": "",
+  "changelog": "",
+  "side": "universal",
+  "relationships": [],
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://files.forgecdn.net/files/2666/514/EnderIO-conduits-appliedenergistics-1.12.2-5.0.40.jar"
+    }
+  ],
+  "hashes": {
+    "sha256": "886f2e3b952ca3abfa226786c6b7e5123d597bd4d8067ef6f1277029836e9537"
+  },
+  "size": 0,
+  "filename": "",
+  "releaseTime": ""
+}

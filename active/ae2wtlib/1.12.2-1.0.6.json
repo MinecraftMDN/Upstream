@@ -1,0 +1,20 @@
+{
+  "formatVersion": 0,
+  "id": "1.12.2-1.0.6",
+  "releaseType": "",
+  "changelog": "",
+  "side": "universal",
+  "relationships": [],
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://files.forgecdn.net/files/2653/753/AE2WTLib-1.12.2-1.0.6.jar"
+    }
+  ],
+  "hashes": {
+    "sha256": "82887eb6adb63b5fef5b0c996dba5c479ac3e2bfea5b56859f0546a8bc1a7eaf"
+  },
+  "size": 0,
+  "filename": "",
+  "releaseTime": ""
+}

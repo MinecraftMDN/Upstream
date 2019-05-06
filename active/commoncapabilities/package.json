@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "commoncapabilities",
+  "name": "CommonCapabilities",
+  "description": "Forge Capabilities that can be shared by multiple mods",
+  "icon": "https://media.forgecdn.net/avatars/44/386/636031220874205150.png",
+  "licenses": [],
+  "authors": [
+    "rubensworks (aka kroeserr)"
+  ],
+  "projectLinks": [
+    {
+      "type": "source",
+      "url": "https://github.com/CyclopsMC/CommonCapabilities"
+    }
+  ]
+}

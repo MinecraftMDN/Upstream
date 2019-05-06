@@ -1,0 +1,20 @@
+{
+  "formatVersion": 0,
+  "id": "1.1",
+  "releaseType": "",
+  "changelog": "",
+  "side": "universal",
+  "relationships": [],
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://files.forgecdn.net/files/2621/368/Modular Diversity-1.1.jar"
+    }
+  ],
+  "hashes": {
+    "sha256": "76f2ac69c2d8520bca373fbe2594e56e0b872c90c9d82eab2e12e7a1ddd3ba5e"
+  },
+  "size": 0,
+  "filename": "",
+  "releaseTime": ""
+}

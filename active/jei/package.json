@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "jei",
+  "name": "Just Enough Items",
+  "description": "Simple recipe and item helper.",
+  "icon": "https://media.forgecdn.net/avatars/29/69/635838945588716414.jpeg",
+  "licenses": [],
+  "authors": [
+    "mezz"
+  ],
+  "projectLinks": [
+    {
+      "type": "source",
+      "url": "https://github.com/mezz/JustEnoughItems"
+    }
+  ]
+}

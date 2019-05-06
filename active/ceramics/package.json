@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "ceramics",
+  "name": "Ceramics",
+  "description": "Adds a few early game items based on baking clay",
+  "icon": "https://media.forgecdn.net/avatars/52/4/636110401725397051.png",
+  "licenses": [],
+  "authors": [
+    "KnightMiner"
+  ],
+  "projectLinks": [
+    {
+      "type": "curseforge",
+      "url": "https://minecraft.curseforge.com/projects/ceramics"
+    }
+  ]
+}

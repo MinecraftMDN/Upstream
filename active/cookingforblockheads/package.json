@@ -1,0 +1,13 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "cookingforblockheads",
+  "name": "Cooking for Blockheads",
+  "description": "Adds a cooking book and multiblock kitchens that only shows recipes you can make with what you currently have in your inventory.",
+  "icon": "https://media.forgecdn.net/avatars/19/465/635695679965732511.png",
+  "licenses": [],
+  "authors": [
+    "BlayTheNinth"
+  ],
+  "projectLinks": []
+}

@@ -1,0 +1,20 @@
+{
+  "formatVersion": 0,
+  "id": "4.0.17",
+  "releaseType": "",
+  "changelog": "",
+  "side": "universal",
+  "relationships": [],
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://files.forgecdn.net/files/2693/544/modtweaker-4.0.17.jar"
+    }
+  ],
+  "hashes": {
+    "sha256": "d13d8dd6318eedffc046f0633371f72b93c4f4e5a92f9147b706ada7e27f2f6d"
+  },
+  "size": 0,
+  "filename": "",
+  "releaseTime": ""
+}

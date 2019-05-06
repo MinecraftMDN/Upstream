@@ -1,0 +1,20 @@
+{
+  "formatVersion": 0,
+  "id": "1.12.2-1.10.17",
+  "releaseType": "",
+  "changelog": "",
+  "side": "universal",
+  "relationships": [],
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://files.forgecdn.net/files/2701/235/astralsorcery-1.12.2-1.10.17.jar"
+    }
+  ],
+  "hashes": {
+    "sha256": "2652db80e61a07fcb9c8f9ec08c155b9c9b3507048cb17940c3541065c6224c1"
+  },
+  "size": 0,
+  "filename": "",
+  "releaseTime": ""
+}

@@ -1,0 +1,13 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "botania_tweaks",
+  "name": "Botania Tweaks",
+  "description": "Small tweaks to Botania for packmakers and players.",
+  "icon": "https://media.forgecdn.net/avatars/198/357/636899542330877882.png",
+  "licenses": [],
+  "authors": [
+    "quaternary"
+  ],
+  "projectLinks": []
+}

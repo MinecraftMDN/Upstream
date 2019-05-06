@@ -1,0 +1,20 @@
+{
+  "formatVersion": 0,
+  "id": "1.0.0",
+  "releaseType": "",
+  "changelog": "",
+  "side": "universal",
+  "relationships": [],
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://files.forgecdn.net/files/2432/201/itlt-1.12-1.0.0.jar"
+    }
+  ],
+  "hashes": {
+    "sha256": "4f29957049a07d9123307dbacf9b4e954948495d355e319ef375bb9d33b1b032"
+  },
+  "size": 0,
+  "filename": "",
+  "releaseTime": ""
+}

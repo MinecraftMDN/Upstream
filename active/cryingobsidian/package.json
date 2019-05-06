@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "cryingobsidian",
+  "name": "Crying Obsidian",
+  "description": "Crying Obsidian was intended to be a block that can change your spawn point, but it was never added to the game. This mod implements this block and adds an item version of it.",
+  "icon": "https://media.forgecdn.net/avatars/53/649/636127114772259039.png",
+  "licenses": [],
+  "authors": [
+    "ErrorCraftLP"
+  ],
+  "projectLinks": [
+    {
+      "type": "curseforge",
+      "url": "https://minecraft.curseforge.com/projects/crying-obsidian"
+    }
+  ]
+}

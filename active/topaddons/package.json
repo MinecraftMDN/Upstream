@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "topaddons",
+  "name": "TOP Addons",
+  "description": "TheOneProbe support for some mods.",
+  "icon": "https://media.forgecdn.net/avatars/44/562/636033342690526889.jpeg",
+  "licenses": [],
+  "authors": [
+    "DrManganese"
+  ],
+  "projectLinks": [
+    {
+      "type": "website",
+      "url": "drmanganese.github.io"
+    }
+  ]
+}

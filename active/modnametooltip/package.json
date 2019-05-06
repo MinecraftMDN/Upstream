@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "modnametooltip",
+  "name": "Mod Name Tooltip",
+  "description": "Shows the mod an ItemStack is from on its tooltip.",
+  "icon": "https://media.forgecdn.net/avatars/29/943/635853960312359636.png",
+  "licenses": [],
+  "authors": [
+    "mezz"
+  ],
+  "projectLinks": [
+    {
+      "type": "source",
+      "url": "https://github.com/mezz/ModNameTooltip"
+    }
+  ]
+}

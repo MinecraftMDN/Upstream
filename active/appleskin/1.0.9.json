@@ -1,0 +1,20 @@
+{
+  "formatVersion": 0,
+  "id": "1.0.9",
+  "releaseType": "",
+  "changelog": "",
+  "side": "universal",
+  "relationships": [],
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://files.forgecdn.net/files/2496/585/AppleSkin-mc1.12-1.0.9.jar"
+    }
+  ],
+  "hashes": {
+    "sha256": "9bff732c18adf82c4410a827b35d43b68b979f9ede6c2108b6b97550cf386188"
+  },
+  "size": 0,
+  "filename": "",
+  "releaseTime": ""
+}

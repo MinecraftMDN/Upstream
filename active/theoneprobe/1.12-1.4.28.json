@@ -1,0 +1,20 @@
+{
+  "formatVersion": 0,
+  "id": "1.12-1.4.28",
+  "releaseType": "",
+  "changelog": "",
+  "side": "universal",
+  "relationships": [],
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://files.forgecdn.net/files/2667/280/theoneprobe-1.12-1.4.28.jar"
+    }
+  ],
+  "hashes": {
+    "sha256": "f3e5048dbe58f37f98f8130886ede880ac5b3333ee73cae2381c337e500c4bd1"
+  },
+  "size": 0,
+  "filename": "",
+  "releaseTime": ""
+}

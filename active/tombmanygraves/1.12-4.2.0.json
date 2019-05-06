@@ -1,0 +1,20 @@
+{
+  "formatVersion": 0,
+  "id": "1.12-4.2.0",
+  "releaseType": "",
+  "changelog": "",
+  "side": "universal",
+  "relationships": [],
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://files.forgecdn.net/files/2619/249/TombManyGraves-1.12-4.2.0.jar"
+    }
+  ],
+  "hashes": {
+    "sha256": "3fef07b3124a16250645c9549b9b67e0a85dde29b5b27b16d33581b531f25fce"
+  },
+  "size": 0,
+  "filename": "",
+  "releaseTime": ""
+}

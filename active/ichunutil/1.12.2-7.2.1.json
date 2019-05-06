@@ -1,0 +1,20 @@
+{
+  "formatVersion": 0,
+  "id": "1.12.2-7.2.1",
+  "releaseType": "",
+  "changelog": "",
+  "side": "universal",
+  "relationships": [],
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://files.forgecdn.net/files/2684/0/iChunUtil-1.12.2-7.2.1.jar"
+    }
+  ],
+  "hashes": {
+    "sha256": "94e581bb8e52400aac9e9a53045850ce0b8af44b7df3eeb56d0101c344f69323"
+  },
+  "size": 0,
+  "filename": "",
+  "releaseTime": ""
+}

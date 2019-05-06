@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "randomthings",
+  "name": "Random Things",
+  "description": "Random Things packed into one Mod.",
+  "icon": "https://media.forgecdn.net/avatars/3/151/635351422076375704.png",
+  "licenses": [],
+  "authors": [
+    "Lumien"
+  ],
+  "projectLinks": [
+    {
+      "type": "curseforge",
+      "url": "http://minecraft.curseforge.com/mc-mods/59816-random-things"
+    }
+  ]
+}

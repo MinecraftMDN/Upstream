@@ -1,0 +1,13 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "jee",
+  "name": "Just Enough Energistics",
+  "description": "Adds a JEI Recipe Transfer Handler to AE2\u0027s Pattern Terminal",
+  "icon": "https://media.forgecdn.net/avatars/185/26/636824950470040787.png",
+  "licenses": [],
+  "authors": [
+    "TheRealp455w0rd"
+  ],
+  "projectLinks": []
+}

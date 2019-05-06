@@ -1,0 +1,21 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "enderiointegrationticlate",
+  "name": "Ender IO Integration with Tinkers\u0027 Construct",
+  "description": "I\u0027m melting!",
+  "icon": "https://media.forgecdn.net/avatars/159/677/636660528231565543.png",
+  "licenses": [],
+  "authors": [
+    "CrazyPants",
+    "tterrag",
+    "HenryLoenwind",
+    "EpicSquid"
+  ],
+  "projectLinks": [
+    {
+      "type": "website",
+      "url": "http://enderio.com"
+    }
+  ]
+}

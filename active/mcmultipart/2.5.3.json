@@ -1,0 +1,20 @@
+{
+  "formatVersion": 0,
+  "id": "2.5.3",
+  "releaseType": "",
+  "changelog": "",
+  "side": "universal",
+  "relationships": [],
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://files.forgecdn.net/files/2615/930/MCMultiPart-2.5.3.jar"
+    }
+  ],
+  "hashes": {
+    "sha256": "ce28db33cfdca80c98dfbb2e5928a5f090477897fa6d28a37300d5564617fde2"
+  },
+  "size": 0,
+  "filename": "",
+  "releaseTime": ""
+}

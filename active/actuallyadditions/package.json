@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "actuallyadditions",
+  "name": "Actually Additions",
+  "description": "Do you want Automation? Wireless Transport? Better Machines? A cup o\u0027 Coffee? Chests? Better Hoppers? Leaf Blowers? Faster Growth? Plants? Well, Actually Additions has all that and a lot more!",
+  "icon": "https://media.forgecdn.net/avatars/43/130/636017838645578016.png",
+  "licenses": [],
+  "authors": [
+    "Ellpeck"
+  ],
+  "projectLinks": [
+    {
+      "type": "source",
+      "url": "http://github.com/Ellpeck/ActuallyAdditions"
+    }
+  ]
+}

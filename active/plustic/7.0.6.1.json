@@ -1,0 +1,20 @@
+{
+  "formatVersion": 0,
+  "id": "7.0.6.1",
+  "releaseType": "",
+  "changelog": "",
+  "side": "universal",
+  "relationships": [],
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://files.forgecdn.net/files/2703/537/plustic-7.0.6.1.jar"
+    }
+  ],
+  "hashes": {
+    "sha256": "54b10d87c1dae3706508b28cbf1e3204971388f72625ee8921e154bffc8b7065"
+  },
+  "size": 0,
+  "filename": "",
+  "releaseTime": ""
+}

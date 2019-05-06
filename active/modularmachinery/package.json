@@ -1,0 +1,19 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "modularmachinery",
+  "name": "Modular Machinery",
+  "description": "A modpack-maker toolset to create custom, massive, unique and complex machines and recipes from scratch with JSON.\n\nWiki: https://github.com/HellFirePvP/ModularMachinery/wiki",
+  "icon": "https://media.forgecdn.net/avatars/105/746/636355138724226725.png",
+  "licenses": [],
+  "authors": [
+    "HellFirePvP",
+    "wiiv"
+  ],
+  "projectLinks": [
+    {
+      "type": "curseforge",
+      "url": "https://minecraft.curseforge.com/projects/modular-machinery"
+    }
+  ]
+}

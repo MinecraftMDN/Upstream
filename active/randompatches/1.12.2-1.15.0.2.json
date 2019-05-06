@@ -1,0 +1,20 @@
+{
+  "formatVersion": 0,
+  "id": "1.12.2-1.15.0.2",
+  "releaseType": "",
+  "changelog": "",
+  "side": "universal",
+  "relationships": [],
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://files.forgecdn.net/files/2687/902/randompatches-1.12.2-1.15.0.2.jar"
+    }
+  ],
+  "hashes": {
+    "sha256": "1c3762ad3026c8e33c2ad406d09f7b73f06e953f4ce37fc21ba0e2396dadb795"
+  },
+  "size": 0,
+  "filename": "",
+  "releaseTime": ""
+}

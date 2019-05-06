@@ -1,0 +1,13 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "plants2",
+  "name": "Plants",
+  "description": "Every plant known to man.  Well, almost.",
+  "icon": "https://media.forgecdn.net/avatars/87/277/636214208243004734.png",
+  "licenses": [],
+  "authors": [
+    "Shadows_of_Fire"
+  ],
+  "projectLinks": []
+}

@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "mobstages",
+  "name": "Mob Stages",
+  "description": "Allows mob spawning to be gated behind custom progression.",
+  "icon": "https://media.forgecdn.net/avatars/122/946/636413751494109116.png",
+  "licenses": [],
+  "authors": [
+    "Darkhax"
+  ],
+  "projectLinks": [
+    {
+      "type": "curseforge",
+      "url": "https://minecraft.curseforge.com/projects/mob-stages"
+    }
+  ]
+}

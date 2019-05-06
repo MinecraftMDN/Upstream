@@ -1,0 +1,20 @@
+{
+  "formatVersion": 0,
+  "id": "1.12.2-0.0.9",
+  "releaseType": "",
+  "changelog": "",
+  "side": "universal",
+  "relationships": [],
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://files.forgecdn.net/files/2688/260/LootTweaker-1.12.2-0.0.9.jar"
+    }
+  ],
+  "hashes": {
+    "sha256": "d3cdae654e8eda1a552e46d3668df59193d30c3e30a9347bb204cf25dae251d4"
+  },
+  "size": 0,
+  "filename": "",
+  "releaseTime": ""
+}

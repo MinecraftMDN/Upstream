@@ -1,0 +1,20 @@
+{
+  "formatVersion": 0,
+  "id": "1.0.10",
+  "releaseType": "",
+  "changelog": "",
+  "side": "client",
+  "relationships": [],
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://files.forgecdn.net/files/2704/488/Discord-1.12.2-1.0.10.jar"
+    }
+  ],
+  "hashes": {
+    "sha256": "13d38dc9f654b14b762238ccaadcd5ceaa8f76a6fa0dc6e50644cd3e50829f38"
+  },
+  "size": 0,
+  "filename": "",
+  "releaseTime": ""
+}

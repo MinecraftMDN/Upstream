@@ -1,0 +1,20 @@
+{
+  "formatVersion": 0,
+  "id": "3.0.6",
+  "releaseType": "",
+  "changelog": "",
+  "side": "universal",
+  "relationships": [],
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://files.forgecdn.net/files/2684/561/MTLib-3.0.6.jar"
+    }
+  ],
+  "hashes": {
+    "sha256": "298fc0109614f567db4759a9709436924aa2ed20c55a8370a139f0af1ad9f109"
+  },
+  "size": 0,
+  "filename": "",
+  "releaseTime": ""
+}

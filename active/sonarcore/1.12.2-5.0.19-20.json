@@ -1,0 +1,20 @@
+{
+  "formatVersion": 0,
+  "id": "1.12.2-5.0.19-20",
+  "releaseType": "",
+  "changelog": "",
+  "side": "universal",
+  "relationships": [],
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://files.forgecdn.net/files/2645/156/sonarcore-1.12.2-5.0.19-20.jar"
+    }
+  ],
+  "hashes": {
+    "sha256": "d3c5c5c1e3e09c6c7b49fc6505aad57c1ca0e76a8e5396acabf6123e8c96fa58"
+  },
+  "size": 0,
+  "filename": "",
+  "releaseTime": ""
+}

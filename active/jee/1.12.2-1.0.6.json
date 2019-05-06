@@ -1,0 +1,20 @@
+{
+  "formatVersion": 0,
+  "id": "1.12.2-1.0.6",
+  "releaseType": "",
+  "changelog": "",
+  "side": "universal",
+  "relationships": [],
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://files.forgecdn.net/files/2663/371/JustEnoughEnergistics-1.12.2-1.0.6.jar"
+    }
+  ],
+  "hashes": {
+    "sha256": "e03741416d91e19a64cee363863d5d77855ac4f62605590e9a53d9d6cc1108b5"
+  },
+  "size": 0,
+  "filename": "",
+  "releaseTime": ""
+}

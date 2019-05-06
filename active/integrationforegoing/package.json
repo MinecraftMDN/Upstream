@@ -1,0 +1,19 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "integrationforegoing",
+  "name": "Integration Foregoing",
+  "description": "An addon mod for Industrial Foregoing!",
+  "icon": "https://media.forgecdn.net/avatars/152/272/636610312198110630.png",
+  "licenses": [],
+  "authors": [
+    "Jackyy",
+    "Buuz135"
+  ],
+  "projectLinks": [
+    {
+      "type": "source",
+      "url": "https://github.com/JackyyTV/IntegrationForegoing"
+    }
+  ]
+}

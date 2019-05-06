@@ -1,0 +1,20 @@
+{
+  "formatVersion": 0,
+  "id": "1.12-1.1.2-16",
+  "releaseType": "",
+  "changelog": "",
+  "side": "universal",
+  "relationships": [],
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://files.forgecdn.net/files/2691/117/HotOrNot-1.12-1.1.2-16.jar"
+    }
+  ],
+  "hashes": {
+    "sha256": "5b368710ede52814da4dcd0bfa743a7b8e15f3b01016eb6fcf2ee6df81c60d48"
+  },
+  "size": 0,
+  "filename": "",
+  "releaseTime": ""
+}

@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "baubles",
+  "name": "Baubles",
+  "description": "Adding a touch of bling to Minecraft",
+  "icon": "https://media.forgecdn.net/avatars/13/646/635570985817200602.png",
+  "licenses": [],
+  "authors": [
+    "Azanor"
+  ],
+  "projectLinks": [
+    {
+      "type": "website",
+      "url": "http://www.minecraftforum.net/topic/2535073-baubles"
+    }
+  ]
+}

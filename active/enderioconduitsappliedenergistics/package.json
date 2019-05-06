@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "enderioconduitsappliedenergistics",
+  "name": "Ender IO Applied Energistics Conduits",
+  "description": "I\u0027m applying my energy!",
+  "icon": "https://media.forgecdn.net/avatars/159/672/636660515430584026.png",
+  "licenses": [],
+  "authors": [
+    "CrazyPants",
+    "tterrag",
+    "HenryLoenwind",
+    "MatthiasM",
+    "EpicSquid"
+  ],
+  "projectLinks": [
+    {
+      "type": "website",
+      "url": "http://enderio.com"
+    }
+  ]
+}

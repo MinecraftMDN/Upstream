@@ -1,0 +1,13 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "mcjtylib_ng",
+  "name": "McJtyLib",
+  "description": "McJtyLib library for RFTools, Deep Resonance, ...",
+  "icon": "https://media.forgecdn.net/avatars/21/825/635733177880067480.png",
+  "licenses": [],
+  "authors": [
+    "McJty"
+  ],
+  "projectLinks": []
+}

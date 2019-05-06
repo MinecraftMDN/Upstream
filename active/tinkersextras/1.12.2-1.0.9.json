@@ -1,0 +1,20 @@
+{
+  "formatVersion": 0,
+  "id": "1.12.2-1.0.9",
+  "releaseType": "",
+  "changelog": "",
+  "side": "universal",
+  "relationships": [],
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://files.forgecdn.net/files/2677/192/TinkersExtras-1.12.2-1.0.9.jar"
+    }
+  ],
+  "hashes": {
+    "sha256": "d8f326f087df1f37722870c561c99986f8c65b054f20068e656f9d15796d1d77"
+  },
+  "size": 0,
+  "filename": "",
+  "releaseTime": ""
+}

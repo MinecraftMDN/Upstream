@@ -1,0 +1,20 @@
+{
+  "formatVersion": 0,
+  "id": "1.6",
+  "releaseType": "",
+  "changelog": "",
+  "side": "universal",
+  "relationships": [],
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://files.forgecdn.net/files/2652/920/insomniac-1.6.jar"
+    }
+  ],
+  "hashes": {
+    "sha256": "96b23aed481dbed75f546a76b3e2a4264c217c16f4d763313afe6c3a073dd2ab"
+  },
+  "size": 0,
+  "filename": "",
+  "releaseTime": ""
+}

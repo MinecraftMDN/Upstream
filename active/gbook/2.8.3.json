@@ -1,0 +1,20 @@
+{
+  "formatVersion": 0,
+  "id": "2.8.3",
+  "releaseType": "",
+  "changelog": "",
+  "side": "universal",
+  "relationships": [],
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://files.forgecdn.net/files/2604/379/Guidebook-1.12.2-2.8.3.jar"
+    }
+  ],
+  "hashes": {
+    "sha256": "3d634f4e9128bfc376bb188767f312c9ec3729d5033fbd4d52c3a937e4b3d9eb"
+  },
+  "size": 0,
+  "filename": "",
+  "releaseTime": ""
+}

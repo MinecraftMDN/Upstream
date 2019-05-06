@@ -1,0 +1,20 @@
+{
+  "formatVersion": 0,
+  "id": "2.6.1.81",
+  "releaseType": "",
+  "changelog": "",
+  "side": "universal",
+  "relationships": [],
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://files.forgecdn.net/files/2661/99/ForgeMultipart-1.12.2-2.6.1.81-universal.jar"
+    }
+  ],
+  "hashes": {
+    "sha256": "53cc0991a134ab0c4bb5bc167b0fe20207317ea1b15f7db1bc8b60e3384eaf01"
+  },
+  "size": 0,
+  "filename": "",
+  "releaseTime": ""
+}

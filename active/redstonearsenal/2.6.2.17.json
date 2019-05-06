@@ -1,0 +1,20 @@
+{
+  "formatVersion": 0,
+  "id": "2.6.2.17",
+  "releaseType": "",
+  "changelog": "",
+  "side": "universal",
+  "relationships": [],
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://files.forgecdn.net/files/2669/254/RedstoneArsenal-1.12.2-2.6.2.17-universal.jar"
+    }
+  ],
+  "hashes": {
+    "sha256": "f910150ffe2f55f8f4e88bca9086a6b310f53d125dd31e2f2f9d9347f910bbac"
+  },
+  "size": 0,
+  "filename": "",
+  "releaseTime": ""
+}

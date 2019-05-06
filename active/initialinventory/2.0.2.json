@@ -1,0 +1,20 @@
+{
+  "formatVersion": 0,
+  "id": "2.0.2",
+  "releaseType": "",
+  "changelog": "",
+  "side": "universal",
+  "relationships": [],
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://files.forgecdn.net/files/2465/617/InitialInventory-3.0.0.jar"
+    }
+  ],
+  "hashes": {
+    "sha256": "9f1ba4dd157bbeedf82ca0fca6333e6f244e83d5c92ca7354951ced38678a3e6"
+  },
+  "size": 0,
+  "filename": "",
+  "releaseTime": ""
+}

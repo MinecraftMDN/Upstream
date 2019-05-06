@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "cleanview",
+  "name": "CleanView",
+  "description": "removes potion particles from your viewpoint",
+  "icon": "https://media.forgecdn.net/avatars/13/493/635565260290764399.png",
+  "licenses": [],
+  "authors": [
+    "zlainsama"
+  ],
+  "projectLinks": [
+    {
+      "type": "source",
+      "url": "https://github.com/zlainsama/cleanview"
+    }
+  ]
+}

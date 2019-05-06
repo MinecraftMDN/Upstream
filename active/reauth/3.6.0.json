@@ -1,0 +1,20 @@
+{
+  "formatVersion": 0,
+  "id": "3.6.0",
+  "releaseType": "",
+  "changelog": "",
+  "side": "client",
+  "relationships": [],
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://files.forgecdn.net/files/2560/638/reauth-3.6.0.jar"
+    }
+  ],
+  "hashes": {
+    "sha256": "2264ebdb4d29fe4105d8940f1fd14720ada023d059879c41374b44cbb3b7ac7b"
+  },
+  "size": 0,
+  "filename": "",
+  "releaseTime": ""
+}

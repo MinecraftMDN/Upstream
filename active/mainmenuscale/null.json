@@ -1,0 +1,19 @@
+{
+  "formatVersion": 0,
+  "releaseType": "",
+  "changelog": "",
+  "side": "client",
+  "relationships": [],
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://files.forgecdn.net/files/2683/258/MainMenuScale-1.3.2.jar"
+    }
+  ],
+  "hashes": {
+    "sha256": "d2b59786e982b4b5a60714821edd9fd18b16a412a84bb3978b87f05be5c92a94"
+  },
+  "size": 0,
+  "filename": "",
+  "releaseTime": ""
+}

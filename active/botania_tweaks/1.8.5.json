@@ -1,0 +1,20 @@
+{
+  "formatVersion": 0,
+  "id": "1.8.5",
+  "releaseType": "",
+  "changelog": "",
+  "side": "universal",
+  "relationships": [],
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://files.forgecdn.net/files/2701/424/botaniatweaks-1.8.5.jar"
+    }
+  ],
+  "hashes": {
+    "sha256": "dde8c4dbec4a7347b5fbf5ebb3e2b6f04507642f240d554c722ea84c8be6178a"
+  },
+  "size": 0,
+  "filename": "",
+  "releaseTime": ""
+}

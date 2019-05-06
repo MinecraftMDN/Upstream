@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "bnbgaminglib",
+  "name": "BNBGamingLib",
+  "description": "Shared library between all BNBGaming mods.",
+  "icon": "https://media.forgecdn.net/avatars/16/506/635646354964416952.png",
+  "licenses": [],
+  "authors": [
+    "Blargerist, superckl"
+  ],
+  "projectLinks": [
+    {
+      "type": "website",
+      "url": "http://bloodnbonesgaming.com/"
+    }
+  ]
+}

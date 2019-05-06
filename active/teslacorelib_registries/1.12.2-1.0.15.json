@@ -1,0 +1,20 @@
+{
+  "formatVersion": 0,
+  "id": "1.12.2-1.0.15",
+  "releaseType": "",
+  "changelog": "",
+  "side": "universal",
+  "relationships": [],
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://files.forgecdn.net/files/2580/52/tesla-core-lib-1.12.2-1.0.15.jar"
+    }
+  ],
+  "hashes": {
+    "sha256": "7e0dc8289acdf4451b2fa783bf33f52fb79495aded15fbad67c0b693087bae3a"
+  },
+  "size": 0,
+  "filename": "",
+  "releaseTime": ""
+}

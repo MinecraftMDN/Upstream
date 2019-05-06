@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "buildinggadgets",
+  "name": "Building Gadgets",
+  "description": "Adds some gadgets to help you build!",
+  "icon": "https://media.forgecdn.net/avatars/161/452/636672128890190531.png",
+  "licenses": [],
+  "authors": [
+    "Direwolf20"
+  ],
+  "projectLinks": [
+    {
+      "type": "curseforge",
+      "url": "https://minecraft.curseforge.com/projects/building-gadgets"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "tcomplement",
+  "name": "Tinkers\u0027 Complement",
+  "description": "Addon for Tinkers Construct adding various features to complement those from Tinkers",
+  "icon": "https://media.forgecdn.net/avatars/106/900/636362501486312568.png",
+  "licenses": [],
+  "authors": [
+    "KnightMiner"
+  ],
+  "projectLinks": [
+    {
+      "type": "curseforge",
+      "url": "https://minecraft.curseforge.com/projects/tinkers-complement"
+    }
+  ]
+}

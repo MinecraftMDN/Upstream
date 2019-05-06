@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "gbook",
+  "name": "Guidebook",
+  "description": "Books that guide",
+  "icon": "https://media.forgecdn.net/avatars/64/300/636151688178007193.png",
+  "licenses": [],
+  "authors": [
+    "gigaherz"
+  ],
+  "projectLinks": [
+    {
+      "type": "source",
+      "url": "https://github.com/gigaherz/Guidebook"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "rustic",
+  "name": "Rustic",
+  "description": "A medieval themed Minecraft mod based around decoration, exploration, and agriculture.",
+  "icon": "https://media.forgecdn.net/avatars/107/911/636368922948395666.png",
+  "licenses": [],
+  "authors": [
+    "the-realest-stu"
+  ],
+  "projectLinks": [
+    {
+      "type": "source",
+      "url": "https://github.com/the-realest-stu/Rustic"
+    }
+  ]
+}

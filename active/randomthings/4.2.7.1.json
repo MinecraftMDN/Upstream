@@ -1,0 +1,20 @@
+{
+  "formatVersion": 0,
+  "id": "4.2.7.1",
+  "releaseType": "",
+  "changelog": "",
+  "side": "universal",
+  "relationships": [],
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://files.forgecdn.net/files/2697/894/RandomThings-MC1.12.2-4.2.7.1.jar"
+    }
+  ],
+  "hashes": {
+    "sha256": "c816f2ddbe192618a6b7f9ce35b9282618813d74d34ac8c583327df3f207ce99"
+  },
+  "size": 0,
+  "filename": "",
+  "releaseTime": ""
+}

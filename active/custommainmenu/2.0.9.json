@@ -1,0 +1,20 @@
+{
+  "formatVersion": 0,
+  "id": "2.0.9",
+  "releaseType": "",
+  "changelog": "",
+  "side": "client",
+  "relationships": [],
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://files.forgecdn.net/files/2638/282/CustomMainMenu-MC1.12.2-2.0.9.jar"
+    }
+  ],
+  "hashes": {
+    "sha256": "d01bb35116c624fb5f8399231f48c9ca56f343cf5cc15c390005d7c819380fef"
+  },
+  "size": 0,
+  "filename": "",
+  "releaseTime": ""
+}

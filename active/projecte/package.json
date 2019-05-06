@@ -1,0 +1,19 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "projecte",
+  "name": "ProjectE",
+  "description": "A complete rewrite of EE2 for modern Minecraft versions.",
+  "icon": "https://media.forgecdn.net/avatars/14/116/635585771940921304.png",
+  "licenses": [],
+  "authors": [
+    "sinkillerj",
+    "Moze_Intel"
+  ],
+  "projectLinks": [
+    {
+      "type": "curseforge",
+      "url": "http://minecraft.curseforge.com/mc-mods/226410-projecte"
+    }
+  ]
+}

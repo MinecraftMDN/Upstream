@@ -1,0 +1,19 @@
+{
+  "formatVersion": 0,
+  "id": "1.5.0",
+  "releaseType": "",
+  "changelog": "",
+  "relationships": [],
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://files.forgecdn.net/files/2703/258/LittleTiles_v1.5.0-pre135_mc1.12.2.jar"
+    }
+  ],
+  "hashes": {
+    "sha256": "77e950ea6b369151a6f0b9ff293191b76a4f2db1d90bc41af4e205a3331e4ffd"
+  },
+  "size": 0,
+  "filename": "",
+  "releaseTime": ""
+}

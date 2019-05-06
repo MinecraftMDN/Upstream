@@ -1,0 +1,20 @@
+{
+  "formatVersion": 0,
+  "id": "1.12.2-1.0.12-22",
+  "releaseType": "",
+  "changelog": "",
+  "side": "universal",
+  "relationships": [],
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://files.forgecdn.net/files/2700/901/togetherforever-1.12.2-1.0.12-22.jar"
+    }
+  ],
+  "hashes": {
+    "sha256": "ff76425359133986341d37f28f8c60804e19706d98f013da5d29aea1ec65cb73"
+  },
+  "size": 0,
+  "filename": "",
+  "releaseTime": ""
+}

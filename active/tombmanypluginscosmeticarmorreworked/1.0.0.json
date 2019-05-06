@@ -1,0 +1,20 @@
+{
+  "formatVersion": 0,
+  "id": "1.0.0",
+  "releaseType": "",
+  "changelog": "",
+  "side": "universal",
+  "relationships": [],
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://files.forgecdn.net/files/2563/120/tombmanypluginscosmeticarmorreworked-1.0.0.jar"
+    }
+  ],
+  "hashes": {
+    "sha256": "15fe438bb348946b5dade92b16044f24ffa050ccac56cc4c9d084b60573e3f92"
+  },
+  "size": 0,
+  "filename": "",
+  "releaseTime": ""
+}

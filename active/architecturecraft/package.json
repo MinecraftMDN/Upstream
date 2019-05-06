@@ -1,0 +1,19 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "architecturecraft",
+  "name": "ArchitectureCraft",
+  "description": "Distinguished architectural features for your Minecraft buildings.",
+  "icon": "https://media.forgecdn.net/avatars/119/820/636405912206300514.png",
+  "licenses": [],
+  "authors": [
+    "gcewing (Original Developer)",
+    "darkevilmac (Maintainer)"
+  ],
+  "projectLinks": [
+    {
+      "type": "source",
+      "url": "https://github.com/elytra/ArchitectureCraft"
+    }
+  ]
+}

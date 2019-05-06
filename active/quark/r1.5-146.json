@@ -1,0 +1,20 @@
+{
+  "formatVersion": 0,
+  "id": "r1.5-146",
+  "releaseType": "",
+  "changelog": "",
+  "side": "universal",
+  "relationships": [],
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://files.forgecdn.net/files/2677/108/Quark-r1.5-146.jar"
+    }
+  ],
+  "hashes": {
+    "sha256": "1ee594f3ca7e9677bc16f41b84bbbd0ffd1ef6bb7ac492b99217a177d681bfeb"
+  },
+  "size": 0,
+  "filename": "",
+  "releaseTime": ""
+}

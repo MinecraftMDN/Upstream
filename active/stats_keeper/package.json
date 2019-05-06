@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "stats_keeper",
+  "name": "Stats Keeper",
+  "description": "Configure your stats!",
+  "icon": "https://media.forgecdn.net/avatars/197/680/636894564048723763.png",
+  "licenses": [],
+  "authors": [
+    "Terrails"
+  ],
+  "projectLinks": [
+    {
+      "type": "curseforge",
+      "url": "https://minecraft.curseforge.com/projects/stats-keeper"
+    }
+  ]
+}

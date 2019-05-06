@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "mightyenderchicken",
+  "name": "MightyEnderChicken",
+  "description": "#BlameSlowpoke",
+  "icon": "https://media.forgecdn.net/avatars/184/313/636820699548908824.png",
+  "licenses": [],
+  "authors": [
+    "iChun"
+  ],
+  "projectLinks": [
+    {
+      "type": "website",
+      "url": "http://ichun.me/"
+    }
+  ]
+}

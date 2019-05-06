@@ -1,0 +1,21 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "botania",
+  "name": "Botania",
+  "description": "Botania is a mod that adds nature magic to Minecraft",
+  "icon": "https://media.forgecdn.net/avatars/12/182/635517458047177083.png",
+  "licenses": [],
+  "authors": [
+    "Vazkii",
+    "williewillus",
+    "wiiv",
+    "dylan4ever"
+  ],
+  "projectLinks": [
+    {
+      "type": "website",
+      "url": "http://www.botaniamod.net"
+    }
+  ]
+}

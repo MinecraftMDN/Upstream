@@ -1,0 +1,19 @@
+{
+  "formatVersion": 0,
+  "id": "1.9.9",
+  "releaseType": "",
+  "changelog": "",
+  "relationships": [],
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://files.forgecdn.net/files/2703/260/CreativeCore_v1.9.44_mc1.12.2.jar"
+    }
+  ],
+  "hashes": {
+    "sha256": "c82b5563030d328d4b010fde2ad03a83845e716fb237ae9abe16351bd5fc5d9b"
+  },
+  "size": 0,
+  "filename": "",
+  "releaseTime": ""
+}

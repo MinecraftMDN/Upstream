@@ -1,0 +1,19 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "bloodmagic",
+  "name": "Blood Magic: Alchemical Wizardry",
+  "description": "Rituals, spells, and more!",
+  "icon": "https://media.forgecdn.net/avatars/145/26/636559774600919459.jpeg",
+  "licenses": [],
+  "authors": [
+    "WayofTime",
+    "TehNut"
+  ],
+  "projectLinks": [
+    {
+      "type": "website",
+      "url": "http://www.minecraftforum.net/topic/1899223-bloodmagic"
+    }
+  ]
+}

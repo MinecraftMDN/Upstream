@@ -1,0 +1,20 @@
+{
+  "formatVersion": 0,
+  "id": "1.12.2-1.8.0",
+  "releaseType": "",
+  "changelog": "",
+  "side": "client",
+  "relationships": [],
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://files.forgecdn.net/files/2661/198/Toast Control-1.12.2-1.8.0.jar"
+    }
+  ],
+  "hashes": {
+    "sha256": "b2816328b29e13f95bf6c1b8f82e0cf76ab971a68d4e20ac06e5ca33774f8e7d"
+  },
+  "size": 0,
+  "filename": "",
+  "releaseTime": ""
+}

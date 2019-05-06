@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "portalgun",
+  "name": "PortalGun",
+  "description": "Adds the Portal Gun and various other aspects from Portal/Portal 2 to Minecraft",
+  "icon": "https://media.forgecdn.net/avatars/15/828/635634164766886530.png",
+  "licenses": [],
+  "authors": [
+    "iChun"
+  ],
+  "projectLinks": [
+    {
+      "type": "website",
+      "url": "http://ichun.me/mods/portalgun/"
+    }
+  ]
+}

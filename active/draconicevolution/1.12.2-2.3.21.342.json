@@ -1,0 +1,20 @@
+{
+  "formatVersion": 0,
+  "id": "1.12.2-2.3.21.342",
+  "releaseType": "",
+  "changelog": "",
+  "side": "universal",
+  "relationships": [],
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://files.forgecdn.net/files/2697/295/Draconic-Evolution-1.12.2-2.3.21.342-universal.jar"
+    }
+  ],
+  "hashes": {
+    "sha256": "251a9149d314c011d41e140dbe0b4781220d4bbeb248eacac9e82ad538015fe4"
+  },
+  "size": 0,
+  "filename": "",
+  "releaseTime": ""
+}
