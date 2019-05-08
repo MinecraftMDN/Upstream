@@ -5,7 +5,7 @@
   "name": "Thaumic Energistics",
   "description": "The digital age could use some magic",
   "icon": "https://media.forgecdn.net/avatars/18/121/635674360665172055.png",
-  "licenses": [],
+  "licenses": "MIT",
   "authors": [
     "Nividica",
     "BrockWS"
