@@ -1,0 +1,31 @@
+{
+  "formatVersion": 0,
+  "id": "1.14+build.8",
+  "releaseType": "beta",
+  "changelog": "",
+  "side": "universal",
+  "relationships": [
+    {
+      "type": "required",
+      "id": "minecraft",
+      "version": "1.14"
+    }
+  ],
+  "artifacts": [
+    {
+      "type": "maven",
+      "id": "net.fabricmc:yarn:1.14+build.8"
+    },
+    {
+      "type": "direct",
+      "id": "https://maven.fabricmc.net/net/fabricmc/yarn/1.14+build.8/yarn-1.14+build.8.jar"
+    }
+  ],
+  "hashes": {
+    "sha1": "cc9a36482f1ca6a095fd61cd0e687695357bde70",
+    "md5": "debbed7927da6e812b05f577aec9bc26"
+  },
+  "size": 500987,
+  "filename": "",
+  "releaseTime": "2019-05-05T11:53:03Z"
+}

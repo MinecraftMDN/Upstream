@@ -1,0 +1,31 @@
+{
+  "formatVersion": 0,
+  "id": "1.14.3-pre2+build.8",
+  "releaseType": "beta",
+  "changelog": "",
+  "side": "universal",
+  "relationships": [
+    {
+      "type": "required",
+      "id": "minecraft",
+      "version": "1.14.3-pre2"
+    }
+  ],
+  "artifacts": [
+    {
+      "type": "maven",
+      "id": "net.fabricmc:yarn:1.14.3-pre2+build.8"
+    },
+    {
+      "type": "direct",
+      "id": "https://maven.fabricmc.net/net/fabricmc/yarn/1.14.3-pre2+build.8/yarn-1.14.3-pre2+build.8.jar"
+    }
+  ],
+  "hashes": {
+    "sha1": "d2aa741c2d3bc9a0679ee8292f327d34a3b0b977",
+    "md5": "fa5d3a4ce1653bbbda5fec94f124a65f"
+  },
+  "size": 503229,
+  "filename": "",
+  "releaseTime": "2019-06-14T09:58:38Z"
+}

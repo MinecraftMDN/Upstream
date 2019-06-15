@@ -1,0 +1,21 @@
+{
+  "formatVersion": 0,
+  "id": "1.14",
+  "releaseType": "release",
+  "changelog": "",
+  "side": "universal",
+  "relationships": [],
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://maven.fabricmc.net/net/fabricmc/intermediary/1.14/intermediary-1.14.jar"
+    }
+  ],
+  "hashes": {
+    "sha1": "857e08bf72fc6dbf09d3a0556c3f38876087b5d6",
+    "md5": "37fc0a22287d501b6db46eaac01ce976"
+  },
+  "size": 292028,
+  "filename": "",
+  "releaseTime": "2019-06-15T05:45:22Z"
+}

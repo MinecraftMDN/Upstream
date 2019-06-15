@@ -1,0 +1,39 @@
+{
+    "formatVersion": 0,
+    "type": "library",
+    "id": "net.fabricmc.intermedairy",
+    "name": "Intermediary Mappings",
+    "description": "This repository contains the match information between different versions of Minecraft created by the Fabric project, as well as the \"intermediary\" mappings we use, that is an intermediary naming form which tries to keep names the same across versions and mapping changes.",
+    "license": "CC0-1.0",
+    "authors": [
+        "asiekierka",
+        "modmuss50"
+    ],
+    "projectLinks": [
+        {
+            "type": "discord",
+            "url": "https://discord.gg/v6v4pMv"
+        },
+        {
+            "type": "github",
+            "url": "https://github.com/FabricMC/intermediary"
+        },
+        {
+            "type": "issues",
+            "url": "https://github.com/FabricMC/intermediary/issues"
+        }
+    ],
+    "@detectors": [
+        {
+            "type": "fabricmeta"
+        },
+        {
+            "type": "maven",
+            "data": {
+                "url": "https://maven.fabricmc.net/",
+                "id": "net.fabricmc:intermediary",
+                "ignoredData": "releaseType,changelog,side,relationships,filename"
+            }
+        }
+    ]
+}

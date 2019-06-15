@@ -1,4 +1,91 @@
 {
+  "libraries": [
+    {
+      "id": "net.fabricmc:sponge-mixin:0.7.11.14",
+      "url": "https://maven.fabricmc.net/",
+      "side": "common",
+      "size": 978065,
+      "hashes": {
+        "sha1": "6d6c3fc5f1e715527cff16d2220928c4b72d3680",
+        "md5": "94091a96d5f0d6d05827511b5a41cb66"
+      }
+    },
+    {
+      "id": "net.fabricmc:tiny-mappings-parser:0.1.0.6",
+      "url": "https://maven.fabricmc.net/",
+      "side": "common",
+      "size": 14973,
+      "hashes": {
+        "sha1": "e7171f38ad93ae1e92be5ba0f9c660c41784dfb9",
+        "md5": "bb80e6f2d595d55c941faf931375d05b"
+      }
+    },
+    {
+      "id": "net.fabricmc:tiny-remapper:0.1.0.23",
+      "url": "https://maven.fabricmc.net/",
+      "side": "common",
+      "size": 45277,
+      "hashes": {
+        "sha1": "3b8028579c19143711f6296f7a5283bc44485090",
+        "md5": "f70ce790d0fdd7d60f1ee0b226083c89"
+      }
+    },
+    {
+      "id": "org.ow2.asm:asm:7.0",
+      "url": "https://maven.fabricmc.net/",
+      "side": "common",
+      "size": 113676,
+      "hashes": {
+        "sha1": "d74d4ba0dee443f68fb2dcb7fcdb945a2cd89912",
+        "md5": "4cdf9fd77ce48671ff9fd607f2a8a93c"
+      }
+    },
+    {
+      "id": "org.ow2.asm:asm-analysis:7.0",
+      "url": "https://maven.fabricmc.net/",
+      "side": "common",
+      "size": 33317,
+      "hashes": {
+        "sha1": "4b310d20d6f1c6b7197a75f1b5d69f169bc8ac1f",
+        "md5": "eb378b389aef721ccd1486c1701e8454"
+      }
+    },
+    {
+      "id": "org.ow2.asm:asm-commons:7.0",
+      "url": "https://maven.fabricmc.net/",
+      "side": "common",
+      "size": 79850,
+      "hashes": {
+        "sha1": "478006d07b7c561ae3a92ddc1829bca81ae0cdd1",
+        "md5": "770446a3d6e7f26ded138b5f04eae84f"
+      }
+    },
+    {
+      "id": "org.ow2.asm:asm-tree:7.0",
+      "url": "https://maven.fabricmc.net/",
+      "side": "common",
+      "size": 50399,
+      "hashes": {
+        "sha1": "29bc62dcb85573af6e62e5b2d735ef65966c4180",
+        "md5": "1879361985d6ccae30837cc3a4ce4d59"
+      }
+    },
+    {
+      "id": "org.ow2.asm:asm-util:7.0",
+      "url": "https://maven.fabricmc.net/",
+      "side": "common",
+      "size": 80802,
+      "hashes": {
+        "sha1": "18d4d07010c24405129a6dbb0e92057f8779fb9d",
+        "md5": "e3fa78c498141910fa0dacbda87b182c"
+      }
+    }
+  ],
+  "mainClass": {
+    "client": "net.fabricmc.loader.launch.knot.KnotClient",
+    "server": "net.fabricmc.loader.launch.knot.KnotServer"
+  },
+  "tweakers": {},
   "formatVersion": 0,
   "id": "0.3.3.101",
   "releaseType": "beta",

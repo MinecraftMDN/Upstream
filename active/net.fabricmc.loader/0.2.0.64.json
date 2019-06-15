@@ -1,4 +1,88 @@
 {
+  "libraries": [
+    {
+      "id": "net.minecraft:launchwrapper:1.12",
+      "url": "https://libraries.minecraft.net/",
+      "side": "common",
+      "size": 32999,
+      "hashes": {
+        "sha1": "111e7bea9c968cdb3d06ef4632bf7ff0824d0f36"
+      }
+    },
+    {
+      "id": "net.fabricmc:sponge-mixin:0.7.11.3",
+      "url": "https://maven.modmuss50.me/",
+      "side": "common",
+      "size": 955229,
+      "hashes": {
+        "sha1": "e2c40bfe7969b716d72129827a0d7bff062ef371",
+        "md5": "cf3d8f35de1bde492accc76c49341288"
+      }
+    },
+    {
+      "id": "net.fabricmc:tiny-remapper:0.1.0.20",
+      "url": "https://maven.modmuss50.me/",
+      "side": "common",
+      "size": 43653,
+      "hashes": {
+        "sha1": "a52a6f4562d0421a888e18847d1640765da09084",
+        "md5": "26575be29181aebdf3facf52a34f465f"
+      }
+    },
+    {
+      "id": "org.ow2.asm:asm:7.0",
+      "url": "http://repo.maven.apache.org/maven2/",
+      "side": "common",
+      "size": 113676,
+      "hashes": {
+        "sha1": "d74d4ba0dee443f68fb2dcb7fcdb945a2cd89912",
+        "md5": "4cdf9fd77ce48671ff9fd607f2a8a93c"
+      }
+    },
+    {
+      "id": "org.ow2.asm:asm-commons:7.0",
+      "url": "http://repo.maven.apache.org/maven2/",
+      "side": "common",
+      "size": 79850,
+      "hashes": {
+        "sha1": "478006d07b7c561ae3a92ddc1829bca81ae0cdd1",
+        "md5": "770446a3d6e7f26ded138b5f04eae84f"
+      }
+    },
+    {
+      "id": "org.ow2.asm:asm-tree:7.0",
+      "url": "http://repo.maven.apache.org/maven2/",
+      "side": "common",
+      "size": 50399,
+      "hashes": {
+        "sha1": "29bc62dcb85573af6e62e5b2d735ef65966c4180",
+        "md5": "1879361985d6ccae30837cc3a4ce4d59"
+      }
+    },
+    {
+      "id": "org.ow2.asm:asm-util:7.0",
+      "url": "http://repo.maven.apache.org/maven2/",
+      "side": "common",
+      "size": 80802,
+      "hashes": {
+        "sha1": "18d4d07010c24405129a6dbb0e92057f8779fb9d",
+        "md5": "e3fa78c498141910fa0dacbda87b182c"
+      }
+    }
+  ],
+  "mainClass": {
+    "server": "net.minecraft.launchwrapper.Launch",
+    "client": "net.minecraft.launchwrapper.Launch"
+  },
+  "tweakers": {
+    "client": [
+      "net.fabricmc.loader.launch.FabricClientTweaker"
+    ],
+    "server": [
+      "net.fabricmc.loader.launch.FabricServerTweaker"
+    ],
+    "common": []
+  },
   "formatVersion": 0,
   "id": "0.2.0.64",
   "releaseType": "beta",

@@ -1,0 +1,21 @@
+{
+  "formatVersion": 0,
+  "id": "1.14 Pre-Release 4",
+  "releaseType": "release",
+  "changelog": "",
+  "side": "universal",
+  "relationships": [],
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://maven.fabricmc.net/net/fabricmc/intermediary/1.14 Pre-Release 4/intermediary-1.14 Pre-Release 4.jar"
+    }
+  ],
+  "hashes": {
+    "sha1": "06d83e9b36ed4cc4d8285ee287e013a2571ef110",
+    "md5": "00630ec49efbac64d388132b113b9a19"
+  },
+  "size": 316212,
+  "filename": "",
+  "releaseTime": "2019-06-15T05:45:19Z"
+}

@@ -1,0 +1,21 @@
+{
+  "formatVersion": 0,
+  "id": "18w43b",
+  "releaseType": "release",
+  "changelog": "",
+  "side": "universal",
+  "relationships": [],
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://maven.fabricmc.net/net/fabricmc/intermediary/18w43b/intermediary-18w43b.jar"
+    }
+  ],
+  "hashes": {
+    "sha1": "75ca12e86bd444da7260a134eb3411dc8ea2040e",
+    "md5": "62580e809c377dbddcc37bc3c1b20f9a"
+  },
+  "size": 259111,
+  "filename": "",
+  "releaseTime": "2019-06-15T05:45:23Z"
+}

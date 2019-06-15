@@ -1,0 +1,31 @@
+{
+  "formatVersion": 0,
+  "id": "1.14.3-pre2+build.6",
+  "releaseType": "beta",
+  "changelog": "",
+  "side": "universal",
+  "relationships": [
+    {
+      "type": "required",
+      "id": "minecraft",
+      "version": "1.14.3-pre2"
+    }
+  ],
+  "artifacts": [
+    {
+      "type": "maven",
+      "id": "net.fabricmc:yarn:1.14.3-pre2+build.6"
+    },
+    {
+      "type": "direct",
+      "id": "https://maven.fabricmc.net/net/fabricmc/yarn/1.14.3-pre2+build.6/yarn-1.14.3-pre2+build.6.jar"
+    }
+  ],
+  "hashes": {
+    "sha1": "45231f184726e8f7ed02e46c5e03bcace0609c50",
+    "md5": "e036bea2e9a0a836484548b7701e873a"
+  },
+  "size": 503223,
+  "filename": "",
+  "releaseTime": "2019-06-14T09:43:16Z"
+}

@@ -1,0 +1,31 @@
+{
+  "formatVersion": 0,
+  "id": "1.14.2 Pre-Release 2+build.5",
+  "releaseType": "beta",
+  "changelog": "",
+  "side": "universal",
+  "relationships": [
+    {
+      "type": "required",
+      "id": "minecraft",
+      "version": "1.14.2 Pre-Release 2"
+    }
+  ],
+  "artifacts": [
+    {
+      "type": "maven",
+      "id": "net.fabricmc:yarn:1.14.2 Pre-Release 2+build.5"
+    },
+    {
+      "type": "direct",
+      "id": "https://maven.fabricmc.net/net/fabricmc/yarn/1.14.2 Pre-Release 2+build.5/yarn-1.14.2 Pre-Release 2+build.5.jar"
+    }
+  ],
+  "hashes": {
+    "sha1": "4c57e1cedb514c74648925a5c394d9146f519491",
+    "md5": "467753a04d77cf6e88458fc098c88c23"
+  },
+  "size": 502046,
+  "filename": "",
+  "releaseTime": "2019-05-19T07:19:01Z"
+}

@@ -1,4 +1,81 @@
 {
+  "libraries": [
+    {
+      "id": "net.fabricmc:sponge-mixin:0.7.11.14",
+      "url": "https://maven.fabricmc.net/",
+      "side": "common",
+      "size": 978065,
+      "hashes": {
+        "sha1": "6d6c3fc5f1e715527cff16d2220928c4b72d3680",
+        "md5": "94091a96d5f0d6d05827511b5a41cb66"
+      }
+    },
+    {
+      "id": "net.fabricmc:tiny-remapper:0.1.0.22",
+      "url": "https://maven.fabricmc.net/",
+      "side": "common",
+      "size": 45136,
+      "hashes": {
+        "sha1": "a220def61cb244f033798845cd88ba7f31a08bc0",
+        "md5": "622255def41908b4668a49fba1e70ae0"
+      }
+    },
+    {
+      "id": "org.ow2.asm:asm:7.0",
+      "url": "https://maven.fabricmc.net/",
+      "side": "common",
+      "size": 113676,
+      "hashes": {
+        "sha1": "d74d4ba0dee443f68fb2dcb7fcdb945a2cd89912",
+        "md5": "4cdf9fd77ce48671ff9fd607f2a8a93c"
+      }
+    },
+    {
+      "id": "org.ow2.asm:asm-analysis:7.0",
+      "url": "https://maven.fabricmc.net/",
+      "side": "common",
+      "size": 33317,
+      "hashes": {
+        "sha1": "4b310d20d6f1c6b7197a75f1b5d69f169bc8ac1f",
+        "md5": "eb378b389aef721ccd1486c1701e8454"
+      }
+    },
+    {
+      "id": "org.ow2.asm:asm-commons:7.0",
+      "url": "https://maven.fabricmc.net/",
+      "side": "common",
+      "size": 79850,
+      "hashes": {
+        "sha1": "478006d07b7c561ae3a92ddc1829bca81ae0cdd1",
+        "md5": "770446a3d6e7f26ded138b5f04eae84f"
+      }
+    },
+    {
+      "id": "org.ow2.asm:asm-tree:7.0",
+      "url": "https://maven.fabricmc.net/",
+      "side": "common",
+      "size": 50399,
+      "hashes": {
+        "sha1": "29bc62dcb85573af6e62e5b2d735ef65966c4180",
+        "md5": "1879361985d6ccae30837cc3a4ce4d59"
+      }
+    },
+    {
+      "id": "org.ow2.asm:asm-util:7.0",
+      "url": "https://maven.fabricmc.net/",
+      "side": "common",
+      "size": 80802,
+      "hashes": {
+        "sha1": "18d4d07010c24405129a6dbb0e92057f8779fb9d",
+        "md5": "e3fa78c498141910fa0dacbda87b182c"
+      }
+    }
+  ],
+  "mainClass": {
+    "client": "net.fabricmc.loader.launch.knot.KnotClient",
+    "server": "net.fabricmc.loader.launch.knot.KnotServer"
+  },
+  "tweakers": {},
   "formatVersion": 0,
   "id": "0.3.2.95",
   "releaseType": "beta",

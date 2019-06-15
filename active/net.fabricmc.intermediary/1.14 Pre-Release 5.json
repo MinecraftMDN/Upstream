@@ -1,0 +1,21 @@
+{
+  "formatVersion": 0,
+  "id": "1.14 Pre-Release 5",
+  "releaseType": "release",
+  "changelog": "",
+  "side": "universal",
+  "relationships": [],
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://maven.fabricmc.net/net/fabricmc/intermediary/1.14 Pre-Release 5/intermediary-1.14 Pre-Release 5.jar"
+    }
+  ],
+  "hashes": {
+    "sha1": "095530bf5954eda41b00b9e0c6a0c96b82ab3967",
+    "md5": "5e14c910a986e464cbc39b6f44cee26f"
+  },
+  "size": 291971,
+  "filename": "",
+  "releaseTime": "2019-06-15T05:45:19Z"
+}

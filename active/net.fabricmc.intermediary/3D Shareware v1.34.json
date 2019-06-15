@@ -1,0 +1,21 @@
+{
+  "formatVersion": 0,
+  "id": "3D Shareware v1.34",
+  "releaseType": "release",
+  "changelog": "",
+  "side": "universal",
+  "relationships": [],
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://maven.fabricmc.net/net/fabricmc/intermediary/3D Shareware v1.34/intermediary-3D Shareware v1.34.jar"
+    }
+  ],
+  "hashes": {
+    "sha1": "18b2a408ad615c232922c1b7dc88321baa7adf31",
+    "md5": "192e6d26c874274d19b0960e8452ae6d"
+  },
+  "size": 314780,
+  "filename": "",
+  "releaseTime": "2019-06-15T05:45:32Z"
+}

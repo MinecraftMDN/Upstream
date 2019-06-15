@@ -1,0 +1,21 @@
+{
+  "formatVersion": 0,
+  "id": "19w07a",
+  "releaseType": "release",
+  "changelog": "",
+  "side": "universal",
+  "relationships": [],
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://maven.fabricmc.net/net/fabricmc/intermediary/19w07a/intermediary-19w07a.jar"
+    }
+  ],
+  "hashes": {
+    "sha1": "01583b11a5e0d77f3965ddf61d1bad2c235a52b9",
+    "md5": "004602c84bef337aea01790267925c79"
+  },
+  "size": 280105,
+  "filename": "",
+  "releaseTime": "2019-06-15T05:45:29Z"
+}
