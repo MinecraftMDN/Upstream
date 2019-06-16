@@ -1,0 +1,37 @@
+{
+    "formatVersion": 0,
+    "id": "1.14-1.4.29-fabric",
+    "releaseType": "beta",
+    "changelog": "",
+    "side": "universal",
+    "relationships": [
+        {
+            "type": "required",
+            "id": "net.minecraft",
+            "version": [
+                "1.14.1",
+                "1.14.2"
+            ]
+        },
+        {
+            "type": "required",
+            "id": "net.fabricmc.loader"
+        },
+        {
+            "type": "required",
+            "id": "net.fabricmc.fabric"
+        }
+    ],
+    "artifacts": [
+        {
+            "type": "direct",
+            "id": "https://media.forgecdn.net/files/2714/963/theoneprobe-1.14-1.4.29.beta.jar"
+        }
+    ],
+    "hashes": {
+        "sha256": "3C220CD090E3D1F1CBB50638ABAF90B7DBB6C7ED6D2A02819357282782AF70E0"
+    },
+    "size": 301893,
+    "filename": "",
+    "releaseTime": "2019-05-23T13:08:00Z"
+}
