@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "id": "0.3.0-pre+build.167",
+  "releaseType": "release",
+  "changelog": "",
+  "side": "universal",
+  "relationships": [],
+  "artifacts": [
+    {
+      "type": "curseforge",
+      "id": "2715347"
+    },
+    {
+      "type": "direct",
+      "id": "https://edge.forgecdn.net/files/2715/347/fabric-api-0.3.0-pre+build.167.jar"
+    }
+  ],
+  "hashes": {},
+  "size": 0,
+  "filename": "",
+  "releaseTime": ""
+}

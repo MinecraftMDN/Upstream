@@ -29,6 +29,14 @@
                 "url": "https://maven.fabricmc.net/",
                 "id": "net.fabricmc:fabric"
             }
+        },
+        {
+            "type": "curseforge",
+            "data": {
+                "id": "306612",
+                "regex": "fabric-(?:api-)?(.+).jar",
+                "ignoreData": "relationships"
+            }
         }
     ]
 }
