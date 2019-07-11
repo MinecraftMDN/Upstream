@@ -1,0 +1,13 @@
+{
+    "formatVersion": 0,
+    "type": "minecraft",
+    "id": "com.mojang.minecraft",
+    "description": "The Game",
+    "authors": ["Mojang"],
+    "projectLinks": [
+        {
+            "type": "website",
+            "url": "https://www.minecraft.net"
+        }
+    ]
+}

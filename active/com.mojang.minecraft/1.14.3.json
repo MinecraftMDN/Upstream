@@ -1,0 +1,34 @@
+{
+    "formatVersion": 0,
+    "id": "1.14.3",
+    "releaseType": "release",
+    "artifacts": [
+        {
+            "type": "direct",
+            "id": "https://launcher.mojang.com/v1/objects/af100b34ec7ef2b8b9cf7775b544d21d690dddec/client.jar",
+            "side": "client"
+        }
+    ],
+    "hashes": {
+    },
+    "mainClass": {
+        "client": "net.minecraft.client.main.Main"
+    },
+    "libraries": [
+        {
+            "id": "org.lwjgl",
+            "side": "client",
+            "version": "3.2.2"
+        }
+    ],
+    "assetIndex": {
+        "id": "1.14",
+        "url": "https://launchermeta.mojang.com/v1/packages/abff559a3c834dbb6c9664d49293efbf625b3de2/1.14.json",
+        "sha1": "abff559a3c834dbb6c9664d49293efbf625b3de2",
+        "size": 226556,
+        "totalSize": 207748826
+    },
+    "traits": [
+        "FirstThreadOnMacOS"
+    ]
+}
