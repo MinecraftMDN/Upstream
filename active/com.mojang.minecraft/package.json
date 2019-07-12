@@ -3,7 +3,9 @@
     "type": "minecraft",
     "id": "com.mojang.minecraft",
     "description": "The Game",
-    "authors": ["Mojang"],
+    "authors": [
+        "Mojang"
+    ],
     "projectLinks": [
         {
             "type": "website",

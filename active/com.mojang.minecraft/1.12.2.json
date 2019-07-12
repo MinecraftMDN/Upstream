@@ -1,0 +1,51 @@
+{
+    "formatVersion": 0,
+    "id": "1.12.2",
+    "releaseType": "release",
+    "artifacts": [
+        {
+            "type": "direct",
+            "id": "https://launcher.mojang.com/v1/objects/0f275bc1547d01fa5f56ba34bdc87d981ee12daf/client.jar",
+            "side": "client"
+        },
+        {
+            "type": "direct",
+            "id": "https://launcher.mojang.com/v1/objects/886945bfb2b978778c3a0288fd7fab09d315b25f/server.jar",
+            "side": "server"
+        }
+    ],
+    "hashes": {
+        "sha1:client": "0f275bc1547d01fa5f56ba34bdc87d981ee12daf",
+        "sha1:server": "886945bfb2b978778c3a0288fd7fab09d315b25f"
+    },
+    "mainClass": {
+        "client": "net.minecraft.client.main.Main",
+        "server": "net.minecraft.server.MinecraftServer"
+    },
+    "relationships": [
+        {
+            "type": "required",
+            "id": "org.lwjgl",
+            "side": "client",
+            "version": "2.9.4-nightly-20150209"
+        }
+    ],
+    "libraries": [
+        {
+            "id": "com.mojang:patchy:1.1",
+            "url": "https://libraries.minecraft.net/com/mojang/patchy/1.1/patchy-1.1.jar",
+            "size": 15817,
+            "hashes": {
+                "sha1": "aef610b34a1be37fa851825f12372b78424d8903"
+            }
+        }
+    ],
+    "assetIndex": {
+        "id": "1.12",
+        "url": "https://launchermeta.mojang.com/v1/packages/1584b57c1a0b5e593fad1f5b8f78536ca640547b/1.12.json",
+        "sha1": "1584b57c1a0b5e593fad1f5b8f78536ca640547b",
+        "size": 143138,
+        "totalSize": 129336389
+    },
+    "releaseTime": "2017-09-18T08:39:46+00:00"
+}
