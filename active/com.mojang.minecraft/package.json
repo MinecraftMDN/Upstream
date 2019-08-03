@@ -11,5 +11,10 @@
             "type": "website",
             "url": "https://www.minecraft.net"
         }
+    ],
+    "@detectors": [
+        {
+            "type": "minecraft"
+        }
     ]
 }

@@ -1,0 +1,80 @@
+{
+  "libraries": [
+    {
+      "id": "net.minecraft:launchwrapper:1.6",
+      "url": "https://libraries.minecraft.net/net/minecraft/launchwrapper/1.6/launchwrapper-1.6.jar",
+      "side": "client",
+      "size": 27583,
+      "hashes": {
+        "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "md5": "a0053b80639ba0538555a3d675d6532c"
+      }
+    },
+    {
+      "id": "net.sf.jopt-simple:jopt-simple:4.5",
+      "url": "https://libraries.minecraft.net/net/sf/jopt-simple/jopt-simple/4.5/jopt-simple-4.5.jar",
+      "side": "client",
+      "size": 61311,
+      "hashes": {
+        "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "md5": "1372bd4823bb1ef61e7db6724f601150"
+      }
+    },
+    {
+      "id": "org.ow2.asm:asm-all:4.1",
+      "url": "https://libraries.minecraft.net/org/ow2/asm/asm-all/4.1/asm-all-4.1.jar",
+      "side": "client",
+      "size": 214592,
+      "hashes": {
+        "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "md5": "d21c2a06a4e6b175aa01e328f38a1182"
+      }
+    }
+  ],
+  "assetIndex": {
+    "id": "pre-1.6",
+    "url": "https://launchermeta.mojang.com/v1/packages/4759bad2824e419da9db32861fcdc3a274336532/pre-1.6.json",
+    "sha1": "4759bad2824e419da9db32861fcdc3a274336532",
+    "size": 73813,
+    "totalSize": 49381897
+  },
+  "formatVersion": 0,
+  "id": "c0.30_01c",
+  "releaseType": "old_alpha",
+  "changelog": "",
+  "side": "universal",
+  "relationships": [
+    {
+      "type": "required",
+      "id": "org.lwjgl",
+      "version": "2.9.0"
+    }
+  ],
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://launcher.mojang.com/v1/objects/54622801f5ef1bcc1549a842c5b04cb5d5583005/client.jar",
+      "side": "client"
+    }
+  ],
+  "client": {
+    "mainClass": "net.minecraft.launchwrapper.Launch",
+    "launchArguments": "${auth_player_name} ${auth_session} --gameDir ${game_directory} --assetsDir ${game_assets} --tweakClass net.minecraft.launchwrapper.AlphaVanillaTweaker",
+    "hashes": {
+      "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "md5": "fcfd7f83a6b27503cf48202381a5adf2"
+    },
+    "size": 297776,
+    "filename": "com.mojang:minecraft:client:c0.30_01c@jar"
+  },
+  "server": {
+    "hashes": {},
+    "size": 0
+  },
+  "size": 0,
+  "releaseTime": "2009-12-21T22:00:00+00:00"
+}

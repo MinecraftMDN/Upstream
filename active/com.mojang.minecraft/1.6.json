@@ -1,0 +1,195 @@
+{
+  "libraries": [
+    {
+      "id": "net.sf.jopt-simple:jopt-simple:4.5",
+      "url": "https://libraries.minecraft.net/net/sf/jopt-simple/jopt-simple/4.5/jopt-simple-4.5.jar",
+      "side": "client",
+      "size": 61311,
+      "hashes": {
+        "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "md5": "1372bd4823bb1ef61e7db6724f601150"
+      }
+    },
+    {
+      "id": "com.paulscode:codecjorbis:20101023",
+      "url": "https://libraries.minecraft.net/com/paulscode/codecjorbis/20101023/codecjorbis-20101023.jar",
+      "side": "client",
+      "size": 103871,
+      "hashes": {
+        "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "md5": "0d622e2ac4368b5a33d540a9e4819e0c"
+      }
+    },
+    {
+      "id": "com.paulscode:codecwav:20101023",
+      "url": "https://libraries.minecraft.net/com/paulscode/codecwav/20101023/codecwav-20101023.jar",
+      "side": "client",
+      "size": 5618,
+      "hashes": {
+        "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "md5": "f6a93b7eb8083e4ced92e7e253657057"
+      }
+    },
+    {
+      "id": "com.paulscode:libraryjavasound:20101123",
+      "url": "https://libraries.minecraft.net/com/paulscode/libraryjavasound/20101123/libraryjavasound-20101123.jar",
+      "side": "client",
+      "size": 21679,
+      "hashes": {
+        "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "md5": "247b45f9d2f0071ad543c14d0ff31d5c"
+      }
+    },
+    {
+      "id": "com.paulscode:librarylwjglopenal:20100824",
+      "url": "https://libraries.minecraft.net/com/paulscode/librarylwjglopenal/20100824/librarylwjglopenal-20100824.jar",
+      "side": "client",
+      "size": 18981,
+      "hashes": {
+        "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "md5": "93730cef2e75762c5a1431c6d7a0c78e"
+      }
+    },
+    {
+      "id": "com.paulscode:soundsystem:20120107",
+      "url": "https://libraries.minecraft.net/com/paulscode/soundsystem/20120107/soundsystem-20120107.jar",
+      "side": "client",
+      "size": 65020,
+      "hashes": {
+        "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "md5": "6d9d7d6c163caf74984465694d3566e7"
+      }
+    },
+    {
+      "id": "argo:argo:2.25_fixed",
+      "url": "https://libraries.minecraft.net/argo/argo/2.25_fixed/argo-2.25_fixed.jar",
+      "side": "client",
+      "size": 74953,
+      "hashes": {
+        "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "md5": "e9960995974979445b03bc644b9e9853"
+      }
+    },
+    {
+      "id": "org.bouncycastle:bcprov-jdk15on:1.47",
+      "url": "https://libraries.minecraft.net/org/bouncycastle/bcprov-jdk15on/1.47/bcprov-jdk15on-1.47.jar",
+      "side": "client",
+      "size": 1997327,
+      "hashes": {
+        "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "md5": "7749dd7eca4403fb968ddc484263736a"
+      }
+    },
+    {
+      "id": "com.google.guava:guava:14.0",
+      "url": "https://libraries.minecraft.net/com/google/guava/guava/14.0/guava-14.0.jar",
+      "side": "client",
+      "size": 2189111,
+      "hashes": {
+        "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "md5": "5f4a710056b492b9cbdff5d3897b402a"
+      }
+    },
+    {
+      "id": "org.apache.commons:commons-lang3:3.1",
+      "url": "https://libraries.minecraft.net/org/apache/commons/commons-lang3/3.1/commons-lang3-3.1.jar",
+      "side": "client",
+      "size": 315805,
+      "hashes": {
+        "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "md5": "71b48e6b3e1b1dc73fe705604b9c7584"
+      }
+    },
+    {
+      "id": "commons-io:commons-io:2.4",
+      "url": "https://libraries.minecraft.net/commons-io/commons-io/2.4/commons-io-2.4.jar",
+      "side": "client",
+      "size": 185140,
+      "hashes": {
+        "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "md5": "7f97854dc04c119d461fed14f5d8bb96"
+      }
+    },
+    {
+      "id": "com.google.code.gson:gson:2.2.2",
+      "url": "https://libraries.minecraft.net/com/google/code/gson/gson/2.2.2/gson-2.2.2.jar",
+      "side": "client",
+      "size": 189285,
+      "hashes": {
+        "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "md5": "08cce0687047cc068b6f1bdd45b14cf4"
+      }
+    }
+  ],
+  "assetIndex": {
+    "id": "legacy",
+    "url": "https://launchermeta.mojang.com/v1/packages/770572e819335b6c0a053f8378ad88eda189fc14/legacy.json",
+    "sha1": "770572e819335b6c0a053f8378ad88eda189fc14",
+    "size": 109634,
+    "totalSize": 153475165
+  },
+  "formatVersion": 0,
+  "id": "1.6",
+  "releaseType": "snapshot",
+  "changelog": "",
+  "side": "universal",
+  "relationships": [
+    {
+      "type": "required",
+      "id": "org.lwjgl",
+      "version": "2.9.0"
+    }
+  ],
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://launcher.mojang.com/v1/objects/5ead8f822527ed5957245be136daad9e322cab4f/client.jar",
+      "side": "client"
+    },
+    {
+      "type": "direct",
+      "id": "https://launcher.mojang.com/v1/objects/ee6d5161ac28eef285df571dc1235d48f03c3e88/server.jar",
+      "side": "server"
+    },
+    {
+      "type": "direct",
+      "id": "https://launcher.mojang.com/v1/objects/b5e8b2742cf45f4edfd3137ddef65e345b785317/windows_server.exe",
+      "side": "windows_server"
+    }
+  ],
+  "client": {
+    "mainClass": "net.minecraft.client.main.Main",
+    "launchArguments": "--username ${auth_player_name} --session ${auth_session} --version ${version_name} --gameDir ${game_directory} --assetsDir ${game_assets}",
+    "hashes": {
+      "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "md5": "6a64a2136e3a3fe4d29b0a0df30b25fc"
+    },
+    "size": 4720746,
+    "filename": "com.mojang:minecraft:client:1.6@jar"
+  },
+  "server": {
+    "mainClass": "net.minecraft.server.MinecraftServer",
+    "hashes": {
+      "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "md5": "7c03305c8bf97a8e8f3cdb147fc90607"
+    },
+    "size": 6129989,
+    "filename": "minecraft_server_1.6.jar"
+  },
+  "size": 0,
+  "releaseTime": "2013-06-25T13:08:56+00:00"
+}
