@@ -1,6 +1,7 @@
 {
   "libraries": [
     {
+      "type": "jar",
       "id": "com.mojang:netty:1.6",
       "url": "https://libraries.minecraft.net/com/mojang/netty/1.6/netty-1.6.jar",
       "side": "client",
@@ -12,6 +13,7 @@
       }
     },
     {
+      "type": "jar",
       "id": "java3d:vecmath:1.3.1",
       "url": "https://libraries.minecraft.net/java3d/vecmath/1.3.1/vecmath-1.3.1.jar",
       "side": "client",
@@ -23,6 +25,7 @@
       }
     },
     {
+      "type": "jar",
       "id": "net.sf.trove4j:trove4j:3.0.3",
       "url": "https://libraries.minecraft.net/net/sf/trove4j/trove4j/3.0.3/trove4j-3.0.3.jar",
       "side": "client",
@@ -34,6 +37,7 @@
       }
     },
     {
+      "type": "jar",
       "id": "com.ibm.icu:icu4j-core-mojang:51.2",
       "url": "https://libraries.minecraft.net/com/ibm/icu/icu4j-core-mojang/51.2/icu4j-core-mojang-51.2.jar",
       "side": "client",
@@ -45,6 +49,7 @@
       }
     },
     {
+      "type": "jar",
       "id": "net.sf.jopt-simple:jopt-simple:4.5",
       "url": "https://libraries.minecraft.net/net/sf/jopt-simple/jopt-simple/4.5/jopt-simple-4.5.jar",
       "side": "client",
@@ -56,6 +61,7 @@
       }
     },
     {
+      "type": "jar",
       "id": "com.paulscode:codecjorbis:20101023",
       "url": "https://libraries.minecraft.net/com/paulscode/codecjorbis/20101023/codecjorbis-20101023.jar",
       "side": "client",
@@ -67,6 +73,7 @@
       }
     },
     {
+      "type": "jar",
       "id": "com.paulscode:codecwav:20101023",
       "url": "https://libraries.minecraft.net/com/paulscode/codecwav/20101023/codecwav-20101023.jar",
       "side": "client",
@@ -78,6 +85,7 @@
       }
     },
     {
+      "type": "jar",
       "id": "com.paulscode:libraryjavasound:20101123",
       "url": "https://libraries.minecraft.net/com/paulscode/libraryjavasound/20101123/libraryjavasound-20101123.jar",
       "side": "client",
@@ -89,6 +97,7 @@
       }
     },
     {
+      "type": "jar",
       "id": "com.paulscode:librarylwjglopenal:20100824",
       "url": "https://libraries.minecraft.net/com/paulscode/librarylwjglopenal/20100824/librarylwjglopenal-20100824.jar",
       "side": "client",
@@ -100,6 +109,7 @@
       }
     },
     {
+      "type": "jar",
       "id": "com.paulscode:soundsystem:20120107",
       "url": "https://libraries.minecraft.net/com/paulscode/soundsystem/20120107/soundsystem-20120107.jar",
       "side": "client",
@@ -111,6 +121,7 @@
       }
     },
     {
+      "type": "jar",
       "id": "io.netty:netty-all:4.0.10.Final",
       "url": "https://libraries.minecraft.net/io/netty/netty-all/4.0.10.Final/netty-all-4.0.10.Final.jar",
       "side": "client",
@@ -122,6 +133,7 @@
       }
     },
     {
+      "type": "jar",
       "id": "com.google.guava:guava:15.0",
       "url": "https://libraries.minecraft.net/com/google/guava/guava/15.0/guava-15.0.jar",
       "side": "client",
@@ -133,6 +145,7 @@
       }
     },
     {
+      "type": "jar",
       "id": "org.apache.commons:commons-lang3:3.1",
       "url": "https://libraries.minecraft.net/org/apache/commons/commons-lang3/3.1/commons-lang3-3.1.jar",
       "side": "client",
@@ -144,6 +157,7 @@
       }
     },
     {
+      "type": "jar",
       "id": "commons-io:commons-io:2.4",
       "url": "https://libraries.minecraft.net/commons-io/commons-io/2.4/commons-io-2.4.jar",
       "side": "client",
@@ -155,6 +169,7 @@
       }
     },
     {
+      "type": "jar",
       "id": "com.google.code.gson:gson:2.2.4",
       "url": "https://libraries.minecraft.net/com/google/code/gson/gson/2.2.4/gson-2.2.4.jar",
       "side": "client",
@@ -166,6 +181,7 @@
       }
     },
     {
+      "type": "jar",
       "id": "com.mojang:authlib:1.2",
       "url": "https://libraries.minecraft.net/com/mojang/authlib/1.2/authlib-1.2.jar",
       "side": "client",
@@ -177,6 +193,7 @@
       }
     },
     {
+      "type": "jar",
       "id": "org.apache.logging.log4j:log4j-api:2.0-beta9",
       "url": "https://libraries.minecraft.net/org/apache/logging/log4j/log4j-api/2.0-beta9/log4j-api-2.0-beta9.jar",
       "side": "client",
@@ -188,6 +205,7 @@
       }
     },
     {
+      "type": "jar",
       "id": "org.apache.logging.log4j:log4j-core:2.0-beta9",
       "url": "https://libraries.minecraft.net/org/apache/logging/log4j/log4j-core/2.0-beta9/log4j-core-2.0-beta9.jar",
       "side": "client",
@@ -199,6 +217,7 @@
       }
     },
     {
+      "type": "jar",
       "id": "tv.twitch:twitch:5.12",
       "url": "https://libraries.minecraft.net/tv/twitch/twitch/5.12/twitch-5.12.jar",
       "side": "client",
@@ -210,6 +229,7 @@
       }
     },
     {
+      "type": "natives-macos",
       "id": "tv.twitch:twitch-platform:5.12",
       "url": "https://libraries.minecraft.net/tv/twitch/twitch-platform/5.12/twitch-platform-5.12-natives-osx.jar",
       "side": "client",
@@ -221,6 +241,7 @@
       }
     },
     {
+      "type": "natives-windows",
       "id": "tv.twitch:twitch-platform:5.12",
       "url": "https://libraries.minecraft.net/tv/twitch/twitch-platform/5.12/twitch-platform-5.12-natives-windows-32.jar",
       "side": "client",
@@ -232,6 +253,7 @@
       }
     },
     {
+      "type": "natives-windows",
       "id": "tv.twitch:twitch-platform:5.12",
       "url": "https://libraries.minecraft.net/tv/twitch/twitch-platform/5.12/twitch-platform-5.12-natives-windows-64.jar",
       "side": "client",
@@ -243,6 +265,7 @@
       }
     },
     {
+      "type": "natives-windows",
       "id": "tv.twitch:twitch-external-platform:4.5",
       "url": "https://libraries.minecraft.net/tv/twitch/twitch-external-platform/4.5/twitch-external-platform-4.5-natives-windows-32.jar",
       "side": "client",
@@ -254,6 +277,7 @@
       }
     },
     {
+      "type": "natives-windows",
       "id": "tv.twitch:twitch-external-platform:4.5",
       "url": "https://libraries.minecraft.net/tv/twitch/twitch-external-platform/4.5/twitch-external-platform-4.5-natives-windows-64.jar",
       "side": "client",

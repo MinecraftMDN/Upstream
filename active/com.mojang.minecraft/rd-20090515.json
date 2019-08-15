@@ -1,6 +1,7 @@
 {
   "libraries": [
     {
+      "type": "jar",
       "id": "net.sf.jopt-simple:jopt-simple:4.5",
       "url": "https://libraries.minecraft.net/net/sf/jopt-simple/jopt-simple/4.5/jopt-simple-4.5.jar",
       "side": "client",

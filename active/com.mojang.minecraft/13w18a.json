@@ -1,6 +1,7 @@
 {
   "libraries": [
     {
+      "type": "jar",
       "id": "net.sf.jopt-simple:jopt-simple:4.4",
       "url": "https://libraries.minecraft.net/net/sf/jopt-simple/jopt-simple/4.4/jopt-simple-4.4.jar",
       "side": "client",
@@ -12,6 +13,7 @@
       }
     },
     {
+      "type": "jar",
       "id": "com.paulscode:codecjorbis:20101023",
       "url": "https://libraries.minecraft.net/com/paulscode/codecjorbis/20101023/codecjorbis-20101023.jar",
       "side": "client",
@@ -23,6 +25,7 @@
       }
     },
     {
+      "type": "jar",
       "id": "com.paulscode:codecwav:20101023",
       "url": "https://libraries.minecraft.net/com/paulscode/codecwav/20101023/codecwav-20101023.jar",
       "side": "client",
@@ -34,6 +37,7 @@
       }
     },
     {
+      "type": "jar",
       "id": "com.paulscode:libraryjavasound:20101123",
       "url": "https://libraries.minecraft.net/com/paulscode/libraryjavasound/20101123/libraryjavasound-20101123.jar",
       "side": "client",
@@ -45,6 +49,7 @@
       }
     },
     {
+      "type": "jar",
       "id": "com.paulscode:librarylwjglopenal:20100824",
       "url": "https://libraries.minecraft.net/com/paulscode/librarylwjglopenal/20100824/librarylwjglopenal-20100824.jar",
       "side": "client",
@@ -56,6 +61,7 @@
       }
     },
     {
+      "type": "jar",
       "id": "com.paulscode:soundsystem:20120107",
       "url": "https://libraries.minecraft.net/com/paulscode/soundsystem/20120107/soundsystem-20120107.jar",
       "side": "client",
@@ -67,6 +73,7 @@
       }
     },
     {
+      "type": "jar",
       "id": "argo:argo:2.25_fixed",
       "url": "https://libraries.minecraft.net/argo/argo/2.25_fixed/argo-2.25_fixed.jar",
       "side": "client",
@@ -78,6 +85,7 @@
       }
     },
     {
+      "type": "jar",
       "id": "org.bouncycastle:bcprov-jdk15on:1.47",
       "url": "https://libraries.minecraft.net/org/bouncycastle/bcprov-jdk15on/1.47/bcprov-jdk15on-1.47.jar",
       "side": "client",
@@ -89,6 +97,7 @@
       }
     },
     {
+      "type": "jar",
       "id": "com.google.guava:guava:14.0",
       "url": "https://libraries.minecraft.net/com/google/guava/guava/14.0/guava-14.0.jar",
       "side": "client",
@@ -100,6 +109,7 @@
       }
     },
     {
+      "type": "jar",
       "id": "org.apache.commons:commons-lang3:3.1",
       "url": "https://libraries.minecraft.net/org/apache/commons/commons-lang3/3.1/commons-lang3-3.1.jar",
       "side": "client",
@@ -111,6 +121,7 @@
       }
     },
     {
+      "type": "jar",
       "id": "commons-io:commons-io:2.4",
       "url": "https://libraries.minecraft.net/commons-io/commons-io/2.4/commons-io-2.4.jar",
       "side": "client",

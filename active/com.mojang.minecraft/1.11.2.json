@@ -1,6 +1,7 @@
 {
   "libraries": [
     {
+      "type": "jar",
       "id": "com.mojang:netty:1.6",
       "url": "https://libraries.minecraft.net/com/mojang/netty/1.6/netty-1.6.jar",
       "side": "client",
@@ -12,6 +13,7 @@
       }
     },
     {
+      "type": "jar",
       "id": "oshi-project:oshi-core:1.1",
       "url": "https://libraries.minecraft.net/oshi-project/oshi-core/1.1/oshi-core-1.1.jar",
       "side": "client",
@@ -23,6 +25,7 @@
       }
     },
     {
+      "type": "jar",
       "id": "net.java.dev.jna:jna:3.4.0",
       "url": "https://libraries.minecraft.net/net/java/dev/jna/jna/3.4.0/jna-3.4.0.jar",
       "side": "client",
@@ -34,6 +37,7 @@
       }
     },
     {
+      "type": "jar",
       "id": "net.java.dev.jna:platform:3.4.0",
       "url": "https://libraries.minecraft.net/net/java/dev/jna/platform/3.4.0/platform-3.4.0.jar",
       "side": "client",
@@ -45,6 +49,7 @@
       }
     },
     {
+      "type": "jar",
       "id": "com.ibm.icu:icu4j-core-mojang:51.2",
       "url": "https://libraries.minecraft.net/com/ibm/icu/icu4j-core-mojang/51.2/icu4j-core-mojang-51.2.jar",
       "side": "client",
@@ -56,6 +61,7 @@
       }
     },
     {
+      "type": "jar",
       "id": "net.sf.jopt-simple:jopt-simple:4.6",
       "url": "https://libraries.minecraft.net/net/sf/jopt-simple/jopt-simple/4.6/jopt-simple-4.6.jar",
       "side": "client",
@@ -67,6 +73,7 @@
       }
     },
     {
+      "type": "jar",
       "id": "com.paulscode:codecjorbis:20101023",
       "url": "https://libraries.minecraft.net/com/paulscode/codecjorbis/20101023/codecjorbis-20101023.jar",
       "side": "client",
@@ -78,6 +85,7 @@
       }
     },
     {
+      "type": "jar",
       "id": "com.paulscode:codecwav:20101023",
       "url": "https://libraries.minecraft.net/com/paulscode/codecwav/20101023/codecwav-20101023.jar",
       "side": "client",
@@ -89,6 +97,7 @@
       }
     },
     {
+      "type": "jar",
       "id": "com.paulscode:libraryjavasound:20101123",
       "url": "https://libraries.minecraft.net/com/paulscode/libraryjavasound/20101123/libraryjavasound-20101123.jar",
       "side": "client",
@@ -100,6 +109,7 @@
       }
     },
     {
+      "type": "jar",
       "id": "com.paulscode:librarylwjglopenal:20100824",
       "url": "https://libraries.minecraft.net/com/paulscode/librarylwjglopenal/20100824/librarylwjglopenal-20100824.jar",
       "side": "client",
@@ -111,6 +121,7 @@
       }
     },
     {
+      "type": "jar",
       "id": "com.paulscode:soundsystem:20120107",
       "url": "https://libraries.minecraft.net/com/paulscode/soundsystem/20120107/soundsystem-20120107.jar",
       "side": "client",
@@ -122,6 +133,7 @@
       }
     },
     {
+      "type": "jar",
       "id": "io.netty:netty-all:4.0.23.Final",
       "url": "https://libraries.minecraft.net/io/netty/netty-all/4.0.23.Final/netty-all-4.0.23.Final.jar",
       "side": "client",
@@ -133,6 +145,7 @@
       }
     },
     {
+      "type": "jar",
       "id": "com.google.guava:guava:17.0",
       "url": "https://libraries.minecraft.net/com/google/guava/guava/17.0/guava-17.0.jar",
       "side": "client",
@@ -144,6 +157,7 @@
       }
     },
     {
+      "type": "jar",
       "id": "org.apache.commons:commons-lang3:3.3.2",
       "url": "https://libraries.minecraft.net/org/apache/commons/commons-lang3/3.3.2/commons-lang3-3.3.2.jar",
       "side": "client",
@@ -155,6 +169,7 @@
       }
     },
     {
+      "type": "jar",
       "id": "commons-io:commons-io:2.4",
       "url": "https://libraries.minecraft.net/commons-io/commons-io/2.4/commons-io-2.4.jar",
       "side": "client",
@@ -166,6 +181,7 @@
       }
     },
     {
+      "type": "jar",
       "id": "commons-codec:commons-codec:1.9",
       "url": "https://libraries.minecraft.net/commons-codec/commons-codec/1.9/commons-codec-1.9.jar",
       "side": "client",
@@ -177,6 +193,7 @@
       }
     },
     {
+      "type": "jar",
       "id": "com.google.code.gson:gson:2.2.4",
       "url": "https://libraries.minecraft.net/com/google/code/gson/gson/2.2.4/gson-2.2.4.jar",
       "side": "client",
@@ -188,6 +205,7 @@
       }
     },
     {
+      "type": "jar",
       "id": "com.mojang:authlib:1.5.24",
       "url": "https://libraries.minecraft.net/com/mojang/authlib/1.5.24/authlib-1.5.24.jar",
       "side": "client",
@@ -199,6 +217,7 @@
       }
     },
     {
+      "type": "jar",
       "id": "com.mojang:realms:1.10.16",
       "url": "https://libraries.minecraft.net/com/mojang/realms/1.10.16/realms-1.10.16.jar",
       "side": "client",
@@ -210,6 +229,7 @@
       }
     },
     {
+      "type": "jar",
       "id": "org.apache.commons:commons-compress:1.8.1",
       "url": "https://libraries.minecraft.net/org/apache/commons/commons-compress/1.8.1/commons-compress-1.8.1.jar",
       "side": "client",
@@ -221,6 +241,7 @@
       }
     },
     {
+      "type": "jar",
       "id": "org.apache.httpcomponents:httpclient:4.3.3",
       "url": "https://libraries.minecraft.net/org/apache/httpcomponents/httpclient/4.3.3/httpclient-4.3.3.jar",
       "side": "client",
@@ -232,6 +253,7 @@
       }
     },
     {
+      "type": "jar",
       "id": "commons-logging:commons-logging:1.1.3",
       "url": "https://libraries.minecraft.net/commons-logging/commons-logging/1.1.3/commons-logging-1.1.3.jar",
       "side": "client",
@@ -243,6 +265,7 @@
       }
     },
     {
+      "type": "jar",
       "id": "org.apache.httpcomponents:httpcore:4.3.2",
       "url": "https://libraries.minecraft.net/org/apache/httpcomponents/httpcore/4.3.2/httpcore-4.3.2.jar",
       "side": "client",
@@ -254,6 +277,7 @@
       }
     },
     {
+      "type": "jar",
       "id": "it.unimi.dsi:fastutil:7.0.12_mojang",
       "url": "https://libraries.minecraft.net/it/unimi/dsi/fastutil/7.0.12_mojang/fastutil-7.0.12_mojang.jar",
       "side": "client",
@@ -265,6 +289,7 @@
       }
     },
     {
+      "type": "jar",
       "id": "org.apache.logging.log4j:log4j-api:2.0-beta9",
       "url": "https://libraries.minecraft.net/org/apache/logging/log4j/log4j-api/2.0-beta9/log4j-api-2.0-beta9.jar",
       "side": "client",
@@ -276,6 +301,7 @@
       }
     },
     {
+      "type": "jar",
       "id": "org.apache.logging.log4j:log4j-core:2.0-beta9",
       "url": "https://libraries.minecraft.net/org/apache/logging/log4j/log4j-core/2.0-beta9/log4j-core-2.0-beta9.jar",
       "side": "client",

@@ -1,6 +1,7 @@
 {
   "libraries": [
     {
+      "type": "jar",
       "id": "com.mojang:patchy:1.1",
       "url": "https://libraries.minecraft.net/com/mojang/patchy/1.1/patchy-1.1.jar",
       "side": "client",
@@ -12,6 +13,7 @@
       }
     },
     {
+      "type": "jar",
       "id": "oshi-project:oshi-core:1.1",
       "url": "https://libraries.minecraft.net/oshi-project/oshi-core/1.1/oshi-core-1.1.jar",
       "side": "client",
@@ -23,6 +25,7 @@
       }
     },
     {
+      "type": "jar",
       "id": "net.java.dev.jna:jna:4.4.0",
       "url": "https://libraries.minecraft.net/net/java/dev/jna/jna/4.4.0/jna-4.4.0.jar",
       "side": "client",
@@ -34,6 +37,7 @@
       }
     },
     {
+      "type": "jar",
       "id": "net.java.dev.jna:platform:3.4.0",
       "url": "https://libraries.minecraft.net/net/java/dev/jna/platform/3.4.0/platform-3.4.0.jar",
       "side": "client",
@@ -45,6 +49,7 @@
       }
     },
     {
+      "type": "jar",
       "id": "com.ibm.icu:icu4j-core-mojang:51.2",
       "url": "https://libraries.minecraft.net/com/ibm/icu/icu4j-core-mojang/51.2/icu4j-core-mojang-51.2.jar",
       "side": "client",
@@ -56,6 +61,7 @@
       }
     },
     {
+      "type": "jar",
       "id": "com.mojang:javabridge:1.0.22",
       "url": "https://libraries.minecraft.net/com/mojang/javabridge/1.0.22/javabridge-1.0.22.jar",
       "side": "client",
@@ -67,6 +73,7 @@
       }
     },
     {
+      "type": "jar",
       "id": "net.sf.jopt-simple:jopt-simple:5.0.3",
       "url": "https://libraries.minecraft.net/net/sf/jopt-simple/jopt-simple/5.0.3/jopt-simple-5.0.3.jar",
       "side": "client",
@@ -78,6 +85,7 @@
       }
     },
     {
+      "type": "jar",
       "id": "io.netty:netty-all:4.1.25.Final",
       "url": "https://libraries.minecraft.net/io/netty/netty-all/4.1.25.Final/netty-all-4.1.25.Final.jar",
       "side": "client",
@@ -89,6 +97,7 @@
       }
     },
     {
+      "type": "jar",
       "id": "com.google.guava:guava:21.0",
       "url": "https://libraries.minecraft.net/com/google/guava/guava/21.0/guava-21.0.jar",
       "side": "client",
@@ -100,6 +109,7 @@
       }
     },
     {
+      "type": "jar",
       "id": "org.apache.commons:commons-lang3:3.5",
       "url": "https://libraries.minecraft.net/org/apache/commons/commons-lang3/3.5/commons-lang3-3.5.jar",
       "side": "client",
@@ -111,6 +121,7 @@
       }
     },
     {
+      "type": "jar",
       "id": "commons-io:commons-io:2.5",
       "url": "https://libraries.minecraft.net/commons-io/commons-io/2.5/commons-io-2.5.jar",
       "side": "client",
@@ -122,6 +133,7 @@
       }
     },
     {
+      "type": "jar",
       "id": "commons-codec:commons-codec:1.10",
       "url": "https://libraries.minecraft.net/commons-codec/commons-codec/1.10/commons-codec-1.10.jar",
       "side": "client",
@@ -133,6 +145,7 @@
       }
     },
     {
+      "type": "jar",
       "id": "com.mojang:brigadier:1.0.17",
       "url": "https://libraries.minecraft.net/com/mojang/brigadier/1.0.17/brigadier-1.0.17.jar",
       "side": "client",
@@ -144,6 +157,7 @@
       }
     },
     {
+      "type": "jar",
       "id": "com.mojang:datafixerupper:2.0.24",
       "url": "https://libraries.minecraft.net/com/mojang/datafixerupper/2.0.24/datafixerupper-2.0.24.jar",
       "side": "client",
@@ -155,6 +169,7 @@
       }
     },
     {
+      "type": "jar",
       "id": "com.google.code.gson:gson:2.8.0",
       "url": "https://libraries.minecraft.net/com/google/code/gson/gson/2.8.0/gson-2.8.0.jar",
       "side": "client",
@@ -166,6 +181,7 @@
       }
     },
     {
+      "type": "jar",
       "id": "com.mojang:authlib:1.5.25",
       "url": "https://libraries.minecraft.net/com/mojang/authlib/1.5.25/authlib-1.5.25.jar",
       "side": "client",
@@ -177,6 +193,7 @@
       }
     },
     {
+      "type": "jar",
       "id": "org.apache.commons:commons-compress:1.8.1",
       "url": "https://libraries.minecraft.net/org/apache/commons/commons-compress/1.8.1/commons-compress-1.8.1.jar",
       "side": "client",
@@ -188,6 +205,7 @@
       }
     },
     {
+      "type": "jar",
       "id": "org.apache.httpcomponents:httpclient:4.3.3",
       "url": "https://libraries.minecraft.net/org/apache/httpcomponents/httpclient/4.3.3/httpclient-4.3.3.jar",
       "side": "client",
@@ -199,6 +217,7 @@
       }
     },
     {
+      "type": "jar",
       "id": "commons-logging:commons-logging:1.1.3",
       "url": "https://libraries.minecraft.net/commons-logging/commons-logging/1.1.3/commons-logging-1.1.3.jar",
       "side": "client",
@@ -210,6 +229,7 @@
       }
     },
     {
+      "type": "jar",
       "id": "org.apache.httpcomponents:httpcore:4.3.2",
       "url": "https://libraries.minecraft.net/org/apache/httpcomponents/httpcore/4.3.2/httpcore-4.3.2.jar",
       "side": "client",
@@ -221,6 +241,7 @@
       }
     },
     {
+      "type": "jar",
       "id": "it.unimi.dsi:fastutil:8.2.1",
       "url": "https://libraries.minecraft.net/it/unimi/dsi/fastutil/8.2.1/fastutil-8.2.1.jar",
       "side": "client",
@@ -232,6 +253,7 @@
       }
     },
     {
+      "type": "jar",
       "id": "org.apache.logging.log4j:log4j-api:2.8.1",
       "url": "https://libraries.minecraft.net/org/apache/logging/log4j/log4j-api/2.8.1/log4j-api-2.8.1.jar",
       "side": "client",
@@ -243,6 +265,7 @@
       }
     },
     {
+      "type": "jar",
       "id": "org.apache.logging.log4j:log4j-core:2.8.1",
       "url": "https://libraries.minecraft.net/org/apache/logging/log4j/log4j-core/2.8.1/log4j-core-2.8.1.jar",
       "side": "client",
@@ -254,6 +277,7 @@
       }
     },
     {
+      "type": "jar",
       "id": "com.mojang:realms:1.14.6",
       "url": "https://libraries.minecraft.net/com/mojang/realms/1.14.6/realms-1.14.6.jar",
       "side": "client",
@@ -265,6 +289,7 @@
       }
     },
     {
+      "type": "jar",
       "id": "com.mojang:text2speech:1.11.3",
       "url": "https://libraries.minecraft.net/com/mojang/text2speech/1.11.3/text2speech-1.11.3.jar",
       "side": "client",
@@ -276,6 +301,7 @@
       }
     },
     {
+      "type": "jar",
       "id": "com.mojang:text2speech:1.11.3",
       "url": "https://libraries.minecraft.net/com/mojang/text2speech/1.11.3/text2speech-1.11.3.jar",
       "side": "client",
@@ -287,6 +313,7 @@
       }
     },
     {
+      "type": "natives-linux",
       "id": "com.mojang:text2speech:1.11.3",
       "url": "https://libraries.minecraft.net/com/mojang/text2speech/1.11.3/text2speech-1.11.3-natives-linux.jar",
       "side": "client",
@@ -298,6 +325,7 @@
       }
     },
     {
+      "type": "natives-windows",
       "id": "com.mojang:text2speech:1.11.3",
       "url": "https://libraries.minecraft.net/com/mojang/text2speech/1.11.3/text2speech-1.11.3-natives-windows.jar",
       "side": "client",
@@ -309,6 +337,7 @@
       }
     },
     {
+      "type": "sources",
       "id": "com.mojang:text2speech:1.11.3",
       "url": "https://libraries.minecraft.net/com/mojang/text2speech/1.11.3/text2speech-1.11.3-sources.jar",
       "side": "client",
@@ -320,6 +349,7 @@
       }
     },
     {
+      "type": "jar",
       "id": "ca.weblite:java-objc-bridge:1.0.0",
       "url": "https://libraries.minecraft.net/ca/weblite/java-objc-bridge/1.0.0/java-objc-bridge-1.0.0.jar",
       "side": "client",
@@ -331,6 +361,7 @@
       }
     },
     {
+      "type": "javadocs",
       "id": "ca.weblite:java-objc-bridge:1.0.0",
       "url": "https://libraries.minecraft.net/ca/weblite/java-objc-bridge/1.0.0/java-objc-bridge-1.0.0-javadoc.jar",
       "side": "client",
@@ -342,6 +373,7 @@
       }
     },
     {
+      "type": "natives-macos",
       "id": "ca.weblite:java-objc-bridge:1.0.0",
       "url": "https://libraries.minecraft.net/ca/weblite/java-objc-bridge/1.0.0/java-objc-bridge-1.0.0-natives-osx.jar",
       "side": "client",
@@ -353,6 +385,7 @@
       }
     },
     {
+      "type": "sources",
       "id": "ca.weblite:java-objc-bridge:1.0.0",
       "url": "https://libraries.minecraft.net/ca/weblite/java-objc-bridge/1.0.0/java-objc-bridge-1.0.0-sources.jar",
       "side": "client",
@@ -364,6 +397,7 @@
       }
     },
     {
+      "type": "jar",
       "id": "ca.weblite:java-objc-bridge:1.0.0",
       "url": "https://libraries.minecraft.net/ca/weblite/java-objc-bridge/1.0.0/java-objc-bridge-1.0.0.jar",
       "side": "client",
