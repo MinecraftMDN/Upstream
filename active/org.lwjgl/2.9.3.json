@@ -26,32 +26,32 @@
     },
     {
       "type": "jar",
-      "id": "org.lwjgl.lwjgl:lwjgl:2.9.4-nightly-20150209",
-      "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl/lwjgl/2.9.4-nightly-20150209/lwjgl-2.9.4-nightly-20150209.jar",
+      "id": "org.lwjgl.lwjgl:lwjgl:2.9.3",
+      "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl/lwjgl/2.9.3/lwjgl-2.9.3.jar",
       "side": "client",
-      "size": 1047168,
+      "size": 1053471,
       "hashes": {
         "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
         "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-        "md5": "6e55ddca0cb6375facfecf1c769b7d77"
+        "md5": "339e28b43086b650acf7523100e52a07"
       }
     },
     {
       "type": "jar",
-      "id": "org.lwjgl.lwjgl:lwjgl_util:2.9.4-nightly-20150209",
-      "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl/lwjgl_util/2.9.4-nightly-20150209/lwjgl_util-2.9.4-nightly-20150209.jar",
+      "id": "org.lwjgl.lwjgl:lwjgl_util:2.9.3",
+      "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl/lwjgl_util/2.9.3/lwjgl_util-2.9.3.jar",
       "side": "client",
-      "size": 173887,
+      "size": 173911,
       "hashes": {
         "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
         "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-        "md5": "b5c4665943f749a0bba6a6da53a45674"
+        "md5": "b2746e810dc27a9c9c63925444775d1a"
       }
     },
     {
       "type": "jar",
-      "id": "org.lwjgl.lwjgl:lwjgl-platform:2.9.4-nightly-20150209",
-      "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl/lwjgl-platform/2.9.4-nightly-20150209/lwjgl-platform-2.9.4-nightly-20150209.jar",
+      "id": "org.lwjgl.lwjgl:lwjgl-platform:2.9.3",
+      "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl/lwjgl-platform/2.9.3/lwjgl-platform-2.9.3.jar",
       "side": "client",
       "size": 22,
       "hashes": {
@@ -62,38 +62,38 @@
     },
     {
       "type": "natives-linux",
-      "id": "org.lwjgl.lwjgl:lwjgl-platform:2.9.4-nightly-20150209",
-      "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl/lwjgl-platform/2.9.4-nightly-20150209/lwjgl-platform-2.9.4-nightly-20150209-natives-linux.jar",
+      "id": "org.lwjgl.lwjgl:lwjgl-platform:2.9.3",
+      "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl/lwjgl-platform/2.9.3/lwjgl-platform-2.9.3-natives-linux.jar",
       "side": "client",
-      "size": 578680,
+      "size": 578675,
       "hashes": {
         "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
         "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-        "md5": "45ce0cbbb00bfabf374f3ae2c5544b53"
+        "md5": "6f6d3f48c69c42c913f7fe4fd92eafa3"
       }
     },
     {
       "type": "natives-macos",
-      "id": "org.lwjgl.lwjgl:lwjgl-platform:2.9.4-nightly-20150209",
-      "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl/lwjgl-platform/2.9.4-nightly-20150209/lwjgl-platform-2.9.4-nightly-20150209-natives-osx.jar",
+      "id": "org.lwjgl.lwjgl:lwjgl-platform:2.9.3",
+      "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl/lwjgl-platform/2.9.3/lwjgl-platform-2.9.3-natives-osx.jar",
       "side": "client",
-      "size": 426822,
+      "size": 426817,
       "hashes": {
         "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
         "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-        "md5": "3275050caac0e14238521f1d5e03fbda"
+        "md5": "8c88145a4ff6752e0267acd4e2960a8f"
       }
     },
     {
       "type": "natives-windows",
-      "id": "org.lwjgl.lwjgl:lwjgl-platform:2.9.4-nightly-20150209",
-      "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl/lwjgl-platform/2.9.4-nightly-20150209/lwjgl-platform-2.9.4-nightly-20150209-natives-windows.jar",
+      "id": "org.lwjgl.lwjgl:lwjgl-platform:2.9.3",
+      "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl/lwjgl-platform/2.9.3/lwjgl-platform-2.9.3-natives-windows.jar",
       "side": "client",
-      "size": 613748,
+      "size": 613744,
       "hashes": {
         "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
         "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-        "md5": "6cab9a7349c4a33e172ad405682e7796"
+        "md5": "2a1b252d4dd20f6cc75895a9496b8e23"
       }
     },
     {
@@ -194,7 +194,7 @@
     }
   ],
   "formatVersion": 0,
-  "id": "2.9.4-nightly-20150209",
+  "id": "2.9.3",
   "releaseType": "release",
   "changelog": "",
   "side": "client",

@@ -1,0 +1,143 @@
+{
+  "libraries": [
+    {
+      "type": "jar",
+      "id": "net.java.jinput:jinput:2.0.5",
+      "url": "https://libraries.minecraft.net/net/java/jinput/jinput/2.0.5/jinput-2.0.5.jar",
+      "side": "client",
+      "size": 208338,
+      "hashes": {
+        "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "md5": "cc07d371f79dc4ed2239e1101ae06313"
+      }
+    },
+    {
+      "type": "jar",
+      "id": "net.java.jutils:jutils:1.0.0",
+      "url": "https://libraries.minecraft.net/net/java/jutils/jutils/1.0.0/jutils-1.0.0.jar",
+      "side": "client",
+      "size": 7508,
+      "hashes": {
+        "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "md5": "f60976b19661c849c5c87433045a9885"
+      }
+    },
+    {
+      "type": "jar",
+      "id": "org.lwjgl.lwjgl:lwjgl:2.9.1-nightly-20131120",
+      "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl/lwjgl/2.9.1-nightly-20131120/lwjgl-2.9.1-nightly-20131120.jar",
+      "side": "client",
+      "size": 1014767,
+      "hashes": {
+        "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "md5": "2fbdc70ed3b13aebddff6d5b26008d3b"
+      }
+    },
+    {
+      "type": "jar",
+      "id": "org.lwjgl.lwjgl:lwjgl_util:2.9.1-nightly-20131120",
+      "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl/lwjgl_util/2.9.1-nightly-20131120/lwjgl_util-2.9.1-nightly-20131120.jar",
+      "side": "client",
+      "size": 173887,
+      "hashes": {
+        "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "md5": "769eb717d317131c5ba10eb0553d0506"
+      }
+    },
+    {
+      "type": "natives-linux",
+      "id": "org.lwjgl.lwjgl:lwjgl-platform:2.9.1-nightly-20131120",
+      "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl/lwjgl-platform/2.9.1-nightly-20131120/lwjgl-platform-2.9.1-nightly-20131120-natives-linux.jar",
+      "side": "client",
+      "size": 571429,
+      "hashes": {
+        "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "md5": "ea5eabdf969f0742517c527caff7d162"
+      }
+    },
+    {
+      "type": "natives-macos",
+      "id": "org.lwjgl.lwjgl:lwjgl-platform:2.9.1-nightly-20131120",
+      "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl/lwjgl-platform/2.9.1-nightly-20131120/lwjgl-platform-2.9.1-nightly-20131120-natives-osx.jar",
+      "side": "client",
+      "size": 527201,
+      "hashes": {
+        "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "md5": "72e03eefc98e6086f3189a4b03407361"
+      }
+    },
+    {
+      "type": "natives-windows",
+      "id": "org.lwjgl.lwjgl:lwjgl-platform:2.9.1-nightly-20131120",
+      "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl/lwjgl-platform/2.9.1-nightly-20131120/lwjgl-platform-2.9.1-nightly-20131120-natives-windows.jar",
+      "side": "client",
+      "size": 611339,
+      "hashes": {
+        "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "md5": "44c938caf57c0ebe1e5f1a04aabfdb99"
+      }
+    },
+    {
+      "type": "natives-linux",
+      "id": "net.java.jinput:jinput-platform:2.0.5",
+      "url": "https://libraries.minecraft.net/net/java/jinput/jinput-platform/2.0.5/jinput-platform-2.0.5-natives-linux.jar",
+      "side": "client",
+      "size": 10362,
+      "hashes": {
+        "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "md5": "12f3021e9cab2beece3c191138955a56"
+      }
+    },
+    {
+      "type": "natives-macos",
+      "id": "net.java.jinput:jinput-platform:2.0.5",
+      "url": "https://libraries.minecraft.net/net/java/jinput/jinput-platform/2.0.5/jinput-platform-2.0.5-natives-osx.jar",
+      "side": "client",
+      "size": 12186,
+      "hashes": {
+        "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "md5": "32fea5fd88f91b9dd335839aca06f3d1"
+      }
+    },
+    {
+      "type": "natives-windows",
+      "id": "net.java.jinput:jinput-platform:2.0.5",
+      "url": "https://libraries.minecraft.net/net/java/jinput/jinput-platform/2.0.5/jinput-platform-2.0.5-natives-windows.jar",
+      "side": "client",
+      "size": 155179,
+      "hashes": {
+        "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "md5": "b168b014be0186d9e95bf3d263e3a129"
+      }
+    }
+  ],
+  "formatVersion": 0,
+  "id": "2.9.1-nightly-20131120",
+  "releaseType": "release",
+  "changelog": "",
+  "side": "client",
+  "relationships": [],
+  "artifacts": [],
+  "client": {
+    "hashes": {},
+    "size": 0
+  },
+  "server": {
+    "hashes": {},
+    "size": 0
+  },
+  "hashes": {},
+  "size": 0,
+  "filename": "",
+  "releaseTime": ""
+}

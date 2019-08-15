@@ -2,5 +2,25 @@
     "formatVersion": 0,
     "type": "library",
     "id": "org.lwjgl",
-    "name": "LWJGL"
+    "name": "LWJGL",
+    "description": "Lightweight Java Game Library 3",
+    "icon": "https://www.lwjgl.org/img/fav/apple-touch-icon.png",
+    "authors": [
+        "LWJGL Community"
+    ],
+    "projectLinks": [
+        {
+            "type": "website",
+            "url": "https://www.lwjgl.org"
+        },
+        {
+            "type": "source",
+            "url": "https://github.com/LWJGL/lwjgl3"
+        }
+    ],
+    "@detectors": [
+        {
+            "type": "minecraft"
+        }
+    ]
 }
