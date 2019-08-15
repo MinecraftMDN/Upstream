@@ -1,4 +1,55 @@
 {
+  "formatVersion": 0,
+  "id": "1.4",
+  "releaseType": "snapshot",
+  "side": "universal",
+  "relationships": [
+    {
+      "type": "required",
+      "id": "org.lwjgl",
+      "version": "2.9.0",
+      "side": "client"
+    }
+  ],
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://launcher.mojang.com/v1/objects/2007097b53d3eb43b2c1f3f78caab4a4ef690c7a/client.jar",
+      "side": "client"
+    },
+    {
+      "type": "direct",
+      "id": "https://launcher.mojang.com/v1/objects/9470a2bb0fcb8a426328441a01dba164fbbe52c9/server.jar",
+      "side": "server"
+    },
+    {
+      "type": "direct",
+      "id": "https://launcher.mojang.com/v1/objects/29a7d1e17f7594a9e88b6ba8e7888890aa746a5d/windows_server.exe",
+      "side": "windows_server"
+    }
+  ],
+  "client": {
+    "hashes": {
+      "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "md5": "32a654388b54d3e4bb29c1a46e7d6a12"
+    },
+    "size": 4926161,
+    "filename": "com.mojang:minecraft:client:1.4@jar",
+    "mainClass": "net.minecraft.launchwrapper.Launch",
+    "launchArguments": "${auth_player_name} ${auth_session} --gameDir ${game_directory} --assetsDir ${game_assets}"
+  },
+  "server": {
+    "hashes": {
+      "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "md5": "99f84541e184979c5b0312e9afc56ce1"
+    },
+    "size": 2016725,
+    "filename": "minecraft_server_1.4.jar",
+    "mainClass": "net.minecraft.server.MinecraftServer"
+  },
+  "releaseTime": "2012-11-18T22:00:00+00:00",
   "libraries": [
     {
       "type": "jar",
@@ -43,57 +94,5 @@
     "sha1": "4759bad2824e419da9db32861fcdc3a274336532",
     "size": 73813,
     "totalSize": 49381897
-  },
-  "formatVersion": 0,
-  "id": "1.4",
-  "releaseType": "snapshot",
-  "changelog": "",
-  "side": "universal",
-  "relationships": [
-    {
-      "type": "required",
-      "id": "org.lwjgl",
-      "version": "2.9.0"
-    }
-  ],
-  "artifacts": [
-    {
-      "type": "direct",
-      "id": "https://launcher.mojang.com/v1/objects/2007097b53d3eb43b2c1f3f78caab4a4ef690c7a/client.jar",
-      "side": "client"
-    },
-    {
-      "type": "direct",
-      "id": "https://launcher.mojang.com/v1/objects/9470a2bb0fcb8a426328441a01dba164fbbe52c9/server.jar",
-      "side": "server"
-    },
-    {
-      "type": "direct",
-      "id": "https://launcher.mojang.com/v1/objects/29a7d1e17f7594a9e88b6ba8e7888890aa746a5d/windows_server.exe",
-      "side": "windows_server"
-    }
-  ],
-  "client": {
-    "mainClass": "net.minecraft.launchwrapper.Launch",
-    "launchArguments": "${auth_player_name} ${auth_session} --gameDir ${game_directory} --assetsDir ${game_assets}",
-    "hashes": {
-      "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
-      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-      "md5": "32a654388b54d3e4bb29c1a46e7d6a12"
-    },
-    "size": 4926161,
-    "filename": "com.mojang:minecraft:client:1.4@jar"
-  },
-  "server": {
-    "mainClass": "net.minecraft.server.MinecraftServer",
-    "hashes": {
-      "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
-      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-      "md5": "99f84541e184979c5b0312e9afc56ce1"
-    },
-    "size": 2016725,
-    "filename": "minecraft_server_1.4.jar"
-  },
-  "size": 0,
-  "releaseTime": "2012-11-18T22:00:00+00:00"
+  }
 }

@@ -1,4 +1,49 @@
 {
+  "formatVersion": 0,
+  "id": "19w12b",
+  "releaseType": "snapshot",
+  "side": "universal",
+  "relationships": [
+    {
+      "type": "required",
+      "id": "org.lwjgl",
+      "version": "3.2.1",
+      "side": "client"
+    }
+  ],
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://launcher.mojang.com/v1/objects/2fc0501773a90d120c9f6476037c4bfba554a549/client.jar",
+      "side": "client"
+    },
+    {
+      "type": "direct",
+      "id": "https://launcher.mojang.com/v1/objects/37d6d9753b8eac2420e9deba132c38e00c8204c3/server.jar",
+      "side": "server"
+    }
+  ],
+  "client": {
+    "hashes": {
+      "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "md5": "41b282a0d8b39415502c75e0786522ec"
+    },
+    "size": 18635262,
+    "filename": "com.mojang:minecraft:client:19w12b@jar",
+    "mainClass": "net.minecraft.client.main.Main"
+  },
+  "server": {
+    "hashes": {
+      "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "md5": "3887937cba8b8d5200c7e02a0416824c"
+    },
+    "size": 35824662,
+    "filename": "minecraft_server_19w12b.jar",
+    "mainClass": "net.minecraft.server.MinecraftServer"
+  },
+  "releaseTime": "2019-03-21T15:20:01+00:00",
   "libraries": [
     {
       "type": "jar",
@@ -415,51 +460,5 @@
     "sha1": "695d8e3d95465bece605c92e9b0385278018eff9",
     "size": 226558,
     "totalSize": 208314198
-  },
-  "formatVersion": 0,
-  "id": "19w12b",
-  "releaseType": "snapshot",
-  "changelog": "",
-  "side": "universal",
-  "relationships": [
-    {
-      "type": "required",
-      "id": "org.lwjgl",
-      "version": "3.2.1"
-    }
-  ],
-  "artifacts": [
-    {
-      "type": "direct",
-      "id": "https://launcher.mojang.com/v1/objects/2fc0501773a90d120c9f6476037c4bfba554a549/client.jar",
-      "side": "client"
-    },
-    {
-      "type": "direct",
-      "id": "https://launcher.mojang.com/v1/objects/37d6d9753b8eac2420e9deba132c38e00c8204c3/server.jar",
-      "side": "server"
-    }
-  ],
-  "client": {
-    "mainClass": "net.minecraft.client.main.Main",
-    "hashes": {
-      "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
-      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-      "md5": "41b282a0d8b39415502c75e0786522ec"
-    },
-    "size": 18635262,
-    "filename": "com.mojang:minecraft:client:19w12b@jar"
-  },
-  "server": {
-    "mainClass": "net.minecraft.server.MinecraftServer",
-    "hashes": {
-      "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
-      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-      "md5": "3887937cba8b8d5200c7e02a0416824c"
-    },
-    "size": 35824662,
-    "filename": "minecraft_server_19w12b.jar"
-  },
-  "size": 0,
-  "releaseTime": "2019-03-21T15:20:01+00:00"
+  }
 }

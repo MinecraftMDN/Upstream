@@ -1,4 +1,8 @@
 {
+  "formatVersion": 0,
+  "id": "3.1.2",
+  "releaseType": "release",
+  "side": "client",
   "libraries": [
     {
       "type": "jar",
@@ -456,24 +460,5 @@
         "md5": "cacf5dacb550cb7018fdaef906d97228"
       }
     }
-  ],
-  "formatVersion": 0,
-  "id": "3.1.2",
-  "releaseType": "release",
-  "changelog": "",
-  "side": "client",
-  "relationships": [],
-  "artifacts": [],
-  "client": {
-    "hashes": {},
-    "size": 0
-  },
-  "server": {
-    "hashes": {},
-    "size": 0
-  },
-  "hashes": {},
-  "size": 0,
-  "filename": "",
-  "releaseTime": ""
+  ]
 }

@@ -1,4 +1,35 @@
 {
+  "formatVersion": 0,
+  "id": "a1.0.11",
+  "releaseType": "old_alpha",
+  "side": "universal",
+  "relationships": [
+    {
+      "type": "required",
+      "id": "org.lwjgl",
+      "version": "2.9.0",
+      "side": "client"
+    }
+  ],
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://launcher.mojang.com/v1/objects/d7ceb02909d0e1031a99ff4d8053d3f4abfbb2da/client.jar",
+      "side": "client"
+    }
+  ],
+  "client": {
+    "hashes": {
+      "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "md5": "6f1b1dd157fa0df39760f5be3eab01b0"
+    },
+    "size": 839226,
+    "filename": "com.mojang:minecraft:client:a1.0.11@jar",
+    "mainClass": "net.minecraft.launchwrapper.Launch",
+    "launchArguments": "${auth_player_name} ${auth_session} --gameDir ${game_directory} --assetsDir ${game_assets}"
+  },
+  "releaseTime": "2010-07-22T22:00:00+00:00",
   "libraries": [
     {
       "type": "jar",
@@ -43,41 +74,5 @@
     "sha1": "4759bad2824e419da9db32861fcdc3a274336532",
     "size": 73813,
     "totalSize": 49381897
-  },
-  "formatVersion": 0,
-  "id": "a1.0.11",
-  "releaseType": "old_alpha",
-  "changelog": "",
-  "side": "universal",
-  "relationships": [
-    {
-      "type": "required",
-      "id": "org.lwjgl",
-      "version": "2.9.0"
-    }
-  ],
-  "artifacts": [
-    {
-      "type": "direct",
-      "id": "https://launcher.mojang.com/v1/objects/d7ceb02909d0e1031a99ff4d8053d3f4abfbb2da/client.jar",
-      "side": "client"
-    }
-  ],
-  "client": {
-    "mainClass": "net.minecraft.launchwrapper.Launch",
-    "launchArguments": "${auth_player_name} ${auth_session} --gameDir ${game_directory} --assetsDir ${game_assets}",
-    "hashes": {
-      "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
-      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-      "md5": "6f1b1dd157fa0df39760f5be3eab01b0"
-    },
-    "size": 839226,
-    "filename": "com.mojang:minecraft:client:a1.0.11@jar"
-  },
-  "server": {
-    "hashes": {},
-    "size": 0
-  },
-  "size": 0,
-  "releaseTime": "2010-07-22T22:00:00+00:00"
+  }
 }

@@ -1,4 +1,35 @@
 {
+  "formatVersion": 0,
+  "id": "rd-161348",
+  "releaseType": "old_alpha",
+  "side": "universal",
+  "relationships": [
+    {
+      "type": "required",
+      "id": "org.lwjgl",
+      "version": "2.9.0",
+      "side": "client"
+    }
+  ],
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://launcher.mojang.com/v1/objects/6323bd14ed7f83852e17ebc8ec418e55c97ddfe4/client.jar",
+      "side": "client"
+    }
+  ],
+  "client": {
+    "hashes": {
+      "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "md5": "80882b8936a5c8d91500838a6660b504"
+    },
+    "size": 60480,
+    "filename": "com.mojang:minecraft:client:rd-161348@jar",
+    "mainClass": "com.mojang.minecraft.RubyDung",
+    "launchArguments": "${auth_player_name} ${auth_session}"
+  },
+  "releaseTime": "2009-05-16T11:48:00+00:00",
   "libraries": [
     {
       "type": "jar",
@@ -43,41 +74,5 @@
     "sha1": "4759bad2824e419da9db32861fcdc3a274336532",
     "size": 73813,
     "totalSize": 49381897
-  },
-  "formatVersion": 0,
-  "id": "rd-161348",
-  "releaseType": "old_alpha",
-  "changelog": "",
-  "side": "universal",
-  "relationships": [
-    {
-      "type": "required",
-      "id": "org.lwjgl",
-      "version": "2.9.0"
-    }
-  ],
-  "artifacts": [
-    {
-      "type": "direct",
-      "id": "https://launcher.mojang.com/v1/objects/6323bd14ed7f83852e17ebc8ec418e55c97ddfe4/client.jar",
-      "side": "client"
-    }
-  ],
-  "client": {
-    "mainClass": "com.mojang.minecraft.RubyDung",
-    "launchArguments": "${auth_player_name} ${auth_session}",
-    "hashes": {
-      "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
-      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-      "md5": "80882b8936a5c8d91500838a6660b504"
-    },
-    "size": 60480,
-    "filename": "com.mojang:minecraft:client:rd-161348@jar"
-  },
-  "server": {
-    "hashes": {},
-    "size": 0
-  },
-  "size": 0,
-  "releaseTime": "2009-05-16T11:48:00+00:00"
+  }
 }
