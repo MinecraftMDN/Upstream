@@ -1,0 +1,1387 @@
+{
+    "formatVersion": 0,
+    "id": "1.5.0",
+    "releaseType": "beta",
+    "side": "universal",
+    "artifacts": [
+        {
+            "type": "direct",
+            "id": "https://edge.forgecdn.net/files/2706/372/FTBInteractions-1.5.0-1.12.2.zip",
+            "side": "client"
+        }
+    ],
+    "client": {
+        "hashes": {
+            "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+            "md5": "42449d741519e4536c1cbfb9f1e7a965"
+        },
+        "size": 78614803
+    },
+    "releaseTime": "2019-05-02T16:04:02.337Z",
+    "changelog": "https://www.feed-the-beast.com/projects/ftb-interactions/files/2706372",
+    "relationships": [
+        {
+            "type": "required",
+            "id": "com.mojang.minecraft",
+            "version": "1.12.2",
+            "side": "universal"
+        },
+        {
+            "type": "required",
+            "id": "actuallyadditions",
+            "version": "1.12.2-r146",
+            "side": "client"
+        },
+        {
+            "type": "required",
+            "id": "actuallybaubles",
+            "version": "1.1",
+            "side": "client"
+        },
+        {
+            "type": "required",
+            "id": "advancedrocketry",
+            "version": "1.5.0.-139",
+            "side": "client"
+        },
+        {
+            "type": "required",
+            "id": "ae2wtlib",
+            "version": "1.12.2-1.0.6",
+            "side": "client"
+        },
+        {
+            "type": "required",
+            "id": "animus",
+            "version": "2.1.2",
+            "side": "client"
+        },
+        {
+            "type": "required",
+            "id": "apotheosis",
+            "version": "1.12.2-1.9.3",
+            "side": "client"
+        },
+        {
+            "type": "required",
+            "id": "applecore",
+            "version": "3.2.0",
+            "side": "client"
+        },
+        {
+            "type": "required",
+            "id": "appleskin",
+            "version": "1.0.9",
+            "side": "client"
+        },
+        {
+            "type": "required",
+            "id": "appliedenergistics2",
+            "version": "rv6-stable-6",
+            "side": "client"
+        },
+        {
+            "type": "required",
+            "id": "architecturecraft",
+            "version": "",
+            "side": "client"
+        },
+        {
+            "type": "required",
+            "id": "armoreablemobs",
+            "version": "1.12.2-1.1.8",
+            "side": "client"
+        },
+        {
+            "type": "required",
+            "id": "artemislib",
+            "version": "1.0.4",
+            "side": "client"
+        },
+        {
+            "type": "required",
+            "id": "artisanworktables",
+            "version": "1.12.2-1.20.2",
+            "side": "client"
+        },
+        {
+            "type": "required",
+            "id": "astralsorcery",
+            "version": "1.12.2-1.10.17",
+            "side": "client"
+        },
+        {
+            "type": "required",
+            "id": "athenaeum",
+            "version": "1.12.2-1.16.0-1-g05e9939",
+            "side": "client"
+        },
+        {
+            "type": "required",
+            "id": "autoreglib",
+            "version": "1.3-28",
+            "side": "client"
+        },
+        {
+            "type": "required",
+            "id": "avaritia",
+            "version": "3.3.0",
+            "side": "client"
+        },
+        {
+            "type": "required",
+            "id": "base",
+            "version": "1.12.2-3.12.1",
+            "side": "client"
+        },
+        {
+            "type": "required",
+            "id": "baubles",
+            "version": "1.12-1.5.2",
+            "side": "client"
+        },
+        {
+            "type": "required",
+            "id": "bhc",
+            "version": "1.12.2-1.2.3",
+            "side": "client"
+        },
+        {
+            "type": "required",
+            "id": "betteradvancements",
+            "version": "0.1.0.77",
+            "side": "client"
+        },
+        {
+            "type": "required",
+            "id": "betterfps",
+            "version": "1.4.8",
+            "side": "client"
+        },
+        {
+            "type": "required",
+            "id": "biggerpacketsplz",
+            "version": "1.2",
+            "side": "client"
+        },
+        {
+            "type": "required",
+            "id": "bloodmagic",
+            "version": "1.12.2-2.4.0-102",
+            "side": "client"
+        },
+        {
+            "type": "required",
+            "id": "bnbgamingcore",
+            "version": "0.11.0",
+            "side": "client"
+        },
+        {
+            "type": "required",
+            "id": "bnbgaminglib",
+            "version": "2.17.6",
+            "side": "client"
+        },
+        {
+            "type": "required",
+            "id": "bookshelf",
+            "version": "2.3.577",
+            "side": "client"
+        },
+        {
+            "type": "required",
+            "id": "botania",
+            "version": "r1.10-361",
+            "side": "client"
+        },
+        {
+            "type": "required",
+            "id": "botania_tweaks",
+            "version": "1.8.5",
+            "side": "client"
+        },
+        {
+            "type": "required",
+            "id": "brandonscore",
+            "version": "1.12.2-2.4.10.198",
+            "side": "client"
+        },
+        {
+            "type": "required",
+            "id": "buildinggadgets",
+            "version": "2.6.8",
+            "side": "client"
+        },
+        {
+            "type": "required",
+            "id": "ceramics",
+            "version": "1.12-1.3.7",
+            "side": "client"
+        },
+        {
+            "type": "required",
+            "id": "ceu",
+            "version": "1.0.3.3",
+            "side": "client"
+        },
+        {
+            "type": "required",
+            "id": "chickens",
+            "version": "6.1.0",
+            "side": "client"
+        },
+        {
+            "type": "required",
+            "id": "chisel",
+            "version": "MC1.12.2-0.2.1.35",
+            "side": "client"
+        },
+        {
+            "type": "required",
+            "id": "cleanview",
+            "version": "1.12.2-v1b",
+            "side": "client"
+        },
+        {
+            "type": "required",
+            "id": "clumps",
+            "version": "3.1.2",
+            "side": "client"
+        },
+        {
+            "type": "required",
+            "id": "codechickenlib",
+            "version": "3.2.2.353",
+            "side": "client"
+        },
+        {
+            "type": "required",
+            "id": "cofhcore",
+            "version": "4.6.2.25",
+            "side": "client"
+        },
+        {
+            "type": "required",
+            "id": "cofhworld",
+            "version": "1.3.0.6",
+            "side": "client"
+        },
+        {
+            "type": "required",
+            "id": "commoncapabilities",
+            "version": "1.12.2-2.2.1",
+            "side": "client"
+        },
+        {
+            "type": "required",
+            "id": "compactmachines3",
+            "version": "1.12.2-3.0.17-b267",
+            "side": "client"
+        },
+        {
+            "type": "required",
+            "id": "contenttweaker",
+            "version": "1.12.2-4.9.1",
+            "side": "client"
+        },
+        {
+            "type": "required",
+            "id": "controlling",
+            "version": "3.0.6",
+            "side": "client"
+        },
+        {
+            "type": "required",
+            "id": "cookingforblockheads",
+            "version": "6.4.70",
+            "side": "client"
+        },
+        {
+            "type": "required",
+            "id": "roost",
+            "version": "2.0.6",
+            "side": "client"
+        },
+        {
+            "type": "required",
+            "id": "cosmeticarmorreworked",
+            "version": "1.12.2-v4a",
+            "side": "client"
+        },
+        {
+            "type": "required",
+            "id": "crafttweakerjei",
+            "version": "1.12-4.1.17",
+            "side": "client"
+        },
+        {
+            "type": "required",
+            "id": "creativecore",
+            "version": "1.9.9",
+            "side": "client"
+        },
+        {
+            "type": "required",
+            "id": "cryingobsidian",
+            "version": "1.1.3",
+            "side": "client"
+        },
+        {
+            "type": "required",
+            "id": "ctm",
+            "version": "MC1.12.2-0.3.3.22",
+            "side": "client"
+        },
+        {
+            "type": "required",
+            "id": "cucumber",
+            "version": "1.1.3",
+            "side": "client"
+        },
+        {
+            "type": "required",
+            "id": "custommainmenu",
+            "version": "2.0.9",
+            "side": "client"
+        },
+        {
+            "type": "required",
+            "id": "cyberware",
+            "version": "0.2.10.15",
+            "side": "client"
+        },
+        {
+            "type": "required",
+            "id": "cyclicmagic",
+            "version": "1.19.8",
+            "side": "client"
+        },
+        {
+            "type": "required",
+            "id": "cyclopscore",
+            "version": "1.12.2-1.2.0",
+            "side": "client"
+        },
+        {
+            "type": "required",
+            "id": "dmonsters",
+            "version": "1.7",
+            "side": "client"
+        },
+        {
+            "type": "required",
+            "id": "deepmoblearning",
+            "version": "1.12.2-2.5.0",
+            "side": "client"
+        },
+        {
+            "type": "required",
+            "id": "deepmoblearningbm",
+            "version": "1.12.2-1.0.0",
+            "side": "client"
+        },
+        {
+            "type": "required",
+            "id": "diethopper",
+            "version": "1.1",
+            "side": "client"
+        },
+        {
+            "type": "required",
+            "id": "dimensionalcontrol",
+            "version": "2.11.0",
+            "side": "client"
+        },
+        {
+            "type": "required",
+            "id": "dimstages",
+            "version": "2.0.23",
+            "side": "client"
+        },
+        {
+            "type": "required",
+            "id": "discord",
+            "version": "1.0.10",
+            "side": "client"
+        },
+        {
+            "type": "required",
+            "id": "dldungeonsjbg",
+            "version": "1.12.3",
+            "side": "client"
+        },
+        {
+            "type": "required",
+            "id": "draconicevolution",
+            "version": "1.12.2-2.3.21.342",
+            "side": "client"
+        },
+        {
+            "type": "required",
+            "id": "dropt",
+            "version": "1.12.2-1.14.0",
+            "side": "client"
+        },
+        {
+            "type": "required",
+            "id": "dynamiclights_theplayer",
+            "version": "1.4.9",
+            "side": "client"
+        },
+        {
+            "type": "required",
+            "id": "emberroot",
+            "version": "1.3.9",
+            "side": "client"
+        },
+        {
+            "type": "required",
+            "id": "emojiful",
+            "version": "1.0.3",
+            "side": "client"
+        },
+        {
+            "type": "required",
+            "id": "endercore",
+            "version": "1.12.2-0.5.45",
+            "side": "client"
+        },
+        {
+            "type": "required",
+            "id": "enderiobase",
+            "version": "5.0.40",
+            "side": "client"
+        },
+        {
+            "type": "required",
+            "id": "enderiopowertools",
+            "version": "5.0.40",
+            "side": "client"
+        },
+        {
+            "type": "required",
+            "id": "enderioconduitsappliedenergistics",
+            "version": "5.0.40",
+            "side": "client"
+        },
+        {
+            "type": "required",
+            "id": "enderioendergy",
+            "version": "5.0.40",
+            "side": "client"
+        },
+        {
+            "type": "required",
+            "id": "enderiointegrationticlate",
+            "version": "5.0.40",
+            "side": "client"
+        },
+        {
+            "type": "required",
+            "id": "enderiomachines",
+            "version": "5.0.40",
+            "side": "client"
+        },
+        {
+            "type": "required",
+            "id": "enderstorage",
+            "version": "2.4.5.135",
+            "side": "client"
+        },
+        {
+            "type": "required",
+            "id": "enderutilities",
+            "version": "0.7.12",
+            "side": "client"
+        },
+        {
+            "type": "required",
+            "id": "extrautils2",
+            "version": "${version}",
+            "side": "client"
+        },
+        {
+            "type": "required",
+            "id": "f5fix",
+            "version": "1.0.0",
+            "side": "client"
+        },
+        {
+            "type": "required",
+            "id": "fastbench",
+            "version": "1.12.2-1.7.0",
+            "side": "client"
+        },
+        {
+            "type": "required",
+            "id": "floralchemy",
+            "version": "1.12.2-1.0.1",
+            "side": "client"
+        },
+        {
+            "type": "required",
+            "id": "fluxnetworks",
+            "version": "1.12.2-3.0.19-21",
+            "side": "client"
+        },
+        {
+            "type": "required",
+            "id": "foamfix",
+            "version": "0.10.5-1.12.2",
+            "side": "client"
+        },
+        {
+            "type": "required",
+            "id": "forgelin",
+            "version": "1.8.2",
+            "side": "client"
+        },
+        {
+            "type": "required",
+            "id": "minecraftmultipartcbe",
+            "version": "2.6.1.81",
+            "side": "client"
+        },
+        {
+            "type": "required",
+            "id": "ftblib",
+            "version": "5.4.1.97",
+            "side": "client"
+        },
+        {
+            "type": "required",
+            "id": "ftbquests",
+            "version": "1.5.2.149",
+            "side": "client"
+        },
+        {
+            "type": "required",
+            "id": "ftbutilities",
+            "version": "5.4.0.95",
+            "side": "client"
+        },
+        {
+            "type": "required",
+            "id": "ftbbackups",
+            "version": "1.0.0.3",
+            "side": "client"
+        },
+        {
+            "type": "required",
+            "id": "funkylocomotion",
+            "version": "1.1.2",
+            "side": "client"
+        },
+        {
+            "type": "required",
+            "id": "fvw",
+            "version": "1.0.0",
+            "side": "client"
+        },
+        {
+            "type": "required",
+            "id": "gamestages",
+            "version": "2.0.114",
+            "side": "client"
+        },
+        {
+            "type": "required",
+            "id": "gregtech",
+            "version": "1.7.0.387",
+            "side": "client"
+        },
+        {
+            "type": "required",
+            "id": "guideapi",
+            "version": "1.12-2.1.8-63",
+            "side": "client"
+        },
+        {
+            "type": "required",
+            "id": "gbook",
+            "version": "2.8.3",
+            "side": "client"
+        },
+        {
+            "type": "required",
+            "id": "hardcoredarkness",
+            "version": "2.0",
+            "side": "client"
+        },
+        {
+            "type": "required",
+            "id": "hitwithaxe",
+            "version": "1.12.2-1.4.0",
+            "side": "client"
+        },
+        {
+            "type": "required",
+            "id": "hotornot",
+            "version": "1.12-1.1.2-16",
+            "side": "client"
+        },
+        {
+            "type": "required",
+            "id": "hungeroverhaul",
+            "version": "1.12.2-1.3.3.jenkins148",
+            "side": "client"
+        },
+        {
+            "type": "required",
+            "id": "iceandfire",
+            "version": "1.7.1",
+            "side": "client"
+        },
+        {
+            "type": "required",
+            "id": "ichunutil",
+            "version": "1.12.2-7.2.1",
+            "side": "client"
+        },
+        {
+            "type": "required",
+            "id": "incontrol",
+            "version": "1.12-3.9.7",
+            "side": "client"
+        },
+        {
+            "type": "required",
+            "id": "industrialforegoing",
+            "version": "1.12.12",
+            "side": "client"
+        },
+        {
+            "type": "required",
+            "id": "initialinventory",
+            "version": "2.0.2",
+            "side": "client"
+        },
+        {
+            "type": "required",
+            "id": "insomniac",
+            "version": "1.6",
+            "side": "client"
+        },
+        {
+            "type": "required",
+            "id": "integrateddynamicscompat",
+            "version": "1.12.2-1.0.11",
+            "side": "client"
+        },
+        {
+            "type": "required",
+            "id": "integratedtunnelscompat",
+            "version": "1.12.2-1.6.8",
+            "side": "client"
+        },
+        {
+            "type": "required",
+            "id": "integrationforegoing",
+            "version": "1.12.2-1.9",
+            "side": "client"
+        },
+        {
+            "type": "required",
+            "id": "inventorytweaks",
+            "version": "1.64+dev.146.2180b27",
+            "side": "client"
+        },
+        {
+            "type": "required",
+            "id": "ironchest",
+            "version": "1.12.2-7.0.59.842",
+            "side": "client"
+        },
+        {
+            "type": "required",
+            "id": "itemfilters",
+            "version": "1.0.3.12",
+            "side": "client"
+        },
+        {
+            "type": "required",
+            "id": "itlt",
+            "version": "1.0.0",
+            "side": "client"
+        },
+        {
+            "type": "required",
+            "id": "jehc",
+            "version": "1.6.3",
+            "side": "client"
+        },
+        {
+            "type": "required",
+            "id": "jeiintegration",
+            "version": "1.5.1.36",
+            "side": "client"
+        },
+        {
+            "type": "required",
+            "id": "jei",
+            "version": "4.15.0.278",
+            "side": "client"
+        },
+        {
+            "type": "required",
+            "id": "justenoughdimensions",
+            "version": "1.6.0-dev.20190407.194630",
+            "side": "client"
+        },
+        {
+            "type": "required",
+            "id": "jee",
+            "version": "1.12.2-1.0.6",
+            "side": "client"
+        },
+        {
+            "type": "required",
+            "id": "knowledgeshare",
+            "version": "1.0",
+            "side": "client"
+        },
+        {
+            "type": "required",
+            "id": "lcrdrfs",
+            "version": "2.0.0",
+            "side": "client"
+        },
+        {
+            "type": "required",
+            "id": "letsencryptcraft",
+            "version": "",
+            "side": "client"
+        },
+        {
+            "type": "required",
+            "id": "librarianlib",
+            "version": "4.15",
+            "side": "client"
+        },
+        {
+            "type": "required",
+            "id": "libvulpes",
+            "version": "0.4.0.-56",
+            "side": "client"
+        },
+        {
+            "type": "required",
+            "id": "littletiles",
+            "version": "1.5.0",
+            "side": "client"
+        },
+        {
+            "type": "required",
+            "id": "llibrary",
+            "version": "1.7.19-1.12.2",
+            "side": "client"
+        },
+        {
+            "type": "required",
+            "id": "loottweaker",
+            "version": "1.12.2-0.0.9",
+            "side": "client"
+        },
+        {
+            "type": "required",
+            "id": "mainmenuscale",
+            "version": "null",
+            "side": "client"
+        },
+        {
+            "type": "required",
+            "id": "mantle",
+            "version": "1.12-1.3.3.49",
+            "side": "client"
+        },
+        {
+            "type": "required",
+            "id": "mcjtylib_ng",
+            "version": "1.12-3.1.1",
+            "side": "client"
+        },
+        {
+            "type": "required",
+            "id": "mcmultipart",
+            "version": "2.5.3",
+            "side": "client"
+        },
+        {
+            "type": "required",
+            "id": "mekanism",
+            "version": "1.12.2-9.7.2.373",
+            "side": "client"
+        },
+        {
+            "type": "required",
+            "id": "mightyenderchicken",
+            "version": "1.12.2-7.3.0",
+            "side": "client"
+        },
+        {
+            "type": "required",
+            "id": "minetogetherserver",
+            "version": "1.10.2-2.1.3",
+            "side": "client"
+        },
+        {
+            "type": "required",
+            "id": "mobstages",
+            "version": "2.0.13",
+            "side": "client"
+        },
+        {
+            "type": "required",
+            "id": "modnametooltip",
+            "version": "1.10.0",
+            "side": "client"
+        },
+        {
+            "type": "required",
+            "id": "modtweaker",
+            "version": "4.0.17",
+            "side": "client"
+        },
+        {
+            "type": "required",
+            "id": "modulardiversity",
+            "version": "1.1",
+            "side": "client"
+        },
+        {
+            "type": "required",
+            "id": "modularmachinery",
+            "version": "1.9.5",
+            "side": "client"
+        },
+        {
+            "type": "required",
+            "id": "morechickens",
+            "version": "3.2.0",
+            "side": "client"
+        },
+        {
+            "type": "required",
+            "id": "moreoverlays",
+            "version": "1.14",
+            "side": "client"
+        },
+        {
+            "type": "required",
+            "id": "mousetweaks",
+            "version": "2.10",
+            "side": "client"
+        },
+        {
+            "type": "required",
+            "id": "mtlib",
+            "version": "3.0.6",
+            "side": "client"
+        },
+        {
+            "type": "required",
+            "id": "naturescompass",
+            "version": "1.12.2-1.5.1",
+            "side": "client"
+        },
+        {
+            "type": "required",
+            "id": "openblocks",
+            "version": "1.8.1",
+            "side": "client"
+        },
+        {
+            "type": "required",
+            "id": "openmods",
+            "version": "0.12.2",
+            "side": "client"
+        },
+        {
+            "type": "required",
+            "id": "oreexcavation",
+            "version": "1.4.140",
+            "side": "client"
+        },
+        {
+            "type": "required",
+            "id": "p455w0rdslib",
+            "version": "2.1.44",
+            "side": "client"
+        },
+        {
+            "type": "required",
+            "id": "harvestcraft",
+            "version": "1.12.2zb",
+            "side": "client"
+        },
+        {
+            "type": "required",
+            "id": "patchouli",
+            "version": "1.0-19",
+            "side": "client"
+        },
+        {
+            "type": "required",
+            "id": "pickletweaks",
+            "version": "2.1.3",
+            "side": "client"
+        },
+        {
+            "type": "required",
+            "id": "placebo",
+            "version": "1.12.2-1.6.0",
+            "side": "client"
+        },
+        {
+            "type": "required",
+            "id": "plants2",
+            "version": "1.12.2-2.10.7",
+            "side": "client"
+        },
+        {
+            "type": "required",
+            "id": "plustic",
+            "version": "7.0.6.1",
+            "side": "client"
+        },
+        {
+            "type": "required",
+            "id": "portalgun",
+            "version": "1.12.2-7.1.0",
+            "side": "client"
+        },
+        {
+            "type": "required",
+            "id": "primal_tech",
+            "version": "0.3.4",
+            "side": "client"
+        },
+        {
+            "type": "required",
+            "id": "projecte",
+            "version": "1.12.2-PE1.4.1",
+            "side": "client"
+        },
+        {
+            "type": "required",
+            "id": "quark",
+            "version": "r1.5-146",
+            "side": "client"
+        },
+        {
+            "type": "required",
+            "id": "randompatches",
+            "version": "1.12.2-1.15.0.2",
+            "side": "client"
+        },
+        {
+            "type": "required",
+            "id": "randomthings",
+            "version": "4.2.7.1",
+            "side": "client"
+        },
+        {
+            "type": "required",
+            "id": "randomtweaks",
+            "version": "1.12.2-2.5.0.4",
+            "side": "client"
+        },
+        {
+            "type": "required",
+            "id": "reauth",
+            "version": "3.6.0",
+            "side": "client"
+        },
+        {
+            "type": "required",
+            "id": "reborncore",
+            "version": "3.13.12.447",
+            "side": "client"
+        },
+        {
+            "type": "required",
+            "id": "redstonearsenal",
+            "version": "2.6.2.17",
+            "side": "client"
+        },
+        {
+            "type": "required",
+            "id": "redstoneflux",
+            "version": "2.1.0.6",
+            "side": "client"
+        },
+        {
+            "type": "required",
+            "id": "xreliquary",
+            "version": "1.12.2-1.3.4.786",
+            "side": "client"
+        },
+        {
+            "type": "required",
+            "id": "resize",
+            "version": "r2.0",
+            "side": "client"
+        },
+        {
+            "type": "required",
+            "id": "resourceloader",
+            "version": "1.5.3",
+            "side": "client"
+        },
+        {
+            "type": "required",
+            "id": "rftools",
+            "version": "1.12-7.61",
+            "side": "client"
+        },
+        {
+            "type": "required",
+            "id": "roughmobs",
+            "version": "2.0.0",
+            "side": "client"
+        },
+        {
+            "type": "required",
+            "id": "roughtweaks",
+            "version": "1.0",
+            "side": "client"
+        },
+        {
+            "type": "required",
+            "id": "rusticthaumaturgy",
+            "version": "4.4a",
+            "side": "client"
+        },
+        {
+            "type": "required",
+            "id": "rustic",
+            "version": "1.1.0",
+            "side": "client"
+        },
+        {
+            "type": "required",
+            "id": "scannable",
+            "version": "1.6.3.24",
+            "side": "client"
+        },
+        {
+            "type": "required",
+            "id": "scavenge",
+            "version": "1.8",
+            "side": "client"
+        },
+        {
+            "type": "required",
+            "id": "gtadditions",
+            "version": "1.12.2-2.5.0",
+            "side": "client"
+        },
+        {
+            "type": "required",
+            "id": "lteleporters",
+            "version": "1.12.2-3.0.2",
+            "side": "client"
+        },
+        {
+            "type": "required",
+            "id": "simple_trophies",
+            "version": "1.1.0",
+            "side": "client"
+        },
+        {
+            "type": "required",
+            "id": "simplylight",
+            "version": "0.6.0",
+            "side": "client"
+        },
+        {
+            "type": "required",
+            "id": "sonarcore",
+            "version": "1.12.2-5.0.19-20",
+            "side": "client"
+        },
+        {
+            "type": "required",
+            "id": "soulus",
+            "version": "1.12.2-4.2.1-4e33621",
+            "side": "client"
+        },
+        {
+            "type": "required",
+            "id": "spiceoflife",
+            "version": "1.3.12",
+            "side": "client"
+        },
+        {
+            "type": "required",
+            "id": "sqpatch",
+            "version": "1.0.0",
+            "side": "client"
+        },
+        {
+            "type": "required",
+            "id": "stats_keeper",
+            "version": "3.1.12",
+            "side": "client"
+        },
+        {
+            "type": "required",
+            "id": "stg",
+            "version": "1.12.2-1.2.3",
+            "side": "client"
+        },
+        {
+            "type": "required",
+            "id": "superfactorymanager",
+            "version": "2.0.12",
+            "side": "client"
+        },
+        {
+            "type": "required",
+            "id": "tconstruct",
+            "version": "1.12.2-2.12.0.135",
+            "side": "client"
+        },
+        {
+            "type": "required",
+            "id": "terracore",
+            "version": "1.12-2.1.13",
+            "side": "client"
+        },
+        {
+            "type": "required",
+            "id": "teslacorelib_registries",
+            "version": "1.12.2-1.0.15",
+            "side": "client"
+        },
+        {
+            "type": "required",
+            "id": "thaumcraft",
+            "version": "1.12.2-6.1.BETA26",
+            "side": "client"
+        },
+        {
+            "type": "required",
+            "id": "thaumicenergistics",
+            "version": "2.2.2",
+            "side": "client"
+        },
+        {
+            "type": "required",
+            "id": "tcinventoryscan",
+            "version": "2.0.10",
+            "side": "client"
+        },
+        {
+            "type": "required",
+            "id": "thaumicjei",
+            "version": "1.12.2-1.6.0-27",
+            "side": "client"
+        },
+        {
+            "type": "required",
+            "id": "thaumicperiphery",
+            "version": "0.3.0",
+            "side": "client"
+        },
+        {
+            "type": "required",
+            "id": "theoneprobe",
+            "version": "1.12-1.4.28",
+            "side": "client"
+        },
+        {
+            "type": "required",
+            "id": "thermaldynamics",
+            "version": "2.5.4.18",
+            "side": "client"
+        },
+        {
+            "type": "required",
+            "id": "thermalexpansion",
+            "version": "5.5.3.41",
+            "side": "client"
+        },
+        {
+            "type": "required",
+            "id": "thermalfoundation",
+            "version": "2.6.2.26",
+            "side": "client"
+        },
+        {
+            "type": "required",
+            "id": "thermalinnovation",
+            "version": "0.3.2.11",
+            "side": "client"
+        },
+        {
+            "type": "required",
+            "id": "thermallogistics",
+            "version": "0.2-22",
+            "side": "client"
+        },
+        {
+            "type": "required",
+            "id": "tcomplement",
+            "version": "1.12.2-0.3.2",
+            "side": "client"
+        },
+        {
+            "type": "required",
+            "id": "tinkersextras",
+            "version": "1.12.2-1.0.9",
+            "side": "client"
+        },
+        {
+            "type": "required",
+            "id": "tinkerstages",
+            "version": "2.0.17",
+            "side": "client"
+        },
+        {
+            "type": "required",
+            "id": "tips",
+            "version": "1.0.8",
+            "side": "client"
+        },
+        {
+            "type": "required",
+            "id": "toastcontrol",
+            "version": "1.12.2-1.8.0",
+            "side": "client"
+        },
+        {
+            "type": "required",
+            "id": "togetherforever",
+            "version": "1.12.2-1.0.12-22",
+            "side": "client"
+        },
+        {
+            "type": "required",
+            "id": "tombmanygraves",
+            "version": "1.12-4.2.0",
+            "side": "client"
+        },
+        {
+            "type": "required",
+            "id": "tombmanygraves2api",
+            "version": "1.12.2-1.0.0",
+            "side": "client"
+        },
+        {
+            "type": "required",
+            "id": "tombmanypluginscosmeticarmorreworked",
+            "version": "1.0.0",
+            "side": "client"
+        },
+        {
+            "type": "required",
+            "id": "topaddons",
+            "version": "1.12.2-1.11.0",
+            "side": "client"
+        },
+        {
+            "type": "required",
+            "id": "translocators",
+            "version": "2.5.1.77",
+            "side": "client"
+        },
+        {
+            "type": "required",
+            "id": "traverse",
+            "version": "1.12.2-1.6.0-69",
+            "side": "client"
+        },
+        {
+            "type": "required",
+            "id": "ts2k16",
+            "version": "1.2.10",
+            "side": "client"
+        },
+        {
+            "type": "required",
+            "id": "vtb",
+            "version": "2.0.0",
+            "side": "client"
+        },
+        {
+            "type": "required",
+            "id": "voidislandcontrol",
+            "version": "1.5.3",
+            "side": "client"
+        },
+        {
+            "type": "required",
+            "id": "watercontrolextreme",
+            "version": "1.0.2",
+            "side": "client"
+        },
+        {
+            "type": "required",
+            "id": "waterstrainer",
+            "version": "1.12-3.2.0",
+            "side": "client"
+        },
+        {
+            "type": "required",
+            "id": "weirdinggadget",
+            "version": "2.0.13",
+            "side": "client"
+        },
+        {
+            "type": "required",
+            "id": "whoops",
+            "version": "1.0.1",
+            "side": "client"
+        },
+        {
+            "type": "required",
+            "id": "wct",
+            "version": "1.12.2-3.11.88",
+            "side": "client"
+        },
+        {
+            "type": "required",
+            "id": "wizardry",
+            "version": "0.9.9",
+            "side": "client"
+        },
+        {
+            "type": "required",
+            "id": "xaeroworldmap",
+            "version": "1.3.4.1",
+            "side": "client"
+        },
+        {
+            "type": "required",
+            "id": "xaerominimap",
+            "version": "1.16.6",
+            "side": "client"
+        },
+        {
+            "type": "required",
+            "id": "xtones",
+            "version": "1.12-1.0.8-11",
+            "side": "client"
+        },
+        {
+            "type": "required",
+            "id": "zensummoning",
+            "version": "1.0.13",
+            "side": "client"
+        },
+        {
+            "type": "required",
+            "id": "zentriggers",
+            "version": "1.0.6",
+            "side": "client"
+        },
+        {
+            "type": "required",
+            "id": "zenstages",
+            "version": "0.4.1-19",
+            "side": "client"
+        }
+    ]
+}

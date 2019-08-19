@@ -1,0 +1,32 @@
+{
+    "formatVersion": 0,
+    "id": "com.ftb.interactions",
+    "name": "FTB Interactions",
+    "type": "modpack",
+    "authors": [
+        "FTB",
+        "Saereth",
+        "Vyraal1",
+        "TeamDman"
+    ],
+    "description": "FTB Interactions is the largest and most ambitious progression pack FTB has developed to date. The pack was designed to encourage cross-mod interactions to solve logistical challenges, defeat buffed mobs, outright cheese traditional obstacles, and even automate the killing of bosses. It's a progression and quest driven pack that is targeted towards people looking for a long term challenge for themselves or in a server setting with teams in mind.",
+    "icon": "https://media.forgecdn.net/avatars/196/825/636888012194151974.png",
+    "projectLinks": [
+        {
+            "type": "curseforge",
+            "url": "https://www.feed-the-beast.com/projects/ftb-interactions"
+        },
+        {
+            "type": "github",
+            "url": "https://github.com/FTBTeam/FTB-Interactions/issues"
+        }
+    ],
+    "@detectors": [
+        {
+            "type": "curseforge-modpack",
+            "data": {
+                "id": "317871"
+            }
+        }
+    ]
+}

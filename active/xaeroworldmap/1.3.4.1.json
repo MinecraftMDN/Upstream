@@ -1,0 +1,27 @@
+{
+  "formatVersion": 0,
+  "id": "1.3.4.1",
+  "releaseType": "release",
+  "changelog": "https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map/files/2689660",
+  "side": "client",
+  "relationships": [
+    {
+      "type": "required",
+      "id": "com.mojang.minecraft",
+      "version": "1.12.2"
+    }
+  ],
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://edge.forgecdn.net/files/2689/660/XaerosWorldMap_1.3.4.1_Forge_1.12.jar"
+    }
+  ],
+  "hashes": {
+    "md5": "3882579cf8397e6e51eb7bc2007e7744",
+    "sha1": "efdcc7de737154d84e8dcd8f173cfba8ee7fe6ff",
+    "sha256": "ef5db17f92926d7e4235fc4b556f51cf2251a61738ea9f76a5a4e6aa6362812c",
+    "murmur2": "3029977016"
+  },
+  "size": 199100
+}

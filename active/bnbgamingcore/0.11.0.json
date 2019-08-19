@@ -1,0 +1,27 @@
+{
+  "formatVersion": 0,
+  "id": "0.11.0",
+  "releaseType": "beta",
+  "changelog": "https://www.curseforge.com/minecraft/mc-mods/bnbgamingcore/files/2698691",
+  "side": "universal",
+  "relationships": [
+    {
+      "type": "required",
+      "id": "com.mojang.minecraft",
+      "version": "1.12.2"
+    }
+  ],
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://edge.forgecdn.net/files/2698/691/BNBGamingCore-1.12.2-0.11.0.jar"
+    }
+  ],
+  "hashes": {
+    "md5": "f083b52103eac89591ef393adc303706",
+    "sha1": "5c3811fdfd37f458eb9fbf7498d4612af9da5148",
+    "sha256": "c4c0f429f041d603b7a8ada530147026bf9013300cf6fee736fcd7e0e4963658",
+    "murmur2": "4212799678"
+  },
+  "size": 130110
+}

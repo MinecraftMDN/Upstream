@@ -1,0 +1,27 @@
+{
+  "formatVersion": 0,
+  "id": "1.0.0",
+  "releaseType": "release",
+  "changelog": "https://www.curseforge.com/minecraft/mc-mods/third-person-camera-fix/files/2618370",
+  "side": "client",
+  "relationships": [
+    {
+      "type": "required",
+      "id": "com.mojang.minecraft",
+      "version": "1.12.2"
+    }
+  ],
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://edge.forgecdn.net/files/2618/370/f5fix-1.2.jar"
+    }
+  ],
+  "hashes": {
+    "md5": "2b65a88a7dc4b75f860c24aadf23d13f",
+    "sha1": "6afc76858ebd2422f90725e82472db89ecf1c525",
+    "sha256": "43a1c408ef67c74958dd5b0ffb5920a7b9fab802e0164fb58fab0dedf5a66270",
+    "murmur2": "4269494366"
+  },
+  "size": 5328
+}

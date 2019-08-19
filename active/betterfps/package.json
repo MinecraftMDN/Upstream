@@ -1,0 +1,26 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "betterfps",
+  "name": "BetterFps",
+  "description": "BetterFps is a Minecraft mod that add a few performance improvements, trying to be compatible with other mods.",
+  "icon": "https://media.forgecdn.net/avatars/16/988/635655885251312698.png",
+  "license": ["LGPL-2.1"],
+  "authors": [
+    "Guichaguri"
+  ],
+  "projectLinks": [
+    {
+      "type": "source",
+      "url": "https://github.com/Guichaguri/BetterFps"
+    },
+    {
+      "type": "issues",
+      "url": "https://github.com/Guichaguri/BetterFps/issues"
+    },
+    {
+      "type": "cursefprge",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/betterfps"
+    }
+  ]
+}

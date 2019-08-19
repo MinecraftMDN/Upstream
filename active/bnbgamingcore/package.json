@@ -1,0 +1,27 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "bnbgamingcore",
+  "name": "BnBGamingCore",
+  "description": "Contains all of the ASM for Blood N Bones Gaming Mods and nothing else.",
+  "icon": "https://media.forgecdn.net/avatars/109/672/636381439150299645.png",
+  "authors": [
+    "bloodnbonesgaming",
+    "superckl",
+    "Blargerist"
+  ],
+  "projectLinks": [
+    {
+      "type": "source",
+      "url": "https://bitbucket.org/bloodnbonesgaming/bnbgamingcore"
+    },
+    {
+      "type": "issues",
+      "url": "https://bitbucket.org/bloodnbonesgaming/bnbgamingcore/issues"
+    },
+    {
+      "type": "cursefprge",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/bnbgamingcore"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "xaeroworldmap",
+  "name": "Xaero's World Map",
+  "description": "A self-writing fullscreen map which also works as an add-on to Xaero's Minimap.",
+  "icon": "https://media.forgecdn.net/avatars/196/654/636886857118683130.png",
+  "authors": [
+    "Xaero96"
+  ],
+  "projectLinks": [
+    {
+      "type": "issues",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map/issues"
+    },
+    {
+      "type": "cursefprge",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map"
+    }
+  ]
+}

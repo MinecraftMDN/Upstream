@@ -1,0 +1,21 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "f5fix",
+  "name": "Camera F5 Grass Fix",
+  "description": "Fixes the camera glitch when you are in F5 and there are blocks like grass between camera and player",
+  "icon": "https://media.forgecdn.net/avatars/149/292/636588120964872115.png",
+  "authors": [
+    "Hialus"
+  ],
+  "projectLinks": [
+    {
+      "type": "issues",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/third-person-camera-fix/issues"
+    },
+    {
+      "type": "cursefprge",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/third-person-camera-fix"
+    }
+  ]
+}
