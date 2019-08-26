@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "oeintegration",
+  "name": "OreExcavation Integration",
+  "description": "Integrates OE into other mods.",
+  "icon": "https://media.forgecdn.net/avatars/103/90/636335534391707568.png",
+  "licenses": [],
+  "authors": [
+    "BloodWorkXGaming"
+  ],
+  "projectLinks": [
+    {
+      "type": "curseforge",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/oreexcavation-integration"
+    }
+  ]
+}

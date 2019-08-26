@@ -1,0 +1,21 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "mekanismgenerators",
+  "name": "MekanismGenerators",
+  "description": "Generators module of Mekanism.",
+  "icon": "https://media.forgecdn.net/avatars/100/441/636315323376559051.jpeg",
+  "licenses": [],
+  "authors": [
+    "aidancbrady",
+    "thommy101",
+    "Thiakil",
+    "pupnewfster"
+  ],
+  "projectLinks": [
+    {
+      "type": "curseforge",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/mekanism-generators"
+    }
+  ]
+}

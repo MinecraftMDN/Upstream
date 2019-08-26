@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "id": "2.4.3.131",
+  "releaseType": "release",
+  "changelog": "https://www.curseforge.com/minecraft/mc-mods/ender-storage-1-8/files/2570992",
+  "side": "universal",
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://edge.forgecdn.net/files/2570/992/EnderStorage-1.12.2-2.4.3.131-universal.jar",
+      "side": "universal"
+    }
+  ],
+  "hashes": {
+    "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "murmur2": "4192795701",
+    "md5": "936f1fa6377449d4184f8ed003b1b805"
+  },
+  "size": 223359,
+  "releaseTime": "2018-06-09T14:12:07.213Z"
+}

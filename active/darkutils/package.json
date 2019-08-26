@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "darkutils",
+  "name": "Dark Utilities",
+  "description": "A mod that adds a bunch of new utilities to the game.",
+  "icon": "https://media.forgecdn.net/avatars/35/77/635919513306138024.jpeg",
+  "licenses": [],
+  "authors": [
+    "DarkhaxDev"
+  ],
+  "projectLinks": [
+    {
+      "type": "website",
+      "url": "http://www.darkhax.net"
+    },
+    {
+      "type": "curseforge",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/dark-utilities"
+    }
+  ]
+}

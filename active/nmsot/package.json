@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "nmsot",
+  "name": "No Mob Spawning on Trees",
+  "description": "A mod disables mob spawning on wood logs.",
+  "icon": "https://media.forgecdn.net/avatars/13/376/635561244744605246.png",
+  "licenses": [],
+  "authors": [
+    "oldjunyi"
+  ],
+  "projectLinks": [
+    {
+      "type": "website",
+      "url": "www.mmyzd.com"
+    },
+    {
+      "type": "curseforge",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/no-mob-spawning-on-trees"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "unloader",
+  "name": "Unloader",
+  "description": "Unload dimensions not in use.",
+  "icon": "https://media.forgecdn.net/avatars/139/110/636526228981713671.png",
+  "licenses": [],
+  "authors": [
+    "Unnoen"
+  ],
+  "projectLinks": [
+    {
+      "type": "source",
+      "url": "https://github.com/Unnoen/Unloader"
+    },
+    {
+      "type": "curseforge",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/unloader"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "id": "1.12-2.6.7-SNAPSHOT",
+  "releaseType": "release",
+  "changelog": "https://www.curseforge.com/minecraft/mc-mods/mcjtylib/files/2543038",
+  "side": "universal",
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://edge.forgecdn.net/files/2543/38/mcjtylib-1.12-2.6.7.jar",
+      "side": "universal"
+    }
+  ],
+  "hashes": {
+    "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "murmur2": "3255712072",
+    "md5": "da3687481a5f5c8d78be4beb77704c7f"
+  },
+  "size": 370547,
+  "releaseTime": "2018-03-20T04:19:30.163Z"
+}

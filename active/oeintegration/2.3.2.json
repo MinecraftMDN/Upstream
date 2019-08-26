@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "id": "2.3.2",
+  "releaseType": "release",
+  "changelog": "https://www.curseforge.com/minecraft/mc-mods/oreexcavation-integration/files/2496519",
+  "side": "universal",
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://edge.forgecdn.net/files/2496/519/oeintegration-2.3.2.jar",
+      "side": "universal"
+    }
+  ],
+  "hashes": {
+    "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "murmur2": "3614271651",
+    "md5": "3a7ea1a8fe6d6e064d27d13dcc651974"
+  },
+  "size": 23858,
+  "releaseTime": "2017-11-02T19:08:24.26Z"
+}

@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "pamscookables",
+  "name": "Pam\u0027s Cookables",
+  "description": "Changes the recipes from Pam\u0027s Harvestcraft back to cooking",
+  "icon": "https://media.forgecdn.net/avatars/101/122/636320648970047856.png",
+  "licenses": [],
+  "authors": [
+    "BloodWorkXGaming"
+  ],
+  "projectLinks": [
+    {
+      "type": "curseforge",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/pams-cookables"
+    }
+  ]
+}

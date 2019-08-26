@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "shetiphiancore",
+  "name": "ShetiPhian-Core",
+  "description": "Core set of files needed by ShetiPhians mods",
+  "icon": "https://media.forgecdn.net/avatars/78/813/636175305946231890.png",
+  "licenses": [],
+  "authors": [
+    "ShetiPhian"
+  ],
+  "projectLinks": [
+    {
+      "type": "website",
+      "url": "http://tomkinsbros.blogspot.ca/p/core.html"
+    },
+    {
+      "type": "curseforge",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/shetiphiancore"
+    }
+  ]
+}

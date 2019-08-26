@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "projectred-transportation",
+  "name": "ProjectRed Expansion",
+  "icon": "https://media.forgecdn.net/avatars/15/803/635634024535560943.png",
+  "licenses": [],
+  "authors": [
+    "Mr_TJP",
+    "covers1624"
+  ],
+  "projectLinks": [
+    {
+      "type": "curseforge",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/project-red-mechanical"
+    }
+  ]
+}

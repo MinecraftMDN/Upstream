@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "helpfixer",
+  "name": "HelpFixer",
+  "description": "Fixes the help command from mod derpyness",
+  "icon": "https://media.forgecdn.net/avatars/10/124/635447593775353238.png",
+  "licenses": [],
+  "authors": [
+    "matthewprenger"
+  ],
+  "projectLinks": [
+    {
+      "type": "curseforge",
+      "url": "http://minecraft.curseforge.com/mc-mods/223797-helpfixer"
+    }
+  ]
+}

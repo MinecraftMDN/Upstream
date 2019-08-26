@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "openglider",
+  "name": "Open Glider",
+  "description": "Hang glider!",
+  "icon": "https://media.forgecdn.net/avatars/83/378/636188155869125083.png",
+  "licenses": [],
+  "authors": [
+    "gr8pefish"
+  ],
+  "projectLinks": [
+    {
+      "type": "curseforge",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/open-glider"
+    }
+  ]
+}

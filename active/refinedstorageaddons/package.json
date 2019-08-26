@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "refinedstorageaddons",
+  "name": "Refined Storage Addons",
+  "description": "An addon mod for Refined Storage",
+  "icon": "https://media.forgecdn.net/avatars/106/273/636358693065137736.png",
+  "licenses": [],
+  "authors": [
+    "raoulvdberge"
+  ],
+  "projectLinks": [
+    {
+      "type": "curseforge",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/refined-storage-addons"
+    }
+  ]
+}

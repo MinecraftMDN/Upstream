@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "id": "1.12-3.8.0",
+  "releaseType": "release",
+  "changelog": "https://www.curseforge.com/minecraft/mc-mods/shadowmc/files/2441500",
+  "side": "universal",
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://edge.forgecdn.net/files/2441/500/ShadowMC-1.12-3.8.0.jar",
+      "side": "universal"
+    }
+  ],
+  "hashes": {
+    "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "murmur2": "917963088",
+    "md5": "4649d8bc9cf94f032b4482692f4b4c2d"
+  },
+  "size": 464802,
+  "releaseTime": "2017-06-25T20:01:23.087Z"
+}

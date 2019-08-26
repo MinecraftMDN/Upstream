@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "id": "0.0.1.1",
+  "releaseType": "release",
+  "changelog": "https://www.curseforge.com/minecraft/mc-mods/ai-improvements/files/2468387",
+  "side": "universal",
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://edge.forgecdn.net/files/2468/387/AIImprovements-1.12.1-0.0.1b1.jar",
+      "side": "universal"
+    }
+  ],
+  "hashes": {
+    "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "murmur2": "2649954864",
+    "md5": "89be2aa1464314c1e4474825036f3ccf"
+  },
+  "size": 7267,
+  "releaseTime": "2017-08-24T03:06:33.55Z"
+}

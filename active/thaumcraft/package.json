@@ -7,12 +7,16 @@
   "icon": "https://media.forgecdn.net/avatars/9/951/635442866020755480.jpeg",
   "licenses": [],
   "authors": [
-    "Azanor"
+    "Azanor13"
   ],
   "projectLinks": [
     {
       "type": "website",
       "url": "http://www.minecraftforum.net/topic/2011841-thaumcraft"
+    },
+    {
+      "type": "curseforge",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/thaumcraft"
     }
   ]
 }

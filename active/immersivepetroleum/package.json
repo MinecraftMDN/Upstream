@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "immersivepetroleum",
+  "name": "Immersive Petroleum",
+  "description": "Adds oil and oil processing features to Immersive Engineering.",
+  "icon": "https://media.forgecdn.net/avatars/99/974/636311739375036277.png",
+  "licenses": [],
+  "authors": [
+    "theFlaxbeard"
+  ],
+  "projectLinks": [
+    {
+      "type": "source",
+      "url": "https://github.com/Flaxbeard/ImmersivePetroleum"
+    },
+    {
+      "type": "curseforge",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/immersive-petroleum"
+    }
+  ]
+}

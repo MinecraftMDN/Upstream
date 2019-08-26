@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "id": "1.2.0",
+  "releaseType": "release",
+  "changelog": "https://www.curseforge.com/minecraft/mc-mods/rftools-power/files/2704404",
+  "side": "universal",
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://edge.forgecdn.net/files/2704/404/rftoolspower-1.12-1.2.0.jar",
+      "side": "universal"
+    }
+  ],
+  "hashes": {
+    "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "murmur2": "2353472270",
+    "md5": "afd405e1ba3857a4bff72c394c3540af"
+  },
+  "size": 148083,
+  "releaseTime": "2019-04-27T18:20:57.407Z"
+}

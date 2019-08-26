@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "wirelesscharger",
+  "name": "WirelessCharger",
+  "description": "This mod adds a block that can charge nearby players\u0027 ForgeEnergy compatible items",
+  "icon": "https://media.forgecdn.net/avatars/117/70/636399407008395577.png",
+  "licenses": [],
+  "authors": [
+    "ZLainSama"
+  ],
+  "projectLinks": [
+    {
+      "type": "source",
+      "url": "https://github.com/zlainsama/wirelesscharger"
+    },
+    {
+      "type": "curseforge",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/wirelesscharger"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "morpheus",
+  "name": "Morpheus",
+  "description": "Morpheus is a server-only mod that adds sleep voting to a forge based server. When a player sleeps, all other players in the same dimension are notified so it is easier to coordinate.",
+  "icon": "https://media.forgecdn.net/avatars/4/608/635351426949975481.png",
+  "licenses": [],
+  "authors": [
+    "Quetzi"
+  ],
+  "projectLinks": [
+    {
+      "type": "website",
+      "url": "http://www.curse.com/mc-mods/Minecraft/morpheus"
+    },
+    {
+      "type": "curseforge",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/morpheus"
+    }
+  ]
+}

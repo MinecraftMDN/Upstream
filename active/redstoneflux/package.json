@@ -7,12 +7,17 @@
   "icon": "https://media.forgecdn.net/avatars/105/500/636353215194575027.png",
   "licenses": [],
   "authors": [
-    "Team CoFH"
+    "TeamCoFH",
+    "KingLemming"
   ],
   "projectLinks": [
     {
       "type": "website",
       "url": "http://www.teamcofh.com"
+    },
+    {
+      "type": "curseforge",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/redstone-flux"
     }
   ]
 }

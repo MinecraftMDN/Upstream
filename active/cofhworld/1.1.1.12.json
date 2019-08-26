@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "id": "1.1.1.12",
+  "releaseType": "release",
+  "changelog": "https://www.curseforge.com/minecraft/mc-mods/cofh-world/files/2513671",
+  "side": "universal",
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://edge.forgecdn.net/files/2513/671/CoFHWorld-1.12.2-1.1.1.12-universal.jar",
+      "side": "universal"
+    }
+  ],
+  "hashes": {
+    "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "murmur2": "836201760",
+    "md5": "b6bb4654ce07e8842b632fbe327ef5fe"
+  },
+  "size": 399333,
+  "releaseTime": "2017-12-25T23:24:53.247Z"
+}

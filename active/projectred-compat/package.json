@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "projectred-compat",
+  "name": "ProjectRed Compatibility",
+  "icon": "https://media.forgecdn.net/avatars/15/800/635634023975862132.png",
+  "licenses": [],
+  "authors": [
+    "Mr_TJP",
+    "covers1624"
+  ],
+  "projectLinks": [
+    {
+      "type": "curseforge",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/project-red-compat"
+    }
+  ]
+}

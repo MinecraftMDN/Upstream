@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "id": "4.0.5",
+  "releaseType": "release",
+  "changelog": "https://www.curseforge.com/minecraft/mc-mods/modtweaker/files/2498616",
+  "side": "universal",
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://edge.forgecdn.net/files/2498/616/modtweaker-4.0.5.jar",
+      "side": "universal"
+    }
+  ],
+  "hashes": {
+    "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "murmur2": "3855600012",
+    "md5": "8b8df464b402d132da0c6642e214f114"
+  },
+  "size": 172088,
+  "releaseTime": "2017-11-10T00:28:48.23Z"
+}

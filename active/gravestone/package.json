@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "gravestone",
+  "name": "Gravestone Mod",
+  "description": "Gravestone Mod",
+  "icon": "https://media.forgecdn.net/avatars/32/744/635885472934509627.png",
+  "licenses": [],
+  "authors": [
+    "EuhDawson"
+  ],
+  "projectLinks": [
+    {
+      "type": "website",
+      "url": "http://maxhenkel.de"
+    },
+    {
+      "type": "curseforge",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/gravestone-mod"
+    }
+  ]
+}

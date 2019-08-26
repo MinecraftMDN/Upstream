@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "tinkertoolleveling",
+  "name": "Tinkers Tool Leveling",
+  "description": "A small mod that gives your tools XP and awards extra modifiers on levelup",
+  "icon": "https://media.forgecdn.net/avatars/50/510/636091756433815224.png",
+  "licenses": [],
+  "authors": [
+    "bonusboni"
+  ],
+  "projectLinks": [
+    {
+      "type": "source",
+      "url": "https://github.com/SlimeKnights/TinkersToolLeveling"
+    },
+    {
+      "type": "curseforge",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/tinkers-tool-leveling"
+    }
+  ]
+}

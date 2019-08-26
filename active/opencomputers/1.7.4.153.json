@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "id": "1.7.4.153",
+  "releaseType": "release",
+  "changelog": "https://www.curseforge.com/minecraft/mc-mods/opencomputers/files/2670112",
+  "side": "universal",
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://edge.forgecdn.net/files/2670/112/OpenComputers-MC1.12.2-1.7.4.153.jar",
+      "side": "universal"
+    }
+  ],
+  "hashes": {
+    "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "murmur2": "3067488310",
+    "md5": "67cfc01cfaeed3bf5ce0d568bf371e3b"
+  },
+  "size": 15545293,
+  "releaseTime": "2019-02-07T05:54:56.617Z"
+}

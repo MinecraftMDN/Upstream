@@ -7,12 +7,16 @@
   "icon": "https://media.forgecdn.net/avatars/5/810/635351434144199284.png",
   "licenses": [],
   "authors": [
-    "YaLTeR"
+    "YaLTeR97"
   ],
   "projectLinks": [
     {
       "type": "website",
       "url": "http://www.minecraftforum.net/topic/1518185-"
+    },
+    {
+      "type": "curseforge",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/mouse-tweaks"
     }
   ]
 }

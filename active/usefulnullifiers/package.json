@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "usefulnullifiers",
+  "name": "Useful Nullifiers",
+  "description": "Nullifiers to help get rid of all those items, fluids, and energy.",
+  "icon": "https://media.forgecdn.net/avatars/162/614/636677844167966258.png",
+  "licenses": [],
+  "authors": [
+    "Bartz24"
+  ],
+  "projectLinks": [
+    {
+      "type": "source",
+      "url": "https://github.com/Bartz24/UsefulNullifiers"
+    },
+    {
+      "type": "curseforge",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/useful-nullifiers"
+    }
+  ]
+}

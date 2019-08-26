@@ -7,8 +7,13 @@
   "icon": "https://media.forgecdn.net/avatars/20/468/635712257569813390.png",
   "licenses": [],
   "authors": [
-    "Tombenpotter",
-    "TehNut"
+    "TehNut",
+    "Tombenpotter"
   ],
-  "projectLinks": []
+  "projectLinks": [
+    {
+      "type": "curseforge",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/guide-api"
+    }
+  ]
 }

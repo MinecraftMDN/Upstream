@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "id": "3.0.5",
+  "releaseType": "release",
+  "changelog": "https://www.curseforge.com/minecraft/mc-mods/controlling/files/2509063",
+  "side": "client",
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://edge.forgecdn.net/files/2509/63/Controlling-3.0.5.jar",
+      "side": "universal"
+    }
+  ],
+  "hashes": {
+    "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "murmur2": "3386296590",
+    "md5": "8ed0b0ab1a353d48976a50ca6dbff7d7"
+  },
+  "size": 25693,
+  "releaseTime": "2017-12-12T19:38:57.127Z"
+}

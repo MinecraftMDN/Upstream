@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "id": "1.0.2-b11",
+  "releaseType": "release",
+  "changelog": "https://www.curseforge.com/minecraft/mc-mods/oc-xnet-driver/files/2540127",
+  "side": "universal",
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://edge.forgecdn.net/files/2540/127/ocxnetdriver-1.0.2-b11.jar",
+      "side": "universal"
+    }
+  ],
+  "hashes": {
+    "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "murmur2": "1021568844",
+    "md5": "37e5876f1b74dbada27e6d9bacfe3c34"
+  },
+  "size": 21871,
+  "releaseTime": "2018-03-11T19:31:46.733Z"
+}

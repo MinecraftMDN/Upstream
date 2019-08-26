@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "id": "1.12.2-0.10.0",
+  "releaseType": "release",
+  "changelog": "https://www.curseforge.com/minecraft/mc-mods/integrated-dynamics/files/2512189",
+  "side": "universal",
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://edge.forgecdn.net/files/2512/189/IntegratedDynamics-1.12.2-0.10.0.jar",
+      "side": "universal"
+    }
+  ],
+  "hashes": {
+    "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "murmur2": "4286175377",
+    "md5": "fe685b110abaf1533976e8946ba546f9"
+  },
+  "size": 2680796,
+  "releaseTime": "2017-12-21T08:16:43.717Z"
+}

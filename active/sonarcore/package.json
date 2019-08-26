@@ -6,6 +6,13 @@
   "description": "Sonar\u0027s Modding Framework",
   "icon": "https://media.forgecdn.net/avatars/31/78/635874411988512183.png",
   "licenses": [],
-  "authors": [],
-  "projectLinks": []
+  "authors": [
+    "Ollie_Lansdell"
+  ],
+  "projectLinks": [
+    {
+      "type": "curseforge",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/sonar-core"
+    }
+  ]
 }

@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "id": "1.12.2-3.9.68",
+  "releaseType": "release",
+  "changelog": "https://www.curseforge.com/minecraft/mc-mods/wireless-crafting-terminal/files/2618507",
+  "side": "universal",
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://edge.forgecdn.net/files/2618/507/WirelessCraftingTerminal-1.12.2-3.9.68.jar",
+      "side": "universal"
+    }
+  ],
+  "hashes": {
+    "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "murmur2": "2944442315",
+    "md5": "5eb246a00f08188931aeebc746879bf2"
+  },
+  "size": 320340,
+  "releaseTime": "2018-09-18T21:06:39.88Z"
+}

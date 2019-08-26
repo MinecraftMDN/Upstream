@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "id": "2.3.513",
+  "releaseType": "release",
+  "changelog": "https://www.curseforge.com/minecraft/mc-mods/bookshelf/files/2512367",
+  "side": "universal",
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://edge.forgecdn.net/files/2512/367/Bookshelf-1.12.2-2.3.513.jar",
+      "side": "universal"
+    }
+  ],
+  "hashes": {
+    "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "murmur2": "158581490",
+    "md5": "961824382370abfd9f6965f01d2dd5d7"
+  },
+  "size": 241491,
+  "releaseTime": "2017-12-21T20:24:29.917Z"
+}

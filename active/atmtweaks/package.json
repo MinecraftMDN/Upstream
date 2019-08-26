@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "atmtweaks",
+  "name": "ATM Tweaks",
+  "description": "Tweaks mod for the atm packs which mostly just adds items.",
+  "icon": "https://media.forgecdn.net/avatars/108/734/636374595617353051.png",
+  "licenses": [],
+  "authors": [
+    "BloodWorkXGaming"
+  ],
+  "projectLinks": [
+    {
+      "type": "curseforge",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/all-the-mods-expert-tweaks"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "immersiveengineering",
+  "name": "Immersive Engineering",
+  "description": "A tech based mod focused on realism.",
+  "icon": "https://media.forgecdn.net/avatars/20/135/635707329671959611.png",
+  "licenses": [],
+  "authors": [
+    "BluSunrize",
+    "malte0811"
+  ],
+  "projectLinks": [
+    {
+      "type": "source",
+      "url": "https://github.com/BluSunrize/ImmersiveEngineering"
+    },
+    {
+      "type": "curseforge",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/immersive-engineering"
+    }
+  ]
+}

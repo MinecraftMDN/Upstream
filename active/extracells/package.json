@@ -1,0 +1,24 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "extracells",
+  "name": "Extra Cells 2",
+  "description": "Adds new ME Storage Cells and some other cool stuff to AE 2.",
+  "icon": "https://media.forgecdn.net/avatars/16/93/635640105367218536.png",
+  "licenses": [],
+  "authors": [
+    "Destroyer7128",
+    "DrummerMC",
+    "Pwnie2012"
+  ],
+  "projectLinks": [
+    {
+      "type": "website",
+      "url": "http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1289077-ae-add-on-m3gas-extracells-2-1-x-2-2-x"
+    },
+    {
+      "type": "curseforge",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/extracells2"
+    }
+  ]
+}

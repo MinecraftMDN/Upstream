@@ -1,0 +1,16 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "aiimprovements",
+  "icon": "https://media.forgecdn.net/avatars/21/699/635731173265581096.png",
+  "licenses": [],
+  "authors": [
+    "DarkGuardsman"
+  ],
+  "projectLinks": [
+    {
+      "type": "curseforge",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/ai-improvements"
+    }
+  ]
+}

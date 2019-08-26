@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "id": "1.6.0-dev.20190711.220109",
+  "releaseType": "release",
+  "changelog": "https://www.curseforge.com/minecraft/mc-mods/just-enough-dimensions/files/2739535",
+  "side": "universal",
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://edge.forgecdn.net/files/2739/535/justenoughdimensions-1.12.2-1.6.0-dev.20190711.220109.jar",
+      "side": "universal"
+    }
+  ],
+  "hashes": {
+    "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "murmur2": "780752354",
+    "md5": "43bcf20a8e09d882ead778e4f4443318"
+  },
+  "size": 252078,
+  "releaseTime": "2019-07-11T19:10:04.693Z"
+}

@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "id": "1.12-2.5.2",
+  "releaseType": "release",
+  "changelog": "https://www.curseforge.com/minecraft/mc-mods/exchangers/files/2497446",
+  "side": "universal",
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://edge.forgecdn.net/files/2497/446/Exchangers-1.12-2.5.2.jar",
+      "side": "universal"
+    }
+  ],
+  "hashes": {
+    "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "murmur2": "179520613",
+    "md5": "1b4da486f8db5312562a1d886099b7bd"
+  },
+  "size": 215179,
+  "releaseTime": "2017-11-05T11:12:32.88Z"
+}

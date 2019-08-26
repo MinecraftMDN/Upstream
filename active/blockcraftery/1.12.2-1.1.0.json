@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "id": "1.12.2-1.1.0",
+  "releaseType": "release",
+  "changelog": "https://www.curseforge.com/minecraft/mc-mods/blockcraftery/files/2633665",
+  "side": "universal",
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://edge.forgecdn.net/files/2633/665/blockcraftery-1.12.2-1.1.0.jar",
+      "side": "universal"
+    }
+  ],
+  "hashes": {
+    "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "murmur2": "940442904",
+    "md5": "70eea0d6fda5b1be5ec89ccc9b04b13f"
+  },
+  "size": 70895,
+  "releaseTime": "2018-10-31T07:09:36.513Z"
+}

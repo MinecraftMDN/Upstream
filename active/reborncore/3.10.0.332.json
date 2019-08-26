@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "id": "3.10.0.332",
+  "releaseType": "release",
+  "changelog": "https://www.curseforge.com/minecraft/mc-mods/reborncore/files/2602070",
+  "side": "universal",
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://edge.forgecdn.net/files/2602/70/RebornCore-1.12.2-3.10.0.332-universal.jar",
+      "side": "universal"
+    }
+  ],
+  "hashes": {
+    "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "murmur2": "4149930631",
+    "md5": "4beebd95868f562225034d634e5cab24"
+  },
+  "size": 574437,
+  "releaseTime": "2018-08-12T15:56:17.023Z"
+}

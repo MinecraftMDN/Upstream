@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "id": "3.1.6.339",
+  "releaseType": "release",
+  "changelog": "https://www.curseforge.com/minecraft/mc-mods/codechicken-lib-1-8/files/2540351",
+  "side": "universal",
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://edge.forgecdn.net/files/2540/351/CodeChickenLib-1.12.2-3.1.6.339-universal.jar",
+      "side": "universal"
+    }
+  ],
+  "hashes": {
+    "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "murmur2": "844250467",
+    "md5": "edd6dc7efd8fda77a073aa778d94c2c0"
+  },
+  "size": 658041,
+  "releaseTime": "2018-03-12T05:23:16.017Z"
+}

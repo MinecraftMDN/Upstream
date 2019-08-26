@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "id": "1.80pr1",
+  "releaseType": "release",
+  "changelog": "https://www.curseforge.com/minecraft/mc-mods/computercraft/files/2478952",
+  "side": "universal",
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://edge.forgecdn.net/files/2478/952/ComputerCraft1.80pr1.jar",
+      "side": "universal"
+    }
+  ],
+  "hashes": {
+    "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "murmur2": "750655930",
+    "md5": "df638d71e9f8834cf7f0784cf4ab4f41"
+  },
+  "size": 1641429,
+  "releaseTime": "2017-09-11T23:17:34.217Z"
+}

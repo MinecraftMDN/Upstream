@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "id": "2.0.0.0.b130",
+  "releaseType": "release",
+  "changelog": "https://www.curseforge.com/minecraft/mc-mods/aroma1997core/files/2510923",
+  "side": "universal",
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://edge.forgecdn.net/files/2510/923/Aroma1997Core-1.12.2-2.0.0.0.b130.jar",
+      "side": "universal"
+    }
+  ],
+  "hashes": {
+    "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "murmur2": "3406563805",
+    "md5": "893ef7598258259d201c17c4d4ee7107"
+  },
+  "size": 378382,
+  "releaseTime": "2017-12-17T19:41:18.973Z"
+}

@@ -1,0 +1,16 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "extrarails",
+  "icon": "https://media.forgecdn.net/avatars/45/550/636044381231651005.png",
+  "licenses": [],
+  "authors": [
+    "shadowfactsmc"
+  ],
+  "projectLinks": [
+    {
+      "type": "curseforge",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/extra-rails"
+    }
+  ]
+}

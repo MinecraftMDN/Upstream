@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "id": "2.2.4",
+  "releaseType": "release",
+  "changelog": "https://www.curseforge.com/minecraft/mc-mods/discordsuite/files/2577684",
+  "side": "client",
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://edge.forgecdn.net/files/2577/684/DiscordSuite-2.2.4.jar",
+      "side": "universal"
+    }
+  ],
+  "hashes": {
+    "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "murmur2": "693304414",
+    "md5": "e72b9dc2e36150e4ada0e7dd90a631a7"
+  },
+  "size": 32571,
+  "releaseTime": "2018-06-29T16:22:23.12Z"
+}

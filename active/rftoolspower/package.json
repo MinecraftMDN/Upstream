@@ -1,0 +1,16 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "rftoolspower",
+  "icon": "https://media.forgecdn.net/avatars/146/128/636567831036587855.png",
+  "licenses": [],
+  "authors": [
+    "McJty"
+  ],
+  "projectLinks": [
+    {
+      "type": "curseforge",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/rftools-power"
+    }
+  ]
+}

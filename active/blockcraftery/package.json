@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "blockcraftery",
+  "name": "Blockcraftery",
+  "description": "Blocks which can have textures applied to them.",
+  "icon": "https://media.forgecdn.net/avatars/124/276/636420595226292681.png",
+  "licenses": [],
+  "authors": [
+    "EpicSquid319"
+  ],
+  "projectLinks": [
+    {
+      "type": "curseforge",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/blockcraftery"
+    }
+  ]
+}

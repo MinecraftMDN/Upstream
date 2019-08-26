@@ -1,0 +1,25 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "ic2",
+  "name": "IndustrialCraft 2",
+  "description": "Industrial age themed expansion for Minecraft.",
+  "icon": "https://media.forgecdn.net/avatars/35/839/635930304832975926.png",
+  "licenses": [],
+  "authors": [
+    "Player",
+    "Aroma1997",
+    "Chocohead",
+    "estebess"
+  ],
+  "projectLinks": [
+    {
+      "type": "website",
+      "url": "http://www.industrial-craft.net"
+    },
+    {
+      "type": "curseforge",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/industrial-craft"
+    }
+  ]
+}

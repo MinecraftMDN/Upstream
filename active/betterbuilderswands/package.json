@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "betterbuilderswands",
+  "name": "Better Builder\u0027s Wands",
+  "description": "Wands that allow placing of multiple blocks at a time",
+  "icon": "https://media.forgecdn.net/avatars/29/385/635844319593521420.png",
+  "licenses": [],
+  "authors": [
+    "Portablejim"
+  ],
+  "projectLinks": [
+    {
+      "type": "curseforge",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/better-builders-wands"
+    }
+  ]
+}

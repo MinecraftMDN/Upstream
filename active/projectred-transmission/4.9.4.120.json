@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "id": "4.9.4.120",
+  "releaseType": "release",
+  "changelog": "https://www.curseforge.com/minecraft/mc-mods/project-red-integration/files/2745548",
+  "side": "universal",
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://edge.forgecdn.net/files/2745/548/ProjectRed-1.12.2-4.9.4.120-integration.jar",
+      "side": "universal"
+    }
+  ],
+  "hashes": {
+    "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "murmur2": "1782350993",
+    "md5": "0d8259b233ab89d2171b6337167e7e6f"
+  },
+  "size": 3923751,
+  "releaseTime": "2019-07-21T17:56:53.117Z"
+}

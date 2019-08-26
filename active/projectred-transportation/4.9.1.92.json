@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "id": "4.9.1.92",
+  "releaseType": "release",
+  "changelog": "https://www.curseforge.com/minecraft/mc-mods/project-red-mechanical/files/2572422",
+  "side": "universal",
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://edge.forgecdn.net/files/2572/422/ProjectRed-1.12.2-4.9.1.92-mechanical.jar",
+      "side": "universal"
+    }
+  ],
+  "hashes": {
+    "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "murmur2": "681060172",
+    "md5": "206c601a3800e3ff0e21763f2e9e8b9c"
+  },
+  "size": 2586694,
+  "releaseTime": "2018-06-13T20:35:37.893Z"
+}

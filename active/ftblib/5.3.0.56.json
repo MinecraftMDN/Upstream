@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "id": "5.3.0.56",
+  "releaseType": "release",
+  "changelog": "https://www.curseforge.com/minecraft/mc-mods/ftblib/files/2625772",
+  "side": "universal",
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://edge.forgecdn.net/files/2625/772/FTBLib-5.3.0.56.jar",
+      "side": "universal"
+    }
+  ],
+  "hashes": {
+    "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "murmur2": "3970653708",
+    "md5": "ac81550b17d5c041a45bf57a3e5bcb0d"
+  },
+  "size": 863269,
+  "releaseTime": "2018-10-08T17:17:45.12Z"
+}

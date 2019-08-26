@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "id": "1.12.2-1.4.1",
+  "releaseType": "release",
+  "changelog": "https://www.curseforge.com/minecraft/mc-mods/integrated-tunnels/files/2519798",
+  "side": "universal",
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://edge.forgecdn.net/files/2519/798/IntegratedTunnels-1.12.2-1.4.1.jar",
+      "side": "universal"
+    }
+  ],
+  "hashes": {
+    "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "murmur2": "4134621524",
+    "md5": "752d94d27eade3a5f6ef0a7f7ae551e9"
+  },
+  "size": 1671440,
+  "releaseTime": "2018-01-13T12:55:44.723Z"
+}

@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "xnet",
+  "name": "XNet",
+  "description": "Advanced Networking",
+  "icon": "https://media.forgecdn.net/avatars/89/38/636229039734109684.png",
+  "licenses": [],
+  "authors": [
+    "McJty"
+  ],
+  "projectLinks": [
+    {
+      "type": "curseforge",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/xnet"
+    }
+  ]
+}

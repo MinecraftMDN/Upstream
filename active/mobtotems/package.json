@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "mobtotems",
+  "name": "Mob Totems",
+  "description": "A mod which adds Mob Totems to the game. Craft these totems and ward off evil mobs and more.",
+  "icon": "https://media.forgecdn.net/avatars/44/116/636028482075015499.png",
+  "licenses": [],
+  "authors": [
+    "corwinj"
+  ],
+  "projectLinks": [
+    {
+      "type": "source",
+      "url": "https://github.com/CorwinJV/MobTotems"
+    },
+    {
+      "type": "curseforge",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/mobtotems"
+    }
+  ]
+}

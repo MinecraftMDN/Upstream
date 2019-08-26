@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "mysticalagriculture",
+  "name": "Mystical Agriculture",
+  "description": "Adds Resource Crops, Armor, Tools, and other fun stuff!",
+  "icon": "https://media.forgecdn.net/avatars/169/286/636714350437863347.png",
+  "licenses": [],
+  "authors": [
+    "BlakeBr0"
+  ],
+  "projectLinks": [
+    {
+      "type": "curseforge",
+      "url": "https://minecraft.curseforge.com/projects/mystical-agriculture"
+    }
+  ]
+}

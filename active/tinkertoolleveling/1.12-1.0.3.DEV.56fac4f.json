@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "id": "1.12-1.0.3.DEV.56fac4f",
+  "releaseType": "release",
+  "changelog": "https://www.curseforge.com/minecraft/mc-mods/tinkers-tool-leveling/files/2507887",
+  "side": "universal",
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://edge.forgecdn.net/files/2507/887/TinkerToolLeveling-1.12-1.0.3.jar",
+      "side": "universal"
+    }
+  ],
+  "hashes": {
+    "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "murmur2": "13400858",
+    "md5": "af53d5997a1dba40fb062c05ff72f95c"
+  },
+  "size": 91796,
+  "releaseTime": "2017-12-09T08:48:38.747Z"
+}

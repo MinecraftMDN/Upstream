@@ -7,7 +7,12 @@
   "icon": "https://media.forgecdn.net/avatars/13/18/635549180463548679.png",
   "licenses": [],
   "authors": [
-    "lumien"
+    "lumien231"
   ],
-  "projectLinks": []
+  "projectLinks": [
+    {
+      "type": "curseforge",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/custom-main-menu"
+    }
+  ]
 }

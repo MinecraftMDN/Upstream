@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "id": "1.12.2-2.2.7-90",
+  "releaseType": "release",
+  "changelog": "https://www.curseforge.com/minecraft/mc-mods/blood-magic/files/2536268",
+  "side": "universal",
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://edge.forgecdn.net/files/2536/268/BloodMagic-1.12.2-2.2.7-90.jar",
+      "side": "universal"
+    }
+  ],
+  "hashes": {
+    "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "murmur2": "1859985844",
+    "md5": "ab4863a0d3de24bbcbe53b43b0d9d7dc"
+  },
+  "size": 6634817,
+  "releaseTime": "2018-03-01T02:11:11.943Z"
+}

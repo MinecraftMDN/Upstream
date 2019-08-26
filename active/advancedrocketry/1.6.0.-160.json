@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "id": "1.6.0.-160",
+  "releaseType": "release",
+  "changelog": "https://www.curseforge.com/minecraft/mc-mods/advanced-rocketry/files/2743612",
+  "side": "universal",
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://edge.forgecdn.net/files/2743/612/AdvancedRocketry-1.12.2-1.6.0-160-universal.jar",
+      "side": "universal"
+    }
+  ],
+  "hashes": {
+    "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "murmur2": "3164812385",
+    "md5": "e78d7976d40b2c1f14272ee1a9fc1030"
+  },
+  "size": 12583291,
+  "releaseTime": "2019-07-18T16:02:03.107Z"
+}

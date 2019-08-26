@@ -1,0 +1,17 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "woodenshears",
+  "icon": "https://media.forgecdn.net/avatars/140/366/636534390229962084.png",
+  "licenses": [],
+  "authors": [
+    "BuiltBroken",
+    "DarkGuardsman"
+  ],
+  "projectLinks": [
+    {
+      "type": "curseforge",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/sbm-wooden-shears"
+    }
+  ]
+}

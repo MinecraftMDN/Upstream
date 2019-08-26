@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "id": "1.12.2-1.0.6",
+  "releaseType": "release",
+  "changelog": "https://www.curseforge.com/minecraft/mc-mods/wirelesscharger/files/2622053",
+  "side": "universal",
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://edge.forgecdn.net/files/2622/53/WirelessCharger-1.12.2-1.0.6.jar",
+      "side": "universal"
+    }
+  ],
+  "hashes": {
+    "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "murmur2": "140819864",
+    "md5": "a1eb01f5dc23725acdf85fdb1f8ad18a"
+  },
+  "size": 28481,
+  "releaseTime": "2018-09-29T07:06:15.503Z"
+}

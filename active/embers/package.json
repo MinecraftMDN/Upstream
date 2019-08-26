@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "embers",
+  "name": "Embers",
+  "description": "Dwarven-style Magitech Mod",
+  "icon": "https://media.forgecdn.net/avatars/89/585/636232313096220070.png",
+  "licenses": [],
+  "authors": [
+    "EpicSquid319"
+  ],
+  "projectLinks": [
+    {
+      "type": "curseforge",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/embers"
+    }
+  ]
+}

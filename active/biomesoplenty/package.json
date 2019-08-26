@@ -1,0 +1,23 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "biomesoplenty",
+  "name": "Biomes O\u0027 Plenty",
+  "description": "Adds over 50 new biomes, blocks, and more!",
+  "icon": "https://media.forgecdn.net/avatars/218/291/637010824665411754.png",
+  "licenses": [],
+  "authors": [
+    "Forstride",
+    "TheAdubbz"
+  ],
+  "projectLinks": [
+    {
+      "type": "website",
+      "url": "http://mods.curse.com/mc-mods/minecraft/220318-biomes-o-plenty"
+    },
+    {
+      "type": "curseforge",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty"
+    }
+  ]
+}

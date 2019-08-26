@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "colossalchests",
+  "name": "Colossal Chests",
+  "description": "For when regular chests are too small",
+  "icon": "https://media.forgecdn.net/avatars/28/535/635829271511825665.png",
+  "licenses": [],
+  "authors": [
+    "kroeser"
+  ],
+  "projectLinks": [
+    {
+      "type": "source",
+      "url": "https://github.com/CyclopsMC/ColossalChests"
+    },
+    {
+      "type": "curseforge",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/colossal-chests"
+    }
+  ]
+}

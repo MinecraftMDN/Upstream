@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "projectred-exploration",
+  "name": "ProjectRed Exploration",
+  "icon": "https://media.forgecdn.net/avatars/15/799/635634023364533590.png",
+  "licenses": [],
+  "authors": [
+    "Mr_TJP",
+    "covers1624"
+  ],
+  "projectLinks": [
+    {
+      "type": "curseforge",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/project-red-world"
+    }
+  ]
+}

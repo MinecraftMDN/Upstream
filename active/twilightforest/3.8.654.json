@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "id": "3.8.654",
+  "releaseType": "release",
+  "changelog": "https://www.curseforge.com/minecraft/mc-mods/the-twilight-forest/files/2605275",
+  "side": "universal",
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://edge.forgecdn.net/files/2605/275/twilightforest-1.12.2-3.8.654-universal.jar",
+      "side": "universal"
+    }
+  ],
+  "hashes": {
+    "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "murmur2": "2300956384",
+    "md5": "40c731abdfd1eb70696e878f0444cdf5"
+  },
+  "size": 7268494,
+  "releaseTime": "2018-08-18T20:51:45.223Z"
+}

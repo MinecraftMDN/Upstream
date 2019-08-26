@@ -1,0 +1,17 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "valkyrielib",
+  "name": "Valkyrie Lib",
+  "icon": "https://media.forgecdn.net/avatars/41/631/635998292013469321.png",
+  "licenses": [],
+  "authors": [
+    "ValkyrieofNight"
+  ],
+  "projectLinks": [
+    {
+      "type": "curseforge",
+      "url": "http://minecraft.curseforge.com/projects/valkyrielib"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "refinedstorage",
+  "name": "Refined Storage",
+  "description": "An elegant solution to your hoarding problem",
+  "icon": "https://media.forgecdn.net/avatars/51/695/636106666531773282.png",
+  "licenses": [],
+  "authors": [
+    "raoulvdberge"
+  ],
+  "projectLinks": [
+    {
+      "type": "website",
+      "url": "https://refinedstorage.raoulvdberge.com"
+    },
+    {
+      "type": "curseforge",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/refined-storage"
+    }
+  ]
+}

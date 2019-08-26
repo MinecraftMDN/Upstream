@@ -1,0 +1,16 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "waim",
+  "icon": "https://media.forgecdn.net/avatars/139/650/636529583614083033.png",
+  "licenses": [],
+  "authors": [
+    "Jaredlll08"
+  ],
+  "projectLinks": [
+    {
+      "type": "curseforge",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/waim-what-am-i-missing"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "id": "1.6-25",
+  "releaseType": "release",
+  "changelog": "https://www.curseforge.com/minecraft/mc-mods/industrial-wires/files/2532894",
+  "side": "universal",
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://edge.forgecdn.net/files/2532/894/IndustrialWires-1.6-25.jar",
+      "side": "universal"
+    }
+  ],
+  "hashes": {
+    "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "murmur2": "3721235735",
+    "md5": "6e8e839fedba0e6f308b1f5eabf19b66"
+  },
+  "size": 695545,
+  "releaseTime": "2018-02-19T17:45:08.98Z"
+}

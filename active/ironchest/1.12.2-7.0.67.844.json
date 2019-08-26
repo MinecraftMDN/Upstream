@@ -2,21 +2,21 @@
   "formatVersion": 0,
   "id": "1.12.2-7.0.67.844",
   "releaseType": "release",
-  "changelog": "https://www.curseforge.com/minecraft/mc-mods/iron-chests/files/2723143",
+  "changelog": "https://www.curseforge.com/minecraft/mc-mods/iron-chests/files/2747935",
   "side": "universal",
   "artifacts": [
     {
       "type": "direct",
-      "id": "https://edge.forgecdn.net/files/2723/143/ironchest-1.12.2-7.0.69.845.jar",
+      "id": "https://edge.forgecdn.net/files/2747/935/ironchest-1.12.2-7.0.72.847.jar",
       "side": "universal"
     }
   ],
   "hashes": {
     "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
     "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "murmur2": "3179873338",
-    "md5": "cb4ac16615839333428a9e99f9c20f0f"
+    "murmur2": "3272096001",
+    "md5": "743179bc3a8f50751efbb019acc759a9"
   },
-  "size": 956629,
-  "releaseTime": "2019-06-11T02:22:49.61Z"
+  "size": 956692,
+  "releaseTime": "2019-07-25T01:20:59.067Z"
 }

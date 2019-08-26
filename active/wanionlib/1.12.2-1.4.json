@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "id": "1.12.2-1.4",
+  "releaseType": "release",
+  "changelog": "https://www.curseforge.com/minecraft/mc-mods/wanionlib/files/2510015",
+  "side": "universal",
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://edge.forgecdn.net/files/2510/15/WanionLib-1.12.2-1.4.jar",
+      "side": "universal"
+    }
+  ],
+  "hashes": {
+    "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "murmur2": "2916586860",
+    "md5": "77d170956e4f53b3ac4863ef55b7474d"
+  },
+  "size": 61697,
+  "releaseTime": "2017-12-15T16:52:55.19Z"
+}

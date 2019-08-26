@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "id": "1.12.2-1.5.1-52",
+  "releaseType": "release",
+  "changelog": "https://www.curseforge.com/minecraft/mc-mods/traverse-legacy/files/2555456",
+  "side": "universal",
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://edge.forgecdn.net/files/2555/456/Traverse-1.12.2-1.5.1-52.jar",
+      "side": "universal"
+    }
+  ],
+  "hashes": {
+    "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "murmur2": "4262274937",
+    "md5": "5befeaf75bb9571afc5f09af7d83b4a0"
+  },
+  "size": 270636,
+  "releaseTime": "2018-04-25T23:04:35.74Z"
+}

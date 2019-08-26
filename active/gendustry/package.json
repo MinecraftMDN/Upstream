@@ -1,0 +1,21 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "gendustry",
+  "name": "GenDustry",
+  "icon": "https://media.forgecdn.net/avatars/5/21/635351428360156617.jpg",
+  "licenses": [],
+  "authors": [
+    "bdew"
+  ],
+  "projectLinks": [
+    {
+      "type": "website",
+      "url": "bdew.net/mods/"
+    },
+    {
+      "type": "curseforge",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/gendustry"
+    }
+  ]
+}

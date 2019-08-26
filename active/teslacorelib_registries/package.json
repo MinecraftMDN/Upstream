@@ -9,5 +9,10 @@
   "authors": [
     "Face_of_Cat"
   ],
-  "projectLinks": []
+  "projectLinks": [
+    {
+      "type": "curseforge",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/tesla-core-lib"
+    }
+  ]
 }

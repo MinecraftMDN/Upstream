@@ -2,8 +2,8 @@
   "formatVersion": 0,
   "type": "mod",
   "id": "cucumber",
-  "name": "Cucumber Library",
-  "description": "A library of shared code and functionality used by my mods.",
+  "name": "Cucumber",
+  "description": "Shared code for all my mods.",
   "icon": "https://media.forgecdn.net/avatars/169/312/636714439279875788.png",
   "licenses": [],
   "authors": [

@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "id": "1.12.2-7.0.52.837",
+  "releaseType": "release",
+  "changelog": "https://www.curseforge.com/minecraft/mc-mods/iron-chests/files/2626113",
+  "side": "universal",
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://edge.forgecdn.net/files/2626/113/ironchest-1.12.2-7.0.52.837.jar",
+      "side": "universal"
+    }
+  ],
+  "hashes": {
+    "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "murmur2": "343703228",
+    "md5": "07acb05815ef41cd463bcf492a1555a4"
+  },
+  "size": 944009,
+  "releaseTime": "2018-10-09T12:37:41.49Z"
+}

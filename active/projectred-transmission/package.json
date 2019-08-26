@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "projectred-transmission",
+  "name": "ProjectRed Transmission",
+  "icon": "https://media.forgecdn.net/avatars/15/802/635634024298934754.png",
+  "licenses": [],
+  "authors": [
+    "Mr_TJP",
+    "covers1624"
+  ],
+  "projectLinks": [
+    {
+      "type": "curseforge",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/project-red-integration"
+    }
+  ]
+}

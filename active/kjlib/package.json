@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "kjlib",
+  "name": "KJ Lib",
+  "description": "Lib mod for KJ\u0027s other mods",
+  "icon": "https://media.forgecdn.net/avatars/140/270/636533648109714889.png",
+  "licenses": [],
+  "authors": [
+    "xkjmaster_1x"
+  ],
+  "projectLinks": [
+    {
+      "type": "curseforge",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/kjlib"
+    }
+  ]
+}

@@ -13,6 +13,10 @@
     {
       "type": "website",
       "url": "http://ichun.me/mods/ichunutil/"
+    },
+    {
+      "type": "curseforge",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/ichunutil"
     }
   ]
 }

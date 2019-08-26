@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "id": "1.12.2-9.8.0.381",
+  "releaseType": "release",
+  "changelog": "https://www.curseforge.com/minecraft/mc-mods/mekanism-tools/files/2746200",
+  "side": "universal",
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://edge.forgecdn.net/files/2746/200/MekanismTools-1.12.2-9.8.0.381.jar",
+      "side": "universal"
+    }
+  ],
+  "hashes": {
+    "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "murmur2": "621794688",
+    "md5": "4827428e16cb48186ccd972515eb769a"
+  },
+  "size": 162120,
+  "releaseTime": "2019-07-22T18:00:36.15Z"
+}

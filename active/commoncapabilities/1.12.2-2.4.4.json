@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "id": "1.12.2-2.4.4",
+  "releaseType": "release",
+  "changelog": "https://www.curseforge.com/minecraft/mc-mods/common-capabilities/files/2739226",
+  "side": "universal",
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://edge.forgecdn.net/files/2739/226/CommonCapabilities-1.12.2-2.4.4.jar",
+      "side": "universal"
+    }
+  ],
+  "hashes": {
+    "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "murmur2": "3213559316",
+    "md5": "b45a973a0fe7e442cedba19230424438"
+  },
+  "size": 361406,
+  "releaseTime": "2019-07-11T07:35:25.547Z"
+}

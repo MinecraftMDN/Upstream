@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "lostsouls",
+  "name": "Lost Souls",
+  "description": "Lost Soul addon mod for The Lost Cities",
+  "icon": "https://media.forgecdn.net/avatars/105/773/636355360307832142.png",
+  "licenses": [],
+  "authors": [
+    "McJty"
+  ],
+  "projectLinks": [
+    {
+      "type": "curseforge",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/lost-souls"
+    }
+  ]
+}

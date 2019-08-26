@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "id": "2.0.1.2",
+  "releaseType": "release",
+  "changelog": "https://www.curseforge.com/minecraft/mc-mods/redstone-flux/files/2448933",
+  "side": "universal",
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://edge.forgecdn.net/files/2448/933/RedstoneFlux-1.12-2.0.1.2-universal.jar",
+      "side": "universal"
+    }
+  ],
+  "hashes": {
+    "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "murmur2": "759163101",
+    "md5": "78bf83d17f71ea96cff66d93a6c0412a"
+  },
+  "size": 33436,
+  "releaseTime": "2017-07-11T06:32:20.743Z"
+}

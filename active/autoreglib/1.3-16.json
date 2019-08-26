@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "id": "1.3-16",
+  "releaseType": "release",
+  "changelog": "https://www.curseforge.com/minecraft/mc-mods/autoreglib/files/2544276",
+  "side": "universal",
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://edge.forgecdn.net/files/2544/276/AutoRegLib-1.3-16.jar",
+      "side": "universal"
+    }
+  ],
+  "hashes": {
+    "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "murmur2": "2130216526",
+    "md5": "b8d401b23a3d6ba892313e21bc47addd"
+  },
+  "size": 73087,
+  "releaseTime": "2018-03-23T23:08:19.63Z"
+}

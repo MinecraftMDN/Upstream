@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "id": "1.12-2.7.4-53",
+  "releaseType": "release",
+  "changelog": "https://www.curseforge.com/minecraft/mc-mods/soul-shards-the-old-ways/files/2502644",
+  "side": "universal",
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://edge.forgecdn.net/files/2502/644/SoulShards-TOW-1.12-2.7.4-53.jar",
+      "side": "universal"
+    }
+  ],
+  "hashes": {
+    "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "murmur2": "2718130735",
+    "md5": "00453ec06a528b230c4b071921a27efb"
+  },
+  "size": 264741,
+  "releaseTime": "2017-11-23T00:13:40.977Z"
+}

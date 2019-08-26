@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "id": "1.12.2-3.5.106",
+  "releaseType": "release",
+  "changelog": "https://www.curseforge.com/minecraft/mc-mods/morpheus/files/2664449",
+  "side": "universal",
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://edge.forgecdn.net/files/2664/449/Morpheus-1.12.2-3.5.106.jar",
+      "side": "universal"
+    }
+  ],
+  "hashes": {
+    "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "murmur2": "783395017",
+    "md5": "357dc3701a8c7d4109147c666f6a4300"
+  },
+  "size": 21508,
+  "releaseTime": "2019-01-24T20:32:26.393Z"
+}

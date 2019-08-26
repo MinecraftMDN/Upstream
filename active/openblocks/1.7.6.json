@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "id": "1.7.6",
+  "releaseType": "release",
+  "changelog": "https://www.curseforge.com/minecraft/mc-mods/openblocks/files/2530225",
+  "side": "universal",
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://edge.forgecdn.net/files/2530/225/OpenBlocks-1.12.2-1.7.6.jar",
+      "side": "universal"
+    }
+  ],
+  "hashes": {
+    "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "murmur2": "264337806",
+    "md5": "7581d1ce11ae5f433f9de0a33307ae3c"
+  },
+  "size": 3173186,
+  "releaseTime": "2018-02-11T14:55:02.903Z"
+}

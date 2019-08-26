@@ -1,0 +1,16 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "woot",
+  "icon": "https://media.forgecdn.net/avatars/41/766/636000389889831081.png",
+  "licenses": [],
+  "authors": [
+    "Ipsis"
+  ],
+  "projectLinks": [
+    {
+      "type": "curseforge",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/woot"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "teslacorelib",
+  "name": "Tesla Core Lib",
+  "description": "Just the most awesome lib mod out there!",
+  "icon": "https://media.forgecdn.net/avatars/74/932/636164473391946788.png",
+  "licenses": [],
+  "authors": [
+    "Face_of_Cat"
+  ],
+  "projectLinks": [
+    {
+      "type": "curseforge",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/tesla-core-lib"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "notenoughwands",
+  "name": "Not Enough Wands",
+  "description": "Wands, wands, and more wands",
+  "icon": "https://media.forgecdn.net/avatars/24/998/635766264574784801.png",
+  "licenses": [],
+  "authors": [
+    "romelo333",
+    "McJty"
+  ],
+  "projectLinks": [
+    {
+      "type": "curseforge",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/not-enough-wands"
+    }
+  ]
+}

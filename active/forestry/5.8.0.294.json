@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "id": "5.8.0.294",
+  "releaseType": "release",
+  "changelog": "https://www.curseforge.com/minecraft/mc-mods/forestry/files/2566823",
+  "side": "universal",
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://edge.forgecdn.net/files/2566/823/forestry_1.12.2-5.8.0.294.jar",
+      "side": "universal"
+    }
+  ],
+  "hashes": {
+    "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "murmur2": "497528823",
+    "md5": "f9d0fa4671a4ee51b4637b6e655c306c"
+  },
+  "size": 5239676,
+  "releaseTime": "2018-05-28T12:17:06.66Z"
+}

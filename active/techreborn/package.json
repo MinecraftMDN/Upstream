@@ -1,0 +1,23 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "techreborn",
+  "name": "Tech Reborn",
+  "description": "Tech Reborn is a completely standalone tech mod designed by the ideals of GregTech 2 and Industrial Craft 2 pre-experimental. The mod includes tools and machines to gather resources, process materials, and progression throughout the mod. http://www.techreborn.ovh/",
+  "icon": "https://media.forgecdn.net/avatars/169/440/636715176146379845.png",
+  "licenses": [],
+  "authors": [
+    "modmuss50",
+    "drcrazy777"
+  ],
+  "projectLinks": [
+    {
+      "type": "source",
+      "url": "https://github.com/TechReborn/TechReborn"
+    },
+    {
+      "type": "curseforge",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/techreborn"
+    }
+  ]
+}

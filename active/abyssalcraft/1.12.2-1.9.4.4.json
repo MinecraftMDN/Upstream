@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "id": "1.12.2-1.9.4.4",
+  "releaseType": "release",
+  "changelog": "https://www.curseforge.com/minecraft/mc-mods/abyssalcraft/files/2531635",
+  "side": "universal",
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://edge.forgecdn.net/files/2531/635/AbyssalCraft-1.12.2-1.9.4.4.jar",
+      "side": "universal"
+    }
+  ],
+  "hashes": {
+    "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "murmur2": "2279180133",
+    "md5": "df97d8dc1c8c01df141141152b0f496b"
+  },
+  "size": 14106919,
+  "releaseTime": "2018-02-15T22:01:59.11Z"
+}

@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "acintegration",
+  "name": "AbyssalCraft Integration",
+  "description": "A mod that handles AbyssalCraft integrations.",
+  "icon": "https://media.forgecdn.net/avatars/23/860/635748890960956361.png",
+  "licenses": [],
+  "authors": [
+    "Shinoow"
+  ],
+  "projectLinks": [
+    {
+      "type": "curseforge",
+      "url": "http://minecraft.curseforge.com/mc-mods/234851"
+    }
+  ]
+}

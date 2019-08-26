@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "jeresources",
+  "name": "Just Enough Resources",
+  "description": "Adds Resources and Mob Drops to JEI",
+  "icon": "https://media.forgecdn.net/avatars/32/419/635880199659979425.png",
+  "licenses": [],
+  "authors": [
+    "way2muchnoise"
+  ],
+  "projectLinks": [
+    {
+      "type": "curseforge",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/just-enough-resources-jer"
+    }
+  ]
+}

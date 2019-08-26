@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "id": "4.9.4.120",
+  "releaseType": "release",
+  "changelog": "https://www.curseforge.com/minecraft/mc-mods/project-red-compat/files/2745546",
+  "side": "universal",
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://edge.forgecdn.net/files/2745/546/ProjectRed-1.12.2-4.9.4.120-compat.jar",
+      "side": "universal"
+    }
+  ],
+  "hashes": {
+    "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "murmur2": "473856560",
+    "md5": "56c34f44395c918926fc5751f82d70b9"
+  },
+  "size": 67384,
+  "releaseTime": "2019-07-21T17:56:41.797Z"
+}

@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "id": "1.12-1.5.9",
+  "releaseType": "release",
+  "changelog": "https://www.curseforge.com/minecraft/mc-mods/not-enough-wands/files/2447415",
+  "side": "universal",
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://edge.forgecdn.net/files/2447/415/notenoughwands-1.12-1.5.9.jar",
+      "side": "universal"
+    }
+  ],
+  "hashes": {
+    "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "murmur2": "393907533",
+    "md5": "a8f0fdb8bf5cc14485f29e52ee4cbd40"
+  },
+  "size": 175270,
+  "releaseTime": "2017-07-08T03:52:21.93Z"
+}

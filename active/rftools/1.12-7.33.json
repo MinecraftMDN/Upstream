@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "id": "1.12-7.33",
+  "releaseType": "release",
+  "changelog": "https://www.curseforge.com/minecraft/mc-mods/rftools/files/2549092",
+  "side": "universal",
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://edge.forgecdn.net/files/2549/92/rftools-1.12-7.33.jar",
+      "side": "universal"
+    }
+  ],
+  "hashes": {
+    "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "murmur2": "2490424571",
+    "md5": "8758d1cf57c7d5edc2b66aae50a51a1c"
+  },
+  "size": 2945316,
+  "releaseTime": "2018-04-06T08:57:08.147Z"
+}

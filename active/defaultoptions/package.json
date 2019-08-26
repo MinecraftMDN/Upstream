@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "defaultoptions",
+  "name": "Default Options",
+  "description": "A way for modpacks to ship a default (key) configuration without having to include an options.txt file.",
+  "icon": "https://media.forgecdn.net/avatars/25/393/635772772655629740.png",
+  "licenses": [],
+  "authors": [
+    "BlayTheNinth"
+  ],
+  "projectLinks": [
+    {
+      "type": "website",
+      "url": "http://blay09.net"
+    },
+    {
+      "type": "curseforge",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/default-options"
+    }
+  ]
+}

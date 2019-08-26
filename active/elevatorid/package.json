@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "elevatorid",
+  "name": "Elevator Mod",
+  "description": "OpenBlocks\u0027 Elevator Block",
+  "icon": "https://media.forgecdn.net/avatars/91/358/636247292369687944.png",
+  "licenses": [],
+  "authors": [
+    "VsnGamer"
+  ],
+  "projectLinks": [
+    {
+      "type": "curseforge",
+      "url": "https://minecraft.curseforge.com/projects/openblocks-elevator"
+    }
+  ]
+}

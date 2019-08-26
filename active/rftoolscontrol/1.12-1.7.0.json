@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "id": "1.12-1.7.0",
+  "releaseType": "release",
+  "changelog": "https://www.curseforge.com/minecraft/mc-mods/rftools-control/files/2503244",
+  "side": "universal",
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://edge.forgecdn.net/files/2503/244/rftoolsctrl-1.12-1.7.0.jar",
+      "side": "universal"
+    }
+  ],
+  "hashes": {
+    "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "murmur2": "4042057305",
+    "md5": "e3115b3b49afc4fb9174a0282d7bd2e1"
+  },
+  "size": 578923,
+  "releaseTime": "2017-11-25T06:04:16.677Z"
+}

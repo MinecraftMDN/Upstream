@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "excore",
+  "name": "EXCore",
+  "description": "Elix\u0027x Core",
+  "icon": "https://media.forgecdn.net/avatars/21/936/635734986841565934.png",
+  "licenses": [],
+  "authors": [
+    "elix_x"
+  ],
+  "projectLinks": [
+    {
+      "type": "curseforge",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/excore"
+    }
+  ]
+}

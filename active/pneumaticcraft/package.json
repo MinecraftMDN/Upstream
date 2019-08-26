@@ -1,0 +1,19 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "pneumaticcraft",
+  "name": "PneumaticCraft: Repressurized",
+  "description": "A port of MineMaarten\u0027s PneumaticCraft to Minecraft 1.12+",
+  "icon": "https://media.forgecdn.net/avatars/130/597/636461433736153261.png",
+  "licenses": [],
+  "authors": [
+    "desht",
+    "minemaarten2"
+  ],
+  "projectLinks": [
+    {
+      "type": "curseforge",
+      "url": "https://minecraft.curseforge.com/projects/pneumaticcraft-repressurized"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "id": "2.3.11.7",
+  "releaseType": "release",
+  "changelog": "https://www.curseforge.com/minecraft/mc-mods/thermal-dynamics/files/2549542",
+  "side": "universal",
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://edge.forgecdn.net/files/2549/542/ThermalDynamics-1.12.2-2.3.11.7-universal.jar",
+      "side": "universal"
+    }
+  ],
+  "hashes": {
+    "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "murmur2": "881355619",
+    "md5": "bd2eadc09cc228becc1890d67355a319"
+  },
+  "size": 719713,
+  "releaseTime": "2018-04-07T16:59:28.997Z"
+}

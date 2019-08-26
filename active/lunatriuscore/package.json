@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "lunatriuscore",
+  "name": "LunatriusCore",
+  "description": "A collection of utilities for Lunatrius\u0027 mods.",
+  "icon": "https://media.forgecdn.net/avatars/15/195/635618414430115697.png",
+  "licenses": [],
+  "authors": [
+    "Lunatrius"
+  ],
+  "projectLinks": [
+    {
+      "type": "website",
+      "url": "http://mc.lunatri.us/"
+    },
+    {
+      "type": "curseforge",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/lunatriuscore"
+    }
+  ]
+}

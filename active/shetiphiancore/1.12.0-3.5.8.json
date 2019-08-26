@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "id": "1.12.0-3.5.8",
+  "releaseType": "release",
+  "changelog": "https://www.curseforge.com/minecraft/mc-mods/shetiphiancore/files/2616064",
+  "side": "universal",
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://edge.forgecdn.net/files/2616/64/shetiphiancore-1.12.0-3.5.8.jar",
+      "side": "universal"
+    }
+  ],
+  "hashes": {
+    "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "murmur2": "2107441376",
+    "md5": "512a9eb19a26f0fd595cb765d3624d47"
+  },
+  "size": 405798,
+  "releaseTime": "2018-09-12T02:59:34.943Z"
+}

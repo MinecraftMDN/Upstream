@@ -1,0 +1,21 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "advgenerators",
+  "name": "Advanced Generators",
+  "icon": "https://media.forgecdn.net/avatars/10/12/635444604522466375.png",
+  "licenses": [],
+  "authors": [
+    "bdew"
+  ],
+  "projectLinks": [
+    {
+      "type": "website",
+      "url": "http://bdew.net/"
+    },
+    {
+      "type": "curseforge",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/advanced-generators"
+    }
+  ]
+}

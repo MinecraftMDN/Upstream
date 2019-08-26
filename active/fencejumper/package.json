@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "fencejumper",
+  "name": "Fence Jumper",
+  "description": "Easily jump over fences",
+  "icon": "https://media.forgecdn.net/avatars/75/24/636165365653046153.png",
+  "licenses": [],
+  "authors": [
+    "TheRealp455w0rd"
+  ],
+  "projectLinks": [
+    {
+      "type": "curseforge",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/fence-jumper"
+    }
+  ]
+}

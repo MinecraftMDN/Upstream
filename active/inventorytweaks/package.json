@@ -6,11 +6,17 @@
   "description": "Tweaks to inventory handling for ease of use, including sorting and automatic replacement of broken tools or exhausted stacks of items.",
   "icon": "https://media.forgecdn.net/avatars/9/423/635428742381702656.png",
   "licenses": [],
-  "authors": [],
+  "authors": [
+    "Kobata"
+  ],
   "projectLinks": [
     {
       "type": "source",
       "url": "https://github.com/Kobata/inventory-tweaks"
+    },
+    {
+      "type": "curseforge",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/inventory-tweaks"
     }
   ]
 }

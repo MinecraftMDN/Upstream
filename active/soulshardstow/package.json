@@ -1,0 +1,19 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "soulshardstow",
+  "name": "Soul Shards - The Old Ways",
+  "description": "Custom spawners for any mob!",
+  "icon": "https://media.forgecdn.net/avatars/102/557/636331576207803055.png",
+  "licenses": [],
+  "authors": [
+    "SgtPunishment",
+    "TehNut"
+  ],
+  "projectLinks": [
+    {
+      "type": "curseforge",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/soul-shards-the-old-ways"
+    }
+  ]
+}

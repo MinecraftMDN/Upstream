@@ -1,20 +1,22 @@
 {
   "formatVersion": 0,
   "id": "5.0.40",
-  "releaseType": "",
-  "changelog": "",
+  "releaseType": "release",
+  "changelog": "https://www.curseforge.com/minecraft/mc-mods/ender-io/files/2666521",
   "side": "universal",
-  "relationships": [],
   "artifacts": [
     {
       "type": "direct",
-      "id": "https://files.forgecdn.net/files/2666/513/EnderIO-conduits-1.12.2-5.0.40.jar"
+      "id": "https://edge.forgecdn.net/files/2666/521/EnderIO-1.12.2-5.0.40.jar",
+      "side": "universal"
     }
   ],
   "hashes": {
-    "sha256": "936f8de30967da2a836f60152a9cce224afe79252fbfc8d4275bbeba3fed424b"
+    "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "murmur2": "196330668",
+    "md5": "0d53e1ada83fbc44d9463e73cc0d3f9d"
   },
-  "size": 0,
-  "filename": "",
-  "releaseTime": ""
+  "size": 7221919,
+  "releaseTime": "2019-01-29T19:41:19.34Z"
 }

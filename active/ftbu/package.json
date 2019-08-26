@@ -1,0 +1,19 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "ftbu",
+  "name": "FTBUtilities",
+  "description": "FTBUtilities",
+  "icon": "https://media.forgecdn.net/avatars/27/280/635806849970512715.png",
+  "licenses": [],
+  "authors": [
+    "FTB",
+    "LatvianModder"
+  ],
+  "projectLinks": [
+    {
+      "type": "curseforge",
+      "url": "http://minecraft.curseforge.com/projects/ftb-utilities"
+    }
+  ]
+}

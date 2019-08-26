@@ -1,0 +1,21 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "terraqueous",
+  "name": "Terraqueous",
+  "icon": "https://media.forgecdn.net/avatars/39/570/635982544135666308.png",
+  "licenses": [],
+  "authors": [
+    "ShetiPhian"
+  ],
+  "projectLinks": [
+    {
+      "type": "website",
+      "url": "http://tomkinsbros.blogspot.ca/p/terraqueous.html"
+    },
+    {
+      "type": "curseforge",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/terraqueous"
+    }
+  ]
+}

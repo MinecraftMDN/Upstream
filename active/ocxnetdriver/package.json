@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "ocxnetdriver",
+  "name": "OpenComputers Xnet Driver",
+  "description": "Programmable logistics over Xnet Networks",
+  "icon": "https://media.forgecdn.net/avatars/137/480/636515323169247570.png",
+  "licenses": [],
+  "authors": [
+    "Davenonymous"
+  ],
+  "projectLinks": [
+    {
+      "type": "curseforge",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/oc-xnet-driver"
+    }
+  ]
+}

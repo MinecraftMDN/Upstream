@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "projectred-illumination",
+  "name": "ProjectRed Illumination",
+  "icon": "https://media.forgecdn.net/avatars/15/798/635634023256554482.png",
+  "licenses": [],
+  "authors": [
+    "Mr_TJP",
+    "covers1624"
+  ],
+  "projectLinks": [
+    {
+      "type": "curseforge",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/project-red-lighting"
+    }
+  ]
+}

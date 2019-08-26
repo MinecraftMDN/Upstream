@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "id": "14.16",
+  "releaseType": "release",
+  "changelog": "https://www.curseforge.com/minecraft/mc-mods/chisels-bits/files/2541267",
+  "side": "universal",
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://edge.forgecdn.net/files/2541/267/chiselsandbits-14.16.jar",
+      "side": "universal"
+    }
+  ],
+  "hashes": {
+    "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "murmur2": "2878570917",
+    "md5": "1e170d73dc846bab5bf0c484c44219ba"
+  },
+  "size": 708394,
+  "releaseTime": "2018-03-15T01:14:12.403Z"
+}

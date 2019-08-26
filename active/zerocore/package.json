@@ -1,0 +1,21 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "zerocore",
+  "name": "Zero CORE",
+  "icon": "https://media.forgecdn.net/avatars/46/11/636049798213511997.png",
+  "licenses": [],
+  "authors": [
+    "ZeroNoRyouki"
+  ],
+  "projectLinks": [
+    {
+      "type": "website",
+      "url": "http://zerono.it/"
+    },
+    {
+      "type": "curseforge",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/zerocore"
+    }
+  ]
+}

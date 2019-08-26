@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "id": "2.3.546",
+  "releaseType": "release",
+  "changelog": "https://www.curseforge.com/minecraft/mc-mods/bookshelf/files/2566265",
+  "side": "universal",
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://edge.forgecdn.net/files/2566/265/Bookshelf-1.12.2-2.3.546.jar",
+      "side": "universal"
+    }
+  ],
+  "hashes": {
+    "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "murmur2": "2235877166",
+    "md5": "66f7e5b448a9cf9f99af1a1e78a66b15"
+  },
+  "size": 256266,
+  "releaseTime": "2018-05-27T00:32:12.043Z"
+}

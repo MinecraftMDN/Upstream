@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "id": "1.12-2.3.8.279",
+  "releaseType": "release",
+  "changelog": "https://www.curseforge.com/minecraft/mc-mods/draconic-evolution/files/2517088",
+  "side": "universal",
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://edge.forgecdn.net/files/2517/88/Draconic-Evolution-1.12-2.3.8.279-universal.jar",
+      "side": "universal"
+    }
+  ],
+  "hashes": {
+    "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "murmur2": "3373952196",
+    "md5": "d4a7c6472abd72912589281c26d1d325"
+  },
+  "size": 5552107,
+  "releaseTime": "2018-01-05T17:35:18.857Z"
+}

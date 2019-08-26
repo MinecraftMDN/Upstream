@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "overloaded",
+  "name": "Overloaded",
+  "description": "Adds various complicated and tedius things that will minimize your need to destroy your server with your chunk sized arrays of machines.",
+  "icon": "https://media.forgecdn.net/avatars/94/952/636273825789018151.png",
+  "licenses": [],
+  "authors": [
+    "cjm721"
+  ],
+  "projectLinks": [
+    {
+      "type": "source",
+      "url": "https://github.com/CJ-MC-Mods/Overloaded"
+    },
+    {
+      "type": "curseforge",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/overloaded"
+    }
+  ]
+}

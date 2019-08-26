@@ -1,0 +1,21 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "mekanismtools",
+  "name": "MekanismTools",
+  "description": "Tools module for Mekanism.",
+  "icon": "https://media.forgecdn.net/avatars/100/442/636315324770302177.jpeg",
+  "licenses": [],
+  "authors": [
+    "aidancbrady",
+    "pupnewfster",
+    "Thiakil",
+    "thommy101"
+  ],
+  "projectLinks": [
+    {
+      "type": "curseforge",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/mekanism-tools"
+    }
+  ]
+}

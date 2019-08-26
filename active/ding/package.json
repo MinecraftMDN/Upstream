@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "ding",
+  "name": "Ding",
+  "description": "Plays a sound once the client has loaded to the main menu or loaded the world",
+  "icon": "https://media.forgecdn.net/avatars/19/170/635690976778588959.png",
+  "licenses": [],
+  "authors": [
+    "iChun"
+  ],
+  "projectLinks": [
+    {
+      "type": "website",
+      "url": "http://ichun.me/mods/ding/"
+    },
+    {
+      "type": "curseforge",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/ding"
+    }
+  ]
+}

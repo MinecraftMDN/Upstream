@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "id": "1.12-4.3.0.23",
+  "releaseType": "release",
+  "changelog": "https://www.curseforge.com/minecraft/mc-mods/natura/files/2496367",
+  "side": "universal",
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://edge.forgecdn.net/files/2496/367/natura-1.12-4.3.0.23.jar",
+      "side": "universal"
+    }
+  ],
+  "hashes": {
+    "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "murmur2": "857165535",
+    "md5": "426bee889bfa3bce2fec27f3a23cad9f"
+  },
+  "size": 1104991,
+  "releaseTime": "2017-11-02T01:21:09.863Z"
+}

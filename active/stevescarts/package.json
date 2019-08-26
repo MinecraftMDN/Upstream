@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "stevescarts",
+  "name": "Steve\u0027s Carts 2",
+  "description": "A carttastic mod adding a near infinite number of carts possible to the game, through the creation of  modular carts.",
+  "icon": "https://media.forgecdn.net/avatars/169/436/636715158727179081.png",
+  "licenses": [],
+  "authors": [
+    "modmuss50"
+  ],
+  "projectLinks": [
+    {
+      "type": "curseforge",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/steves-carts-reborn"
+    }
+  ]
+}

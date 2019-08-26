@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "id": "2.2.11.64",
+  "releaseType": "release",
+  "changelog": "https://www.curseforge.com/minecraft/mc-mods/simply-jetpacks-2/files/2690100",
+  "side": "universal",
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://edge.forgecdn.net/files/2690/100/SimplyJetpacks2-1.12.2-2.2.11.64.jar",
+      "side": "universal"
+    }
+  ],
+  "hashes": {
+    "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "murmur2": "4291904279",
+    "md5": "fff0a3fa5b0e0dce8cfe637d31b976c1"
+  },
+  "size": 664377,
+  "releaseTime": "2019-03-21T20:49:36.423Z"
+}

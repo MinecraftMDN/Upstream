@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "slimyboyos",
+  "name": "SlimyBoyos",
+  "description": "Makes slimes pickup items.",
+  "icon": "https://media.forgecdn.net/avatars/130/894/636463564739010146.png",
+  "licenses": [],
+  "authors": [
+    "Jaredlll08"
+  ],
+  "projectLinks": [
+    {
+      "type": "curseforge",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/slimyboyos"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "id": "1.12.1-1.5.18",
+  "releaseType": "release",
+  "changelog": "https://www.curseforge.com/minecraft/mc-mods/helpfixer/files/2479308",
+  "side": "universal",
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://edge.forgecdn.net/files/2479/308/HelpFixer-1.12.1-1.5.18.jar",
+      "side": "universal"
+    }
+  ],
+  "hashes": {
+    "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "murmur2": "2030288568",
+    "md5": "52a1b001b58e67022b5465be12bc278f"
+  },
+  "size": 6778,
+  "releaseTime": "2017-09-12T23:30:03.677Z"
+}

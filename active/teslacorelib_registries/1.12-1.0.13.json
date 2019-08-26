@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "id": "1.12-1.0.13",
+  "releaseType": "release",
+  "changelog": "https://www.curseforge.com/minecraft/mc-mods/tesla-core-lib/files/2536444",
+  "side": "universal",
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://edge.forgecdn.net/files/2536/444/tesla-core-lib-1.12-1.0.13.jar",
+      "side": "universal"
+    }
+  ],
+  "hashes": {
+    "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "murmur2": "4225631289",
+    "md5": "83449e5ccce1cb4fe95774c2e121644e"
+  },
+  "size": 1140131,
+  "releaseTime": "2018-03-01T21:46:29.463Z"
+}

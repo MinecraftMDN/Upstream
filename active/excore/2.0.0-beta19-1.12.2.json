@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "id": "2.0.0-beta19-1.12.2",
+  "releaseType": "release",
+  "changelog": "https://www.curseforge.com/minecraft/mc-mods/excore/files/2537906",
+  "side": "universal",
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://edge.forgecdn.net/files/2537/906/EXCore-2.0.0-beta19-1.12.2.jar",
+      "side": "universal"
+    }
+  ],
+  "hashes": {
+    "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "murmur2": "887172719",
+    "md5": "6a7ead732f8ba1018a1c6860c23f93a7"
+  },
+  "size": 1166107,
+  "releaseTime": "2018-03-05T22:04:06.677Z"
+}

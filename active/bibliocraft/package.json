@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "bibliocraft",
+  "name": "BiblioCraft",
+  "description": "BiblioCraft adds fancy storage containers including bookcases, armor stands, potion shelves, regular shelves, tool racks, glass weapon cases, wooden desks and wooden chest labels and now add machines, redstone interactions, and eyeware, fancy lamps and golden lanterns. Also Tables, enchanted plates, map frames, and seats!",
+  "icon": "https://media.forgecdn.net/avatars/15/21/635611956600094795.png",
+  "licenses": [],
+  "authors": [
+    "JDSinclair"
+  ],
+  "projectLinks": [
+    {
+      "type": "website",
+      "url": "http://www.bibliocraftmod.com"
+    },
+    {
+      "type": "curseforge",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/bibliocraft"
+    }
+  ]
+}

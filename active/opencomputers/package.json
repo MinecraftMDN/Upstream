@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "opencomputers",
+  "name": "OpenComputers",
+  "description": "This mod adds modular computers and robots that can be programmed in Lua.",
+  "icon": "https://media.forgecdn.net/avatars/10/395/635455427535754713.png",
+  "licenses": [],
+  "authors": [
+    "SangarWasTaken"
+  ],
+  "projectLinks": [
+    {
+      "type": "website",
+      "url": "http://oc.cil.li/"
+    },
+    {
+      "type": "curseforge",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/opencomputers"
+    }
+  ]
+}

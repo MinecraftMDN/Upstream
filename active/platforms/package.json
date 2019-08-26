@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "platforms",
+  "name": "Platforms",
+  "description": " - ",
+  "icon": "https://media.forgecdn.net/avatars/39/424/635981005612527551.png",
+  "licenses": [],
+  "authors": [
+    "ShetiPhian"
+  ],
+  "projectLinks": [
+    {
+      "type": "website",
+      "url": "http://tomkinsbros.blogspot.ca/p/platforms.html"
+    },
+    {
+      "type": "curseforge",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/platforms"
+    }
+  ]
+}

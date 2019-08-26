@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "id": "1.12.2-5.0.17.340",
+  "releaseType": "release",
+  "changelog": "https://www.curseforge.com/minecraft/mc-mods/compact-solars/files/2497832",
+  "side": "universal",
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://edge.forgecdn.net/files/2497/832/CompactSolars-1.12.2-5.0.17.340-universal.jar",
+      "side": "universal"
+    }
+  ],
+  "hashes": {
+    "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "murmur2": "107674054",
+    "md5": "9c22fcb389f6469cd8fac7330cb19c33"
+  },
+  "size": 71767,
+  "releaseTime": "2017-11-07T00:27:47.427Z"
+}

@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "id": "2.0.0.2.b68",
+  "releaseType": "release",
+  "changelog": "https://www.curseforge.com/minecraft/mc-mods/aroma1997s-dimensional-world/files/2543387",
+  "side": "universal",
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://edge.forgecdn.net/files/2543/387/Aroma1997s-Dimensional-World-1.12.2-2.0.0.2.b68.jar",
+      "side": "universal"
+    }
+  ],
+  "hashes": {
+    "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "murmur2": "882510137",
+    "md5": "58574ac95d255ce8a263a99875e6b568"
+  },
+  "size": 75546,
+  "releaseTime": "2018-03-21T08:53:48.05Z"
+}

@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "chiselsandbits",
+  "name": "Chisels \u0026 Bits",
+  "description": "a mod about Sculpting, Decorating and Aesthetics",
+  "icon": "https://media.forgecdn.net/avatars/29/143/635840490766549459.png",
+  "licenses": [],
+  "authors": [
+    "AlgorithmX2"
+  ],
+  "projectLinks": [
+    {
+      "type": "curseforge",
+      "url": "http://minecraft.curseforge.com/projects/chisels-bits"
+    }
+  ]
+}

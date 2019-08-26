@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "id": "3.5.2",
+  "releaseType": "release",
+  "changelog": "https://www.curseforge.com/minecraft/mc-mods/reauth/files/2491161",
+  "side": "client",
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://edge.forgecdn.net/files/2491/161/ReAuth-3.5.2.jar",
+      "side": "universal"
+    }
+  ],
+  "hashes": {
+    "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "murmur2": "252057269",
+    "md5": "5378a69bdd80d8b63ac275bb1d780e3e"
+  },
+  "size": 26591,
+  "releaseTime": "2017-10-15T23:24:43.853Z"
+}

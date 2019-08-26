@@ -1,0 +1,17 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "quantumstorage",
+  "name": "QuantumStorage",
+  "icon": "https://media.forgecdn.net/avatars/105/721/636354881151350197.png",
+  "licenses": [],
+  "authors": [
+    "Gigabit1011"
+  ],
+  "projectLinks": [
+    {
+      "type": "curseforge",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/quantumstorage"
+    }
+  ]
+}

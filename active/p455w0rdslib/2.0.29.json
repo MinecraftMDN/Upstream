@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "id": "2.0.29",
+  "releaseType": "release",
+  "changelog": "https://www.curseforge.com/minecraft/mc-mods/p455w0rds-library/files/2538120",
+  "side": "universal",
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://edge.forgecdn.net/files/2538/120/p455w0rdslib-1.12-2.0.29.jar",
+      "side": "universal"
+    }
+  ],
+  "hashes": {
+    "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "murmur2": "3958872231",
+    "md5": "d7360eb88e7bcf7500e58b77178f92b0"
+  },
+  "size": 304755,
+  "releaseTime": "2018-03-06T17:33:33.287Z"
+}

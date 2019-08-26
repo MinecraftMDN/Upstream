@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "id": "0.3.0.7",
+  "releaseType": "release",
+  "changelog": "https://www.curseforge.com/minecraft/mc-mods/thermal-innovation/files/2567269",
+  "side": "universal",
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://edge.forgecdn.net/files/2567/269/ThermalInnovation-1.12.2-0.3.0.7-universal.jar",
+      "side": "universal"
+    }
+  ],
+  "hashes": {
+    "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "murmur2": "3797029371",
+    "md5": "c4d2c0a13399e4410a99073e6a1a6b52"
+  },
+  "size": 194559,
+  "releaseTime": "2018-05-29T17:22:40.533Z"
+}

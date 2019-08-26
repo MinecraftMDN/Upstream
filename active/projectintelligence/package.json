@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "projectintelligence",
+  "name": "Project Intelligence",
+  "description": "DOCUMENT ALL THE THINGS!!!!!!",
+  "icon": "https://media.forgecdn.net/avatars/180/828/636795769152717985.gif",
+  "licenses": [],
+  "authors": [
+    "brandon3055"
+  ],
+  "projectLinks": [
+    {
+      "type": "website",
+      "url": "http://www.brandon3055.com/"
+    },
+    {
+      "type": "curseforge",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/project-intelligence"
+    }
+  ]
+}

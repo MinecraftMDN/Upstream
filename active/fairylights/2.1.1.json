@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "id": "2.1.1",
+  "releaseType": "release",
+  "changelog": "https://www.curseforge.com/minecraft/mc-mods/fairy-lights/files/2459420",
+  "side": "universal",
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://edge.forgecdn.net/files/2459/420/fairylights-2.1.1-1.12.jar",
+      "side": "universal"
+    }
+  ],
+  "hashes": {
+    "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "murmur2": "472419125",
+    "md5": "a054dd66a3ec553b7f01417c921b63a6"
+  },
+  "size": 1165495,
+  "releaseTime": "2017-08-03T00:01:42.723Z"
+}

@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "id": "0.104",
+  "releaseType": "release",
+  "changelog": "https://www.curseforge.com/minecraft/mc-mods/roots/files/2510836",
+  "side": "universal",
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://edge.forgecdn.net/files/2510/836/roots-2-0.104.jar",
+      "side": "universal"
+    }
+  ],
+  "hashes": {
+    "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "murmur2": "4118193689",
+    "md5": "35457c3d5b1e8668fd9ef4d7b93bb26f"
+  },
+  "size": 715808,
+  "releaseTime": "2017-12-17T17:11:40.603Z"
+}

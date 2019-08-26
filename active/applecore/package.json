@@ -2,9 +2,15 @@
   "formatVersion": 0,
   "type": "mod",
   "id": "applecore",
-  "name": "AppleCore",
   "icon": "https://media.forgecdn.net/avatars/10/890/635470227462201468.png",
   "licenses": [],
-  "authors": [],
-  "projectLinks": []
+  "authors": [
+    "squeek502"
+  ],
+  "projectLinks": [
+    {
+      "type": "curseforge",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/applecore"
+    }
+  ]
 }

@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "id": "r1.5-129",
+  "releaseType": "release",
+  "changelog": "https://www.curseforge.com/minecraft/mc-mods/quark/files/2612195",
+  "side": "universal",
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://edge.forgecdn.net/files/2612/195/Quark-r1.5-129.jar",
+      "side": "universal"
+    }
+  ],
+  "hashes": {
+    "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "murmur2": "836223072",
+    "md5": "5ddef123c7a6ff166ef49d30f762e99f"
+  },
+  "size": 1874322,
+  "releaseTime": "2018-09-02T17:31:08.063Z"
+}

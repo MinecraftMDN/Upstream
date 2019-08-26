@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "id": "1.12.2a",
+  "releaseType": "release",
+  "changelog": "https://www.curseforge.com/minecraft/mc-mods/pams-harvestcraft/files/2488307",
+  "side": "universal",
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://edge.forgecdn.net/files/2488/307/Pam\u0027s HarvestCraft 1.12.2a.jar",
+      "side": "universal"
+    }
+  ],
+  "hashes": {
+    "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "murmur2": "350541817",
+    "md5": "49a98eb590799ab6a6231036dd9fd01c"
+  },
+  "size": 3783367,
+  "releaseTime": "2017-10-07T15:35:37.797Z"
+}

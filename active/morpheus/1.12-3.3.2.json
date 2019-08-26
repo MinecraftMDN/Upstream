@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "id": "1.12-3.3.2",
+  "releaseType": "release",
+  "changelog": "https://www.curseforge.com/minecraft/mc-mods/morpheus/files/2432272",
+  "side": "universal",
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://edge.forgecdn.net/files/2432/272/Morpheus-1.12-3.3.2.jar",
+      "side": "universal"
+    }
+  ],
+  "hashes": {
+    "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "murmur2": "784429560",
+    "md5": "6beb6c9b45a6526106f728ec35508a0c"
+  },
+  "size": 20837,
+  "releaseTime": "2017-06-11T13:19:21.153Z"
+}

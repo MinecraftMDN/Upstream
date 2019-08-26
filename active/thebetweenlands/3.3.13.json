@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "id": "3.3.13",
+  "releaseType": "release",
+  "changelog": "https://www.curseforge.com/minecraft/mc-mods/angry-pixel-the-betweenlands-mod/files/2628246",
+  "side": "universal",
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://edge.forgecdn.net/files/2628/246/TheBetweenlands-3.3.13-universal.jar",
+      "side": "universal"
+    }
+  ],
+  "hashes": {
+    "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "murmur2": "201999691",
+    "md5": "fd15376bd7340188b4f9b59789a3d240"
+  },
+  "size": 78684432,
+  "releaseTime": "2018-10-15T21:29:47.26Z"
+}

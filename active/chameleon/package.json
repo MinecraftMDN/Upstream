@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "chameleon",
+  "name": "Chameleon",
+  "description": "Shared code and render support for mods.  Used by jaquadro\u0027s mods.",
+  "icon": "https://media.forgecdn.net/avatars/17/951/635671587579566644.png",
+  "licenses": [],
+  "authors": [
+    "jaquadro"
+  ],
+  "projectLinks": [
+    {
+      "type": "website",
+      "url": "http://www.jaquadro.com/"
+    },
+    {
+      "type": "curseforge",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/chameleon"
+    }
+  ]
+}

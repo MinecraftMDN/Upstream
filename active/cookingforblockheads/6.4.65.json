@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "id": "6.4.65",
+  "releaseType": "release",
+  "changelog": "https://www.curseforge.com/minecraft/mc-mods/cooking-for-blockheads/files/2620498",
+  "side": "universal",
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://edge.forgecdn.net/files/2620/498/CookingForBlockheads_1.12.2-6.4.65.jar",
+      "side": "universal"
+    }
+  ],
+  "hashes": {
+    "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "murmur2": "2736275408",
+    "md5": "dfe4a46ba6daf56434a080edf5b1554f"
+  },
+  "size": 584467,
+  "releaseTime": "2018-09-24T16:22:34.377Z"
+}

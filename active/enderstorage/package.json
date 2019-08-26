@@ -7,12 +7,17 @@
   "icon": "https://media.forgecdn.net/avatars/133/874/636487132065959761.png",
   "licenses": [],
   "authors": [
-    "ChickenBones, covers1624"
+    "covers1624",
+    "chicken_bones"
   ],
   "projectLinks": [
     {
       "type": "website",
       "url": "http://www.minecraftforum.net/topic/909223"
+    },
+    {
+      "type": "curseforge",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/ender-storage-1-8"
     }
   ]
 }

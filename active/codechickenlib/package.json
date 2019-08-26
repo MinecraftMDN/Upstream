@@ -7,13 +7,17 @@
   "icon": "https://media.forgecdn.net/avatars/36/121/635934545550873146.jpeg",
   "licenses": [],
   "authors": [
-    "ChickenBones",
-    "covers1624"
+    "covers1624",
+    "chicken_bones"
   ],
   "projectLinks": [
     {
       "type": "website",
       "url": "http://chickenbones.net/Pages/links.html"
+    },
+    {
+      "type": "curseforge",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/codechicken-lib-1-8"
     }
   ]
 }

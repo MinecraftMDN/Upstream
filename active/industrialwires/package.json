@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "industrialwires",
+  "name": "Industrial Wires",
+  "description": "An addon for IndustrialCraft2 and Immersive Engineering that adds IE wires to transfer IC2 power and other fun things!",
+  "icon": "https://media.forgecdn.net/avatars/50/807/636096171220526123.png",
+  "licenses": [],
+  "authors": [
+    "malte0811"
+  ],
+  "projectLinks": [
+    {
+      "type": "curseforge",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/industrial-wires"
+    }
+  ]
+}

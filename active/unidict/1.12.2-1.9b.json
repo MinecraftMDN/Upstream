@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "id": "1.12.2-1.9b",
+  "releaseType": "release",
+  "changelog": "https://www.curseforge.com/minecraft/mc-mods/unidict/files/2512456",
+  "side": "universal",
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://edge.forgecdn.net/files/2512/456/UniDict-1.12.2-1.9b.jar",
+      "side": "universal"
+    }
+  ],
+  "hashes": {
+    "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "murmur2": "3340515490",
+    "md5": "f8bd2ce9ecd29707a2da433da05654df"
+  },
+  "size": 145747,
+  "releaseTime": "2017-12-22T01:42:38.953Z"
+}

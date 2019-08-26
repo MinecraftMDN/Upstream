@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "id": "2.8.16-ex112",
+  "releaseType": "release",
+  "changelog": "https://www.curseforge.com/minecraft/mc-mods/industrial-craft/files/2462277",
+  "side": "universal",
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://edge.forgecdn.net/files/2462/277/industrialcraft-2-2.8.16-ex112.jar",
+      "side": "universal"
+    }
+  ],
+  "hashes": {
+    "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "murmur2": "2030127425",
+    "md5": "61bb5b1e6a29bea39b3292c51765e496"
+  },
+  "size": 7122826,
+  "releaseTime": "2017-08-09T08:43:42.67Z"
+}

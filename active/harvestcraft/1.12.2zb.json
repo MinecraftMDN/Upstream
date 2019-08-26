@@ -2,21 +2,21 @@
   "formatVersion": 0,
   "id": "1.12.2zb",
   "releaseType": "release",
-  "changelog": "https://www.curseforge.com/minecraft/mc-mods/pams-harvestcraft/files/2696248",
+  "changelog": "https://www.curseforge.com/minecraft/mc-mods/pams-harvestcraft/files/2717443",
   "side": "universal",
   "artifacts": [
     {
       "type": "direct",
-      "id": "https://edge.forgecdn.net/files/2696/248/Pam\u0027s HarvestCraft 1.12.2zc The 7mm Kidney Stone Update.jar",
+      "id": "https://edge.forgecdn.net/files/2717/443/Pam\u0027s HarvestCraft 1.12.2zd Surprise for Yogcast.jar",
       "side": "universal"
     }
   ],
   "hashes": {
     "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
     "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "murmur2": "65297782",
-    "md5": "fa6f9e95a35e78edb10363147718b6be"
+    "murmur2": "139040743",
+    "md5": "d383ea51ccdd80e51ef8079d36c03ef1"
   },
-  "size": 4883845,
-  "releaseTime": "2019-04-06T23:05:25.73Z"
+  "size": 4888911,
+  "releaseTime": "2019-05-29T20:15:24.68Z"
 }

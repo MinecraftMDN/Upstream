@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "id": "1.12.2-0.4.5.45",
+  "releaseType": "release",
+  "changelog": "https://www.curseforge.com/minecraft/mc-mods/extreme-reactors/files/2516062",
+  "side": "universal",
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://edge.forgecdn.net/files/2516/62/ExtremeReactors-1.12.2-0.4.5.45.jar",
+      "side": "universal"
+    }
+  ],
+  "hashes": {
+    "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "murmur2": "3076838459",
+    "md5": "3e0709d547a2e6bc9ccb713e36c1d16e"
+  },
+  "size": 1059805,
+  "releaseTime": "2018-01-02T14:53:17.037Z"
+}

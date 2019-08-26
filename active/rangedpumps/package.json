@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "rangedpumps",
+  "name": "Ranged Pumps",
+  "description": "Ranged Pumps is a simple mod that adds a pump that pumps liquids in a range",
+  "icon": "https://media.forgecdn.net/avatars/45/244/636041189435907526.png",
+  "licenses": [],
+  "authors": [
+    "raoulvdberge"
+  ],
+  "projectLinks": [
+    {
+      "type": "curseforge",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/ranged-pumps"
+    }
+  ]
+}

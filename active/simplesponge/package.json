@@ -1,0 +1,23 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "simplesponge",
+  "name": "Simple Sponge",
+  "description": "OpenBlocks Sponge port for 1.10.2+, with some extra sprinkles!",
+  "icon": "https://media.forgecdn.net/avatars/102/195/636328686397171454.png",
+  "licenses": [],
+  "authors": [
+    "Jacky1356400",
+    "turkey2349"
+  ],
+  "projectLinks": [
+    {
+      "type": "source",
+      "url": "https://github.com/Jacky1356400/SimpleSponge"
+    },
+    {
+      "type": "curseforge",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/simple-sponge"
+    }
+  ]
+}

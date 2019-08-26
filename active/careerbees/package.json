@@ -1,0 +1,16 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "careerbees",
+  "icon": "https://media.forgecdn.net/avatars/130/546/636460868416814910.png",
+  "licenses": [],
+  "authors": [
+    "RWTema"
+  ],
+  "projectLinks": [
+    {
+      "type": "curseforge",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/career-bees"
+    }
+  ]
+}

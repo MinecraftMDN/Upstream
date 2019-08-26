@@ -1,0 +1,23 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "exchangers",
+  "name": "Exchangers",
+  "description": "Block Exchangers.",
+  "icon": "https://media.forgecdn.net/avatars/102/902/636334002639281052.png",
+  "licenses": [],
+  "authors": [
+    "Jacky1356400",
+    "turkey2349"
+  ],
+  "projectLinks": [
+    {
+      "type": "source",
+      "url": "https://github.com/Jacky1356400/Exchangers"
+    },
+    {
+      "type": "curseforge",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/exchangers"
+    }
+  ]
+}

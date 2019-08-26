@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "id": "1.4.1",
+  "releaseType": "release",
+  "changelog": "https://www.curseforge.com/minecraft/mc-mods/useful-nullifiers/files/2444884",
+  "side": "universal",
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://edge.forgecdn.net/files/2444/884/usefulnullifiers-1.4.1.jar",
+      "side": "universal"
+    }
+  ],
+  "hashes": {
+    "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "murmur2": "4290060045",
+    "md5": "1351113914736c4b93e808bc8501b34f"
+  },
+  "size": 85096,
+  "releaseTime": "2017-07-02T14:28:12.41Z"
+}

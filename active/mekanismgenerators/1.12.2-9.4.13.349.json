@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "id": "1.12.2-9.4.13.349",
+  "releaseType": "release",
+  "changelog": "https://www.curseforge.com/minecraft/mc-mods/mekanism-generators/files/2572883",
+  "side": "universal",
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://edge.forgecdn.net/files/2572/883/MekanismGenerators-1.12.2-9.4.13.349.jar",
+      "side": "universal"
+    }
+  ],
+  "hashes": {
+    "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "murmur2": "2665929069",
+    "md5": "036cfdbdca2b8432ba9b86cccbce8c55"
+  },
+  "size": 338984,
+  "releaseTime": "2018-06-15T10:04:52.69Z"
+}

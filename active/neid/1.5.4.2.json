@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "id": "1.5.4.2",
+  "releaseType": "release",
+  "changelog": "https://www.curseforge.com/minecraft/mc-mods/notenoughids/files/2483500",
+  "side": "universal",
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://edge.forgecdn.net/files/2483/500/NotEnoughIDs-1.5.4.2.jar",
+      "side": "universal"
+    }
+  ],
+  "hashes": {
+    "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "murmur2": "3871147429",
+    "md5": "0d5f584255c5edbe94cf1f6a6feacf96"
+  },
+  "size": 31808,
+  "releaseTime": "2017-09-24T07:00:36.167Z"
+}

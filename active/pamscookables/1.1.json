@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "id": "1.1",
+  "releaseType": "release",
+  "changelog": "https://www.curseforge.com/minecraft/mc-mods/pams-cookables/files/2504109",
+  "side": "universal",
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://edge.forgecdn.net/files/2504/109/pamscookables-1.1.jar",
+      "side": "universal"
+    }
+  ],
+  "hashes": {
+    "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "murmur2": "1409730408",
+    "md5": "fc4183af6720617bc5df8cda3ba2e308"
+  },
+  "size": 4957,
+  "releaseTime": "2017-11-27T18:35:15.15Z"
+}

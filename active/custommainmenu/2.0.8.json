@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "id": "2.0.8",
+  "releaseType": "release",
+  "changelog": "https://www.curseforge.com/minecraft/mc-mods/custom-main-menu/files/2482584",
+  "side": "client",
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://edge.forgecdn.net/files/2482/584/CustomMainMenu-MC1.12.2-2.0.8.jar",
+      "side": "universal"
+    }
+  ],
+  "hashes": {
+    "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "murmur2": "3863630153",
+    "md5": "9b80cdafc4521d124dc87fef9ee3bbcd"
+  },
+  "size": 176289,
+  "releaseTime": "2017-09-21T19:47:06.14Z"
+}

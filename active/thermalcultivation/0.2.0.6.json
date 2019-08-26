@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "id": "0.2.0.6",
+  "releaseType": "release",
+  "changelog": "https://www.curseforge.com/minecraft/mc-mods/thermal-cultivation/files/2555322",
+  "side": "universal",
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://edge.forgecdn.net/files/2555/322/ThermalCultivation-1.12.2-0.2.0.6-universal.jar",
+      "side": "universal"
+    }
+  ],
+  "hashes": {
+    "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "murmur2": "2972900909",
+    "md5": "2e4ddc4479cde25fa71439fe16300ca3"
+  },
+  "size": 105806,
+  "releaseTime": "2018-04-25T15:49:52.053Z"
+}

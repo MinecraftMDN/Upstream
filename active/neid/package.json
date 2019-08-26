@@ -1,0 +1,19 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "neid",
+  "name": "NotEnoughIDs",
+  "description": "Extends hardcoded block ID limit.",
+  "icon": "https://media.forgecdn.net/avatars/24/252/635754842297919962.png",
+  "licenses": [],
+  "authors": [
+    "fewizz",
+    "Player"
+  ],
+  "projectLinks": [
+    {
+      "type": "curseforge",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/notenoughids"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "pressure",
+  "name": "Pressure Pipes",
+  "icon": "https://media.forgecdn.net/avatars/7/253/635379025351258324.png",
+  "licenses": [],
+  "authors": [
+    "bdew"
+  ],
+  "projectLinks": [
+    {
+      "type": "website",
+      "url": "htts://bdew.net/"
+    },
+    {
+      "type": "curseforge",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/pressure-pipes"
+    }
+  ]
+}

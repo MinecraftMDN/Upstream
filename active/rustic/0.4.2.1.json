@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "id": "0.4.2.1",
+  "releaseType": "release",
+  "changelog": "https://www.curseforge.com/minecraft/mc-mods/rustic/files/2479117",
+  "side": "universal",
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://edge.forgecdn.net/files/2479/117/rustic-0.4.3.jar",
+      "side": "universal"
+    }
+  ],
+  "hashes": {
+    "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "murmur2": "981411814",
+    "md5": "87482b1dd7c5e3fa76198c7cbc4c255d"
+  },
+  "size": 1288544,
+  "releaseTime": "2017-09-12T13:58:49.403Z"
+}

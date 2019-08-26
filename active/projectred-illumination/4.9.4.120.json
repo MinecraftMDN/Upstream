@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "id": "4.9.4.120",
+  "releaseType": "release",
+  "changelog": "https://www.curseforge.com/minecraft/mc-mods/project-red-lighting/files/2745549",
+  "side": "universal",
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://edge.forgecdn.net/files/2745/549/ProjectRed-1.12.2-4.9.4.120-lighting.jar",
+      "side": "universal"
+    }
+  ],
+  "hashes": {
+    "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "murmur2": "3280433554",
+    "md5": "b9ead4f7e70dd4c0f68cd8c690249753"
+  },
+  "size": 724477,
+  "releaseTime": "2019-07-21T17:56:53.953Z"
+}

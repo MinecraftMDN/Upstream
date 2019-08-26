@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "ynot",
+  "name": "YNot",
+  "description": "Compatibility add-ons for XNet? YNot!",
+  "icon": "https://media.forgecdn.net/avatars/134/173/636490084531087495.png",
+  "licenses": [],
+  "authors": [
+    "asiekierka"
+  ],
+  "projectLinks": [
+    {
+      "type": "website",
+      "url": "http://asie.pl/"
+    },
+    {
+      "type": "curseforge",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/ynot"
+    }
+  ]
+}

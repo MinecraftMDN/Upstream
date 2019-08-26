@@ -1,0 +1,17 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "magicbees",
+  "icon": "https://media.forgecdn.net/avatars/15/361/635623930424158524.png",
+  "licenses": [],
+  "authors": [
+    "MysteriousAges",
+    "Elec332"
+  ],
+  "projectLinks": [
+    {
+      "type": "curseforge",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/magic-bees"
+    }
+  ]
+}

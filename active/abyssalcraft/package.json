@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "abyssalcraft",
+  "name": "AbyssalCraft",
+  "description": "Explore the world of the dead, along with Dark arts and Lovecraftian horrors. Surpass the boundaries of sanity!",
+  "icon": "https://media.forgecdn.net/avatars/54/432/636135140666602633.png",
+  "licenses": [],
+  "authors": [
+    "Shinoow"
+  ],
+  "projectLinks": [
+    {
+      "type": "website",
+      "url": "https://shinoow.github.io/AbyssalCraft/"
+    },
+    {
+      "type": "curseforge",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/abyssalcraft"
+    }
+  ]
+}

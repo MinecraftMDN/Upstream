@@ -1,0 +1,23 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "thermalcultivation",
+  "name": "Thermal Cultivation",
+  "description": "Thermal gets Agrarian - provides options for farming and related activities!",
+  "icon": "https://media.forgecdn.net/avatars/105/513/636353341845120894.png",
+  "licenses": [],
+  "authors": [
+    "TeamCoFH",
+    "KingLemming"
+  ],
+  "projectLinks": [
+    {
+      "type": "website",
+      "url": "http://www.teamcofh.com"
+    },
+    {
+      "type": "curseforge",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/thermal-cultivation"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "bdlib",
+  "name": "BD Lib",
+  "licenses": [],
+  "authors": [
+    "bdew"
+  ],
+  "projectLinks": [
+    {
+      "type": "website",
+      "url": "bdew.net/mods/"
+    },
+    {
+      "type": "curseforge",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/bdlib"
+    }
+  ]
+}

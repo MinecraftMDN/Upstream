@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "id": "9.4",
+  "releaseType": "release",
+  "changelog": "https://www.curseforge.com/minecraft/mc-mods/librarianlib/files/2548012",
+  "side": "universal",
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://edge.forgecdn.net/files/2548/12/librarianlib-1.12.2-4.9.jar",
+      "side": "universal"
+    }
+  ],
+  "hashes": {
+    "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "murmur2": "929373637",
+    "md5": "f4a4df48684c1ce46f4969e9cf33b535"
+  },
+  "size": 3064990,
+  "releaseTime": "2018-04-02T23:23:24.713Z"
+}

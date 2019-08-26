@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "id": "1.6.7",
+  "releaseType": "release",
+  "changelog": "https://www.curseforge.com/minecraft/mc-mods/mystical-agriculture/files/2511036",
+  "side": "universal",
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://edge.forgecdn.net/files/2511/36/mysticalagriculture-1.12-1.6.7.jar",
+      "side": "universal"
+    }
+  ],
+  "hashes": {
+    "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "murmur2": "4128442762",
+    "md5": "edd85abe869f7a876e09b6dd601587cf"
+  },
+  "size": 1272922,
+  "releaseTime": "2017-12-17T22:35:00.52Z"
+}

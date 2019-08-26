@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "rebornstorage",
+  "name": "RebornStorage",
+  "icon": "https://media.forgecdn.net/avatars/169/435/636715154917227084.png",
+  "licenses": [],
+  "authors": [
+    "modmuss50",
+    "Gigabit1011"
+  ],
+  "projectLinks": [
+    {
+      "type": "curseforge",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/rebornstorage"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "id": "1.12.2-r126",
+  "releaseType": "release",
+  "changelog": "https://www.curseforge.com/minecraft/mc-mods/actually-additions/files/2511216",
+  "side": "universal",
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://edge.forgecdn.net/files/2511/216/ActuallyAdditions-1.12.2-r126.jar",
+      "side": "universal"
+    }
+  ],
+  "hashes": {
+    "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "murmur2": "1414519097",
+    "md5": "e4d21f87779cb0efb9173a8962e2880f"
+  },
+  "size": 2801986,
+  "releaseTime": "2017-12-18T12:25:02.563Z"
+}

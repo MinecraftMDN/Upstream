@@ -2,21 +2,21 @@
   "formatVersion": 0,
   "id": "0.0.0.ftbbackups",
   "releaseType": "release",
-  "changelog": "https://www.curseforge.com/minecraft/mc-mods/ftb-utilities-backups/files/2684368",
+  "changelog": "https://www.curseforge.com/minecraft/mc-mods/ftb-utilities-backups/files/2749104",
   "side": "universal",
   "artifacts": [
     {
       "type": "direct",
-      "id": "https://edge.forgecdn.net/files/2684/368/FTBUtilitiesBackups-1.0.0.2.jar",
+      "id": "https://edge.forgecdn.net/files/2749/104/FTBUtilitiesBackups-1.0.0.5.jar",
       "side": "universal"
     }
   ],
   "hashes": {
     "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
     "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "murmur2": "1696415",
-    "md5": "31a2abc1a414e07fd909252649b5888a"
+    "murmur2": "2982510676",
+    "md5": "075328d2801250e6f608a46a94cc1068"
   },
-  "size": 41009,
-  "releaseTime": "2019-03-07T08:58:10.647Z"
+  "size": 42104,
+  "releaseTime": "2019-07-27T01:07:31.907Z"
 }

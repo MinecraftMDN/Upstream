@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "storagedrawers",
+  "name": "Storage Drawers",
+  "description": "Multi-drawer storage blocks for quick storage and retrieval.",
+  "icon": "https://media.forgecdn.net/avatars/10/842/635468327818431130.png",
+  "licenses": [],
+  "authors": [
+    "jaquadro"
+  ],
+  "projectLinks": [
+    {
+      "type": "website",
+      "url": "http://www.jaquadro.com/"
+    },
+    {
+      "type": "curseforge",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/storage-drawers"
+    }
+  ]
+}

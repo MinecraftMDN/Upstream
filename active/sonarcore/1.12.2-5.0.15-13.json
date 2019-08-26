@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "id": "1.12.2-5.0.15-13",
+  "releaseType": "release",
+  "changelog": "https://www.curseforge.com/minecraft/mc-mods/sonar-core/files/2583444",
+  "side": "universal",
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://edge.forgecdn.net/files/2583/444/sonarcore-1.12.2-5.0.15-13.jar",
+      "side": "universal"
+    }
+  ],
+  "hashes": {
+    "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "murmur2": "4178711393",
+    "md5": "6eba0be13ceadfbd82db1086b5dd9aa4"
+  },
+  "size": 1161789,
+  "releaseTime": "2018-07-15T23:48:59.37Z"
+}

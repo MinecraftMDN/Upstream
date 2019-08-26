@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "concheckrmd",
+  "name": "Modpack Config Checker",
+  "description": "A highly configurable mod that allows modpack creators to customise Minecraft and adapt it to suit the feel of their modpack.",
+  "icon": "https://media.forgecdn.net/avatars/200/172/636911914788620900.png",
+  "licenses": [],
+  "authors": [
+    "matt_r__"
+  ],
+  "projectLinks": [
+    {
+      "type": "curseforge",
+      "url": "https://minecraft.curseforge.com/projects/config-checker"
+    }
+  ]
+}

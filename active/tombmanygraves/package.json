@@ -7,7 +7,13 @@
   "icon": "https://media.forgecdn.net/avatars/91/881/636250873008737909.png",
   "licenses": [],
   "authors": [
-    "M4thG33k, Tiffit"
+    "M4thG33k",
+    "tikkadatla"
   ],
-  "projectLinks": []
+  "projectLinks": [
+    {
+      "type": "curseforge",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/tomb-many-graves-2"
+    }
+  ]
 }

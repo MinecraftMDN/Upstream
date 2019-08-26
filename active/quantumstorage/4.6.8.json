@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "id": "4.6.8",
+  "releaseType": "release",
+  "changelog": "https://www.curseforge.com/minecraft/mc-mods/quantumstorage/files/2684117",
+  "side": "universal",
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://edge.forgecdn.net/files/2684/117/QuantumStorage-1.12-4.6.8.jar",
+      "side": "universal"
+    }
+  ],
+  "hashes": {
+    "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "murmur2": "1963018758",
+    "md5": "23653cd5f1ce80616c67c68169a0926c"
+  },
+  "size": 220788,
+  "releaseTime": "2019-03-06T20:05:27.107Z"
+}

@@ -1,0 +1,23 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "journeymap",
+  "name": "JourneyMap",
+  "description": "JourneyMap: Real-time map in-game or in a web browser as you explore. JourneyMap API: v1.12-1.4. Built: 2017-11-08-19:54:02.",
+  "icon": "https://media.forgecdn.net/avatars/9/144/635421614078544069.png",
+  "licenses": [],
+  "authors": [
+    "techbrew",
+    "mysticdrew"
+  ],
+  "projectLinks": [
+    {
+      "type": "website",
+      "url": "http://journeymap.info"
+    },
+    {
+      "type": "curseforge",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/journeymap"
+    }
+  ]
+}

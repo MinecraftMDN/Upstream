@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "id": "0.8.10.50",
+  "releaseType": "release",
+  "changelog": "https://www.curseforge.com/minecraft/mc-mods/just-enough-resources-jer/files/2603567",
+  "side": "client",
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://edge.forgecdn.net/files/2603/567/JustEnoughResources-1.12.2-0.8.10.50.jar",
+      "side": "universal"
+    }
+  ],
+  "hashes": {
+    "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "murmur2": "3794351374",
+    "md5": "46eba58b0fb1ff7dd249588d8c3f1131"
+  },
+  "size": 219508,
+  "releaseTime": "2018-08-15T10:39:13.273Z"
+}

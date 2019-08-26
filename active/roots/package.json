@@ -1,0 +1,21 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "roots",
+  "name": "Roots 2",
+  "description": "Druidic magic mod.",
+  "icon": "https://media.forgecdn.net/avatars/89/558/636232154369779968.png",
+  "licenses": [],
+  "authors": [
+    "EpicSquid319",
+    "Martacus",
+    "Noobanidus",
+    "Davoleo_K"
+  ],
+  "projectLinks": [
+    {
+      "type": "curseforge",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/roots"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "twilightforest",
+  "name": "The Twilight Forest",
+  "description": "An enchanted forest dimension.",
+  "icon": "https://media.forgecdn.net/avatars/14/212/635589178760357568.png",
+  "licenses": [],
+  "authors": [
+    "Benimatic",
+    "Tamaized",
+    "AtomicBlom",
+    "Drullkus",
+    "williewillus"
+  ],
+  "projectLinks": [
+    {
+      "type": "curseforge",
+      "url": "https://minecraft.curseforge.com/projects/the-twilight-forest"
+    }
+  ]
+}

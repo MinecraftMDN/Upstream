@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "additionalbanners",
+  "name": "Additional Banners",
+  "description": "Adds many new banner patterns into the game",
+  "icon": "https://media.forgecdn.net/avatars/40/981/635988548742619597.png",
+  "licenses": [],
+  "authors": [
+    "DarkhaxDev"
+  ],
+  "projectLinks": [
+    {
+      "type": "curseforge",
+      "url": "http: //minecraft.curseforge.com/projects/additional-banners-expand-your-options"
+    }
+  ]
+}

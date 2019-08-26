@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "id": "2.3.11.8",
+  "releaseType": "release",
+  "changelog": "https://www.curseforge.com/minecraft/mc-mods/thermal-foundation/files/2549411",
+  "side": "universal",
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://edge.forgecdn.net/files/2549/411/ThermalFoundation-1.12.2-2.3.11.8-universal.jar",
+      "side": "universal"
+    }
+  ],
+  "hashes": {
+    "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "murmur2": "515170094",
+    "md5": "a46c316db21bec603d3d5df71a9a91cc"
+  },
+  "size": 2046305,
+  "releaseTime": "2018-04-07T06:24:42.823Z"
+}

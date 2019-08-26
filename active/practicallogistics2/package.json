@@ -1,0 +1,16 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "practicallogistics2",
+  "icon": "https://media.forgecdn.net/avatars/92/204/636253707202443485.png",
+  "licenses": [],
+  "authors": [
+    "Ollie_Lansdell"
+  ],
+  "projectLinks": [
+    {
+      "type": "curseforge",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/practical-logistics-2"
+    }
+  ]
+}

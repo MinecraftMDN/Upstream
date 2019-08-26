@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "shadowmc",
+  "name": "ShadowMC",
+  "description": "A library mod required for all my other mods.",
+  "icon": "https://media.forgecdn.net/avatars/32/420/635880201174310771.png",
+  "licenses": [],
+  "authors": [
+    "shadowfactsmc"
+  ],
+  "projectLinks": [
+    {
+      "type": "source",
+      "url": "http://github.com/shadowfacts/ShadowMC"
+    },
+    {
+      "type": "curseforge",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/shadowmc"
+    }
+  ]
+}

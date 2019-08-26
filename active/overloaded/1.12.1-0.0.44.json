@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "id": "1.12.1-0.0.44",
+  "releaseType": "release",
+  "changelog": "https://www.curseforge.com/minecraft/mc-mods/overloaded/files/2489518",
+  "side": "universal",
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://edge.forgecdn.net/files/2489/518/Overloaded-1.12.1-0.0.44.jar",
+      "side": "universal"
+    }
+  ],
+  "hashes": {
+    "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "murmur2": "4099688121",
+    "md5": "d1e168e74da60ae49753e9a5bc4495d5"
+  },
+  "size": 8811397,
+  "releaseTime": "2017-10-11T03:37:33.313Z"
+}

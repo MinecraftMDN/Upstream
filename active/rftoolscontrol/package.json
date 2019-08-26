@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "rftoolscontrol",
+  "name": "RFTools Control",
+  "description": "RFTools Control Addon",
+  "icon": "https://media.forgecdn.net/avatars/50/211/636087648718872179.png",
+  "licenses": [],
+  "authors": [
+    "McJty"
+  ],
+  "projectLinks": [
+    {
+      "type": "curseforge",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/rftools-control"
+    }
+  ]
+}

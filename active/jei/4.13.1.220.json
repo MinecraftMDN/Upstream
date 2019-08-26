@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "id": "4.13.1.220",
+  "releaseType": "release",
+  "changelog": "https://www.curseforge.com/minecraft/mc-mods/jei/files/2623794",
+  "side": "universal",
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://edge.forgecdn.net/files/2623/794/jei_1.12.2-4.13.1.220.jar",
+      "side": "universal"
+    }
+  ],
+  "hashes": {
+    "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "murmur2": "2812795741",
+    "md5": "92fa7d604290ba24e6bc126083545b64"
+  },
+  "size": 584326,
+  "releaseTime": "2018-10-03T04:17:39.733Z"
+}

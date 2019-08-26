@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "unidict",
+  "name": "UniDict",
+  "description": "a mod about unifying all the things.",
+  "icon": "https://media.forgecdn.net/avatars/41/268/635993263668614082.png",
+  "licenses": [],
+  "authors": [
+    "WanionCane"
+  ],
+  "projectLinks": [
+    {
+      "type": "curseforge",
+      "url": "http://minecraft.curseforge.com/projects/unidict"
+    }
+  ]
+}

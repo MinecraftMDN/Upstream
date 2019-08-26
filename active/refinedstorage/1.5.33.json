@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "id": "1.5.33",
+  "releaseType": "release",
+  "changelog": "https://www.curseforge.com/minecraft/mc-mods/refined-storage/files/2554172",
+  "side": "universal",
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://edge.forgecdn.net/files/2554/172/refinedstorage-1.5.33.jar",
+      "side": "universal"
+    }
+  ],
+  "hashes": {
+    "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "murmur2": "1888457569",
+    "md5": "043901b125a647ad3b3dc5612adc074c"
+  },
+  "size": 1821882,
+  "releaseTime": "2018-04-22T15:42:21.623Z"
+}

@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "parry",
+  "name": "Shield Parrying",
+  "description": "Parry Projectiles with your shield!",
+  "icon": "https://media.forgecdn.net/avatars/153/59/636615885169051315.png",
+  "licenses": [],
+  "authors": [
+    "Drullkus"
+  ],
+  "projectLinks": [
+    {
+      "type": "curseforge",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/parry"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "compatlayer",
+  "name": "compatlayer",
+  "description": "Compatibility layer to make migrating between different vanilla/forge versions easier",
+  "icon": "https://media.forgecdn.net/avatars/64/32/636149564188355242.png",
+  "licenses": [],
+  "authors": [
+    "McJty"
+  ],
+  "projectLinks": [
+    {
+      "type": "curseforge",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/compatlayer"
+    }
+  ]
+}

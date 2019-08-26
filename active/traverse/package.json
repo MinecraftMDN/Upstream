@@ -3,16 +3,21 @@
   "type": "mod",
   "id": "traverse",
   "name": "Traverse",
-  "description": "Improving the world with fancy new biomes since 2017.",
-  "icon": "https://media.forgecdn.net/avatars/169/442/636715177878550529.png",
+  "description": "Improving the world with fancy new biomes.",
+  "icon": "https://media.forgecdn.net/avatars/215/234/636996247734399647.png",
   "licenses": [],
   "authors": [
-    "Prospector"
+    "ProfessorProspector",
+    "EpicSquid319"
   ],
   "projectLinks": [
     {
       "type": "source",
-      "url": "https://github.com/TraverseTeam/Traverse"
+      "url": "https://github.com/AstroInteractive/Traverse"
+    },
+    {
+      "type": "curseforge",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/traverse-legacy"
     }
   ]
 }

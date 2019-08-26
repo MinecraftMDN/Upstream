@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "id": "7.0.1.2367",
+  "releaseType": "release",
+  "changelog": "https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty/files/2552370",
+  "side": "universal",
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://edge.forgecdn.net/files/2552/370/BiomesOPlenty-1.12.2-7.0.1.2367-universal.jar",
+      "side": "universal"
+    }
+  ],
+  "hashes": {
+    "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "murmur2": "2489142204",
+    "md5": "a381bba64fb1c374eaa584b722cce58d"
+  },
+  "size": 4806908,
+  "releaseTime": "2018-04-16T10:27:29.707Z"
+}

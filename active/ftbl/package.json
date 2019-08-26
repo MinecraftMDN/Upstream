@@ -1,0 +1,19 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "ftbl",
+  "name": "FTBLib",
+  "description": "FTBLib",
+  "icon": "https://media.forgecdn.net/avatars/27/380/635808539000306458.png",
+  "licenses": [],
+  "authors": [
+    "FTB",
+    "LatvianModder"
+  ],
+  "projectLinks": [
+    {
+      "type": "curseforge",
+      "url": "http://minecraft.curseforge.com/projects/ftblib"
+    }
+  ]
+}

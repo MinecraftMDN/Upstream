@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "id": "1.1.1",
+  "releaseType": "release",
+  "changelog": "https://www.curseforge.com/minecraft/mc-mods/custom-backgrounds/files/2445809",
+  "side": "client",
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://edge.forgecdn.net/files/2445/809/CustomBackgrounds-MC1.12-1.1.1.jar",
+      "side": "universal"
+    }
+  ],
+  "hashes": {
+    "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "murmur2": "609781450",
+    "md5": "b0f20b60bba201bbcf63a6d18cd191db"
+  },
+  "size": 4140,
+  "releaseTime": "2017-07-04T14:51:58.31Z"
+}

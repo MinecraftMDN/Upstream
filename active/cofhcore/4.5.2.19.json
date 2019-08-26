@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "id": "4.5.2.19",
+  "releaseType": "release",
+  "changelog": "https://www.curseforge.com/minecraft/mc-mods/cofh-core/files/2568324",
+  "side": "universal",
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://edge.forgecdn.net/files/2568/324/CoFHCore-1.12.2-4.5.2.19-universal.jar",
+      "side": "universal"
+    }
+  ],
+  "hashes": {
+    "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "murmur2": "2311916297",
+    "md5": "042b4e46944453f48079b102f851fc77"
+  },
+  "size": 838177,
+  "releaseTime": "2018-06-01T20:36:30.583Z"
+}

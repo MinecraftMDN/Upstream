@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "aroma1997sdimension",
+  "name": "Aroma1997\u0027s Dimensional World",
+  "description": "This mod adds a new Dimension especially for mining. It is pretty much like the overworld, just different. :-)",
+  "icon": "https://media.forgecdn.net/avatars/13/705/635572519145491106.png",
+  "licenses": [],
+  "authors": [
+    "Aroma1997"
+  ],
+  "projectLinks": [
+    {
+      "type": "website",
+      "url": "http://www.minecraftforum.net/topic/1679684-"
+    },
+    {
+      "type": "curseforge",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/aroma1997s-dimensional-world"
+    }
+  ]
+}

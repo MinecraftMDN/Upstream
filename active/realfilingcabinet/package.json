@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "realfilingcabinet",
+  "name": "Real Filing Cabinet",
+  "description": "Filing cabinets! That is all.",
+  "icon": "https://media.forgecdn.net/avatars/63/790/636146630039159563.png",
+  "licenses": [],
+  "authors": [
+    "bafomdad"
+  ],
+  "projectLinks": [
+    {
+      "type": "curseforge",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/real-filing-cabinet"
+    }
+  ]
+}

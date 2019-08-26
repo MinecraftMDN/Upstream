@@ -1,0 +1,19 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "mysticallib",
+  "icon": "https://media.forgecdn.net/avatars/218/467/637011607758026932.png",
+  "licenses": [],
+  "authors": [
+    "EpicSquid319",
+    "Noobanidus",
+    "Martacus",
+    "Davoleo_K"
+  ],
+  "projectLinks": [
+    {
+      "type": "curseforge",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/mysticallib"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "id": "1.12.2-9.4.3.330",
+  "releaseType": "release",
+  "changelog": "https://www.curseforge.com/minecraft/mc-mods/mekanism/files/2510812",
+  "side": "universal",
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://edge.forgecdn.net/files/2510/812/Mekanism-1.12.2-9.4.3.330.jar",
+      "side": "universal"
+    }
+  ],
+  "hashes": {
+    "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "murmur2": "3752024154",
+    "md5": "e2608c622fddf3560b6fadb8164736d7"
+  },
+  "size": 15993190,
+  "releaseTime": "2017-12-17T15:59:00.933Z"
+}

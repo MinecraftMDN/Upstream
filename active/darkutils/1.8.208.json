@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "id": "1.8.208",
+  "releaseType": "release",
+  "changelog": "https://www.curseforge.com/minecraft/mc-mods/dark-utilities/files/2542692",
+  "side": "universal",
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://edge.forgecdn.net/files/2542/692/DarkUtils-1.12.2-1.8.208.jar",
+      "side": "universal"
+    }
+  ],
+  "hashes": {
+    "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "murmur2": "1379448466",
+    "md5": "78ebcf1f24dae512d0da6f377bbd25f0"
+  },
+  "size": 417224,
+  "releaseTime": "2018-03-19T04:12:34.113Z"
+}

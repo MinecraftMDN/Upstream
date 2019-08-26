@@ -1,0 +1,21 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "jeibees",
+  "name": "JEI Bees",
+  "icon": "https://media.forgecdn.net/avatars/46/834/636059277950337673.png",
+  "licenses": [],
+  "authors": [
+    "bdew"
+  ],
+  "projectLinks": [
+    {
+      "type": "website",
+      "url": "http://bdew.net/"
+    },
+    {
+      "type": "curseforge",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/jei-bees"
+    }
+  ]
+}

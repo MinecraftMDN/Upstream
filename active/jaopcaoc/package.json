@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "jaopcaoc",
+  "name": "Just An Ore Processing Compatibility Addon: Ore Chunks",
+  "description": "A JAOPCA addon that adds ore chunks!",
+  "icon": "https://media.forgecdn.net/avatars/195/560/636879907230213730.png",
+  "licenses": [],
+  "authors": [
+    "RCXcrafter"
+  ],
+  "projectLinks": [
+    {
+      "type": "curseforge",
+      "url": "https://minecraft.curseforge.com/projects/aobd-ore-chunks"
+    }
+  ]
+}

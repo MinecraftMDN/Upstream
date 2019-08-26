@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "bedbugs",
+  "name": "Bed Bugs",
+  "description": "Adds a button and command to leave the bed/server when stuck!",
+  "icon": "https://media.forgecdn.net/avatars/66/15/636163048386034297.png",
+  "licenses": [],
+  "authors": [
+    "gr8pefish"
+  ],
+  "projectLinks": [
+    {
+      "type": "curseforge",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/bed-bugs"
+    }
+  ]
+}

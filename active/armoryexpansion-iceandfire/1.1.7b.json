@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "id": "1.1.7b",
+  "releaseType": "release",
+  "changelog": "https://www.curseforge.com/minecraft/mc-mods/armory-expansion/files/2697439",
+  "side": "universal",
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://edge.forgecdn.net/files/2697/439/armoryexpansion-1.1.7b.jar",
+      "side": "universal"
+    }
+  ],
+  "hashes": {
+    "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "murmur2": "1821550411",
+    "md5": "4d2ceda23b8a910f7adc9af3a968fd76"
+  },
+  "size": 35977,
+  "releaseTime": "2019-04-09T22:17:39.05Z"
+}

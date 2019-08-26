@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "id": "0.0.14.66",
+  "releaseType": "release",
+  "changelog": "https://www.curseforge.com/minecraft/mc-mods/better-advancements/files/2620584",
+  "side": "client",
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://edge.forgecdn.net/files/2620/584/BetterAdvancements-1.12.2-0.0.14.66.jar",
+      "side": "universal"
+    }
+  ],
+  "hashes": {
+    "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "murmur2": "2429009653",
+    "md5": "78c6a81281bd6746abd8fdb84cb82953"
+  },
+  "size": 62746,
+  "releaseTime": "2018-09-24T19:02:28.66Z"
+}

@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "id": "9.2.4",
+  "releaseType": "release",
+  "changelog": "https://www.curseforge.com/minecraft/mc-mods/default-options/files/2462243",
+  "side": "client",
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://edge.forgecdn.net/files/2462/243/DefaultOptions_1.12.1-9.2.4.jar",
+      "side": "universal"
+    }
+  ],
+  "hashes": {
+    "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "murmur2": "2755078371",
+    "md5": "82de728f6c43bf5f9892f9e24159d062"
+  },
+  "size": 12280,
+  "releaseTime": "2017-08-09T05:52:59.66Z"
+}

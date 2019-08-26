@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "id": "1.4.119",
+  "releaseType": "release",
+  "changelog": "https://www.curseforge.com/minecraft/mc-mods/ore-excavation/files/2571591",
+  "side": "universal",
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://edge.forgecdn.net/files/2571/591/OreExcavation-1.4.119.jar",
+      "side": "universal"
+    }
+  ],
+  "hashes": {
+    "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "murmur2": "2925980325",
+    "md5": "6b72be6f8133dc36108a592bba12e0b3"
+  },
+  "size": 176734,
+  "releaseTime": "2018-06-11T10:47:42.78Z"
+}

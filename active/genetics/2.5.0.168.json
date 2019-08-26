@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "id": "2.5.0.168",
+  "releaseType": "release",
+  "changelog": "https://www.curseforge.com/minecraft/mc-mods/binnies-mods/files/2583495",
+  "side": "universal",
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://edge.forgecdn.net/files/2583/495/binnie-mods-1.12.2-2.5.0.168.jar",
+      "side": "universal"
+    }
+  ],
+  "hashes": {
+    "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "murmur2": "139707030",
+    "md5": "42f1691d2e22ebdd2e35f6bcb4843d35"
+  },
+  "size": 5822126,
+  "releaseTime": "2018-07-16T03:18:55.32Z"
+}

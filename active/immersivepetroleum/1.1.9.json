@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "id": "1.1.9",
+  "releaseType": "release",
+  "changelog": "https://www.curseforge.com/minecraft/mc-mods/immersive-petroleum/files/2544919",
+  "side": "universal",
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://edge.forgecdn.net/files/2544/919/immersivepetroleum-1.12.2-1.1.9.jar",
+      "side": "universal"
+    }
+  ],
+  "hashes": {
+    "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "murmur2": "4256046140",
+    "md5": "57ba127778e579d10d705f9f8359d2e0"
+  },
+  "size": 906018,
+  "releaseTime": "2018-03-25T17:36:20.13Z"
+}

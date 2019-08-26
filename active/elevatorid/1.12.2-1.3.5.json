@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "id": "1.12.2-1.3.5",
+  "releaseType": "release",
+  "changelog": "https://www.curseforge.com/minecraft/mc-mods/openblocks-elevator/files/2494729",
+  "side": "universal",
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://edge.forgecdn.net/files/2494/729/ElevatorMod-1.12.2-1.3.5.jar",
+      "side": "universal"
+    }
+  ],
+  "hashes": {
+    "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "murmur2": "1478201888",
+    "md5": "7f4d5fe0935b01fa89a2fe7a07f1ca3c"
+  },
+  "size": 96171,
+  "releaseTime": "2017-10-27T13:57:38.137Z"
+}

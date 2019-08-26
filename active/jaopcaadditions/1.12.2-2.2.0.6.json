@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "id": "1.12.2-2.2.0.6",
+  "releaseType": "release",
+  "changelog": "https://www.curseforge.com/minecraft/mc-mods/jaopcaadditions/files/2497724",
+  "side": "universal",
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://edge.forgecdn.net/files/2497/724/JAOPCAAdditions-1.12.2-2.2.0.6.jar",
+      "side": "universal"
+    }
+  ],
+  "hashes": {
+    "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "murmur2": "3081711621",
+    "md5": "03d0efb2a6b056fb25d0356e95c0c2db"
+  },
+  "size": 29613,
+  "releaseTime": "2017-11-06T13:41:17.233Z"
+}

@@ -1,0 +1,19 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "ironbackpacks",
+  "name": "Iron Backpacks",
+  "description": "Adds tiered backpacks and a system of modular upgrades to go with them!",
+  "icon": "https://media.forgecdn.net/avatars/63/485/636143170660505829.png",
+  "licenses": [],
+  "authors": [
+    "gr8pefish",
+    "TehNut"
+  ],
+  "projectLinks": [
+    {
+      "type": "curseforge",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/iron-backpacks"
+    }
+  ]
+}

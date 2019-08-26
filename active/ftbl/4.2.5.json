@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "id": "4.2.5",
+  "releaseType": "release",
+  "changelog": "https://www.curseforge.com/minecraft/mc-mods/ftblib/files/2505841",
+  "side": "universal",
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://edge.forgecdn.net/files/2505/841/FTBLib-4.2.5.jar",
+      "side": "universal"
+    }
+  ],
+  "hashes": {
+    "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "murmur2": "704158717",
+    "md5": "5787ffc784a3d95a9845fc204626a037"
+  },
+  "size": 703356,
+  "releaseTime": "2017-12-02T21:07:50.49Z"
+}

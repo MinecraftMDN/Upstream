@@ -1,0 +1,19 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "discordsuite",
+  "name": "DiscordSuite",
+  "description": "Discord Integration.",
+  "icon": "https://media.forgecdn.net/avatars/173/965/636747325401407773.png",
+  "licenses": [],
+  "authors": [
+    "HRZNStudio",
+    "Dr_Codex"
+  ],
+  "projectLinks": [
+    {
+      "type": "curseforge",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/discordsuite"
+    }
+  ]
+}

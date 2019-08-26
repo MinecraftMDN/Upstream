@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "id": "1.12.2-0.8.4-303",
+  "releaseType": "release",
+  "changelog": "https://www.curseforge.com/minecraft/mc-mods/pneumaticcraft-repressurized/files/2641264",
+  "side": "universal",
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://edge.forgecdn.net/files/2641/264/pneumaticcraft-repressurized-1.12.2-0.8.4-303.jar",
+      "side": "universal"
+    }
+  ],
+  "hashes": {
+    "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "murmur2": "3935104298",
+    "md5": "50c7a4a49ac07d58aefb376c5e9e2399"
+  },
+  "size": 8164288,
+  "releaseTime": "2018-11-25T16:31:10.523Z"
+}

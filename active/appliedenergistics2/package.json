@@ -7,12 +7,20 @@
   "icon": "https://media.forgecdn.net/avatars/19/498/635696278186178221.gif",
   "licenses": [],
   "authors": [
-    "AlgorithmX2"
+    "AlgorithmX2",
+    "thatsIch",
+    "FireBall1725",
+    "akarso",
+    "Cisien"
   ],
   "projectLinks": [
     {
       "type": "website",
       "url": "http://ae2.ae-mod.info"
+    },
+    {
+      "type": "curseforge",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/applied-energistics-2"
     }
   ]
 }

@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "id": "1.12.2-0.5.53",
+  "releaseType": "release",
+  "changelog": "https://www.curseforge.com/minecraft/mc-mods/endercore/files/2696287",
+  "side": "universal",
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://edge.forgecdn.net/files/2696/287/EnderCore-1.12.2-0.5.53.jar",
+      "side": "universal"
+    }
+  ],
+  "hashes": {
+    "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "murmur2": "413259434",
+    "md5": "fadd1f4df068db0349c36ca48424a7e5"
+  },
+  "size": 633216,
+  "releaseTime": "2019-04-07T01:22:04.383Z"
+}

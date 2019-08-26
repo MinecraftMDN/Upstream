@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "id": "0.11.1",
+  "releaseType": "release",
+  "changelog": "https://www.curseforge.com/minecraft/mc-mods/better-builders-wands/files/2443194",
+  "side": "universal",
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://edge.forgecdn.net/files/2443/194/BetterBuildersWands-1.12-0.11.1.245+69d0d70.jar",
+      "side": "universal"
+    }
+  ],
+  "hashes": {
+    "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "murmur2": "3073248050",
+    "md5": "64763e14d31cdc21cedd4c4e85fbec73"
+  },
+  "size": 75709,
+  "releaseTime": "2017-06-29T11:16:40.93Z"
+}

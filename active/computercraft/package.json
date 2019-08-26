@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "computercraft",
+  "name": "ComputerCraft",
+  "description": "ComputerCraft adds Computers, Programming and Robotics to Minecraft.",
+  "icon": "https://media.forgecdn.net/avatars/5/771/635351433535295959.png",
+  "licenses": [],
+  "authors": [
+    "dantwohundred"
+  ],
+  "projectLinks": [
+    {
+      "type": "website",
+      "url": "http://www.computercraft.info"
+    },
+    {
+      "type": "curseforge",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/computercraft"
+    }
+  ]
+}

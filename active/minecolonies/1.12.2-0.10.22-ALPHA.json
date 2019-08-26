@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "id": "1.12.2-0.10.22-ALPHA",
+  "releaseType": "release",
+  "changelog": "https://www.curseforge.com/minecraft/mc-mods/minecolonies/files/2630782",
+  "side": "universal",
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://edge.forgecdn.net/files/2630/782/minecolonies-1.12.2-0.10.22-ALPHA-universal.jar",
+      "side": "universal"
+    }
+  ],
+  "hashes": {
+    "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "murmur2": "3517156255",
+    "md5": "2fd7bb65060e21371c024256a40ed9fd"
+  },
+  "size": 31697557,
+  "releaseTime": "2018-10-23T13:28:45.073Z"
+}

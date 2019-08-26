@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "magipsi",
+  "name": "Magical Psi",
+  "description": "Magical Psionic Spellcasting Instruments",
+  "icon": "https://media.forgecdn.net/avatars/128/618/636449229964206178.png",
+  "licenses": [],
+  "authors": [
+    "wiiv"
+  ],
+  "projectLinks": [
+    {
+      "type": "curseforge",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/magical-psi"
+    }
+  ]
+}

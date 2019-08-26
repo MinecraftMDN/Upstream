@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "custombackgrounds",
+  "name": "Custom Backgrounds",
+  "description": "Allows you to change the default dirt options background",
+  "icon": "https://media.forgecdn.net/avatars/12/494/635530260660457303.png",
+  "licenses": [],
+  "authors": [
+    "lumien231"
+  ],
+  "projectLinks": [
+    {
+      "type": "curseforge",
+      "url": "http://minecraft.curseforge.com/mc-mods/225928-custom-backgrounds"
+    }
+  ]
+}

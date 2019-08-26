@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "flyringbaublemod",
+  "name": "AngelRing 2 Bauble",
+  "description": "Make the Extra Utils 2 Angel Ring into a bauble",
+  "icon": "https://media.forgecdn.net/avatars/83/272/636187575131628096.png",
+  "licenses": [],
+  "authors": [
+    "Portablejim"
+  ],
+  "projectLinks": [
+    {
+      "type": "curseforge",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/angel-ring-to-bauble"
+    }
+  ]
+}

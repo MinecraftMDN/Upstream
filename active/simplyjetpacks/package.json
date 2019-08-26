@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "simplyjetpacks",
+  "name": "Simply Jetpacks 2",
+  "description": "Redstone Flux jetpacks and more",
+  "icon": "https://media.forgecdn.net/avatars/52/148/636111755569867328.jpeg",
+  "licenses": [],
+  "authors": [
+    "Tomson124"
+  ],
+  "projectLinks": [
+    {
+      "type": "curseforge",
+      "url": "https://minecraft.curseforge.com/projects/simply-jetpacks-2"
+    }
+  ]
+}

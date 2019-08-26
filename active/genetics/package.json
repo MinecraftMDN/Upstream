@@ -1,0 +1,19 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "genetics",
+  "name": "Binnie Core",
+  "description": "Base mod for Binnie\u0027s Mods, with lots of common code.",
+  "icon": "https://media.forgecdn.net/avatars/9/866/635440405791687666.png",
+  "licenses": [],
+  "authors": [
+    "Binnie567",
+    "mezz"
+  ],
+  "projectLinks": [
+    {
+      "type": "curseforge",
+      "url": "https://minecraft.curseforge.com/projects/binnies-mods"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "harvest",
+  "icon": "https://media.forgecdn.net/avatars/78/786/636175080642708263.png",
+  "licenses": [],
+  "authors": [
+    "TehNut"
+  ],
+  "projectLinks": [
+    {
+      "type": "curseforge",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/simpleharvest"
+    }
+  ]
+}

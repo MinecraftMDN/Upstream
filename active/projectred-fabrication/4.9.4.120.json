@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "id": "4.9.4.120",
+  "releaseType": "release",
+  "changelog": "https://www.curseforge.com/minecraft/mc-mods/project-red-fabrication/files/2745547",
+  "side": "universal",
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://edge.forgecdn.net/files/2745/547/ProjectRed-1.12.2-4.9.4.120-fabrication.jar",
+      "side": "universal"
+    }
+  ],
+  "hashes": {
+    "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "murmur2": "3501978731",
+    "md5": "eabf2010d23f3cfc583cd809a7b0febf"
+  },
+  "size": 1894139,
+  "releaseTime": "2019-07-21T17:56:43.807Z"
+}

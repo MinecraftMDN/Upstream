@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "id": "4.0.72",
+  "releaseType": "release",
+  "changelog": "https://www.curseforge.com/minecraft/mc-mods/waystones/files/2734498",
+  "side": "universal",
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://edge.forgecdn.net/files/2734/498/Waystones_1.12.2-4.0.72.jar",
+      "side": "universal"
+    }
+  ],
+  "hashes": {
+    "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "murmur2": "3152411825",
+    "md5": "bd0e629002546e7cc3b6207a61886b88"
+  },
+  "size": 175462,
+  "releaseTime": "2019-07-02T19:46:58.937Z"
+}

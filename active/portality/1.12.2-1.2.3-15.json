@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "id": "1.12.2-1.2.3-15",
+  "releaseType": "release",
+  "changelog": "https://www.curseforge.com/minecraft/mc-mods/portality/files/2718784",
+  "side": "universal",
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://edge.forgecdn.net/files/2718/784/portality-1.12.2-1.2.3-15.jar",
+      "side": "universal"
+    }
+  ],
+  "hashes": {
+    "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "murmur2": "4219286471",
+    "md5": "7f6b7864b8d469d59709b5b3e852f428"
+  },
+  "size": 346779,
+  "releaseTime": "2019-06-01T18:29:54.173Z"
+}

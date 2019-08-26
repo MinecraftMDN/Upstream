@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "id": "1.1",
+  "releaseType": "release",
+  "changelog": "https://www.curseforge.com/minecraft/mc-mods/all-the-mods-expert-tweaks/files/2481056",
+  "side": "universal",
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://edge.forgecdn.net/files/2481/56/atmtweaks-1.1.jar",
+      "side": "universal"
+    }
+  ],
+  "hashes": {
+    "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "murmur2": "4075222408",
+    "md5": "efc6a331c053f053e02ea285ae54a082"
+  },
+  "size": 29720,
+  "releaseTime": "2017-09-17T23:05:56.087Z"
+}

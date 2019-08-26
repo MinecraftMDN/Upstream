@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "conarm",
+  "name": "Construct\u0027s Armory",
+  "description": "A Tinkers\u0027 Construct add-on for those looking to enter the world of armor",
+  "icon": "https://media.forgecdn.net/avatars/153/560/636619290357325647.png",
+  "licenses": [],
+  "authors": [
+    "TheIllusiveC4"
+  ],
+  "projectLinks": [
+    {
+      "type": "curseforge",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/constructs-armory"
+    }
+  ]
+}

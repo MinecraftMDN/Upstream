@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "id": "1.2.0",
+  "releaseType": "release",
+  "changelog": "https://www.curseforge.com/minecraft/mc-mods/unloader/files/2572528",
+  "side": "universal",
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://edge.forgecdn.net/files/2572/528/unloader-1.2.0.jar",
+      "side": "universal"
+    }
+  ],
+  "hashes": {
+    "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "murmur2": "977612349",
+    "md5": "c13b3a2c4ed9537e4f64f7c9bbde64f3"
+  },
+  "size": 6396,
+  "releaseTime": "2018-06-14T02:59:29.313Z"
+}

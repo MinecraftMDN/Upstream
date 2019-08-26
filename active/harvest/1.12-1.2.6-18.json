@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "id": "1.12-1.2.6-18",
+  "releaseType": "release",
+  "changelog": "https://www.curseforge.com/minecraft/mc-mods/simpleharvest/files/2475234",
+  "side": "universal",
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://edge.forgecdn.net/files/2475/234/Harvest-1.12-1.2.6-18.jar",
+      "side": "universal"
+    }
+  ],
+  "hashes": {
+    "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "murmur2": "764601744",
+    "md5": "540653c37e350a3f928ba176896e44c5"
+  },
+  "size": 17269,
+  "releaseTime": "2017-09-03T19:26:55.83Z"
+}

@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "id": "1.12-4.1.11",
+  "releaseType": "release",
+  "changelog": "https://www.curseforge.com/minecraft/mc-mods/crafttweaker/files/2625534",
+  "side": "client",
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://edge.forgecdn.net/files/2625/534/CraftTweaker2-1.12-4.1.11.jar",
+      "side": "universal"
+    }
+  ],
+  "hashes": {
+    "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "murmur2": "520636143",
+    "md5": "83f22cba476dbaca9df8023ce21ea582"
+  },
+  "size": 1301473,
+  "releaseTime": "2018-10-08T00:02:26.387Z"
+}

@@ -1,0 +1,25 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "forestry",
+  "name": "Forestry",
+  "description": "Trees, bees and more.",
+  "icon": "https://media.forgecdn.net/avatars/5/961/635351438467975270.png",
+  "licenses": [],
+  "authors": [
+    "SirSengir",
+    "mezz",
+    "CovertJaguar",
+    "MysteriousAges"
+  ],
+  "projectLinks": [
+    {
+      "type": "website",
+      "url": "http://forestry.sengir.net/"
+    },
+    {
+      "type": "curseforge",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/forestry"
+    }
+  ]
+}

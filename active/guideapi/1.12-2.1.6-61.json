@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "id": "1.12-2.1.6-61",
+  "releaseType": "release",
+  "changelog": "https://www.curseforge.com/minecraft/mc-mods/guide-api/files/2583886",
+  "side": "universal",
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://edge.forgecdn.net/files/2583/886/Guide-API-1.12-2.1.6-61.jar",
+      "side": "universal"
+    }
+  ],
+  "hashes": {
+    "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "murmur2": "3201417084",
+    "md5": "998d9b909a9e2b369cc32dc867bc0770"
+  },
+  "size": 168974,
+  "releaseTime": "2018-07-16T22:32:44.573Z"
+}

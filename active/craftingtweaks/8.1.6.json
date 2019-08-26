@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "id": "8.1.6",
+  "releaseType": "release",
+  "changelog": "https://www.curseforge.com/minecraft/mc-mods/crafting-tweaks/files/2489633",
+  "side": "universal",
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://edge.forgecdn.net/files/2489/633/CraftingTweaks_1.12.1-8.1.6.jar",
+      "side": "universal"
+    }
+  ],
+  "hashes": {
+    "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "murmur2": "615197978",
+    "md5": "0f0c105f8d14448109024128215d5159"
+  },
+  "size": 95530,
+  "releaseTime": "2017-10-11T13:11:13.463Z"
+}

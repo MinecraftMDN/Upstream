@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "id": "5.0.43",
+  "releaseType": "release",
+  "changelog": "https://www.curseforge.com/minecraft/mc-mods/ender-io/files/2692118",
+  "side": "universal",
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://edge.forgecdn.net/files/2692/118/EnderIO-1.12.2-5.0.43.jar",
+      "side": "universal"
+    }
+  ],
+  "hashes": {
+    "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "murmur2": "3016482702",
+    "md5": "a08e6e9c81135fa77ac1df1f2f98c594"
+  },
+  "size": 7288125,
+  "releaseTime": "2019-03-26T21:32:59.017Z"
+}

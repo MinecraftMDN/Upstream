@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "defaultworldgenerator-port",
+  "name": "Default World Generator",
+  "description": "A small mod to automatically select the default world generator for both single player and servers",
+  "icon": "https://media.forgecdn.net/avatars/33/253/635892752942054834.png",
+  "licenses": [],
+  "authors": [
+    "ezterry"
+  ],
+  "projectLinks": [
+    {
+      "type": "curseforge",
+      "url": "http://minecraft.curseforge.com/projects/default-world-generator-port"
+    }
+  ]
+}

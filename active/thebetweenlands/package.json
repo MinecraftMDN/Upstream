@@ -1,0 +1,30 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "thebetweenlands",
+  "name": "The Betweenlands",
+  "description": "Introducing The Betweenlands... a dark and hostile environment. This large and expansive mod adds a whole new dimension to the game.",
+  "icon": "https://media.forgecdn.net/avatars/37/49/635946831519953877.png",
+  "licenses": [],
+  "authors": [
+    "oily_oli",
+    "Gory_Moon",
+    "imdutch21",
+    "pau101",
+    "TheCyberBrick",
+    "TripleHeadedSheep",
+    "vadis365",
+    "BobMowzie",
+    "wightofshadows"
+  ],
+  "projectLinks": [
+    {
+      "type": "website",
+      "url": "http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/mods-discussion/1441135"
+    },
+    {
+      "type": "curseforge",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/angry-pixel-the-betweenlands-mod"
+    }
+  ]
+}

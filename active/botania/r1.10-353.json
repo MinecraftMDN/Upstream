@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "id": "r1.10-353",
+  "releaseType": "release",
+  "changelog": "https://www.curseforge.com/minecraft/mc-mods/botania/files/2524591",
+  "side": "universal",
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://edge.forgecdn.net/files/2524/591/Botania r1.10-353.jar",
+      "side": "universal"
+    }
+  ],
+  "hashes": {
+    "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "murmur2": "3129097721",
+    "md5": "8be68a0e75a7b16c793a696fda1a4c5d"
+  },
+  "size": 13582605,
+  "releaseTime": "2018-01-26T22:36:00.603Z"
+}

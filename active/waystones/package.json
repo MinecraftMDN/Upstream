@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "waystones",
+  "name": "Waystones",
+  "description": "Teleport back to activated waystones. For Survival, Adventure or Servers.",
+  "icon": "https://media.forgecdn.net/avatars/42/418/636008504954894502.png",
+  "licenses": [],
+  "authors": [
+    "BlayTheNinth"
+  ],
+  "projectLinks": [
+    {
+      "type": "curseforge",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/waystones"
+    }
+  ]
+}

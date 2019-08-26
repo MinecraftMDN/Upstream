@@ -1,20 +1,22 @@
 {
   "formatVersion": 0,
   "id": "${version}",
-  "releaseType": "",
-  "changelog": "",
+  "releaseType": "release",
+  "changelog": "https://www.curseforge.com/minecraft/mc-mods/extra-utilities/files/2504264",
   "side": "universal",
-  "relationships": [],
   "artifacts": [
     {
       "type": "direct",
-      "id": "https://files.forgecdn.net/files/2678/374/extrautils2-1.12-1.9.9.jar"
+      "id": "https://edge.forgecdn.net/files/2504/264/extrautils2-1.12-1.6.8.jar",
+      "side": "universal"
     }
   ],
   "hashes": {
-    "sha256": "6c1809eb2222604ebf3c051e1c7834b84049013b537633c2e5a1b0077ef9a940"
+    "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "murmur2": "3712143952",
+    "md5": "752513b44bfea0135b22af723ca8bdd6"
   },
-  "size": 0,
-  "filename": "",
-  "releaseTime": ""
+  "size": 2787802,
+  "releaseTime": "2017-11-28T03:13:44.8Z"
 }

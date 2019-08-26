@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "id": "1.12.2-1.6.2",
+  "releaseType": "release",
+  "changelog": "https://www.curseforge.com/minecraft/mc-mods/abyssalcraft-integration/files/2502319",
+  "side": "universal",
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://edge.forgecdn.net/files/2502/319/AbyssalCraft Integration-1.12.2-1.6.2.jar",
+      "side": "universal"
+    }
+  ],
+  "hashes": {
+    "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "murmur2": "2302271148",
+    "md5": "d8b95c1dca2b2a42ca58d3c82d7f1cf5"
+  },
+  "size": 446513,
+  "releaseTime": "2017-11-21T23:57:55.96Z"
+}

@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "id": "5.3.0.52",
+  "releaseType": "release",
+  "changelog": "https://www.curseforge.com/minecraft/mc-mods/ftb-utilities/files/2623999",
+  "side": "universal",
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://edge.forgecdn.net/files/2623/999/FTBUtilities-5.3.0.52.jar",
+      "side": "universal"
+    }
+  ],
+  "hashes": {
+    "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "murmur2": "2272344049",
+    "md5": "3be2b6ce80cc944c39fa2db2dce12c1e"
+  },
+  "size": 424207,
+  "releaseTime": "2018-10-03T19:42:42.16Z"
+}

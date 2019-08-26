@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "id": "0.12-82",
+  "releaseType": "release",
+  "changelog": "https://www.curseforge.com/minecraft/mc-mods/immersive-engineering/files/2559547",
+  "side": "universal",
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://edge.forgecdn.net/files/2559/547/ImmersiveEngineering-0.12-82.jar",
+      "side": "universal"
+    }
+  ],
+  "hashes": {
+    "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "murmur2": "3883997100",
+    "md5": "31416c7c675faa0077b573c82920dc54"
+  },
+  "size": 6002375,
+  "releaseTime": "2018-05-07T17:00:11.413Z"
+}

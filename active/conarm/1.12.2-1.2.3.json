@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "id": "1.12.2-1.2.3",
+  "releaseType": "release",
+  "changelog": "https://www.curseforge.com/minecraft/mc-mods/constructs-armory/files/2660796",
+  "side": "universal",
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://edge.forgecdn.net/files/2660/796/conarm-1.12.2-1.2.3.jar",
+      "side": "universal"
+    }
+  ],
+  "hashes": {
+    "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "murmur2": "12685933",
+    "md5": "8f6ff0e5f907574890ed68296c9a192d"
+  },
+  "size": 864305,
+  "releaseTime": "2019-01-16T04:02:33.56Z"
+}

@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "id": "1.14.3.12",
+  "releaseType": "release",
+  "changelog": "https://www.curseforge.com/minecraft/mc-mods/bdlib/files/2518031",
+  "side": "universal",
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://edge.forgecdn.net/files/2518/31/bdlib-1.14.3.12-mc1.12.2.jar",
+      "side": "universal"
+    }
+  ],
+  "hashes": {
+    "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "murmur2": "3424319008",
+    "md5": "d2b8ba08414ac12737eb5ecbf92a19d9"
+  },
+  "size": 1962731,
+  "releaseTime": "2018-01-08T06:45:16.61Z"
+}

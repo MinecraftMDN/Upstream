@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "id": "0.1.73",
+  "releaseType": "release",
+  "changelog": "https://www.curseforge.com/minecraft/mc-mods/real-filing-cabinet/files/2629308",
+  "side": "universal",
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://edge.forgecdn.net/files/2629/308/realfilingcabinet-1.12.1-0.1.73.jar",
+      "side": "universal"
+    }
+  ],
+  "hashes": {
+    "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "murmur2": "2353922937",
+    "md5": "f7b38ffd799be42169507715230be3e1"
+  },
+  "size": 381642,
+  "releaseTime": "2018-10-19T04:15:16.89Z"
+}

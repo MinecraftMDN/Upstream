@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "id": "1.6.5.6",
+  "releaseType": "release",
+  "changelog": "https://www.curseforge.com/minecraft/mc-mods/gendustry/files/2495323",
+  "side": "universal",
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://edge.forgecdn.net/files/2495/323/gendustry-1.6.5.6-mc1.12.2.jar",
+      "side": "universal"
+    }
+  ],
+  "hashes": {
+    "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "murmur2": "3356084156",
+    "md5": "202ad249247a8872d25ce54156fceae5"
+  },
+  "size": 1851991,
+  "releaseTime": "2017-10-29T13:03:22.707Z"
+}

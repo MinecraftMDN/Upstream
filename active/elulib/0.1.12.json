@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "id": "0.1.12",
+  "releaseType": "release",
+  "changelog": "https://www.curseforge.com/minecraft/mc-mods/mysticallib/files/2533966",
+  "side": "universal",
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://edge.forgecdn.net/files/2533/966/elulib-0.1.12.jar",
+      "side": "universal"
+    }
+  ],
+  "hashes": {
+    "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "murmur2": "3564503195",
+    "md5": "473c5cc42c88e61db013eab03e39016a"
+  },
+  "size": 305851,
+  "releaseTime": "2018-02-22T18:08:38.59Z"
+}

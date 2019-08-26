@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "dismantler",
+  "name": "Dismantler",
+  "description": "A Tool used for dismantling multiblock structures in one go.",
+  "icon": "https://media.forgecdn.net/avatars/146/45/636567217082774224.png",
+  "licenses": [],
+  "authors": [
+    "BloodWorkXGaming"
+  ],
+  "projectLinks": [
+    {
+      "type": "curseforge",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/dismantler"
+    }
+  ]
+}

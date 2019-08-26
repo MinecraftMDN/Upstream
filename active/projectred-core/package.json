@@ -1,0 +1,23 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "projectred-core",
+  "name": "ProjectRed Core",
+  "description": "Redstone. The way it was meant to be.",
+  "icon": "https://media.forgecdn.net/avatars/15/804/635634024622309024.png",
+  "licenses": [],
+  "authors": [
+    "Mr_TJP",
+    "covers1624"
+  ],
+  "projectLinks": [
+    {
+      "type": "website",
+      "url": "http://projectredwiki.com"
+    },
+    {
+      "type": "curseforge",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/project-red-base"
+    }
+  ]
+}

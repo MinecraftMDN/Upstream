@@ -3,7 +3,7 @@
   "type": "mod",
   "id": "cyclicmagic",
   "name": "Cyclic",
-  "description": "Items, inventory features, world generation, simple machines, gameplay tweaks, new villagers, key bindings, and more. See config to disable absolutely anything.  Report issues and suggestions to https://github.com/Lothrazar/Cyclic/issues ",
+  "description": "Items, inventory features, world generation, simple machines, gameplay tweaks, new villagers, key bindings, and more. See config to disable absolutely anything.  Report issues and suggestions to https://github.com/PrinceOfAmber/Cyclic/issues ",
   "icon": "https://media.forgecdn.net/avatars/91/91/636244465665632371.png",
   "licenses": [],
   "authors": [

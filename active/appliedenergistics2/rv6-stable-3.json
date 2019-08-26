@@ -2,27 +2,21 @@
   "formatVersion": 0,
   "id": "rv6-stable-3",
   "releaseType": "release",
-  "changelog": "",
+  "changelog": "https://www.curseforge.com/minecraft/mc-mods/applied-energistics-2/files/2630108",
   "side": "universal",
-  "relationships": [
-    {
-      "type": "required",
-      "id": "minecraft",
-      "version": "1.12.2"
-    }
-  ],
   "artifacts": [
     {
-      "type": "curseforge",
-      "id": "2630108"
-    },
-    {
       "type": "direct",
-      "id": "https://files.forgecdn.net/files/2630/108/appliedenergistics2-rv6-stable-3.jar"
+      "id": "https://edge.forgecdn.net/files/2630/108/appliedenergistics2-rv6-stable-3.jar",
+      "side": "universal"
     }
   ],
-  "hashes": {},
-  "size": 0,
-  "filename": "",
-  "releaseTime": ""
+  "hashes": {
+    "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "murmur2": "2848572331",
+    "md5": "425c03e3a4424ad7ff79c116be74e99c"
+  },
+  "size": 4056418,
+  "releaseTime": "2018-10-21T09:31:55.473Z"
 }

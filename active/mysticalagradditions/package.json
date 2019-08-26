@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "mysticalagradditions",
+  "name": "Mystical Agradditions",
+  "description": "An addon for Mystical Agriculture.",
+  "icon": "https://media.forgecdn.net/avatars/169/291/636714372266168707.png",
+  "licenses": [],
+  "authors": [
+    "BlakeBr0"
+  ],
+  "projectLinks": [
+    {
+      "type": "curseforge",
+      "url": "https://minecraft.curseforge.com/projects/mystical-agradditions"
+    }
+  ]
+}

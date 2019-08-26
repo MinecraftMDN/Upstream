@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "id": "1.63+release.109.220f184",
+  "releaseType": "release",
+  "changelog": "https://www.curseforge.com/minecraft/mc-mods/inventory-tweaks/files/2482481",
+  "side": "universal",
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://edge.forgecdn.net/files/2482/481/InventoryTweaks-1.63.jar",
+      "side": "universal"
+    }
+  ],
+  "hashes": {
+    "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "murmur2": "4009982705",
+    "md5": "1e2e33e5710394252abc4b014bc3dcbd"
+  },
+  "size": 263258,
+  "releaseTime": "2017-09-21T13:56:21.667Z"
+}

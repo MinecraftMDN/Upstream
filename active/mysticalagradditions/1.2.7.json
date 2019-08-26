@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "id": "1.2.7",
+  "releaseType": "release",
+  "changelog": "https://www.curseforge.com/minecraft/mc-mods/mystical-agradditions/files/2503986",
+  "side": "universal",
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://edge.forgecdn.net/files/2503/986/mysticalagradditions-1.12-1.2.7.jar",
+      "side": "universal"
+    }
+  ],
+  "hashes": {
+    "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "murmur2": "657852086",
+    "md5": "6cb579112ce02e910902a49a409e1ae4"
+  },
+  "size": 126104,
+  "releaseTime": "2017-11-27T04:55:51.29Z"
+}

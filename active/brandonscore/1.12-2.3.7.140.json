@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "id": "1.12-2.3.7.140",
+  "releaseType": "release",
+  "changelog": "https://www.curseforge.com/minecraft/mc-mods/brandons-core/files/2514752",
+  "side": "universal",
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://edge.forgecdn.net/files/2514/752/BrandonsCore-1.12-2.3.7.140-universal.jar",
+      "side": "universal"
+    }
+  ],
+  "hashes": {
+    "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "murmur2": "361896449",
+    "md5": "eb6df1ea3640626004cca9c09c08cba2"
+  },
+  "size": 472782,
+  "releaseTime": "2017-12-29T15:20:15.217Z"
+}

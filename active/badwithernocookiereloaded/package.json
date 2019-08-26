@@ -1,0 +1,19 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "badwithernocookiereloaded",
+  "name": "Bad Wither No Cookie! Reloaded",
+  "description": "A simple mod to silence the Wither and Dragon broadcast sounds.",
+  "icon": "https://media.forgecdn.net/avatars/89/502/636231887954920121.png",
+  "licenses": [],
+  "authors": [
+    "Kreezxil",
+    "Eleksploded"
+  ],
+  "projectLinks": [
+    {
+      "type": "curseforge",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/bad-wither-no-cookie-reloaded"
+    }
+  ]
+}

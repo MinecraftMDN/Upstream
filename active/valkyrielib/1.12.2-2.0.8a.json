@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "id": "1.12.2-2.0.8a",
+  "releaseType": "release",
+  "changelog": "https://www.curseforge.com/minecraft/mc-mods/valkyrielib/files/2537682",
+  "side": "universal",
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://edge.forgecdn.net/files/2537/682/valkyrielib-1.12.2-2.0.8a.jar",
+      "side": "universal"
+    }
+  ],
+  "hashes": {
+    "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "murmur2": "3684732272",
+    "md5": "b4aa6b36e8aceefe6dcc53487ee66eec"
+  },
+  "size": 313625,
+  "releaseTime": "2018-03-05T01:33:19.163Z"
+}

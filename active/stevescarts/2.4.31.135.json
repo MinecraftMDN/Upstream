@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "id": "2.4.31.135",
+  "releaseType": "release",
+  "changelog": "https://www.curseforge.com/minecraft/mc-mods/steves-carts-reborn/files/2738722",
+  "side": "universal",
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://edge.forgecdn.net/files/2738/722/StevesCarts-1.12.2-2.4.31.135.jar",
+      "side": "universal"
+    }
+  ],
+  "hashes": {
+    "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "murmur2": "699470103",
+    "md5": "cb96a1a245999d442bc96ea4ce460c99"
+  },
+  "size": 2475657,
+  "releaseTime": "2019-07-10T13:55:01.467Z"
+}

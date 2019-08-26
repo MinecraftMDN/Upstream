@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "id": "MC1.12.2-0.2.0.31",
+  "releaseType": "release",
+  "changelog": "https://www.curseforge.com/minecraft/mc-mods/chisel/files/2535884",
+  "side": "universal",
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://edge.forgecdn.net/files/2535/884/Chisel-MC1.12.2-0.2.0.31.jar",
+      "side": "universal"
+    }
+  ],
+  "hashes": {
+    "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "murmur2": "2656219104",
+    "md5": "853c56bd014423e424ecef6db2c1efb1"
+  },
+  "size": 4294434,
+  "releaseTime": "2018-02-28T01:50:16.517Z"
+}

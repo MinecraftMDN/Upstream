@@ -1,0 +1,16 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "packmode",
+  "icon": "https://media.forgecdn.net/avatars/123/381/636414262135399678.png",
+  "licenses": [],
+  "authors": [
+    "Sky_Som"
+  ],
+  "projectLinks": [
+    {
+      "type": "curseforge",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/packmode"
+    }
+  ]
+}

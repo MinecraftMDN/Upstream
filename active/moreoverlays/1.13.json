@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "id": "1.13",
+  "releaseType": "release",
+  "changelog": "https://www.curseforge.com/minecraft/mc-mods/more-overlays/files/2495438",
+  "side": "client",
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://edge.forgecdn.net/files/2495/438/moreoverlays-1.13-mc1.12.1.jar",
+      "side": "universal"
+    }
+  ],
+  "hashes": {
+    "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "murmur2": "6154960",
+    "md5": "3cc08d8c99db412c904389bce6e12cd3"
+  },
+  "size": 38749,
+  "releaseTime": "2017-10-29T19:50:25.973Z"
+}

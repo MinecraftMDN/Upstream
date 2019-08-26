@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "id": "r1.1-72",
+  "releaseType": "release",
+  "changelog": "https://www.curseforge.com/minecraft/mc-mods/psi/files/2678401",
+  "side": "universal",
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://edge.forgecdn.net/files/2678/401/Psi-r1.1-72.jar",
+      "side": "universal"
+    }
+  ],
+  "hashes": {
+    "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "murmur2": "2621117262",
+    "md5": "10c83cf510bde08e09fc114446da8cf0"
+  },
+  "size": 2173335,
+  "releaseTime": "2019-02-21T23:12:50.947Z"
+}

@@ -4,13 +4,14 @@
   "id": "enderiopowertools",
   "name": "Ender IO Powertools",
   "description": "Capacitor Bank and Power Monitor.",
-  "icon": "https://media.forgecdn.net/avatars/159/669/636660503314436396.png",
+  "icon": "https://media.forgecdn.net/avatars/6/770/635368290959736289.png",
   "licenses": [],
   "authors": [
-    "Henry_Loenwind",
     "CrazyPants_MC",
-    "tterrag1098",
-    "EpicSquid319"
+    "MatthiasMann",
+    "Henry_Loenwind",
+    "EpicSquid319",
+    "tterrag1098"
   ],
   "projectLinks": [
     {
@@ -19,7 +20,7 @@
     },
     {
       "type": "curseforge",
-      "url": "https://www.curseforge.com/minecraft/mc-mods/ender-io-conduits"
+      "url": "https://www.curseforge.com/minecraft/mc-mods/ender-io"
     }
   ]
 }

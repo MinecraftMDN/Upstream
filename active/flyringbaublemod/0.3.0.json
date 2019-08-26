@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "id": "0.3.0",
+  "releaseType": "release",
+  "changelog": "https://www.curseforge.com/minecraft/mc-mods/angel-ring-to-bauble/files/2454781",
+  "side": "universal",
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://edge.forgecdn.net/files/2454/781/angelRingToBauble-1.12-0.3.0.46+306787e.jar",
+      "side": "universal"
+    }
+  ],
+  "hashes": {
+    "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "murmur2": "108520168",
+    "md5": "dabcc6415257f107044577d5106de789"
+  },
+  "size": 44878,
+  "releaseTime": "2017-07-23T02:07:01.697Z"
+}

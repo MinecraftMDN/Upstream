@@ -1,0 +1,21 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "ae2stuff",
+  "name": "AE2 Stuff",
+  "icon": "https://media.forgecdn.net/avatars/11/717/635500833747212362.png",
+  "licenses": [],
+  "authors": [
+    "bdew"
+  ],
+  "projectLinks": [
+    {
+      "type": "website",
+      "url": "bdew.net"
+    },
+    {
+      "type": "curseforge",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/ae2-stuff"
+    }
+  ]
+}

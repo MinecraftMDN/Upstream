@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "id": "2.3.11.5",
+  "releaseType": "release",
+  "changelog": "https://www.curseforge.com/minecraft/mc-mods/redstone-arsenal/files/2549396",
+  "side": "universal",
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://edge.forgecdn.net/files/2549/396/RedstoneArsenal-1.12.2-2.3.11.5-universal.jar",
+      "side": "universal"
+    }
+  ],
+  "hashes": {
+    "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "murmur2": "2548747865",
+    "md5": "a79a53890ef3cf69c1c21df85b918444"
+  },
+  "size": 233827,
+  "releaseTime": "2018-04-07T04:42:01.83Z"
+}

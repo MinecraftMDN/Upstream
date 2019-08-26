@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "id": "3.1.0",
+  "releaseType": "release",
+  "changelog": "https://www.curseforge.com/minecraft/mc-mods/applecore/files/2508285",
+  "side": "universal",
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://edge.forgecdn.net/files/2508/285/AppleCore-mc1.12.2-3.1.0.jar",
+      "side": "universal"
+    }
+  ],
+  "hashes": {
+    "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "murmur2": "3203338134",
+    "md5": "0815f9fee81cf504fc7cd485f51bf3c9"
+  },
+  "size": 78725,
+  "releaseTime": "2017-12-10T11:24:54.35Z"
+}

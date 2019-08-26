@@ -1,0 +1,19 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "tinker_io",
+  "name": "Tinker I/O",
+  "description": "Smeltery Upgrade!",
+  "icon": "https://media.forgecdn.net/avatars/16/306/635644319825864681.png",
+  "licenses": [],
+  "authors": [
+    "gkbm2011",
+    "tokomikea"
+  ],
+  "projectLinks": [
+    {
+      "type": "curseforge",
+      "url": "http://minecraft.curseforge.com/mc-mods/229503-tinker-i-o"
+    }
+  ]
+}

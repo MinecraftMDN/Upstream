@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "id": "1.11.2-0.3.0",
+  "releaseType": "release",
+  "changelog": "https://www.curseforge.com/minecraft/mc-mods/compatlayer/files/2511880",
+  "side": "universal",
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://edge.forgecdn.net/files/2511/880/compatlayer-1.11.2-0.3.0.jar",
+      "side": "universal"
+    }
+  ],
+  "hashes": {
+    "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "murmur2": "2155453095",
+    "md5": "aba209c67404d3f0621fee84ffe62fef"
+  },
+  "size": 40220,
+  "releaseTime": "2017-12-20T06:55:08.043Z"
+}

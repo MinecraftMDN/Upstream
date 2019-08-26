@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "immersivetech",
+  "name": "Immersive Tech",
+  "description": "More tech for IE",
+  "icon": "https://media.forgecdn.net/avatars/109/367/636379356815327736.png",
+  "licenses": [],
+  "authors": [
+    "ferroo2000"
+  ],
+  "projectLinks": [
+    {
+      "type": "source",
+      "url": "https://github.com/FerroO2000/Immersive-Tech"
+    },
+    {
+      "type": "curseforge",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/immersive-tech"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "id": "5.3.10.15",
+  "releaseType": "release",
+  "changelog": "https://www.curseforge.com/minecraft/mc-mods/thermal-expansion/files/2520117",
+  "side": "universal",
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://edge.forgecdn.net/files/2520/117/ThermalExpansion-1.12.2-5.3.10.15-universal.jar",
+      "side": "universal"
+    }
+  ],
+  "hashes": {
+    "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "murmur2": "3583263919",
+    "md5": "b766511bb42e33f19de2946766fb6c1a"
+  },
+  "size": 2165503,
+  "releaseTime": "2018-01-14T03:25:58.31Z"
+}

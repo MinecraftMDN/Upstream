@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "id": "3.9.2.319",
+  "releaseType": "release",
+  "changelog": "https://www.curseforge.com/minecraft/mc-mods/reborncore/files/2578014",
+  "side": "universal",
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://edge.forgecdn.net/files/2578/14/RebornCore-1.12.2-3.9.2.319-universal.jar",
+      "side": "universal"
+    }
+  ],
+  "hashes": {
+    "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "murmur2": "1799564242",
+    "md5": "595f1ba8efcaeef61c7108242e23f911"
+  },
+  "size": 560802,
+  "releaseTime": "2018-06-30T18:04:32.707Z"
+}

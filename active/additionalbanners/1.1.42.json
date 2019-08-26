@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "id": "1.1.42",
+  "releaseType": "release",
+  "changelog": "https://www.curseforge.com/minecraft/mc-mods/additional-banners/files/2541081",
+  "side": "universal",
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://edge.forgecdn.net/files/2541/81/AdditionalBanners-1.12.2-1.1.42.jar",
+      "side": "universal"
+    }
+  ],
+  "hashes": {
+    "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "murmur2": "1153626111",
+    "md5": "a361009b8dbdc8650a3dd5e1cb991d53"
+  },
+  "size": 82523,
+  "releaseTime": "2018-03-14T16:06:00.25Z"
+}

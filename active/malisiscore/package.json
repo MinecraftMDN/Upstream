@@ -1,0 +1,21 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "malisiscore",
+  "name": "MalisisCore",
+  "description": "MalisisCore is a framework dedicated to simplify many processes required during a mod development.",
+  "licenses": [],
+  "authors": [
+    "Ordinastie"
+  ],
+  "projectLinks": [
+    {
+      "type": "source",
+      "url": "http://github.com/Ordinastie/MalisisCore"
+    },
+    {
+      "type": "curseforge",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/malisiscore"
+    }
+  ]
+}

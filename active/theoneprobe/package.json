@@ -1,22 +1,18 @@
 {
-    "formatVersion": 0,
-    "type": "mod",
-    "id": "theoneprobe",
-    "name": "The One Probe",
-    "description": "A Probe to rule them all!",
-    "icon": "https://media.forgecdn.net/avatars/41/170/635991514554675962.png",
-    "license": "MIT",
-    "authors": [
-        "McJty"
-    ],
-    "projectLinks": [
-        {
-            "type": "github",
-            "url": "https://github.com/McJtyMods/TheOneProbe"
-        },
-        {
-            "type": "issues",
-            "url": "https://github.com/McJtyMods/TheOneProbe/issues"
-        }
-    ]
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "theoneprobe",
+  "name": "The One Probe",
+  "description": "A Probe to rule them all!",
+  "icon": "https://media.forgecdn.net/avatars/41/170/635991514554675962.png",
+  "licenses": [],
+  "authors": [
+    "McJty"
+  ],
+  "projectLinks": [
+    {
+      "type": "curseforge",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/the-one-probe"
+    }
+  ]
 }

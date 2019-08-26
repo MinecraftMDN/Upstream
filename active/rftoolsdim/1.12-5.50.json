@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "id": "1.12-5.50",
+  "releaseType": "release",
+  "changelog": "https://www.curseforge.com/minecraft/mc-mods/rftools-dimensions/files/2516650",
+  "side": "universal",
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://edge.forgecdn.net/files/2516/650/rftoolsdim-1.12-5.50.jar",
+      "side": "universal"
+    }
+  ],
+  "hashes": {
+    "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "murmur2": "2673956330",
+    "md5": "ad888b77c97a51dd28d64a5dcbfa208b"
+  },
+  "size": 1636525,
+  "releaseTime": "2018-01-04T04:27:14.523Z"
+}

@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "id": "1.12-2.0.11",
+  "releaseType": "release",
+  "changelog": "https://www.curseforge.com/minecraft/mc-mods/the-lost-cities/files/2616393",
+  "side": "universal",
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://edge.forgecdn.net/files/2616/393/lostcities-1.12-2.0.11.jar",
+      "side": "universal"
+    }
+  ],
+  "hashes": {
+    "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "murmur2": "2442790802",
+    "md5": "1a9ebee45b2ca0403742ba7dfbe96f94"
+  },
+  "size": 778920,
+  "releaseTime": "2018-09-13T04:13:01.42Z"
+}

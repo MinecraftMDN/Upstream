@@ -7,7 +7,12 @@
   "icon": "https://media.forgecdn.net/avatars/37/247/635949309418908820.png",
   "licenses": [],
   "authors": [
-    "feldim2425"
+    "FeldiM245"
   ],
-  "projectLinks": []
+  "projectLinks": [
+    {
+      "type": "curseforge",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/more-overlays"
+    }
+  ]
 }

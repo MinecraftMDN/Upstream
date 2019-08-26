@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "packcrashinfo",
+  "name": "PackCrashInfo",
+  "description": "Adds a modpack name to the crashlog.",
+  "icon": "https://media.forgecdn.net/avatars/172/513/636737311927154524.png",
+  "licenses": [],
+  "authors": [
+    "BloodWorkXGaming"
+  ],
+  "projectLinks": [
+    {
+      "type": "curseforge",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/pack-crash-info"
+    }
+  ]
+}

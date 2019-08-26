@@ -7,13 +7,17 @@
   "icon": "https://media.forgecdn.net/avatars/152/272/636610312198110630.png",
   "licenses": [],
   "authors": [
-    "Jackyy",
+    "Jacky1356400",
     "Buuz135"
   ],
   "projectLinks": [
     {
       "type": "source",
-      "url": "https://github.com/JackyyTV/IntegrationForegoing"
+      "url": "https://github.com/Jacky1356400/IntegrationForegoing"
+    },
+    {
+      "type": "curseforge",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/integration-foregoing"
     }
   ]
 }

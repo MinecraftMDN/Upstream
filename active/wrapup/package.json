@@ -1,0 +1,16 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "wrapup",
+  "icon": "https://media.forgecdn.net/avatars/111/661/636389765242922730.png",
+  "licenses": [],
+  "authors": [
+    "TheLMiffy1111"
+  ],
+  "projectLinks": [
+    {
+      "type": "curseforge",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/wrapup"
+    }
+  ]
+}

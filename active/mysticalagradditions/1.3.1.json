@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "id": "1.3.1",
+  "releaseType": "release",
+  "changelog": "https://www.curseforge.com/minecraft/mc-mods/mystical-agradditions/files/2671242",
+  "side": "universal",
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://edge.forgecdn.net/files/2671/242/MysticalAgradditions-1.12.2-1.3.1.jar",
+      "side": "universal"
+    }
+  ],
+  "hashes": {
+    "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "murmur2": "4083711849",
+    "md5": "9dc7b923f2b793be2f41750ce9c53d3d"
+  },
+  "size": 134062,
+  "releaseTime": "2019-02-09T19:10:37.2Z"
+}

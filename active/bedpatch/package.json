@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "bedpatch",
+  "name": "Bed Patch",
+  "description": "Quick fix for the stuck in bed issue.",
+  "icon": "https://media.forgecdn.net/avatars/132/883/636478921997010608.jpeg",
+  "licenses": [],
+  "authors": [
+    "Mordenkainen3141"
+  ],
+  "projectLinks": [
+    {
+      "type": "curseforge",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/bed-patch"
+    }
+  ]
+}

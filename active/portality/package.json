@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "portality",
+  "name": "Portality",
+  "description": "Thinking through portals",
+  "icon": "https://media.forgecdn.net/avatars/171/955/636733113858522171.png",
+  "licenses": [],
+  "authors": [
+    "Buuz135"
+  ],
+  "projectLinks": [
+    {
+      "type": "curseforge",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/portality"
+    }
+  ]
+}

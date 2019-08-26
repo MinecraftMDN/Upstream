@@ -8,13 +8,16 @@
   "licenses": [],
   "authors": [
     "TehNut",
-    "Dhvagra",
-    "InsomniaKitten"
+    "Original_Dutch"
   ],
   "projectLinks": [
     {
       "type": "website",
       "url": "http://tehnut.info/"
+    },
+    {
+      "type": "curseforge",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/xtones"
     }
   ]
 }

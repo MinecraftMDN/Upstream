@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "id": "2.23.2.1007",
+  "releaseType": "release",
+  "changelog": "https://www.curseforge.com/minecraft/mc-mods/techreborn/files/2746983",
+  "side": "universal",
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://edge.forgecdn.net/files/2746/983/TechReborn-1.12.2-2.23.2.1007-universal.jar",
+      "side": "universal"
+    }
+  ],
+  "hashes": {
+    "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "murmur2": "1873164492",
+    "md5": "4f9d1890180892a1bca5294f8cadd4db"
+  },
+  "size": 2495734,
+  "releaseTime": "2019-07-23T17:04:33.703Z"
+}

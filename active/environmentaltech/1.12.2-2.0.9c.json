@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "id": "1.12.2-2.0.9c",
+  "releaseType": "release",
+  "changelog": "https://www.curseforge.com/minecraft/mc-mods/environmental-tech/files/2546309",
+  "side": "universal",
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://edge.forgecdn.net/files/2546/309/environmentaltech-1.12.2-2.0.9c.jar",
+      "side": "universal"
+    }
+  ],
+  "hashes": {
+    "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "murmur2": "3120032797",
+    "md5": "f6cafb05d2480d81a5bbec805c10c2bd"
+  },
+  "size": 790640,
+  "releaseTime": "2018-03-29T16:31:05.223Z"
+}

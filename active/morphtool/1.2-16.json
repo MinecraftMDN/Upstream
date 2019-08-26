@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "id": "1.2-16",
+  "releaseType": "release",
+  "changelog": "https://www.curseforge.com/minecraft/mc-mods/morph-o-tool/files/2475117",
+  "side": "universal",
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://edge.forgecdn.net/files/2475/117/Morph-o-Tool-1.2-16.jar",
+      "side": "universal"
+    }
+  ],
+  "hashes": {
+    "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "murmur2": "4037997194",
+    "md5": "3b199ebf54475d8ab7fb1bd069325478"
+  },
+  "size": 26285,
+  "releaseTime": "2017-09-03T15:45:20.15Z"
+}

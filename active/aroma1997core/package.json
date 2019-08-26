@@ -1,0 +1,21 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "aroma1997core",
+  "name": "Aroma1997Core",
+  "description": "This is basically a library used by most my other mods.",
+  "licenses": [],
+  "authors": [
+    "Aroma1997"
+  ],
+  "projectLinks": [
+    {
+      "type": "website",
+      "url": "http://www.minecraftforum.net/topic/1679684-"
+    },
+    {
+      "type": "curseforge",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/aroma1997core"
+    }
+  ]
+}

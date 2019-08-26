@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "id": "1.12.2-2.9.1.65",
+  "releaseType": "release",
+  "changelog": "https://www.curseforge.com/minecraft/mc-mods/tinkers-construct/files/2530200",
+  "side": "universal",
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://edge.forgecdn.net/files/2530/200/TConstruct-1.12.2-2.9.1.65.jar",
+      "side": "universal"
+    }
+  ],
+  "hashes": {
+    "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "murmur2": "2308260770",
+    "md5": "5d25cd5d624acc0f3333ea11da65252d"
+  },
+  "size": 3760118,
+  "releaseTime": "2018-02-11T12:58:05.54Z"
+}

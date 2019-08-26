@@ -1,0 +1,21 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "mrtjpcore",
+  "name": "MrTJPCore",
+  "description": "Core libs and utilities",
+  "licenses": [],
+  "authors": [
+    "Mr_TJP"
+  ],
+  "projectLinks": [
+    {
+      "type": "website",
+      "url": "..."
+    },
+    {
+      "type": "curseforge",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/mrtjpcore"
+    }
+  ]
+}

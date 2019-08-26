@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "kleeslabs",
+  "name": "KleeSlabs",
+  "description": "Allows holding shift to only break one half of a double slab.",
+  "icon": "https://media.forgecdn.net/avatars/203/889/636935511172009471.png",
+  "licenses": [],
+  "authors": [
+    "BlayTheNinth"
+  ],
+  "projectLinks": [
+    {
+      "type": "curseforge",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/kleeslabs"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "storagedrawersextra",
+  "name": "Storage Drawers Extras",
+  "description": "Additional drawers from third party materials.",
+  "icon": "https://media.forgecdn.net/avatars/75/935/636169335259193625.png",
+  "licenses": [],
+  "authors": [
+    "jaquadro"
+  ],
+  "projectLinks": [
+    {
+      "type": "website",
+      "url": "http://www.jaquadro.com/"
+    },
+    {
+      "type": "curseforge",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/storage-drawers-extras"
+    }
+  ]
+}

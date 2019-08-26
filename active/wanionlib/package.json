@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "wanionlib",
+  "name": "WanionLib",
+  "description": "Shared Code Library Used by (not)all WanionCane mods!",
+  "icon": "https://media.forgecdn.net/avatars/54/891/636139361607090816.png",
+  "licenses": [],
+  "authors": [
+    "WanionCane"
+  ],
+  "projectLinks": [
+    {
+      "type": "curseforge",
+      "url": "http://minecraft.curseforge.com/projects/wanionlib"
+    }
+  ]
+}

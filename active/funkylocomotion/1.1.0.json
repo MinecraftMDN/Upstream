@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "id": "1.1.0",
+  "releaseType": "release",
+  "changelog": "https://www.curseforge.com/minecraft/mc-mods/funky-locomotion/files/2504291",
+  "side": "universal",
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://edge.forgecdn.net/files/2504/291/funky-locomotion-1.12.2-1.1.0.jar",
+      "side": "universal"
+    }
+  ],
+  "hashes": {
+    "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "murmur2": "3725397530",
+    "md5": "22a09e4c57fb5e4993564b4b4ad61837"
+  },
+  "size": 250783,
+  "releaseTime": "2017-11-28T05:48:53.49Z"
+}

@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "lostcities",
+  "name": "The Lost Cities",
+  "description": "The Lost Cities World Generator",
+  "icon": "https://media.forgecdn.net/avatars/101/102/636320465430890063.png",
+  "licenses": [],
+  "authors": [
+    "McJty"
+  ],
+  "projectLinks": [
+    {
+      "type": "curseforge",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/the-lost-cities"
+    }
+  ]
+}

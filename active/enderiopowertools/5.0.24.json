@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "id": "5.0.24",
+  "releaseType": "release",
+  "changelog": "https://www.curseforge.com/minecraft/mc-mods/ender-io/files/2558622",
+  "side": "universal",
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://edge.forgecdn.net/files/2558/622/EnderIO-1.12.2-5.0.24.jar",
+      "side": "universal"
+    }
+  ],
+  "hashes": {
+    "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "murmur2": "1747815180",
+    "md5": "2bcb5bc88f47da8b773ffd2839b22622"
+  },
+  "size": 5977493,
+  "releaseTime": "2018-05-05T07:58:43.037Z"
+}

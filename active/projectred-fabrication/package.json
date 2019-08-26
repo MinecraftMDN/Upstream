@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "projectred-fabrication",
+  "name": "ProjectRed Fabrication",
+  "icon": "https://media.forgecdn.net/avatars/17/378/635662489243306687.png",
+  "licenses": [],
+  "authors": [
+    "Mr_TJP",
+    "covers1624"
+  ],
+  "projectLinks": [
+    {
+      "type": "curseforge",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/project-red-fabrication"
+    }
+  ]
+}

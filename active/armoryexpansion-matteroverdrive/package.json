@@ -1,0 +1,16 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "armoryexpansion-matteroverdrive",
+  "icon": "https://media.forgecdn.net/avatars/152/891/636614810648892587.png",
+  "licenses": [],
+  "authors": [
+    "AshuraNoYami"
+  ],
+  "projectLinks": [
+    {
+      "type": "curseforge",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/armory-expansion"
+    }
+  ]
+}

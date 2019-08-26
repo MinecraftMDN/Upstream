@@ -1,0 +1,25 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "minecolonies",
+  "name": "MineColonies",
+  "description": " MineColonies is a Colony/Town Simulator that adds many structures and NPC workers and guards that you control and put to work for you! Based around a townhall and village mechanic, there are numerous workers that can be added to your colony, building a busy and vibrant village/town/city within Minecraft. There is no coded limit to the number of NPC\u0027s at your disposal, so you can create a small efficient Village dedicated to a particular type of worker, or a sprawling metropolis with many workers. \n It\u0027s entirely up to you!",
+  "icon": "https://media.forgecdn.net/avatars/41/680/635999200063962019.png",
+  "licenses": [],
+  "authors": [
+    "H3lay",
+    "flaminyogurt",
+    "MinecoloniesPete",
+    "Kostronor"
+  ],
+  "projectLinks": [
+    {
+      "type": "website",
+      "url": "http://minecolonies.com"
+    },
+    {
+      "type": "curseforge",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/minecolonies"
+    }
+  ]
+}
