@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "id": "0.10.7",
+  "releaseType": "release",
+  "changelog": "https://www.curseforge.com/minecraft/mc-mods/wizardry-mod/files/2722805",
+  "side": "universal",
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://edge.forgecdn.net/files/2722/805/wizardry-0.10.7.jar",
+      "side": "universal"
+    }
+  ],
+  "hashes": {
+    "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "murmur2": "3178286907",
+    "md5": "31deaa180ee64ff5f4192c85d4067875"
+  },
+  "size": 9165267,
+  "releaseTime": "2019-06-10T11:35:15.207Z"
+}

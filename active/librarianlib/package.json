@@ -7,14 +7,15 @@
   "icon": "https://media.forgecdn.net/avatars/54/210/636132666210096465.png",
   "licenses": [],
   "authors": [
-    "thecodewarrior",
-    "wiresegal",
-    "LordSaad44",
-    "Elucent",
-    "Eladkay",
-    "murapix",
-    "werty1124",
-    "Leviathan143"
+    "yrsegal",
+    "thecodewarrior1",
+    "Bluexino",
+    "Demoniaque1"
   ],
-  "projectLinks": []
+  "projectLinks": [
+    {
+      "type": "curseforge",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/librarianlib"
+    }
+  ]
 }

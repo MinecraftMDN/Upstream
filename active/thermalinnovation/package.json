@@ -7,12 +7,17 @@
   "icon": "https://media.forgecdn.net/avatars/149/185/636587412825274837.png",
   "licenses": [],
   "authors": [
-    "Team CoFH"
+    "TeamCoFH",
+    "KingLemming"
   ],
   "projectLinks": [
     {
       "type": "website",
       "url": "http://www.teamcofh.com"
+    },
+    {
+      "type": "curseforge",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/thermal-innovation"
     }
   ]
 }

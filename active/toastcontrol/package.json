@@ -6,6 +6,13 @@
   "description": "Control what toasts are enabled, because some of them are useless.",
   "icon": "https://media.forgecdn.net/avatars/105/330/636352185216944005.png",
   "licenses": [],
-  "authors": [],
-  "projectLinks": []
+  "authors": [
+    "Shadows_of_Fire"
+  ],
+  "projectLinks": [
+    {
+      "type": "curseforge",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/toast-control"
+    }
+  ]
 }

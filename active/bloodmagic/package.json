@@ -14,6 +14,10 @@
     {
       "type": "website",
       "url": "http://www.minecraftforum.net/topic/1899223-bloodmagic"
+    },
+    {
+      "type": "curseforge",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/blood-magic"
     }
   ]
 }

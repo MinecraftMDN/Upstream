@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "id": "1.0.3.11",
+  "releaseType": "release",
+  "changelog": "https://www.curseforge.com/minecraft/mc-mods/item-filters/files/2696695",
+  "side": "universal",
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://edge.forgecdn.net/files/2696/695/ItemFilters-1.0.3.11.jar",
+      "side": "universal"
+    }
+  ],
+  "hashes": {
+    "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "murmur2": "2756159915",
+    "md5": "f81f8eb50cb01c63b686e000bcde7ec2"
+  },
+  "size": 78398,
+  "releaseTime": "2019-04-08T00:05:48.377Z"
+}

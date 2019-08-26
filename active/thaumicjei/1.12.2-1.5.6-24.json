@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "id": "1.12.2-1.5.6-24",
+  "releaseType": "release",
+  "changelog": "https://www.curseforge.com/minecraft/mc-mods/thaumic-jei/files/2693893",
+  "side": "client",
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://edge.forgecdn.net/files/2693/893/ThaumicJEI-1.12.2-1.5.6-24.jar",
+      "side": "universal"
+    }
+  ],
+  "hashes": {
+    "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "murmur2": "3458446344",
+    "md5": "07df7f1165ca5358197b9d3a5f6e718f"
+  },
+  "size": 55607,
+  "releaseTime": "2019-03-31T20:22:55.48Z"
+}

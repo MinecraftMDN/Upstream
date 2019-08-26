@@ -7,9 +7,12 @@
   "icon": "https://media.forgecdn.net/avatars/194/771/636874958527335402.png",
   "licenses": [],
   "authors": [
-    "Shadows_of_Fire",
-    "TheEmosewaPixel",
-    "Bartz24"
+    "Shadows_of_Fire"
   ],
-  "projectLinks": []
+  "projectLinks": [
+    {
+      "type": "curseforge",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/shadows-of-greg"
+    }
+  ]
 }

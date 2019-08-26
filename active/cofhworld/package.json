@@ -7,12 +7,18 @@
   "icon": "https://media.forgecdn.net/avatars/104/743/636348016483205863.png",
   "licenses": [],
   "authors": [
-    "Team CoFH"
+    "TeamCoFH",
+    "skyboy026",
+    "KingLemming"
   ],
   "projectLinks": [
     {
       "type": "website",
       "url": "http://www.teamcofh.com"
+    },
+    {
+      "type": "curseforge",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/cofh-world"
     }
   ]
 }

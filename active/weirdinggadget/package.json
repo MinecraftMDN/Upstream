@@ -7,13 +7,16 @@
   "icon": "https://media.forgecdn.net/avatars/87/885/636219293075290488.jpeg",
   "licenses": [],
   "authors": [
-    "AtomicBlom",
-    "Rorax"
+    "AtomicBlom"
   ],
   "projectLinks": [
     {
       "type": "source",
       "url": "http://github.com/AtomicBlom/WeirdingGadget"
+    },
+    {
+      "type": "curseforge",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/the-weirding-gadget"
     }
   ]
 }

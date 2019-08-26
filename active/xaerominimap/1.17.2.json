@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "id": "1.17.2",
+  "releaseType": "release",
+  "changelog": "https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap/files/2727155",
+  "side": "client",
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://edge.forgecdn.net/files/2727/155/Xaeros_Minimap_1.17.2_Forge_1.12.jar",
+      "side": "universal"
+    }
+  ],
+  "hashes": {
+    "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "murmur2": "4125430592",
+    "md5": "edd92e6b2a4040baf8a1062763d90a4e"
+  },
+  "size": 386276,
+  "releaseTime": "2019-06-20T08:02:41.227Z"
+}

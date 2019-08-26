@@ -7,15 +7,19 @@
   "icon": "https://media.forgecdn.net/avatars/159/677/636660528231565543.png",
   "licenses": [],
   "authors": [
-    "CrazyPants",
-    "tterrag",
-    "HenryLoenwind",
-    "EpicSquid"
+    "Henry_Loenwind",
+    "CrazyPants_MC",
+    "tterrag1098",
+    "EpicSquid319"
   ],
   "projectLinks": [
     {
       "type": "website",
       "url": "http://enderio.com"
+    },
+    {
+      "type": "curseforge",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/ender-io-tic"
     }
   ]
 }

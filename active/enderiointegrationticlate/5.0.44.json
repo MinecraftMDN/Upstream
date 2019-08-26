@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "id": "5.0.44",
+  "releaseType": "release",
+  "changelog": "https://www.curseforge.com/minecraft/mc-mods/ender-io-tic/files/2708305",
+  "side": "universal",
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://edge.forgecdn.net/files/2708/305/EnderIO-integration-tic-1.12.2-5.0.44.jar",
+      "side": "universal"
+    }
+  ],
+  "hashes": {
+    "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "murmur2": "973317391",
+    "md5": "8fa40c4895fc12b465a4f061216c8969"
+  },
+  "size": 107948,
+  "releaseTime": "2019-05-07T17:41:17.523Z"
+}

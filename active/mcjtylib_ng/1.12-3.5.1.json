@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "id": "1.12-3.5.1",
+  "releaseType": "release",
+  "changelog": "https://www.curseforge.com/minecraft/mc-mods/mcjtylib/files/2707488",
+  "side": "universal",
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://edge.forgecdn.net/files/2707/488/mcjtylib-1.12-3.5.1.jar",
+      "side": "universal"
+    }
+  ],
+  "hashes": {
+    "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "murmur2": "856031897",
+    "md5": "33ef659b85da25a531ed27a8ccafe44d"
+  },
+  "size": 543237,
+  "releaseTime": "2019-05-05T11:58:20.573Z"
+}

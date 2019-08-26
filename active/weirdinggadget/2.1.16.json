@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "id": "2.1.16",
+  "releaseType": "release",
+  "changelog": "https://www.curseforge.com/minecraft/mc-mods/the-weirding-gadget/files/2708729",
+  "side": "universal",
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://edge.forgecdn.net/files/2708/729/weirdinggadget-1.12.2-2.1.16-universal.jar",
+      "side": "universal"
+    }
+  ],
+  "hashes": {
+    "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "murmur2": "1349726620",
+    "md5": "5202fdedc964a267510ec24225704aa3"
+  },
+  "size": 181054,
+  "releaseTime": "2019-05-08T21:47:35.813Z"
+}

@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "id": "2.1.1",
+  "releaseType": "release",
+  "changelog": "https://www.curseforge.com/minecraft/mc-mods/resizing-potion/files/2716875",
+  "side": "universal",
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://edge.forgecdn.net/files/2716/875/resizingpotion-2.1.1.jar",
+      "side": "universal"
+    }
+  ],
+  "hashes": {
+    "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "murmur2": "306173677",
+    "md5": "90652e72990d93762268ca9fea9ed206"
+  },
+  "size": 41821,
+  "releaseTime": "2019-05-28T13:32:56.36Z"
+}

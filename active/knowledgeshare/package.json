@@ -9,5 +9,10 @@
   "authors": [
     "Rongmario"
   ],
-  "projectLinks": []
+  "projectLinks": [
+    {
+      "type": "curseforge",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/knowledge-sharer"
+    }
+  ]
 }

@@ -7,12 +7,16 @@
   "icon": "https://media.forgecdn.net/avatars/13/493/635565260290764399.png",
   "licenses": [],
   "authors": [
-    "zlainsama"
+    "ZLainSama"
   ],
   "projectLinks": [
     {
       "type": "source",
       "url": "https://github.com/zlainsama/cleanview"
+    },
+    {
+      "type": "curseforge",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/cleanview"
     }
   ]
 }

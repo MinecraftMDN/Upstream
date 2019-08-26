@@ -7,9 +7,12 @@
   "icon": "https://media.forgecdn.net/avatars/127/989/636443620978138933.png",
   "licenses": [],
   "authors": [
-    "BordListian",
-    "DJJBanx",
-    "superfluke"
+    "BordListian"
   ],
-  "projectLinks": []
+  "projectLinks": [
+    {
+      "type": "curseforge",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/modular-diversity"
+    }
+  ]
 }

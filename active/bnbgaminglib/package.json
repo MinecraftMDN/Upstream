@@ -7,12 +7,18 @@
   "icon": "https://media.forgecdn.net/avatars/16/506/635646354964416952.png",
   "licenses": [],
   "authors": [
-    "Blargerist, superckl"
+    "BloodNBonesGaming",
+    "superckl",
+    "Blargerist"
   ],
   "projectLinks": [
     {
       "type": "website",
       "url": "http://bloodnbonesgaming.com/"
+    },
+    {
+      "type": "curseforge",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/bnbgaminglib"
     }
   ]
 }

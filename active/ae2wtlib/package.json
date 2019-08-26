@@ -4,10 +4,15 @@
   "id": "ae2wtlib",
   "name": "AE2 Wireless Terminals (AE2WTLib)",
   "description": "A Library which provides basic functions to create AE2 Wireless Terminals with infinite range capabilities",
-  "icon": "https://media.forgecdn.net/avatars/172/927/636740055512539953.png",
+  "icon": "https://media.forgecdn.net/avatars/207/38/636963109603309672.png",
   "licenses": [],
   "authors": [
     "TheRealp455w0rd"
   ],
-  "projectLinks": []
+  "projectLinks": [
+    {
+      "type": "curseforge",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/ae2wtlib"
+    }
+  ]
 }

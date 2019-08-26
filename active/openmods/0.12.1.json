@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "id": "0.12.1",
+  "releaseType": "release",
+  "changelog": "https://www.curseforge.com/minecraft/mc-mods/openmodslib/files/2623007",
+  "side": "universal",
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://edge.forgecdn.net/files/2623/7/OpenModsLib-1.12.2-0.12.1.jar",
+      "side": "universal"
+    }
+  ],
+  "hashes": {
+    "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "murmur2": "474439055",
+    "md5": "8dc58701a5c48958a68aca418390e4f3"
+  },
+  "size": 2639564,
+  "releaseTime": "2018-10-01T16:37:50.257Z"
+}

@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "rf-capability-adapter",
+  "name": "Capability Adapter",
+  "description": "A mod that adds capability adapters to allow certain things to work with capability proxies.",
+  "icon": "https://media.forgecdn.net/avatars/130/328/636459514229580290.jpeg",
+  "licenses": [],
+  "authors": [
+    "ruifung"
+  ],
+  "projectLinks": [
+    {
+      "type": "curseforge",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/capability-adapter"
+    }
+  ]
+}

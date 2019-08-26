@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "id": "5.5.4.43",
+  "releaseType": "release",
+  "changelog": "https://www.curseforge.com/minecraft/mc-mods/thermal-expansion/files/2715789",
+  "side": "universal",
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://edge.forgecdn.net/files/2715/789/ThermalExpansion-1.12.2-5.5.4.43-universal.jar",
+      "side": "universal"
+    }
+  ],
+  "hashes": {
+    "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "murmur2": "2656535456",
+    "md5": "53144cfec12795862d20aa07750c9a59"
+  },
+  "size": 2426151,
+  "releaseTime": "2019-05-25T22:42:09.493Z"
+}

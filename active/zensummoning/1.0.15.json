@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "id": "1.0.15",
+  "releaseType": "release",
+  "changelog": "https://www.curseforge.com/minecraft/mc-mods/zen-summoning/files/2724384",
+  "side": "universal",
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://edge.forgecdn.net/files/2724/384/Zen Summoning-1.12-1.0.15.jar",
+      "side": "universal"
+    }
+  ],
+  "hashes": {
+    "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "murmur2": "631780661",
+    "md5": "afaf11eada81995dcca096c09323b5fa"
+  },
+  "size": 42986,
+  "releaseTime": "2019-06-14T02:50:39.137Z"
+}

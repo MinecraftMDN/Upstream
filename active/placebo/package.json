@@ -9,5 +9,10 @@
   "authors": [
     "Shadows_of_Fire"
   ],
-  "projectLinks": []
+  "projectLinks": [
+    {
+      "type": "curseforge",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/placebo"
+    }
+  ]
 }

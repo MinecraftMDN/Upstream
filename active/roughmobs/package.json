@@ -9,5 +9,10 @@
   "authors": [
     "Lellson"
   ],
-  "projectLinks": []
+  "projectLinks": [
+    {
+      "type": "curseforge",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/rough-mobs-2"
+    }
+  ]
 }

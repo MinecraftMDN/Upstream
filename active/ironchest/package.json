@@ -7,12 +7,17 @@
   "icon": "https://media.forgecdn.net/avatars/15/434/635625656444075090.png",
   "licenses": [],
   "authors": [
-    "cpw"
+    "progwml6",
+    "Alexbegt"
   ],
   "projectLinks": [
     {
       "type": "website",
       "url": "http://www.minecraftforum.net/topic/981855-"
+    },
+    {
+      "type": "curseforge",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/iron-chests"
     }
   ]
 }

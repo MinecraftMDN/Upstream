@@ -7,13 +7,16 @@
   "icon": "https://media.forgecdn.net/avatars/36/643/635941051938350675.png",
   "licenses": [],
   "authors": [
-    "Vazkii",
-    "wiiv"
+    "Vazkii_"
   ],
   "projectLinks": [
     {
       "type": "website",
       "url": "http://www.vazkii.us"
+    },
+    {
+      "type": "curseforge",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/quark"
     }
   ]
 }

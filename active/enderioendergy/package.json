@@ -7,15 +7,19 @@
   "icon": "https://media.forgecdn.net/avatars/173/547/636744592426092398.png",
   "licenses": [],
   "authors": [
-    "EpicSquid",
-    "CrazyPants",
-    "tterrag",
-    "HenryLoenwind"
+    "tterrag1098",
+    "EpicSquid319",
+    "CrazyPants_MC",
+    "Henry_Loenwind"
   ],
   "projectLinks": [
     {
       "type": "website",
       "url": "http://enderio.com"
+    },
+    {
+      "type": "curseforge",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/ender-io-endergy"
     }
   ]
 }

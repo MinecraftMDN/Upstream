@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "id": "1.2.0.3",
+  "releaseType": "release",
+  "changelog": "https://www.curseforge.com/minecraft/mc-mods/no-night-vision-flashing/files/2550651",
+  "side": "client",
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://edge.forgecdn.net/files/2550/651/NoNVFlash-1.12.2-1.2.0.3-universal.jar",
+      "side": "universal"
+    }
+  ],
+  "hashes": {
+    "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "murmur2": "3477904127",
+    "md5": "963d5da7918e38a5ae3beab819aad909"
+  },
+  "size": 7216,
+  "releaseTime": "2018-04-11T00:16:52.05Z"
+}

@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "id": "4.0.16",
+  "releaseType": "release",
+  "changelog": "https://www.curseforge.com/minecraft/mc-mods/modtweaker/files/2666266",
+  "side": "universal",
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://edge.forgecdn.net/files/2666/266/modtweaker-4.0.16.jar",
+      "side": "universal"
+    }
+  ],
+  "hashes": {
+    "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "murmur2": "327818037",
+    "md5": "c6068f289820a544737b6cb3a98be8af"
+  },
+  "size": 433948,
+  "releaseTime": "2019-01-29T01:43:39.43Z"
+}

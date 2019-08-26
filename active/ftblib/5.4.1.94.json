@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "id": "5.4.1.94",
+  "releaseType": "release",
+  "changelog": "https://www.curseforge.com/minecraft/mc-mods/ftblib/files/2697005",
+  "side": "universal",
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://edge.forgecdn.net/files/2697/5/FTBLib-5.4.1.94.jar",
+      "side": "universal"
+    }
+  ],
+  "hashes": {
+    "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "murmur2": "685611175",
+    "md5": "bbc147efe5aac46feb7b9be5be796094"
+  },
+  "size": 886840,
+  "releaseTime": "2019-04-08T17:30:29.52Z"
+}

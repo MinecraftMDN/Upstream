@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "id": "1.12.2",
+  "releaseType": "release",
+  "changelog": "https://www.curseforge.com/minecraft/mc-mods/just-enough-harvestcraft/files/2637650",
+  "side": "client",
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://edge.forgecdn.net/files/2637/650/JEHC-1.12.2-1.6.2.0.jar",
+      "side": "universal"
+    }
+  ],
+  "hashes": {
+    "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "murmur2": "384732015",
+    "md5": "e8b4cc535250c94a3bc6ab9c5c689175"
+  },
+  "size": 35252,
+  "releaseTime": "2018-11-13T02:59:14.847Z"
+}

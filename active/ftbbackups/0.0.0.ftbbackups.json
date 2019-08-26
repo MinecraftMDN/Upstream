@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "id": "0.0.0.ftbbackups",
+  "releaseType": "release",
+  "changelog": "https://www.curseforge.com/minecraft/mc-mods/ftb-utilities-backups/files/2684368",
+  "side": "universal",
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://edge.forgecdn.net/files/2684/368/FTBUtilitiesBackups-1.0.0.2.jar",
+      "side": "universal"
+    }
+  ],
+  "hashes": {
+    "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "murmur2": "1696415",
+    "md5": "31a2abc1a414e07fd909252649b5888a"
+  },
+  "size": 41009,
+  "releaseTime": "2019-03-07T08:58:10.647Z"
+}

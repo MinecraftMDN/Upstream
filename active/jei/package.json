@@ -13,6 +13,10 @@
     {
       "type": "source",
       "url": "https://github.com/mezz/JustEnoughItems"
+    },
+    {
+      "type": "curseforge",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/jei"
     }
   ]
 }

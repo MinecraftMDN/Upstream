@@ -2,9 +2,15 @@
   "formatVersion": 0,
   "type": "mod",
   "id": "p455w0rdslib",
-  "name": "p455w0rd\u0027s Library",
   "icon": "https://media.forgecdn.net/avatars/77/605/636174826217128993.png",
   "licenses": [],
-  "authors": [],
-  "projectLinks": []
+  "authors": [
+    "TheRealp455w0rd"
+  ],
+  "projectLinks": [
+    {
+      "type": "curseforge",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/p455w0rds-library"
+    }
+  ]
 }

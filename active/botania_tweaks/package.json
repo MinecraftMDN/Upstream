@@ -7,7 +7,12 @@
   "icon": "https://media.forgecdn.net/avatars/198/357/636899542330877882.png",
   "licenses": [],
   "authors": [
-    "quaternary"
+    "quat1024"
   ],
-  "projectLinks": []
+  "projectLinks": [
+    {
+      "type": "curseforge",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/botania-tweaks"
+    }
+  ]
 }

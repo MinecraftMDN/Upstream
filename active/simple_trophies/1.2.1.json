@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "id": "1.2.1",
+  "releaseType": "release",
+  "changelog": "https://www.curseforge.com/minecraft/mc-mods/simple-trophies/files/2716718",
+  "side": "universal",
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://edge.forgecdn.net/files/2716/718/simpletrophies-1.2.1.jar",
+      "side": "universal"
+    }
+  ],
+  "hashes": {
+    "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "murmur2": "3771704257",
+    "md5": "aba956726a921f96baac902926def235"
+  },
+  "size": 50494,
+  "releaseTime": "2019-05-28T00:19:02.777Z"
+}

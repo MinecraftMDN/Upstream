@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "csb_ench_table",
+  "name": "Lapis Stays in the Enchanting Table",
+  "description": "Makes the lapis slot on the enchanting table persistent, so your lapis stays put!",
+  "icon": "https://media.forgecdn.net/avatars/93/435/636262968971943312.png",
+  "licenses": [],
+  "authors": [
+    "csb987"
+  ],
+  "projectLinks": [
+    {
+      "type": "curseforge",
+      "url": "https://minecraft.curseforge.com/projects/lapis-stays-in-the-enchanting-table/"
+    }
+  ]
+}

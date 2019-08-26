@@ -7,12 +7,17 @@
   "icon": "https://media.forgecdn.net/avatars/5/264/635351429324826696.png",
   "licenses": [],
   "authors": [
-    "Team CoFH"
+    "TeamCoFH",
+    "KingLemming"
   ],
   "projectLinks": [
     {
       "type": "website",
       "url": "http://www.teamcofh.com"
+    },
+    {
+      "type": "curseforge",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/redstone-arsenal"
     }
   ]
 }

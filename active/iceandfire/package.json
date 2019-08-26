@@ -7,8 +7,13 @@
   "icon": "https://media.forgecdn.net/avatars/190/975/636857615673605328.png",
   "licenses": [],
   "authors": [
-    "Alexthe666",
-    "Raptorfarian"
+    "alex1the1666",
+    "raptorfarian"
   ],
-  "projectLinks": []
+  "projectLinks": [
+    {
+      "type": "curseforge",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/ice-and-fire-dragons"
+    }
+  ]
 }

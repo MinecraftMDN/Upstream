@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "id": "2.9.1",
+  "releaseType": "release",
+  "changelog": "https://www.curseforge.com/minecraft/mc-mods/guidebook/files/2708746",
+  "side": "universal",
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://edge.forgecdn.net/files/2708/746/Guidebook-1.12.2-2.9.1.jar",
+      "side": "universal"
+    }
+  ],
+  "hashes": {
+    "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "murmur2": "2118517475",
+    "md5": "5d388772ae915dd35814a0565e90dbb3"
+  },
+  "size": 247172,
+  "releaseTime": "2019-05-08T23:16:49.35Z"
+}

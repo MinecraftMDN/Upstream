@@ -4,10 +4,15 @@
   "id": "wct",
   "name": "Wireless Crafting Terminal 2",
   "description": "Adds a wireless version of the AE2 crafting terminal",
-  "icon": "https://media.forgecdn.net/avatars/39/21/635976041051393318.png",
+  "icon": "https://media.forgecdn.net/avatars/207/33/636963091026123285.png",
   "licenses": [],
   "authors": [
     "TheRealp455w0rd"
   ],
-  "projectLinks": []
+  "projectLinks": [
+    {
+      "type": "curseforge",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/wireless-crafting-terminal"
+    }
+  ]
 }

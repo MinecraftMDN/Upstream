@@ -1,19 +1,22 @@
 {
   "formatVersion": 0,
   "id": "1.5.0",
-  "releaseType": "",
-  "changelog": "",
-  "relationships": [],
+  "releaseType": "release",
+  "changelog": "https://www.curseforge.com/minecraft/mc-mods/littletiles/files/2699531",
+  "side": "universal",
   "artifacts": [
     {
       "type": "direct",
-      "id": "https://files.forgecdn.net/files/2703/258/LittleTiles_v1.5.0-pre135_mc1.12.2.jar"
+      "id": "https://edge.forgecdn.net/files/2699/531/LittleTiles_v1.5.0-pre134_mc1.12.2.jar",
+      "side": "universal"
     }
   ],
   "hashes": {
-    "sha256": "77e950ea6b369151a6f0b9ff293191b76a4f2db1d90bc41af4e205a3331e4ffd"
+    "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "murmur2": "691326300",
+    "md5": "45f357f7ba42ee6684c2ed0d47f73ca6"
   },
-  "size": 0,
-  "filename": "",
-  "releaseTime": ""
+  "size": 1408661,
+  "releaseTime": "2019-04-15T14:09:49.043Z"
 }

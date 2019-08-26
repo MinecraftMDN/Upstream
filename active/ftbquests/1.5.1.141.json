@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "id": "1.5.1.141",
+  "releaseType": "release",
+  "changelog": "https://www.curseforge.com/minecraft/mc-mods/ftb-quests/files/2694602",
+  "side": "universal",
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://edge.forgecdn.net/files/2694/602/FTBQuests-1.5.1.141.jar",
+      "side": "universal"
+    }
+  ],
+  "hashes": {
+    "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "murmur2": "3130009198",
+    "md5": "05febd5090e1b297f9d3ec93c30d72af"
+  },
+  "size": 835486,
+  "releaseTime": "2019-04-02T02:16:13.347Z"
+}

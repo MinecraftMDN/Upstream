@@ -8,13 +8,17 @@
   "licenses": [],
   "authors": [
     "modmuss50",
-    "Gigabit101",
-    "Prospector"
+    "ProfessorProspector",
+    "Gigabit1011"
   ],
   "projectLinks": [
     {
       "type": "source",
       "url": "https://github.com/TechReborn/RebornCore"
+    },
+    {
+      "type": "curseforge",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/reborncore"
     }
   ]
 }

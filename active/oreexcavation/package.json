@@ -8,7 +8,12 @@
   "licenses": [],
   "authors": [
     "Funwayguy",
-    "Darkosto"
+    "darkosto"
   ],
-  "projectLinks": []
+  "projectLinks": [
+    {
+      "type": "curseforge",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/ore-excavation"
+    }
+  ]
 }

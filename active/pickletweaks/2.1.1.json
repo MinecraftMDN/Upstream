@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "id": "2.1.1",
+  "releaseType": "release",
+  "changelog": "https://www.curseforge.com/minecraft/mc-mods/pickle-tweaks/files/2675463",
+  "side": "universal",
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://edge.forgecdn.net/files/2675/463/PickleTweaks-1.12.2-2.1.1.jar",
+      "side": "universal"
+    }
+  ],
+  "hashes": {
+    "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "murmur2": "3412738008",
+    "md5": "a107951dc2438d151a95e4b5c398e189"
+  },
+  "size": 251779,
+  "releaseTime": "2019-02-16T20:40:17.467Z"
+}

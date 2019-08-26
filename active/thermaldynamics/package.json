@@ -7,12 +7,18 @@
   "icon": "https://media.forgecdn.net/avatars/14/24/635583020784370905.png",
   "licenses": [],
   "authors": [
-    "Team CoFH"
+    "TeamCoFH",
+    "KingLemming",
+    "RWTema"
   ],
   "projectLinks": [
     {
       "type": "website",
       "url": "http://www.teamcofh.com"
+    },
+    {
+      "type": "curseforge",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/thermal-dynamics"
     }
   ]
 }

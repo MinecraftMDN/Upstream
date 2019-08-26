@@ -2,19 +2,14 @@
   "formatVersion": 0,
   "type": "mod",
   "id": "xaerominimap",
-  "name": "Xaero's Minimap",
-  "description": "The most \"vanilla-looking\" minimap for Minecraft.",
   "icon": "https://media.forgecdn.net/avatars/92/854/636258666554688823.png",
+  "licenses": [],
   "authors": [
-    "Xaero96"
+    "xaero96"
   ],
   "projectLinks": [
     {
-      "type": "issues",
-      "url": "https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap/issues"
-    },
-    {
-      "type": "cursefprge",
+      "type": "curseforge",
       "url": "https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap"
     }
   ]

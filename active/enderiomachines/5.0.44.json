@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "id": "5.0.44",
+  "releaseType": "release",
+  "changelog": "https://www.curseforge.com/minecraft/mc-mods/ender-io-machines/files/2708299",
+  "side": "universal",
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://edge.forgecdn.net/files/2708/299/EnderIO-machines-1.12.2-5.0.44.jar",
+      "side": "universal"
+    }
+  ],
+  "hashes": {
+    "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "murmur2": "2542087675",
+    "md5": "8740c71d4170499101d9042de2b9a8b1"
+  },
+  "size": 2469933,
+  "releaseTime": "2019-05-07T17:41:10.15Z"
+}

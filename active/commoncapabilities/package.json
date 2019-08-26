@@ -7,12 +7,16 @@
   "icon": "https://media.forgecdn.net/avatars/44/386/636031220874205150.png",
   "licenses": [],
   "authors": [
-    "rubensworks (aka kroeserr)"
+    "kroeser"
   ],
   "projectLinks": [
     {
       "type": "source",
       "url": "https://github.com/CyclopsMC/CommonCapabilities"
+    },
+    {
+      "type": "curseforge",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/common-capabilities"
     }
   ]
 }

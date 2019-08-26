@@ -1,0 +1,23 @@
+{
+  "formatVersion": 0,
+  "type": "mod",
+  "id": "nonvflash",
+  "name": "No Night Vision Flashing",
+  "description": "Hate Night Vision flashing when it has less than 10 seconds remaining? We do too, so this mod removes it - no more flashing!",
+  "icon": "https://media.forgecdn.net/avatars/149/452/636589439870606731.png",
+  "licenses": [],
+  "authors": [
+    "TeamCoFH",
+    "KingLemming"
+  ],
+  "projectLinks": [
+    {
+      "type": "website",
+      "url": "http://www.teamcofh.com"
+    },
+    {
+      "type": "curseforge",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/no-night-vision-flashing"
+    }
+  ]
+}

@@ -7,12 +7,16 @@
   "icon": "https://media.forgecdn.net/avatars/134/213/636490270751222620.png",
   "licenses": [],
   "authors": [
-    "Yuudaari"
+    "Aarilight"
   ],
   "projectLinks": [
     {
       "type": "website",
       "url": "https://soulus.info"
+    },
+    {
+      "type": "curseforge",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/soulus"
     }
   ]
 }

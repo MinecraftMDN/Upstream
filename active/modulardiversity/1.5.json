@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "id": "1.5",
+  "releaseType": "release",
+  "changelog": "https://www.curseforge.com/minecraft/mc-mods/modular-diversity/files/2726191",
+  "side": "universal",
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://edge.forgecdn.net/files/2726/191/Modular Diversity-1.5.jar",
+      "side": "universal"
+    }
+  ],
+  "hashes": {
+    "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "murmur2": "1525830106",
+    "md5": "c83fa2b8313809f02de12958356a4e8a"
+  },
+  "size": 382962,
+  "releaseTime": "2019-06-18T01:42:37.973Z"
+}

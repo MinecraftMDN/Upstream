@@ -7,13 +7,16 @@
   "icon": "https://media.forgecdn.net/avatars/86/225/636207446427836220.png",
   "licenses": [],
   "authors": [
-    "CreativeMD",
-    "N247S"
+    "CreativeMD"
   ],
   "projectLinks": [
     {
       "type": "website",
       "url": "http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2408667-creativecore-v1-3-24-required-by-randomadditions"
+    },
+    {
+      "type": "curseforge",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/creativecore"
     }
   ]
 }

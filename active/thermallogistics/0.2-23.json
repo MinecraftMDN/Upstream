@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "id": "0.2-23",
+  "releaseType": "release",
+  "changelog": "https://www.curseforge.com/minecraft/mc-mods/thermallogistics/files/2706320",
+  "side": "universal",
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://edge.forgecdn.net/files/2706/320/thermallogistics-0.2-23.jar",
+      "side": "universal"
+    }
+  ],
+  "hashes": {
+    "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "murmur2": "2374935256",
+    "md5": "6aedb8c0aaf9a6769efd0f538ab77733"
+  },
+  "size": 272311,
+  "releaseTime": "2019-05-02T12:22:10.853Z"
+}

@@ -7,12 +7,16 @@
   "icon": "https://media.forgecdn.net/avatars/46/962/636060966562741227.png",
   "licenses": [],
   "authors": [
-    "shadowfacts"
+    "shadowfactsmc"
   ],
   "projectLinks": [
     {
       "type": "source",
       "url": "https://github.com/shadowfacts/Forgelin"
+    },
+    {
+      "type": "curseforge",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/shadowfacts-forgelin"
     }
   ]
 }

@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "id": "5.4.0.92",
+  "releaseType": "release",
+  "changelog": "https://www.curseforge.com/minecraft/mc-mods/ftb-utilities/files/2697008",
+  "side": "universal",
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://edge.forgecdn.net/files/2697/8/FTBUtilities-5.4.0.92.jar",
+      "side": "universal"
+    }
+  ],
+  "hashes": {
+    "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "murmur2": "2713404306",
+    "md5": "61d1b8dd007cc07d8efaf079f89a4d1e"
+  },
+  "size": 420946,
+  "releaseTime": "2019-04-08T17:32:04.323Z"
+}

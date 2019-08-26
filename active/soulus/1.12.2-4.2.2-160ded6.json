@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "id": "1.12.2-4.2.2-160ded6",
+  "releaseType": "release",
+  "changelog": "https://www.curseforge.com/minecraft/mc-mods/soulus/files/2727687",
+  "side": "universal",
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://edge.forgecdn.net/files/2727/687/Soulus-1.12.2-4.2.2-160ded6.jar",
+      "side": "universal"
+    }
+  ],
+  "hashes": {
+    "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "murmur2": "1792004713",
+    "md5": "1aa83b62d39d75e509a26a94a20bd3d1"
+  },
+  "size": 917084,
+  "releaseTime": "2019-06-21T16:40:55.027Z"
+}

@@ -13,6 +13,10 @@
     {
       "type": "website",
       "url": "drmanganese.github.io"
+    },
+    {
+      "type": "curseforge",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/top-addons"
     }
   ]
 }

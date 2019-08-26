@@ -7,8 +7,12 @@
   "icon": "https://media.forgecdn.net/avatars/178/246/636776783181016893.png",
   "licenses": [],
   "authors": [
-    "Vswe",
     "TeamDman"
   ],
-  "projectLinks": []
+  "projectLinks": [
+    {
+      "type": "curseforge",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/super-factory-manager"
+    }
+  ]
 }

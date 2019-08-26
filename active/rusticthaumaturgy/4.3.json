@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "id": "4.3",
+  "releaseType": "release",
+  "changelog": "https://www.curseforge.com/minecraft/mc-mods/rustic-thaumaturgy/files/2683380",
+  "side": "universal",
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://edge.forgecdn.net/files/2683/380/Rustic Thaumaturgy-4.3.jar",
+      "side": "universal"
+    }
+  ],
+  "hashes": {
+    "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "murmur2": "2433411624",
+    "md5": "69058149f7dde232e616dff0c9cea313"
+  },
+  "size": 596203,
+  "releaseTime": "2019-03-05T00:22:14.913Z"
+}

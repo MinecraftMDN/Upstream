@@ -9,5 +9,10 @@
   "authors": [
     "Camellias_"
   ],
-  "projectLinks": []
+  "projectLinks": [
+    {
+      "type": "curseforge",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/resizing-potion"
+    }
+  ]
 }

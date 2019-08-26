@@ -7,12 +7,16 @@
   "icon": "https://media.forgecdn.net/avatars/177/954/636774872458483532.png",
   "licenses": [],
   "authors": [
-    "Vazkii"
+    "Vazkii_"
   ],
   "projectLinks": [
     {
       "type": "website",
       "url": "http://www.vazkii.us"
+    },
+    {
+      "type": "curseforge",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/patchouli"
     }
   ]
 }

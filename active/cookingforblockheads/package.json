@@ -9,5 +9,10 @@
   "authors": [
     "BlayTheNinth"
   ],
-  "projectLinks": []
+  "projectLinks": [
+    {
+      "type": "curseforge",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/cooking-for-blockheads"
+    }
+  ]
 }

@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "id": "1.12.2-v4",
+  "releaseType": "release",
+  "changelog": "https://www.curseforge.com/minecraft/mc-mods/cosmetic-armor-reworked/files/2660068",
+  "side": "universal",
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://edge.forgecdn.net/files/2660/68/CosmeticArmorReworked-1.12.2-v4.jar",
+      "side": "universal"
+    }
+  ],
+  "hashes": {
+    "sha1": "ac5c793e56b8b4c31b45124834bd92d91e42fac9",
+    "sha256": "d296ce874b14f3a929b793c1d97536189fd741d765de31a9c3b0a89816664c8a",
+    "md5": "1f444bdd7ae5b56d92cf09d5cfcfefed",
+    "murmur2": "2362582172"
+  },
+  "size": 72485,
+  "releaseTime": "2019-01-14T13:07:40.273Z"
+}

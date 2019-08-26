@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "id": "1.12.2-1.10.19",
+  "releaseType": "release",
+  "changelog": "https://www.curseforge.com/minecraft/mc-mods/astral-sorcery/files/2716590",
+  "side": "universal",
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://edge.forgecdn.net/files/2716/590/astralsorcery-1.12.2-1.10.19.jar",
+      "side": "universal"
+    }
+  ],
+  "hashes": {
+    "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "murmur2": "2582075259",
+    "md5": "a46a48be36ce03360ca3e0addc1ebc51"
+  },
+  "size": 24931617,
+  "releaseTime": "2019-05-27T19:54:51.55Z"
+}

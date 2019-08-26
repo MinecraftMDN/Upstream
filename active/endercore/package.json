@@ -7,14 +7,18 @@
   "icon": "https://media.forgecdn.net/avatars/20/10/635705133000275418.jpeg",
   "licenses": [],
   "authors": [
-    "tterrag",
-    "CrazyPants",
-    "HenryLoenwind"
+    "tterrag1098",
+    "CrazyPants_MC",
+    "Henry_Loenwind"
   ],
   "projectLinks": [
     {
       "type": "website",
       "url": "http://enderio.com"
+    },
+    {
+      "type": "curseforge",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/endercore"
     }
   ]
 }

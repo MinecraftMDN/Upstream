@@ -2,9 +2,15 @@
   "formatVersion": 0,
   "type": "mod",
   "id": "jehc",
-  "name": "Just Enough HarvestCraft (JEHC)",
   "icon": "https://media.forgecdn.net/avatars/197/503/636892978449970133.png",
   "licenses": [],
-  "authors": [],
-  "projectLinks": []
+  "authors": [
+    "mrAppleXZ"
+  ],
+  "projectLinks": [
+    {
+      "type": "curseforge",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/just-enough-harvestcraft"
+    }
+  ]
 }

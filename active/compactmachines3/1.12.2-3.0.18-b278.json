@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "id": "1.12.2-3.0.18-b278",
+  "releaseType": "release",
+  "changelog": "https://www.curseforge.com/minecraft/mc-mods/compact-machines/files/2707509",
+  "side": "universal",
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://edge.forgecdn.net/files/2707/509/compactmachines3-1.12.2-3.0.18-b278.jar",
+      "side": "universal"
+    }
+  ],
+  "hashes": {
+    "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "murmur2": "2656999452",
+    "md5": "e195df8997b3e7fe70b3b39266aceb79"
+  },
+  "size": 730062,
+  "releaseTime": "2019-05-05T13:17:27.99Z"
+}

@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "id": "1.0-18",
+  "releaseType": "release",
+  "changelog": "https://www.curseforge.com/minecraft/mc-mods/patchouli/files/2684826",
+  "side": "universal",
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://edge.forgecdn.net/files/2684/826/Patchouli-1.0-18.jar",
+      "side": "universal"
+    }
+  ],
+  "hashes": {
+    "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "murmur2": "849668793",
+    "md5": "b95e427b7cdcc9e171f952fd27f67416"
+  },
+  "size": 465587,
+  "releaseTime": "2019-03-08T20:55:16.037Z"
+}

@@ -13,6 +13,10 @@
     {
       "type": "website",
       "url": "http://asie.pl/Projects/Minecraft/Mods/FoamFix"
+    },
+    {
+      "type": "curseforge",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/foamfix-for-minecraft"
     }
   ]
 }

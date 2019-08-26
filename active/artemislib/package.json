@@ -7,7 +7,13 @@
   "icon": "https://media.forgecdn.net/avatars/189/666/636851652731448976.png",
   "licenses": [],
   "authors": [
-    "Camellias"
+    "Camellias_",
+    "first_rain"
   ],
-  "projectLinks": []
+  "projectLinks": [
+    {
+      "type": "curseforge",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/artemislib"
+    }
+  ]
 }

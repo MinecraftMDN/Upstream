@@ -7,7 +7,12 @@
   "icon": "https://media.forgecdn.net/avatars/169/49/636712849873258614.png",
   "licenses": [],
   "authors": [
-    "Voxel-Friend"
+    "Voxel_Friend"
   ],
-  "projectLinks": []
+  "projectLinks": [
+    {
+      "type": "curseforge",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/rustic-thaumaturgy"
+    }
+  ]
 }

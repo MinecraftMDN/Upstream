@@ -7,13 +7,18 @@
   "icon": "https://media.forgecdn.net/avatars/4/257/635351425783724724.png",
   "licenses": [],
   "authors": [
-    "boni",
+    "mDiyo",
+    "bonusboni",
     "KnightMiner"
   ],
   "projectLinks": [
     {
       "type": "source",
       "url": "https://github.com/SlimeKnights/TinkersConstruct"
+    },
+    {
+      "type": "curseforge",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/tinkers-construct"
     }
   ]
 }

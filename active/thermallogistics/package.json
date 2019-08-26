@@ -7,8 +7,12 @@
   "icon": "https://media.forgecdn.net/avatars/189/181/636849056184187041.png",
   "licenses": [],
   "authors": [
-    "Astavie",
-    "Thaumatarge"
+    "Astavie"
   ],
-  "projectLinks": []
+  "projectLinks": [
+    {
+      "type": "curseforge",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/thermallogistics"
+    }
+  ]
 }

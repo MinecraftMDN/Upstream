@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "id": "1.12-1.1.7-5",
+  "releaseType": "release",
+  "changelog": "https://www.curseforge.com/minecraft/mc-mods/armoreablemobs/files/2559481",
+  "side": "universal",
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://edge.forgecdn.net/files/2559/481/armoreablemobs-1.12-1.1.7-5.jar",
+      "side": "universal"
+    }
+  ],
+  "hashes": {
+    "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "murmur2": "2594804945",
+    "md5": "5cd7ea9a48b8795dc2bb11c5a15b0431"
+  },
+  "size": 21760,
+  "releaseTime": "2018-05-07T13:24:32.313Z"
+}

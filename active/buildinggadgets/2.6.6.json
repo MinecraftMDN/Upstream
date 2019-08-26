@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "id": "2.6.6",
+  "releaseType": "release",
+  "changelog": "https://www.curseforge.com/minecraft/mc-mods/building-gadgets/files/2681257",
+  "side": "universal",
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://edge.forgecdn.net/files/2681/257/BuildingGadgets-2.6.6.jar",
+      "side": "universal"
+    }
+  ],
+  "hashes": {
+    "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "murmur2": "3426174515",
+    "md5": "46d479f4fb2ec77b2fd2dd6ea10dad31"
+  },
+  "size": 568080,
+  "releaseTime": "2019-02-28T00:00:11.863Z"
+}

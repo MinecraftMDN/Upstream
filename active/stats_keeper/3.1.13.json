@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "id": "3.1.13",
+  "releaseType": "release",
+  "changelog": "https://www.curseforge.com/minecraft/mc-mods/stats-keeper/files/2723232",
+  "side": "universal",
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://edge.forgecdn.net/files/2723/232/StatsKeeper-1.12.2-3.1.13.jar",
+      "side": "universal"
+    }
+  ],
+  "hashes": {
+    "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "murmur2": "3211698638",
+    "md5": "3585522f26b19d29474e8d101e91a4e9"
+  },
+  "size": 49074,
+  "releaseTime": "2019-06-11T09:25:59.473Z"
+}

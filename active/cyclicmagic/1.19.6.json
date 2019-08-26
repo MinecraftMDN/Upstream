@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "id": "1.19.6",
+  "releaseType": "release",
+  "changelog": "https://www.curseforge.com/minecraft/mc-mods/cyclic/files/2701943",
+  "side": "universal",
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://edge.forgecdn.net/files/2701/943/Cyclic-1.12.2-1.19.6.jar",
+      "side": "universal"
+    }
+  ],
+  "hashes": {
+    "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "murmur2": "3439169239",
+    "md5": "392213a95f1c7dbb3ea1dc55e013c670"
+  },
+  "size": 3971111,
+  "releaseTime": "2019-04-21T17:12:24.85Z"
+}

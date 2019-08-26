@@ -7,12 +7,16 @@
   "icon": "https://media.forgecdn.net/avatars/52/401/636114555761053412.png",
   "licenses": [],
   "authors": [
-    "rubensworks (aka kroeserr)"
+    "kroeser"
   ],
   "projectLinks": [
     {
       "type": "source",
       "url": "https://github.com/CyclopsMC/IntegratedTunnels"
+    },
+    {
+      "type": "curseforge",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/integrated-tunnels"
     }
   ]
 }

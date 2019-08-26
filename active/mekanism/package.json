@@ -9,9 +9,13 @@
   "authors": [
     "aidancbrady",
     "thommy101",
-    "thiakil",
     "pupnewfster",
-    "dizzyd"
+    "Thiakil"
   ],
-  "projectLinks": []
+  "projectLinks": [
+    {
+      "type": "curseforge",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/mekanism"
+    }
+  ]
 }

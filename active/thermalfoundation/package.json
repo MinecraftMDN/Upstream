@@ -7,12 +7,17 @@
   "icon": "https://media.forgecdn.net/avatars/14/658/635601681015233170.png",
   "licenses": [],
   "authors": [
-    "Team CoFH"
+    "TeamCoFH",
+    "KingLemming"
   ],
   "projectLinks": [
     {
       "type": "website",
       "url": "http://www.teamcofh.com"
+    },
+    {
+      "type": "curseforge",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/thermal-foundation"
     }
   ]
 }

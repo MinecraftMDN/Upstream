@@ -1,0 +1,22 @@
+{
+  "formatVersion": 0,
+  "id": "0.4.0.-57",
+  "releaseType": "release",
+  "changelog": "https://www.curseforge.com/minecraft/mc-mods/libvulpes/files/2710591",
+  "side": "universal",
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://edge.forgecdn.net/files/2710/591/LibVulpes-1.12.2-0.4.0-57-universal.jar",
+      "side": "universal"
+    }
+  ],
+  "hashes": {
+    "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "murmur2": "2171460869",
+    "md5": "dbb362e01b2782ff7e859f282ce8702d"
+  },
+  "size": 519079,
+  "releaseTime": "2019-05-13T07:31:17.453Z"
+}
