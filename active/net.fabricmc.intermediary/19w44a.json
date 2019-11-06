@@ -1,0 +1,19 @@
+{
+  "formatVersion": 0,
+  "id": "19w44a",
+  "releaseType": "release",
+  "side": "universal",
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://maven.fabricmc.net/net/fabricmc/intermediary/19w44a/intermediary-19w44a.jar",
+      "side": "universal"
+    }
+  ],
+  "hashes": {
+    "sha1": "57f7299dd4ff61272b7f5a5f0ab62889585ad938",
+    "md5": "20129812aef42432f06ececfd7710fa8"
+  },
+  "size": 348935,
+  "releaseTime": "2019-11-04T12:30:09Z"
+}

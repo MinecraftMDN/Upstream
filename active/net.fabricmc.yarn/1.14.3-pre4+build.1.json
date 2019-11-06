@@ -1,0 +1,32 @@
+{
+  "formatVersion": 0,
+  "id": "1.14.3-pre4+build.1",
+  "releaseType": "beta",
+  "side": "universal",
+  "relationships": [
+    {
+      "type": "required",
+      "id": "com.mojang.minecraft",
+      "version": "1.14.3-pre4",
+      "side": "universal"
+    }
+  ],
+  "artifacts": [
+    {
+      "type": "maven",
+      "id": "net.fabricmc:yarn:1.14.3-pre4+build.1",
+      "side": "universal"
+    },
+    {
+      "type": "direct",
+      "id": "https://maven.fabricmc.net/net/fabricmc/yarn/1.14.3-pre4+build.1/yarn-1.14.3-pre4+build.1.jar",
+      "side": "universal"
+    }
+  ],
+  "hashes": {
+    "sha1": "fb24c1aa534df61640657def1263da80fba2e100",
+    "md5": "6e0d17f1fdbe7a581991bdd52f2a7d32"
+  },
+  "size": 503355,
+  "releaseTime": "2019-06-19T19:28:47Z"
+}

@@ -2,13 +2,22 @@
   "formatVersion": 0,
   "id": "0.2.6.116",
   "releaseType": "release",
-  "changelog": "",
   "side": "universal",
-  "relationships": [],
   "artifacts": [
     {
       "type": "direct",
-      "id": "https://maven.fabricmc.net/net/fabricmc/fabric/0.2.6.116/fabric-0.2.6.116.jar"
+      "id": "https://maven.fabricmc.net/net/fabricmc/fabric/0.2.6.116/fabric-0.2.6.116.jar",
+      "side": "universal"
+    },
+    {
+      "type": "curseforge",
+      "id": "2692410",
+      "side": "universal"
+    },
+    {
+      "type": "direct",
+      "id": "https://edge.forgecdn.net/files/2692/410/fabric-0.2.6.116.jar",
+      "side": "universal"
     }
   ],
   "hashes": {
@@ -16,6 +25,5 @@
     "md5": "e38caeb24d3d86d0f4adfc6df004204a"
   },
   "size": 251556,
-  "filename": "",
   "releaseTime": "2019-03-27T19:09:35Z"
 }

@@ -2,13 +2,12 @@
   "formatVersion": 0,
   "id": "19w02a",
   "releaseType": "release",
-  "changelog": "",
   "side": "universal",
-  "relationships": [],
   "artifacts": [
     {
       "type": "direct",
-      "id": "https://maven.fabricmc.net/net/fabricmc/intermediary/19w02a/intermediary-19w02a.jar"
+      "id": "https://maven.fabricmc.net/net/fabricmc/intermediary/19w02a/intermediary-19w02a.jar",
+      "side": "universal"
     }
   ],
   "hashes": {
@@ -16,6 +15,5 @@
     "md5": "e101e21c8cffe6746d78ddac28c2ef89"
   },
   "size": 273331,
-  "filename": "",
-  "releaseTime": "2019-06-15T05:45:26Z"
+  "releaseTime": "2019-11-04T12:30:01Z"
 }

@@ -1,0 +1,19 @@
+{
+  "formatVersion": 0,
+  "id": "1.14_combat-3",
+  "releaseType": "release",
+  "side": "universal",
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://maven.fabricmc.net/net/fabricmc/intermediary/1.14_combat-3/intermediary-1.14_combat-3.jar",
+      "side": "universal"
+    }
+  ],
+  "hashes": {
+    "sha1": "5acccf71eee283a0a5149bc37373e3085ef62737",
+    "md5": "53f2dedc2583d31e4a9f22592c5485e5"
+  },
+  "size": 337265,
+  "releaseTime": "2019-11-04T12:29:57Z"
+}

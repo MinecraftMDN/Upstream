@@ -2,13 +2,22 @@
   "formatVersion": 0,
   "id": "0.2.7+build.125",
   "releaseType": "release",
-  "changelog": "",
   "side": "universal",
-  "relationships": [],
   "artifacts": [
     {
       "type": "direct",
-      "id": "https://maven.fabricmc.net/net/fabricmc/fabric/0.2.7+build.125/fabric-0.2.7+build.125.jar"
+      "id": "https://maven.fabricmc.net/net/fabricmc/fabric/0.2.7+build.125/fabric-0.2.7+build.125.jar",
+      "side": "universal"
+    },
+    {
+      "type": "curseforge",
+      "id": "2701267",
+      "side": "universal"
+    },
+    {
+      "type": "direct",
+      "id": "https://edge.forgecdn.net/files/2701/267/fabric-0.2.7+build.125.jar",
+      "side": "universal"
     }
   ],
   "hashes": {
@@ -16,6 +25,5 @@
     "md5": "fea36ead984aeef9e62c7ad7844ed08d"
   },
   "size": 253324,
-  "filename": "",
   "releaseTime": "2019-04-19T21:53:33Z"
 }

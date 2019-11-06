@@ -1,0 +1,32 @@
+{
+  "formatVersion": 0,
+  "id": "1.14_combat-3+build.2",
+  "releaseType": "beta",
+  "side": "universal",
+  "relationships": [
+    {
+      "type": "required",
+      "id": "com.mojang.minecraft",
+      "version": "1.14_combat-3",
+      "side": "universal"
+    }
+  ],
+  "artifacts": [
+    {
+      "type": "maven",
+      "id": "net.fabricmc:yarn:1.14_combat-3+build.2",
+      "side": "universal"
+    },
+    {
+      "type": "direct",
+      "id": "https://maven.fabricmc.net/net/fabricmc/yarn/1.14_combat-3+build.2/yarn-1.14_combat-3+build.2.jar",
+      "side": "universal"
+    }
+  ],
+  "hashes": {
+    "sha1": "c96eb64586e06b4661a20fdbe5afe8b87330bbcd",
+    "md5": "32d9fedec412a6d2bd95fc32f849ef8b"
+  },
+  "size": 519348,
+  "releaseTime": "2019-11-02T21:52:18Z"
+}

@@ -2,13 +2,22 @@
   "formatVersion": 0,
   "id": "0.1.1.47",
   "releaseType": "release",
-  "changelog": "",
   "side": "universal",
-  "relationships": [],
   "artifacts": [
     {
       "type": "direct",
-      "id": "https://maven.fabricmc.net/net/fabricmc/fabric/0.1.1.47/fabric-0.1.1.47.jar"
+      "id": "https://maven.fabricmc.net/net/fabricmc/fabric/0.1.1.47/fabric-0.1.1.47.jar",
+      "side": "universal"
+    },
+    {
+      "type": "curseforge",
+      "id": "2647069",
+      "side": "universal"
+    },
+    {
+      "type": "direct",
+      "id": "https://edge.forgecdn.net/files/2647/69/fabric-0.1.1.47.jar",
+      "side": "universal"
     }
   ],
   "hashes": {
@@ -16,6 +25,5 @@
     "md5": "9b23237801d582221364a68b08d229b4"
   },
   "size": 118225,
-  "filename": "",
   "releaseTime": "2018-12-12T17:34:58Z"
 }

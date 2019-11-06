@@ -2,13 +2,12 @@
   "formatVersion": 0,
   "id": "0.2.2.102",
   "releaseType": "release",
-  "changelog": "",
   "side": "universal",
-  "relationships": [],
   "artifacts": [
     {
       "type": "direct",
-      "id": "https://maven.fabricmc.net/net/fabricmc/fabric/0.2.2.102/fabric-0.2.2.102.jar"
+      "id": "https://maven.fabricmc.net/net/fabricmc/fabric/0.2.2.102/fabric-0.2.2.102.jar",
+      "side": "universal"
     }
   ],
   "hashes": {
@@ -16,6 +15,5 @@
     "md5": "1a8312985a5bbee6ddb5f674833fc780"
   },
   "size": 239229,
-  "filename": "",
   "releaseTime": "2019-02-20T22:18:49Z"
 }

@@ -1,6 +1,49 @@
 {
+  "formatVersion": 0,
+  "id": "0.1.0.48",
+  "releaseType": "beta",
+  "side": "universal",
+  "relationships": [
+    {
+      "type": "required",
+      "id": "net.fabricmc.intermediary",
+      "version": "*",
+      "side": "universal"
+    }
+  ],
+  "artifacts": [
+    {
+      "type": "maven",
+      "id": "net.fabricmc:fabric-loader:0.1.0.48",
+      "side": "universal"
+    },
+    {
+      "type": "direct",
+      "id": "https://maven.fabricmc.net/net/fabricmc/fabric-loader/0.1.0.48/fabric-loader-0.1.0.48.jar",
+      "side": "universal"
+    }
+  ],
+  "client": {
+    "mainClass": "net.minecraft.launchwrapper.Launch",
+    "tweakers": [
+      "net.fabricmc.loader.launch.FabricClientTweaker"
+    ]
+  },
+  "server": {
+    "mainClass": "net.minecraft.launchwrapper.Launch",
+    "tweakers": [
+      "net.fabricmc.loader.launch.FabricServerTweaker"
+    ]
+  },
+  "hashes": {
+    "sha1": "b0d45aa52ce1a169948757d22b8a1e61b556d872",
+    "md5": "634f157ccfe5a766bc7afe0a28d0eb0a"
+  },
+  "size": 76991,
+  "releaseTime": "2018-11-30T13:54:27Z",
   "libraries": [
     {
+      "type": "jar",
       "id": "net.minecraft:launchwrapper:1.12",
       "url": "https://libraries.minecraft.net/",
       "side": "common",
@@ -10,6 +53,7 @@
       }
     },
     {
+      "type": "jar",
       "id": "net.fabricmc:sponge-mixin:0.7.11.3",
       "url": "https://maven.modmuss50.me/",
       "side": "common",
@@ -20,6 +64,7 @@
       }
     },
     {
+      "type": "jar",
       "id": "net.fabricmc:tiny-remapper:0.1.0.16",
       "url": "https://maven.modmuss50.me/",
       "side": "common",
@@ -30,6 +75,7 @@
       }
     },
     {
+      "type": "jar",
       "id": "org.ow2.asm:asm:7.0",
       "url": "http://repo.maven.apache.org/maven2/",
       "side": "common",
@@ -40,6 +86,7 @@
       }
     },
     {
+      "type": "jar",
       "id": "org.ow2.asm:asm-commons:7.0",
       "url": "http://repo.maven.apache.org/maven2/",
       "side": "common",
@@ -50,6 +97,7 @@
       }
     },
     {
+      "type": "jar",
       "id": "org.ow2.asm:asm-tree:7.0",
       "url": "http://repo.maven.apache.org/maven2/",
       "side": "common",
@@ -60,6 +108,7 @@
       }
     },
     {
+      "type": "jar",
       "id": "org.ow2.asm:asm-util:7.0",
       "url": "http://repo.maven.apache.org/maven2/",
       "side": "common",
@@ -70,6 +119,7 @@
       }
     },
     {
+      "type": "jar",
       "id": "com.github.zafarkhaja:java-semver:0.9.0",
       "url": "http://repo.maven.apache.org/maven2/",
       "side": "common",
@@ -79,47 +129,5 @@
         "md5": "9417096ff6a9db74db273abbda0f334e"
       }
     }
-  ],
-  "mainClass": {
-    "server": "net.minecraft.launchwrapper.Launch",
-    "client": "net.minecraft.launchwrapper.Launch"
-  },
-  "tweakers": {
-    "client": [
-      "net.fabricmc.loader.launch.FabricClientTweaker"
-    ],
-    "server": [
-      "net.fabricmc.loader.launch.FabricServerTweaker"
-    ],
-    "common": []
-  },
-  "formatVersion": 0,
-  "id": "0.1.0.48",
-  "releaseType": "beta",
-  "changelog": "",
-  "side": "universal",
-  "relationships": [
-    {
-      "type": "required",
-      "id": "yarn",
-      "version": "*"
-    }
-  ],
-  "artifacts": [
-    {
-      "type": "maven",
-      "id": "net.fabricmc:fabric-loader:0.1.0.48"
-    },
-    {
-      "type": "direct",
-      "id": "https://maven.fabricmc.net/net/fabricmc/fabric-loader/0.1.0.48/fabric-loader-0.1.0.48.jar"
-    }
-  ],
-  "hashes": {
-    "sha1": "b0d45aa52ce1a169948757d22b8a1e61b556d872",
-    "md5": "634f157ccfe5a766bc7afe0a28d0eb0a"
-  },
-  "size": 76991,
-  "filename": "",
-  "releaseTime": "2018-11-30T13:54:27Z"
+  ]
 }

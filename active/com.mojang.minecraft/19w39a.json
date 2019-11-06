@@ -1,0 +1,462 @@
+{
+  "formatVersion": 0,
+  "id": "19w39a",
+  "releaseType": "snapshot",
+  "side": "universal",
+  "relationships": [
+    {
+      "type": "required",
+      "id": "org.lwjgl",
+      "version": "3.2.1",
+      "side": "client"
+    }
+  ],
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://launcher.mojang.com/v1/objects/a0b9a2c6cceb77d4dcf601eeef1ffc7dc882b48a/client.jar",
+      "side": "client"
+    },
+    {
+      "type": "direct",
+      "id": "https://launcher.mojang.com/v1/objects/4dad0fe8c2b6009edfda8000a420702398afb5d8/client.txt",
+      "side": "client_mappings"
+    },
+    {
+      "type": "direct",
+      "id": "https://launcher.mojang.com/v1/objects/c03cf9537bd7a34640d7e173551b7005799d5675/server.jar",
+      "side": "server"
+    },
+    {
+      "type": "direct",
+      "id": "https://launcher.mojang.com/v1/objects/e30456ac1ac3d2f6f3a0031bcad4c31d95e7dd34/server.txt",
+      "side": "server_mappings"
+    }
+  ],
+  "client": {
+    "hashes": {
+      "sha1": "a0b9a2c6cceb77d4dcf601eeef1ffc7dc882b48a",
+      "sha256": "43c1f7b416cb7b79fdecf0fa0444c80b2aa42d17e7a5c09bc6060fe9cd8d4846",
+      "md5": "7a7bee84a4ef502ea9b0444145a22c0a"
+    },
+    "size": 25405735,
+    "filename": "com.mojang:minecraft:client:19w39a@jar",
+    "mainClass": "net.minecraft.client.main.Main"
+  },
+  "server": {
+    "hashes": {
+      "sha1": "c03cf9537bd7a34640d7e173551b7005799d5675",
+      "sha256": "0ffd910953ab50a736dcc0ab214a0659966713857422e9b7211440b7b181a427",
+      "md5": "079bff20b9946455b803236ba78c1665"
+    },
+    "size": 36078639,
+    "filename": "minecraft_server_19w39a.jar",
+    "mainClass": "net.minecraft.server.MinecraftServer"
+  },
+  "releaseTime": "2019-09-27T10:13:33+00:00",
+  "libraries": [
+    {
+      "type": "jar",
+      "id": "com.mojang:patchy:1.1",
+      "url": "https://libraries.minecraft.net/com/mojang/patchy/1.1/patchy-1.1.jar",
+      "side": "client",
+      "size": 15817,
+      "hashes": {
+        "sha1": "aef610b34a1be37fa851825f12372b78424d8903",
+        "sha256": "c7c7f255b76ff208cac4febf58ddafadcd63bac970dbe0c26dd62c940e80f5b7",
+        "md5": "d7dfcf04d1da01d966d3ca806ca8c22f"
+      }
+    },
+    {
+      "type": "jar",
+      "id": "oshi-project:oshi-core:1.1",
+      "url": "https://libraries.minecraft.net/oshi-project/oshi-core/1.1/oshi-core-1.1.jar",
+      "side": "client",
+      "size": 30973,
+      "hashes": {
+        "sha1": "9ddf7b048a8d701be231c0f4f95fd986198fd2d8",
+        "sha256": "27901e5d4d60d3502571d5e6358fc89e3fcf874138b69d495d139bcc3e169404",
+        "md5": "4f992d3ac0aa70a8647460494c95e261"
+      }
+    },
+    {
+      "type": "jar",
+      "id": "net.java.dev.jna:jna:4.4.0",
+      "url": "https://libraries.minecraft.net/net/java/dev/jna/jna/4.4.0/jna-4.4.0.jar",
+      "side": "client",
+      "size": 1091208,
+      "hashes": {
+        "sha1": "cb208278274bf12ebdb56c61bd7407e6f774d65a",
+        "sha256": "c4dadeeecaa90c8847902082aee5eb107fcf59c5d0e63a17fcaf273c0e2d2bd1",
+        "md5": "34d3537524a6c8c134e840e7be601569"
+      }
+    },
+    {
+      "type": "jar",
+      "id": "net.java.dev.jna:platform:3.4.0",
+      "url": "https://libraries.minecraft.net/net/java/dev/jna/platform/3.4.0/platform-3.4.0.jar",
+      "side": "client",
+      "size": 913436,
+      "hashes": {
+        "sha1": "e3f70017be8100d3d6923f50b3d2ee17714e9c13",
+        "sha256": "ea89d5090c8303ba4e9a0056e6d8a20429f3e021411e950bfd9eba3b6e6cf15c",
+        "md5": "c5057d6dc3a531708e4a91249fadda3f"
+      }
+    },
+    {
+      "type": "jar",
+      "id": "com.ibm.icu:icu4j-core-mojang:51.2",
+      "url": "https://libraries.minecraft.net/com/ibm/icu/icu4j-core-mojang/51.2/icu4j-core-mojang-51.2.jar",
+      "side": "client",
+      "size": 1634692,
+      "hashes": {
+        "sha1": "63d216a9311cca6be337c1e458e587f99d382b84",
+        "sha256": "147592c5eb8e11fc8394125954f877acf25918bae13aa210c2825aefc3030ed8",
+        "md5": "aec124acf7b3c1c6ed41a6270a4452b8"
+      }
+    },
+    {
+      "type": "jar",
+      "id": "com.mojang:javabridge:1.0.22",
+      "url": "https://libraries.minecraft.net/com/mojang/javabridge/1.0.22/javabridge-1.0.22.jar",
+      "side": "client",
+      "size": 5111,
+      "hashes": {
+        "sha1": "6aa6453aa99a52a5cd91749da1af6ab70e082ab3",
+        "sha256": "43fa389f9e18de2bd8fe8bdf924b094153f5f3ba748e84c3052b4f85627fdc0c",
+        "md5": "3c77e86f133e0bad0bf522474621c324"
+      }
+    },
+    {
+      "type": "jar",
+      "id": "net.sf.jopt-simple:jopt-simple:5.0.3",
+      "url": "https://libraries.minecraft.net/net/sf/jopt-simple/jopt-simple/5.0.3/jopt-simple-5.0.3.jar",
+      "side": "client",
+      "size": 78175,
+      "hashes": {
+        "sha1": "cdd846cfc4e0f7eefafc02c0f5dce32b9303aa2a",
+        "sha256": "6f45c00908265947c39221035250024f2caec9a15c1c8cf553ebeecee289f342",
+        "md5": "0a5ec84e23df9d7cfb4063bc55f2744c"
+      }
+    },
+    {
+      "type": "jar",
+      "id": "io.netty:netty-all:4.1.25.Final",
+      "url": "https://libraries.minecraft.net/io/netty/netty-all/4.1.25.Final/netty-all-4.1.25.Final.jar",
+      "side": "client",
+      "size": 3823147,
+      "hashes": {
+        "sha1": "d0626cd3108294d1d58c05859add27b4ef21f83b",
+        "sha256": "972642d0037706485747d34ce50fd67a15f0ed3d8a781882d683824c9977bc86",
+        "md5": "d1912410fe536c1cc35da23c4fb103c8"
+      }
+    },
+    {
+      "type": "jar",
+      "id": "com.google.guava:guava:21.0",
+      "url": "https://libraries.minecraft.net/com/google/guava/guava/21.0/guava-21.0.jar",
+      "side": "client",
+      "size": 2521113,
+      "hashes": {
+        "sha1": "3a3d111be1be1b745edfa7d91678a12d7ed38709",
+        "sha256": "972139718abc8a4893fa78cba8cf7b2c903f35c97aaf44fa3031b0669948b480",
+        "md5": "ddc91fd850fa6177c91aab5d4e4d1fa6"
+      }
+    },
+    {
+      "type": "jar",
+      "id": "org.apache.commons:commons-lang3:3.5",
+      "url": "https://libraries.minecraft.net/org/apache/commons/commons-lang3/3.5/commons-lang3-3.5.jar",
+      "side": "client",
+      "size": 479881,
+      "hashes": {
+        "sha1": "6c6c702c89bfff3cd9e80b04d668c5e190d588c6",
+        "sha256": "8ac96fc686512d777fca85e144f196cd7cfe0c0aec23127229497d1a38ff651c",
+        "md5": "780b5a8b72eebe6d0dbff1c11b5658fa"
+      }
+    },
+    {
+      "type": "jar",
+      "id": "commons-io:commons-io:2.5",
+      "url": "https://libraries.minecraft.net/commons-io/commons-io/2.5/commons-io-2.5.jar",
+      "side": "client",
+      "size": 208700,
+      "hashes": {
+        "sha1": "2852e6e05fbb95076fc091f6d1780f1f8fe35e0f",
+        "sha256": "a10418348d234968600ccb1d988efcbbd08716e1d96936ccc1880e7d22513474",
+        "md5": "e2d74794fba570ec2115fb9d5b05dc9b"
+      }
+    },
+    {
+      "type": "jar",
+      "id": "commons-codec:commons-codec:1.10",
+      "url": "https://libraries.minecraft.net/commons-codec/commons-codec/1.10/commons-codec-1.10.jar",
+      "side": "client",
+      "size": 284184,
+      "hashes": {
+        "sha1": "4b95f4897fa13f2cd904aee711aeafc0c5295cd8",
+        "sha256": "4241dfa94e711d435f29a4604a3e2de5c4aa3c165e23bd066be6fc1fc4309569",
+        "md5": "353cf6a2bdba09595ccfa073b78c7fcb"
+      }
+    },
+    {
+      "type": "jar",
+      "id": "com.mojang:brigadier:1.0.17",
+      "url": "https://libraries.minecraft.net/com/mojang/brigadier/1.0.17/brigadier-1.0.17.jar",
+      "side": "client",
+      "size": 77392,
+      "hashes": {
+        "sha1": "c6b7dc51dd44379cc751b7504816006e9be4b1e6",
+        "sha256": "296b69b63f3d2a2092bf94fa12add4deb89e7d1f977157f7ee1b6b6d0fd52a58",
+        "md5": "fe87deeb6e062d678d2bff623fe4e2b9"
+      }
+    },
+    {
+      "type": "jar",
+      "id": "com.mojang:datafixerupper:2.0.24",
+      "url": "https://libraries.minecraft.net/com/mojang/datafixerupper/2.0.24/datafixerupper-2.0.24.jar",
+      "side": "client",
+      "size": 436066,
+      "hashes": {
+        "sha1": "0944c24a8519981847ffb36c6dcd059d96fcb4b0",
+        "sha256": "1b84d493ba8b1377db09a2f5aeba06a58a51cb251f2096cf4a2e3f2df5cf39e9",
+        "md5": "c754045f1898609ed37066019e81780a"
+      }
+    },
+    {
+      "type": "jar",
+      "id": "com.google.code.gson:gson:2.8.0",
+      "url": "https://libraries.minecraft.net/com/google/code/gson/gson/2.8.0/gson-2.8.0.jar",
+      "side": "client",
+      "size": 231952,
+      "hashes": {
+        "sha1": "c4ba5371a29ac9b2ad6129b1d39ea38750043eff",
+        "sha256": "c6221763bd79c4f1c3dc7f750b5f29a0bb38b367b81314c4f71896e340c40825",
+        "md5": "a42f1f5bfa4e6f123ddcab3de7e0ff81"
+      }
+    },
+    {
+      "type": "jar",
+      "id": "com.mojang:authlib:1.5.25",
+      "url": "https://libraries.minecraft.net/com/mojang/authlib/1.5.25/authlib-1.5.25.jar",
+      "side": "client",
+      "size": 65621,
+      "hashes": {
+        "sha1": "9834cdf236c22e84b946bba989e2f94ef5897c3c",
+        "sha256": "c8a095123be93c59d4ac29e4a0616495b3d479ac65913cb719a81ee583e9dfcd",
+        "md5": "321723be87583ff5f427a37d74081370"
+      }
+    },
+    {
+      "type": "jar",
+      "id": "org.apache.commons:commons-compress:1.8.1",
+      "url": "https://libraries.minecraft.net/org/apache/commons/commons-compress/1.8.1/commons-compress-1.8.1.jar",
+      "side": "client",
+      "size": 365552,
+      "hashes": {
+        "sha1": "a698750c16740fd5b3871425f4cb3bbaa87f529d",
+        "sha256": "5fca136503f86ecc6cb61fbd17b137d59e56b45c7a5494e6b8fd3cabd4697fbd",
+        "md5": "d862e30ff6b5d78264677dcd6507abb8"
+      }
+    },
+    {
+      "type": "jar",
+      "id": "org.apache.httpcomponents:httpclient:4.3.3",
+      "url": "https://libraries.minecraft.net/org/apache/httpcomponents/httpclient/4.3.3/httpclient-4.3.3.jar",
+      "side": "client",
+      "size": 589512,
+      "hashes": {
+        "sha1": "18f4247ff4572a074444572cee34647c43e7c9c7",
+        "sha256": "9844cc9b5440d65a88d28bcba9d771374d2dfdab898848cda164611091633013",
+        "md5": "88cc3123fce88d61b7c2cdbfc33542c5"
+      }
+    },
+    {
+      "type": "jar",
+      "id": "commons-logging:commons-logging:1.1.3",
+      "url": "https://libraries.minecraft.net/commons-logging/commons-logging/1.1.3/commons-logging-1.1.3.jar",
+      "side": "client",
+      "size": 62050,
+      "hashes": {
+        "sha1": "f6f66e966c70a83ffbdb6f17a0919eaf7c8aca7f",
+        "sha256": "70903f6fc82e9908c8da9f20443f61d90f0870a312642991fe8462a0b9391784",
+        "md5": "92eb5aabc1b47287de53d45c086a435c"
+      }
+    },
+    {
+      "type": "jar",
+      "id": "org.apache.httpcomponents:httpcore:4.3.2",
+      "url": "https://libraries.minecraft.net/org/apache/httpcomponents/httpcore/4.3.2/httpcore-4.3.2.jar",
+      "side": "client",
+      "size": 282269,
+      "hashes": {
+        "sha1": "31fbbff1ddbf98f3aa7377c94d33b0447c646b6e",
+        "sha256": "abd02320e2356f89d054dae4cf02306bef20a9cf7865b3ac94ec7552b4f1528b",
+        "md5": "ee3d34dce4a30c7d3002cadf8c9172c1"
+      }
+    },
+    {
+      "type": "jar",
+      "id": "it.unimi.dsi:fastutil:8.2.1",
+      "url": "https://libraries.minecraft.net/it/unimi/dsi/fastutil/8.2.1/fastutil-8.2.1.jar",
+      "side": "client",
+      "size": 18800417,
+      "hashes": {
+        "sha1": "5ad88f325e424f8dbc2be5459e21ea5cab3864e9",
+        "sha256": "7d336e2b61ddf6e4193a55627b7e606bf42b7e2f652df2fb836fc343dd51ba4a",
+        "md5": "88e74520ae74725653d595c4462f2ce1"
+      }
+    },
+    {
+      "type": "jar",
+      "id": "org.apache.logging.log4j:log4j-api:2.8.1",
+      "url": "https://libraries.minecraft.net/org/apache/logging/log4j/log4j-api/2.8.1/log4j-api-2.8.1.jar",
+      "side": "client",
+      "size": 228859,
+      "hashes": {
+        "sha1": "e801d13612e22cad62a3f4f3fe7fdbe6334a8e72",
+        "sha256": "1205ab764b1326f7d96d99baa4a4e12614599bf3d735790947748ee116511fa2",
+        "md5": "a2ad9b058b4b03d43f3cc301701654e4"
+      }
+    },
+    {
+      "type": "jar",
+      "id": "org.apache.logging.log4j:log4j-core:2.8.1",
+      "url": "https://libraries.minecraft.net/org/apache/logging/log4j/log4j-core/2.8.1/log4j-core-2.8.1.jar",
+      "side": "client",
+      "size": 1402925,
+      "hashes": {
+        "sha1": "4ac28ff2f1ddf05dae3043a190451e8c46b73c31",
+        "sha256": "815a73e20e90a413662eefe8594414684df3d5723edcd76070e1a5aee864616e",
+        "md5": "547bb3ed2deb856d0e3bbd77c27b9625"
+      }
+    },
+    {
+      "type": "jar",
+      "id": "com.mojang:text2speech:1.11.3",
+      "url": "https://libraries.minecraft.net/com/mojang/text2speech/1.11.3/text2speech-1.11.3.jar",
+      "side": "client",
+      "size": 13164,
+      "hashes": {
+        "sha1": "f378f889797edd7df8d32272c06ca80a1b6b0f58",
+        "sha256": "7db3cfa0ca877dd08ea3336138f91f47eb93528bf04703eb8fa478e2da97ef66",
+        "md5": "538b4224fa0c42012b4631fd1d25fd01"
+      }
+    },
+    {
+      "type": "jar",
+      "id": "com.mojang:text2speech:1.11.3",
+      "url": "https://libraries.minecraft.net/com/mojang/text2speech/1.11.3/text2speech-1.11.3.jar",
+      "side": "client",
+      "size": 13164,
+      "hashes": {
+        "sha1": "f378f889797edd7df8d32272c06ca80a1b6b0f58",
+        "sha256": "7db3cfa0ca877dd08ea3336138f91f47eb93528bf04703eb8fa478e2da97ef66",
+        "md5": "538b4224fa0c42012b4631fd1d25fd01"
+      }
+    },
+    {
+      "type": "natives-linux",
+      "id": "com.mojang:text2speech:1.11.3",
+      "url": "https://libraries.minecraft.net/com/mojang/text2speech/1.11.3/text2speech-1.11.3-natives-linux.jar",
+      "side": "client",
+      "size": 7833,
+      "hashes": {
+        "sha1": "ac641755a2a841d1fca9e660194f42523ee5cfe0",
+        "sha256": "dbf3343ede5bec88891939c33bd40abdca585b8b970536412f6a5e56d3b25953",
+        "md5": "2453a5a29e028b3b679fd42a499626c9"
+      }
+    },
+    {
+      "type": "natives-windows",
+      "id": "com.mojang:text2speech:1.11.3",
+      "url": "https://libraries.minecraft.net/com/mojang/text2speech/1.11.3/text2speech-1.11.3-natives-windows.jar",
+      "side": "client",
+      "size": 81379,
+      "hashes": {
+        "sha1": "c0b242c0091be5acbf303263c7eeeaedd70544c7",
+        "sha256": "56a8b2d626821b9941a3e41ce6b163120d22c08c3725544100cf0375a996d9bc",
+        "md5": "7b6c7d96820553c1c5ceafdf0851e00a"
+      }
+    },
+    {
+      "type": "sources",
+      "id": "com.mojang:text2speech:1.11.3",
+      "url": "https://libraries.minecraft.net/com/mojang/text2speech/1.11.3/text2speech-1.11.3-sources.jar",
+      "side": "client",
+      "size": 5332,
+      "hashes": {
+        "sha1": "772a37dd77417571e6f119a8d306f0c14c2ee410",
+        "sha256": "9bd463be8873f8b036b614966fc41e4302b7d9e8434d553fb8d5f4262defddab",
+        "md5": "24883a42e00ae9e2b39b9b86e1356baf"
+      }
+    },
+    {
+      "type": "jar",
+      "id": "ca.weblite:java-objc-bridge:1.0.0",
+      "url": "https://libraries.minecraft.net/ca/weblite/java-objc-bridge/1.0.0/java-objc-bridge-1.0.0.jar",
+      "side": "client",
+      "size": 40502,
+      "hashes": {
+        "sha1": "6ef160c3133a78de015830860197602ca1c855d3",
+        "sha256": "fec83601d2da127234728a8fffb429d0c4a59587452834da203163e6a3f941db",
+        "md5": "2003e6c279b09f657509aa038329aa7b"
+      }
+    },
+    {
+      "type": "javadocs",
+      "id": "ca.weblite:java-objc-bridge:1.0.0",
+      "url": "https://libraries.minecraft.net/ca/weblite/java-objc-bridge/1.0.0/java-objc-bridge-1.0.0-javadoc.jar",
+      "side": "client",
+      "size": 174060,
+      "hashes": {
+        "sha1": "fb0092f22cb4fe8e631452f577b7a238778abf2a",
+        "sha256": "1ed7f782d4303cc474014df1dcd3109aadab87621f1d849f8b52a5238f2b61e1",
+        "md5": "38c7279176d974056ba85f537d36e675"
+      }
+    },
+    {
+      "type": "natives-macos",
+      "id": "ca.weblite:java-objc-bridge:1.0.0",
+      "url": "https://libraries.minecraft.net/ca/weblite/java-objc-bridge/1.0.0/java-objc-bridge-1.0.0-natives-osx.jar",
+      "side": "client",
+      "size": 5629,
+      "hashes": {
+        "sha1": "08befab4894d55875f33c3d300f4f71e6e828f64",
+        "sha256": "b490a92062fc482c04f50395d7bbbd3dff22c32eaab45f04478f14d1501af6fa",
+        "md5": "76c9c46c267eb02e23d2d733c0772dc3"
+      }
+    },
+    {
+      "type": "sources",
+      "id": "ca.weblite:java-objc-bridge:1.0.0",
+      "url": "https://libraries.minecraft.net/ca/weblite/java-objc-bridge/1.0.0/java-objc-bridge-1.0.0-sources.jar",
+      "side": "client",
+      "size": 43283,
+      "hashes": {
+        "sha1": "865837a198189aee737019561ece842827f24278",
+        "sha256": "dfd59851b0c43757400ddd950780e0d083941ed3bb5c5c13ac2a53141b4112b8",
+        "md5": "81f9a1908583f0947acb0f7d9bfbb90a"
+      }
+    },
+    {
+      "type": "jar",
+      "id": "ca.weblite:java-objc-bridge:1.0.0",
+      "url": "https://libraries.minecraft.net/ca/weblite/java-objc-bridge/1.0.0/java-objc-bridge-1.0.0.jar",
+      "side": "client",
+      "size": 40502,
+      "hashes": {
+        "sha1": "6ef160c3133a78de015830860197602ca1c855d3",
+        "sha256": "fec83601d2da127234728a8fffb429d0c4a59587452834da203163e6a3f941db",
+        "md5": "2003e6c279b09f657509aa038329aa7b"
+      }
+    }
+  ],
+  "assetIndex": {
+    "id": "1.15",
+    "url": "https://launchermeta.mojang.com/v1/packages/f19d278dcd2de9fa14d676d8b96987b637bb343c/1.15.json",
+    "sha1": "f19d278dcd2de9fa14d676d8b96987b637bb343c",
+    "size": 232527,
+    "totalSize": 210054120
+  }
+}

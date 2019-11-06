@@ -1,0 +1,18 @@
+{
+  "formatVersion": 0,
+  "id": "0.3.4+build.238-1.15",
+  "releaseType": "release",
+  "side": "universal",
+  "artifacts": [
+    {
+      "type": "curseforge",
+      "id": "2794490",
+      "side": "universal"
+    },
+    {
+      "type": "direct",
+      "id": "https://edge.forgecdn.net/files/2794/490/fabric-api-0.3.4+build.238-1.15.jar",
+      "side": "universal"
+    }
+  ]
+}

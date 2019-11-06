@@ -2,13 +2,12 @@
   "formatVersion": 0,
   "id": "18w44a",
   "releaseType": "release",
-  "changelog": "",
   "side": "universal",
-  "relationships": [],
   "artifacts": [
     {
       "type": "direct",
-      "id": "https://maven.fabricmc.net/net/fabricmc/intermediary/18w44a/intermediary-18w44a.jar"
+      "id": "https://maven.fabricmc.net/net/fabricmc/intermediary/18w44a/intermediary-18w44a.jar",
+      "side": "universal"
     }
   ],
   "hashes": {
@@ -16,6 +15,5 @@
     "md5": "a35033a650a9281c3a524a0d5d4721ff"
   },
   "size": 265035,
-  "filename": "",
-  "releaseTime": "2019-06-15T05:45:23Z"
+  "releaseTime": "2019-11-04T12:29:58Z"
 }

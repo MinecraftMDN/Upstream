@@ -1,0 +1,32 @@
+{
+  "formatVersion": 0,
+  "id": "19w35a+build.2",
+  "releaseType": "beta",
+  "side": "universal",
+  "relationships": [
+    {
+      "type": "required",
+      "id": "com.mojang.minecraft",
+      "version": "19w35a",
+      "side": "universal"
+    }
+  ],
+  "artifacts": [
+    {
+      "type": "maven",
+      "id": "net.fabricmc:yarn:19w35a+build.2",
+      "side": "universal"
+    },
+    {
+      "type": "direct",
+      "id": "https://maven.fabricmc.net/net/fabricmc/yarn/19w35a+build.2/yarn-19w35a+build.2.jar",
+      "side": "universal"
+    }
+  ],
+  "hashes": {
+    "sha1": "f55c8b686c2b3f281f57e7d640b61465c9c3d2b6",
+    "md5": "438a16b7aecf71771bba0e22074c2178"
+  },
+  "size": 526045,
+  "releaseTime": "2019-09-01T15:22:11Z"
+}

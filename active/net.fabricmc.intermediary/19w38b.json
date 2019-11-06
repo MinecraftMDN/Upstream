@@ -1,0 +1,19 @@
+{
+  "formatVersion": 0,
+  "id": "19w38b",
+  "releaseType": "release",
+  "side": "universal",
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://maven.fabricmc.net/net/fabricmc/intermediary/19w38b/intermediary-19w38b.jar",
+      "side": "universal"
+    }
+  ],
+  "hashes": {
+    "sha1": "c71b083dcb5588ae481ed322daf268ba63fddb08",
+    "md5": "5f2c57850ccd2b185f4fe023c3e67a69"
+  },
+  "size": 342282,
+  "releaseTime": "2019-11-04T12:30:08Z"
+}

@@ -2,21 +2,17 @@
   "formatVersion": 0,
   "id": "0.3.0+build.175",
   "releaseType": "release",
-  "changelog": "",
   "side": "universal",
-  "relationships": [],
   "artifacts": [
     {
       "type": "curseforge",
-      "id": "2717482"
+      "id": "2717482",
+      "side": "universal"
     },
     {
       "type": "direct",
-      "id": "https://edge.forgecdn.net/files/2717/482/fabric-api-0.3.0+build.175.jar"
+      "id": "https://edge.forgecdn.net/files/2717/482/fabric-api-0.3.0+build.175.jar",
+      "side": "universal"
     }
-  ],
-  "hashes": {},
-  "size": 0,
-  "filename": "",
-  "releaseTime": ""
+  ]
 }

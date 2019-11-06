@@ -20,8 +20,8 @@
   ],
   "client": {
     "hashes": {
-      "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
-      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "sha1": "54622801f5ef1bcc1549a842c5b04cb5d5583005",
+      "sha256": "3bfaa9ceccfd49f62d4c1863d5cd565c24de1f83bab982a38e4811ac369993a5",
       "md5": "fcfd7f83a6b27503cf48202381a5adf2"
     },
     "size": 297776,
@@ -38,8 +38,8 @@
       "side": "client",
       "size": 27583,
       "hashes": {
-        "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
-        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha1": "4ea0aca9c022a234ebaf14b51fb119055955fc9d",
+        "sha256": "0afcc38c348556f9ffd0fd3853d638366d6bdeb0f33d6877e8b9909724495af7",
         "md5": "a0053b80639ba0538555a3d675d6532c"
       }
     },
@@ -50,8 +50,8 @@
       "side": "client",
       "size": 61311,
       "hashes": {
-        "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
-        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha1": "6065cc95c661255349c1d0756657be17c29a4fd3",
+        "sha256": "64335a48be6b142a7d0c13ec5c82a707857aa58c0234e6eda3eaca0e96eea51b",
         "md5": "1372bd4823bb1ef61e7db6724f601150"
       }
     },
@@ -62,8 +62,8 @@
       "side": "client",
       "size": 214592,
       "hashes": {
-        "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
-        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha1": "054986e962b88d8660ae4566475658469595ef58",
+        "sha256": "165b583b0b548405dd97019666f94a86ee1d1e3af227ae4dc82c6e27d6885bb1",
         "md5": "d21c2a06a4e6b175aa01e328f38a1182"
       }
     }

@@ -2,13 +2,12 @@
   "formatVersion": 0,
   "id": "1.14 Pre-Release 2",
   "releaseType": "release",
-  "changelog": "",
   "side": "universal",
-  "relationships": [],
   "artifacts": [
     {
       "type": "direct",
-      "id": "https://maven.fabricmc.net/net/fabricmc/intermediary/1.14 Pre-Release 2/intermediary-1.14 Pre-Release 2.jar"
+      "id": "https://maven.fabricmc.net/net/fabricmc/intermediary/1.14 Pre-Release 2/intermediary-1.14 Pre-Release 2.jar",
+      "side": "universal"
     }
   ],
   "hashes": {
@@ -16,6 +15,5 @@
     "md5": "4dea8c856ff0b6c3dcf4f613cf6f625d"
   },
   "size": 315754,
-  "filename": "",
-  "releaseTime": "2019-06-15T05:45:18Z"
+  "releaseTime": "2019-11-04T12:29:48Z"
 }

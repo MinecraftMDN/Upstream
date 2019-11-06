@@ -2,23 +2,25 @@
   "formatVersion": 0,
   "id": "3D Shareware v1.34.2",
   "releaseType": "beta",
-  "changelog": "",
   "side": "universal",
   "relationships": [
     {
       "type": "required",
-      "id": "minecraft",
-      "version": "3D Shareware v1.34"
+      "id": "com.mojang.minecraft",
+      "version": "3D Shareware v1.34",
+      "side": "universal"
     }
   ],
   "artifacts": [
     {
       "type": "maven",
-      "id": "net.fabricmc:yarn:3D Shareware v1.34.2"
+      "id": "net.fabricmc:yarn:3D Shareware v1.34.2",
+      "side": "universal"
     },
     {
       "type": "direct",
-      "id": "https://maven.fabricmc.net/net/fabricmc/yarn/3D Shareware v1.34.2/yarn-3D Shareware v1.34.2.jar"
+      "id": "https://maven.fabricmc.net/net/fabricmc/yarn/3D Shareware v1.34.2/yarn-3D Shareware v1.34.2.jar",
+      "side": "universal"
     }
   ],
   "hashes": {
@@ -26,6 +28,5 @@
     "md5": "55731b99b3d88d96f42db7fd893f8253"
   },
   "size": 493070,
-  "filename": "",
   "releaseTime": "2019-04-01T14:24:48Z"
 }

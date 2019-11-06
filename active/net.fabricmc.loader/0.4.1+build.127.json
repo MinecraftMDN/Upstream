@@ -1,6 +1,43 @@
 {
+  "formatVersion": 0,
+  "id": "0.4.1+build.127",
+  "releaseType": "beta",
+  "side": "universal",
+  "relationships": [
+    {
+      "type": "required",
+      "id": "net.fabricmc.intermediary",
+      "version": "*",
+      "side": "universal"
+    }
+  ],
+  "artifacts": [
+    {
+      "type": "maven",
+      "id": "net.fabricmc:fabric-loader:0.4.1+build.127",
+      "side": "universal"
+    },
+    {
+      "type": "direct",
+      "id": "https://maven.fabricmc.net/net/fabricmc/fabric-loader/0.4.1+build.127/fabric-loader-0.4.1+build.127.jar",
+      "side": "universal"
+    }
+  ],
+  "client": {
+    "mainClass": "net.fabricmc.loader.launch.knot.KnotClient"
+  },
+  "server": {
+    "mainClass": "net.fabricmc.loader.launch.knot.KnotServer"
+  },
+  "hashes": {
+    "sha1": "d999e5827a1fea70f9750e0f9bcbd67eee8e7d48",
+    "md5": "06a9d15882a2a2f74cecb62a66011699"
+  },
+  "size": 216190,
+  "releaseTime": "2019-04-19T19:43:25Z",
   "libraries": [
     {
+      "type": "jar",
       "id": "net.fabricmc:tiny-mappings-parser:0.1.1.8",
       "url": "https://maven.fabricmc.net/",
       "side": "common",
@@ -11,6 +48,7 @@
       }
     },
     {
+      "type": "jar",
       "id": "net.fabricmc:sponge-mixin:0.7.11.20",
       "url": "https://maven.fabricmc.net/",
       "side": "common",
@@ -21,6 +59,7 @@
       }
     },
     {
+      "type": "jar",
       "id": "net.fabricmc:tiny-remapper:0.1.0.33",
       "url": "https://maven.fabricmc.net/",
       "side": "common",
@@ -31,6 +70,7 @@
       }
     },
     {
+      "type": "jar",
       "id": "net.fabricmc:fabric-loader-sat4j:2.3.5.4",
       "url": "https://maven.fabricmc.net/",
       "side": "common",
@@ -41,6 +81,7 @@
       }
     },
     {
+      "type": "jar",
       "id": "com.google.jimfs:jimfs:1.1",
       "url": "https://maven.fabricmc.net/",
       "side": "common",
@@ -51,6 +92,7 @@
       }
     },
     {
+      "type": "jar",
       "id": "org.ow2.asm:asm:7.1",
       "url": "https://maven.fabricmc.net/",
       "side": "common",
@@ -61,6 +103,7 @@
       }
     },
     {
+      "type": "jar",
       "id": "org.ow2.asm:asm-analysis:7.1",
       "url": "https://maven.fabricmc.net/",
       "side": "common",
@@ -71,6 +114,7 @@
       }
     },
     {
+      "type": "jar",
       "id": "org.ow2.asm:asm-commons:7.1",
       "url": "https://maven.fabricmc.net/",
       "side": "common",
@@ -81,6 +125,7 @@
       }
     },
     {
+      "type": "jar",
       "id": "org.ow2.asm:asm-tree:7.1",
       "url": "https://maven.fabricmc.net/",
       "side": "common",
@@ -91,6 +136,7 @@
       }
     },
     {
+      "type": "jar",
       "id": "org.ow2.asm:asm-util:7.1",
       "url": "https://maven.fabricmc.net/",
       "side": "common",
@@ -100,39 +146,5 @@
         "md5": "5777b00daedeaf5987b92ad35d2a8cb2"
       }
     }
-  ],
-  "mainClass": {
-    "client": "net.fabricmc.loader.launch.knot.KnotClient",
-    "server": "net.fabricmc.loader.launch.knot.KnotServer"
-  },
-  "tweakers": {},
-  "formatVersion": 0,
-  "id": "0.4.1+build.127",
-  "releaseType": "beta",
-  "changelog": "",
-  "side": "universal",
-  "relationships": [
-    {
-      "type": "required",
-      "id": "yarn",
-      "version": "*"
-    }
-  ],
-  "artifacts": [
-    {
-      "type": "maven",
-      "id": "net.fabricmc:fabric-loader:0.4.1+build.127"
-    },
-    {
-      "type": "direct",
-      "id": "https://maven.fabricmc.net/net/fabricmc/fabric-loader/0.4.1+build.127/fabric-loader-0.4.1+build.127.jar"
-    }
-  ],
-  "hashes": {
-    "sha1": "d999e5827a1fea70f9750e0f9bcbd67eee8e7d48",
-    "md5": "06a9d15882a2a2f74cecb62a66011699"
-  },
-  "size": 216190,
-  "filename": "",
-  "releaseTime": "2019-04-19T19:43:25Z"
+  ]
 }

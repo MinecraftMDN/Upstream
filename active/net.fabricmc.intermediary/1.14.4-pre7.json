@@ -1,0 +1,19 @@
+{
+  "formatVersion": 0,
+  "id": "1.14.4-pre7",
+  "releaseType": "release",
+  "side": "universal",
+  "artifacts": [
+    {
+      "type": "direct",
+      "id": "https://maven.fabricmc.net/net/fabricmc/intermediary/1.14.4-pre7/intermediary-1.14.4-pre7.jar",
+      "side": "universal"
+    }
+  ],
+  "hashes": {
+    "sha1": "ecb8b6590fba5f0f678ca84161e4a870d424f463",
+    "md5": "a04e58ed907f2afbe1f6cde076771dd2"
+  },
+  "size": 336764,
+  "releaseTime": "2019-11-04T12:29:56Z"
+}

@@ -2,13 +2,12 @@
   "formatVersion": 0,
   "id": "0.1.0.40",
   "releaseType": "release",
-  "changelog": "",
   "side": "universal",
-  "relationships": [],
   "artifacts": [
     {
       "type": "direct",
-      "id": "https://maven.fabricmc.net/net/fabricmc/fabric/0.1.0.40/fabric-0.1.0.40.jar"
+      "id": "https://maven.fabricmc.net/net/fabricmc/fabric/0.1.0.40/fabric-0.1.0.40.jar",
+      "side": "universal"
     }
   ],
   "hashes": {
@@ -16,6 +15,5 @@
     "md5": "e9b5dcbf5feb7d01879e15b93c17555a"
   },
   "size": 109009,
-  "filename": "",
   "releaseTime": "2018-12-11T16:43:43Z"
 }

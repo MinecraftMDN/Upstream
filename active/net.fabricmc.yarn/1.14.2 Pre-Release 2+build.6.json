@@ -2,23 +2,25 @@
   "formatVersion": 0,
   "id": "1.14.2 Pre-Release 2+build.6",
   "releaseType": "beta",
-  "changelog": "",
   "side": "universal",
   "relationships": [
     {
       "type": "required",
-      "id": "minecraft",
-      "version": "1.14.2 Pre-Release 2"
+      "id": "com.mojang.minecraft",
+      "version": "1.14.2 Pre-Release 2",
+      "side": "universal"
     }
   ],
   "artifacts": [
     {
       "type": "maven",
-      "id": "net.fabricmc:yarn:1.14.2 Pre-Release 2+build.6"
+      "id": "net.fabricmc:yarn:1.14.2 Pre-Release 2+build.6",
+      "side": "universal"
     },
     {
       "type": "direct",
-      "id": "https://maven.fabricmc.net/net/fabricmc/yarn/1.14.2 Pre-Release 2+build.6/yarn-1.14.2 Pre-Release 2+build.6.jar"
+      "id": "https://maven.fabricmc.net/net/fabricmc/yarn/1.14.2 Pre-Release 2+build.6/yarn-1.14.2 Pre-Release 2+build.6.jar",
+      "side": "universal"
     }
   ],
   "hashes": {
@@ -26,6 +28,5 @@
     "md5": "cc279b6d6e64eec543bcc98666d6a263"
   },
   "size": 502083,
-  "filename": "",
   "releaseTime": "2019-05-22T13:46:56Z"
 }

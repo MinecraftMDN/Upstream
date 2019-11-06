@@ -2,21 +2,17 @@
   "formatVersion": 0,
   "id": "0.3.0-pre+build.168",
   "releaseType": "release",
-  "changelog": "",
   "side": "universal",
-  "relationships": [],
   "artifacts": [
     {
       "type": "curseforge",
-      "id": "2716034"
+      "id": "2716034",
+      "side": "universal"
     },
     {
       "type": "direct",
-      "id": "https://edge.forgecdn.net/files/2716/34/fabric-api-0.3.0-pre+build.168.jar"
+      "id": "https://edge.forgecdn.net/files/2716/34/fabric-api-0.3.0-pre+build.168.jar",
+      "side": "universal"
     }
-  ],
-  "hashes": {},
-  "size": 0,
-  "filename": "",
-  "releaseTime": ""
+  ]
 }
